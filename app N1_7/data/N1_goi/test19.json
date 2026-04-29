@@ -1,0 +1,1156 @@
+[
+  {
+    "id": 1,
+    "question": "味がまずい。＿＿＿＿値段がばかに高いレストランだ。",
+    "translation": "Vị thì dở. Đã thế giá cả lại còn cao ngất ngưởng, thật là một nhà hàng vớ vẩn.",
+    "options": ["それでいて", "それゆえ", "それでは", "それなりに"],
+    "answer": 0,
+    "explanation": "【それでいて】: Thế mà, vậy mà (diễn tả sự tương phản hoặc bổ sung một đặc điểm gây ngạc nhiên/tiêu cực).\n- それゆえ: Do đó (kết quả).\n- それでは: Vậy thì.\n- それなりに: Trong chừng mực nào đó."
+  },
+  {
+    "id": 2,
+    "question": "自分は外国人だ。＿＿＿＿特別扱いされるのはいやだ。",
+    "translation": "Tôi là người nước ngoài. Tuy nhiên, tôi ghét việc bị đối xử đặc biệt.",
+    "options": ["しかも", "ところが", "ゆえに", "だったら"],
+    "answer": 2,
+    "explanation": "【ところが】: Tuy nhiên, nhưng (diễn tả sự đối lập giữa thực tế và mong muốn/kết quả).\n- しかも: Hơn nữa.\n- ゆえに: Vì vậy.\n- だったら: Nếu mà thế thì."
+  },
+  {
+    "id": 3,
+    "question": "女性に生まれた。＿＿＿＿教育も受けられない人が昔は多かった。",
+    "translation": "Vì sinh ra là phụ nữ, ngày xưa có rất nhiều người không thể nhận được giáo dục.",
+    "options": ["および", "もしくは", "それとも", "それゆえに"],
+    "answer": 3,
+    "explanation": "【それゆえに】: Chính vì lý do đó (kết luận mang tính logic từ vế trước).\n- および: Và.\n- もしくは: Hoặc là.\n- それとも: Hay là (dùng trong câu hỏi chọn lựa)."
+  },
+  {
+    "id": 4,
+    "question": "しかられたり、どなられたり、＿＿＿＿「この家を出て行け」とまで言われた。",
+    "translation": "Nào là bị mắng, bị quát tháo, và cuối cùng còn bị nói đến mức là 'Hãy cút ra khỏi nhà này đi'.",
+    "options": ["あるいは", "または", "ないしは", "さては"],
+    "answer": 3,
+    "explanation": "【さては】: Và rồi, cuối cùng thì (thường dùng để dẫn dắt đến một kết cục, sự việc gây bất ngờ hoặc nghiêm trọng hơn).\n- あるいは/または/ないしは: Hoặc là (liệt kê lựa chọn)."
+  },
+  {
+    "id": 5,
+    "question": "月から金までは仕事で忙しいです。＿＿＿＿土、日は休みです。",
+    "translation": "Từ thứ Hai đến thứ Sáu tôi bận rộn với công việc. Nhân tiện thì, thứ Bảy và Chủ Nhật tôi được nghỉ.",
+    "options": ["それとも", "なのに", "ちなみに", "かつ"],
+    "answer": 2,
+    "explanation": "【ちなみに】: Nhân tiện, nói thêm là (bổ sung thông tin liên quan đến vế trước).\n- それとも: Hay là.\n- なのに: Thế mà.\n- かつ: Và đồng thời."
+  },
+  {
+    "id": 6,
+    "question": "落石事故が起こりました。＿＿＿＿今現在五キロの渋滞になっています。",
+    "translation": "Một tai nạn đá lở đã xảy ra. Nói cách khác (hệ quả là), hiện tại đang tắc đường kéo dài 5km.",
+    "options": ["もしくは", "しかも", "すなわち", "ついては"],
+    "answer": 3,
+    "explanation": "【すなわち】: Có nghĩa là, tức là (dùng để giải thích rõ hơn tình trạng ở vế trước).\n- もししくは: Hoặc là.\n- しかも: Hơn nữa.\n- ついては: Về việc đó/Liên quan đến đó."
+  },
+  {
+    "id": 7,
+    "question": "今日はお天気ですね。＿＿＿＿、あの件はどうなりましたか。",
+    "translation": "Hôm nay trời đẹp nhỉ. Mà này, vụ việc đó đã ra sao rồi?",
+    "options": ["すなわち", "ときに", "すると", "それなら"],
+    "answer": 1,
+    "explanation": "【ときに】: Nhân tiện, mà này (dùng để chuyển đổi chủ đề câu chuyện một cách đột ngột).\n- すなわち: Tức là.\n- すると: Thế là/Sau đó.\n- それなら: Nếu vậy thì."
+  },
+  {
+    "id": 8,
+    "question": "五万円＿＿＿＿十万円の贈り物を考えています。",
+    "translation": "Tôi đang cân nhắc một món quà khoảng 5 vạn yên hoặc là 10 vạn yên.",
+    "options": ["ないしは", "もしくは", "それとも", "または"],
+    "answer": 0,
+    "explanation": "【ないしは】: Hoặc là, từ... đến... (thường dùng để chỉ phạm vi giữa hai con số hoặc lựa chọn).\n- もしくは/または: Hoặc là (lựa chọn mang tính loại trừ).\n- それとも: Hay là (dùng trong câu hỏi)."
+  },
+  {
+    "id": 9,
+    "question": "もう春だ。＿＿＿＿寂しい山の色にも、冷たそうな川の流れにも、まだ冬の名残りが感じられる。",
+    "translation": "Đã là mùa xuân rồi. Mặc dù vậy, màu sắc đượm buồn của núi rừng hay dòng sông có vẻ lạnh lẽo vẫn còn cảm thấy dấu ấn của mùa đông.",
+    "options": ["ちなみに", "もしくは", "それゆえ", "とはいえ"],
+    "answer": 3,
+    "explanation": "【とはいえ - Tuy nhiên/Mặc dù nói là vậy】: Dùng để đưa ra một sự thực trái ngược với nhận định ở vế trước.\n- ちなみに: Nhân tiện.\n- もしくは: Hoặc là.\n- それゆえ: Do đó."
+  },
+  {
+    "id": 10,
+    "question": "本校の入学試験は国語、数学＿＿＿＿英語の三科目からなっている。",
+    "translation": "Kỳ thi nhập học của trường này bao gồm 3 môn là Quốc ngữ, Toán và Tiếng Anh.",
+    "options": ["それとも", "ならびに", "または", "そのうえ"],
+    "answer": 1,
+    "explanation": "【ならびに - Và/Cùng với】: Dùng để liệt kê các danh từ trong văn viết hoặc tình huống trang trọng.\n- それとも: Hay là (chọn lựa).\n- または: Hoặc là.\n- そのうえ: Thêm vào đó."
+  },
+  {
+    "id": 11,
+    "question": "田中さんは以前は毎晩のように酒を飲んでいたのですが、＿＿＿＿結婚してからは、ぜんぜん飲まなくなってしまいました。",
+    "translation": "Anh Tanaka trước đây hầu như tối nào cũng uống rượu, thế nhưng kể từ sau khi kết hôn, anh ấy hoàn toàn không uống nữa.",
+    "options": ["それで", "それから", "それが", "それに"],
+    "answer": 2,
+    "explanation": "【それが - Thế nhưng/Thực tế thì】: Dùng để dẫn dắt một nội dung trái ngược với dự đoán hoặc trạng thái thông thường ở vế trước.\n- それで: Vì thế.\n- それから: Sau đó.\n- それに: Thêm nữa."
+  },
+  {
+    "id": 12,
+    "question": "依頼書はペン＿＿＿＿ボールペンで書くこと。",
+    "translation": "Đơn yêu cầu hãy viết bằng bút mực hoặc bút bi.",
+    "options": ["もって", "ゆえに", "それなら", "もしくは"],
+    "answer": 3,
+    "explanation": "【もしくは - Hoặc là】: Dùng để liệt kê các sự lựa chọn tương đương.\n- もって: Bằng/Bởi (cách thức).\n- ゆえに: Vì vậy.\n- それなら: Nếu thế thì."
+  },
+  {
+    "id": 13,
+    "question": "彼は利口で＿＿＿＿勤勉だから、周りの女性にもてる。",
+    "translation": "Anh ấy vừa thông minh lại vừa cần cù, nên rất thu hút phụ nữ xung quanh.",
+    "options": ["ゆえに", "ならびに", "および", "もって"],
+    "answer": 3,
+    "explanation": "【および - Và】: Dùng để nối các danh từ hoặc cụm danh từ tương đương.\n- ゆえに: Do đó.\n- ならびに: Và (thường dùng cho danh từ trang trọng hơn).\n- もって: Với/Bằng."
+  },
+  {
+    "id": 14,
+    "question": "今週は予定がぎっしり詰まっている。＿＿＿＿出版社から原稿催促の電話もあった。忙しいなあ。",
+    "translation": "Tuần này lịch trình kín mít. Thêm vào đó, lại còn có điện thoại giục bản thảo từ nhà xuất bản nữa. Bận rộn thật đấy.",
+    "options": ["むしろ", "おまけに", "いわば", "ただし"],
+    "answer": 1,
+    "explanation": "【おまけに - Thêm vào đó/Đã thế còn】: Dùng để bổ sung thêm một sự việc thường là cùng chiều hướng (tốt thêm hoặc xấu thêm).\n- むしろ: Thà rằng/Ngược lại thì.\n- いわば: Có thể nói là.\n- ただし: Tuy nhiên (điều kiện kèm theo)."
+  },
+  {
+    "id": 15,
+    "question": "今すぐ警察に届けよう。＿＿＿＿もっとひどい状態になるかもよ。",
+    "translation": "Hãy báo cảnh sát ngay đi. Nếu không thì tình hình có thể trở nên tồi tệ hơn đấy.",
+    "options": ["それはそうと", "だからって", "さもなければ", "もしくは"],
+    "answer": 2,
+    "explanation": "【さもなければ - Nếu không thì】: Dùng để đưa ra giả định về một kết quả xấu nếu không thực hiện hành động ở vế trước.\n- それはそうと: À mà này (chuyển chủ đề).\n- だからって: Dù nói thế nhưng.\n- もししくは: Hoặc là."
+  },
+  {
+    "id": 1,
+    "question": "情状を酌量する余地はない。<span class='underline'>よって</span>死刑に処するのが適当だと認める。",
+    "translation": "Không có chỗ để xem xét giảm nhẹ tình tiết. Do đó, tòa chấp nhận việc xử tử hình là phù hợp.",
+    "options": ["もしくは", "ならびに", "ところで", "ゆえに"],
+    "answer": 3,
+    "explanation": "【よって】: Vì vậy, do đó (dùng trong văn bản chính thức).\n→ ゆえに: Do đó, vì vậy (nghĩa tương đương nhất trong ngữ cảnh trang trọng này)."
+  },
+  {
+    "id": 2,
+    "question": "彼の年齢も収入も趣味も私の希望にぴったりなんです。<span class='underline'>そのうえ</span>誕生日も同じなんですよ。",
+    "translation": "Tuổi tác, thu nhập và sở thích của anh ấy đều khớp hoàn toàn với nguyện vọng của tôi. Thêm vào đó, đến cả ngày sinh nhật cũng giống nhau nữa.",
+    "options": ["さては", "だから", "さもないと", "ないしは"],
+    "answer": 0,
+    "explanation": "【そのうえ】: Thêm vào đó, hơn nữa.\n→ さては: Và rồi, thêm nữa là (dùng để bổ sung một thông tin gây bất ngờ hoặc nhấn mạnh thêm mức độ)."
+  },
+  {
+    "id": 3,
+    "question": "たいへんな雨ですね。<span class='underline'>ところで</span>仕事はうまく進んでいますか。",
+    "translation": "Mưa to quá nhỉ. Mà này, công việc vẫn tiến triển tốt chứ?",
+    "options": ["ところが", "ところを", "ときに", "ところに"],
+    "answer": 2,
+    "explanation": "【ところで】: Nhân tiện, mà này (dùng để chuyển chủ đề).\n→ ときに: Nhân tiện, mà này (cách dùng tương đương khi muốn đổi hướng câu chuyện)."
+  },
+  {
+    "id": 4,
+    "question": "校長先生<span class='underline'>ならびに</span>責任者一同は地方分校設立のため、いくつかの県を歩き回っていました。",
+    "translation": "Hiệu trưởng cùng với toàn thể những người có trách nhiệm đã đi thị sát qua nhiều tỉnh để thành lập phân hiệu địa phương.",
+    "options": ["および", "あるいは", "それとも", "しかも"],
+    "answer": 0,
+    "explanation": "【ならびに】: Và, cùng với (liệt kê danh từ).\n→ および: Và (thường dùng nối các danh từ trong văn bản trang trọng)."
+  },
+  {
+    "id": 5,
+    "question": "お金がないって言っているけど、<span class='underline'>それにしても</span>よく買い物する。",
+    "translation": "Miệng thì nói là không có tiền, thế mà vẫn hay đi mua sắm nhỉ.",
+    "options": ["よって", "もって", "それにしても", "とはいえ"],
+    "answer": 3,
+    "explanation": "【それにしても】: Cho dù là thế đi chăng nữa (trong hình ảnh câu hỏi gốc đã gạch chân từ này và phương án 3 cũng là chính nó để xác nhận cách dùng đúng)."
+  },
+  {
+    "id": 6,
+    "question": "はやく歩こう。<span class='underline'>でなければ</span>遅刻するよ。",
+    "translation": "Đi nhanh lên nào. Nếu không thì sẽ muộn đấy.",
+    "options": ["それでいて", "さもないと", "および", "それはそうと"],
+    "answer": 1,
+    "explanation": "【でなければ】: Nếu không thì.\n→ さもないと: Nếu không thì (đưa ra cảnh báo về kết quả xấu)."
+  },
+  {
+    "id": 7,
+    "question": "ロボットの導入に賛成するが、<span class='underline'>それにしても</span>従業員を半分に減らされるなんてひどいなあ。",
+    "translation": "Tôi đồng ý với việc đưa robot vào, nhưng dù thế đi nữa, việc bị cắt giảm một nửa nhân viên thì thật quá đáng.",
+    "options": ["といえば", "といっても", "それでは", "それなら"],
+    "answer": 1,
+    "explanation": "【それにしても】 ở đây mang nghĩa nhượng bộ/đính chính.\n→ といっても: Dù nói là vậy (dùng để bổ sung một giới hạn cho khẳng định ở vế trước)."
+  },
+  {
+    "id": 8,
+    "question": "その映画はおもしろく<span class='underline'>かつ</span>教訓的である。",
+    "translation": "Bộ phim đó vừa thú vị lại vừa mang tính giáo dục.",
+    "options": ["なお", "あるいは", "なおまた", "それとも"],
+    "answer": 2,
+    "explanation": "【かつ】: Đồng thời, và.\n→ なおまた: Hơn nữa, lại còn (dùng để bổ sung thêm đặc tính tương đương)."
+  },
+  {
+    "id": 9,
+    "question": "懸命に努力した。<span class='underline'>にもかかわらず</span>失敗してしまいました。",
+    "translation": "Tôi đã nỗ lực hết sức mình. Thế nhưng cuối cùng vẫn bị thất bại.",
+    "options": ["そのために", "ようするに", "そうして", "それなのに"],
+    "answer": 3,
+    "explanation": "【にもかかわらず】: Mặc dù, thế nhưng.\n→ それなのに: Thế mà, vậy mà (diễn tả kết quả trái ngược hoàn toàn với nỗ lực ở vế trước)."
+  },
+  {
+  "id": 10,
+  "question": "金はあればあるほど欲しくなる。<span class='underline'>ゆえに</span>貧富の差がいつまでもなくなることはない。",
+  "translation": "Tiền bạc càng có thì lại càng muốn thêm. Do đó, khoảng cách giàu nghèo sẽ không bao giờ biến mất.",
+  "options": ["だから", "しかし", "または", "ただし"],
+  "answer": 0,
+  "explanation": "【ゆえに】: Do đó, vì vậy (thường dùng trong văn viết hoặc lập luận logic).\n→ だから: Vì vậy (nghĩa tương đương nhất, dùng phổ biến trong văn nói và viết thông thường).\n- しかし: Tuy nhiên.\n- または: Hoặc là.\n- ただし: Tuy nhiên/Nhưng mà (dùng để thêm điều kiện)."
+  },
+  {
+    "id": 1,
+    "question": "あのメーカーは製品を売るだけでなく、＿＿＿＿サービスも行き届いている。",
+    "translation": "Nhà sản xuất đó không chỉ bán sản phẩm mà dịch vụ ______ cũng rất chu đáo.",
+    "options": ["モーニング", "セルフ", "アフター", "ルーム"],
+    "answer": 2,
+    "explanation": "【アフターサービス】 (After-service): Dịch vụ hậu mãi.\n- モーニング: Buổi sáng.\n- セルフ: Tự phục vụ.\n- ルーム: Phòng."
+  },
+  {
+    "id": 2,
+    "question": "デパートの＿＿＿＿で、紳士用のシャツ売り場がどこか尋ねた。",
+    "translation": "Tôi đã hỏi quầy ______ của trung tâm thương mại xem khu bán áo sơ mi nam ở đâu.",
+    "options": ["セクション", "オリエンテーション", "オートメーション", "インフォメーション"],
+    "answer": 3,
+    "explanation": "【インフォメーション】 (Information): Quầy thông tin.\n- セクション: Khu vực/bộ phận.\n- オリエンテーション: Buổi định hướng.\n- オートメーション: Tự động hóa."
+  },
+  {
+    "id": 3,
+    "question": "＿＿＿＿で生活が苦しくなる一方で、とうとうデモが起こった。",
+    "translation": "Trong khi cuộc sống ngày càng khó khăn do ______, cuối cùng các cuộc biểu tình đã nổ ra.",
+    "options": ["ボイコット", "インフレ", "スラックス", "セクション"],
+    "answer": 1,
+    "explanation": "【インフレ】 (Inflation): Lạm phát.\n- ボイコット: Tẩy chay.\n- スラックス: Quần tây.\n- セクション: Bộ phận."
+  },
+  {
+    "id": 4,
+    "question": "サッカーは団体試合のスポーツなんだから、＿＿＿＿がよくなければ優勝は望めない。",
+    "translation": "Vì bóng đá là môn thể thao đồng đội nên nếu ______ không tốt thì không thể vô địch.",
+    "options": ["チームワーク", "ファイト", "アンコール", "コンテスト"],
+    "answer": 0,
+    "explanation": "【チームワーク】 (Teamwork): Sự phối hợp đồng đội.\n- ファイト: Tinh thần chiến đấu.\n- アンコール: Yêu cầu diễn lại.\n- コンテスト: Cuộc thi."
+  },
+  {
+    "id": 5,
+    "question": "私は＿＿＿＿として映画に出演したことがある。",
+    "translation": "Tôi đã từng xuất hiện trong phim với tư cách là ______.",
+    "options": ["タイトル", "サイクル", "ポスト", "ゲスト"],
+    "answer": 3,
+    "explanation": "【ゲスト】 (Guest): Khách mời.\n- タイトル: Tiêu đề.\n- サイクル: Chu kỳ.\n- ポスト: Vị trí/hộp thư."
+  },
+  {
+    "id": 6,
+    "question": "仕事が性格に合わなかったせいで、＿＿＿＿になった。",
+    "translation": "Vì công việc không hợp tính cách nên tôi đã bị ______.",
+    "options": ["スマート", "エレガント", "ノイローゼ", "ナンセンス"],
+    "answer": 2,
+    "explanation": "【ノイローゼ】 (Neurose): Suy nhược thần kinh.\n- スマート: Thanh mảnh/thông minh.\n- エレガント: Thanh lịch.\n- ナンセンス: Vô lý."
+  },
+  {
+    "id": 7,
+    "question": "選手たちは＿＿＿＿を燃やし、入場してきた。",
+    "translation": "Các vận động viên tiến vào với ______ rực cháy.",
+    "options": ["ボイコット", "ファイト", "ポジション", "ファイル"],
+    "answer": 1,
+    "explanation": "【ファイト】 (Fight): Tinh thần chiến đấu.\n- ボイコット: Tẩy chay.\n- ポジション: Vị trí.\n- ファイル: Tệp tin."
+  },
+  {
+    "id": 8,
+    "question": "ホテルの朝食はバイキング方式が多い。つまり、＿＿＿＿サービスなんだ。",
+    "translation": "Bữa sáng khách sạn thường là buffet. Nói cách khác là dịch vụ ______.",
+    "options": ["モーニング", "セルフ", "ルーム", "アフター"],
+    "answer": 1,
+    "explanation": "【セルフサービス】 (Self-service): Tự phục vụ.\n- モーニング: Buổi sáng.\n- ルーム: Phòng.\n- アフター: Hậu mãi."
+  },
+  {
+    "id": 9,
+    "question": "私は学校のサッカーチームの＿＿＿＿になった。",
+    "translation": "Tôi đã trở thành ______ của đội bóng trường.",
+    "options": ["エンジニア", "ゲスト", "レギュラー", "タレント"],
+    "answer": 2,
+    "explanation": "【レギュラー】 (Regular): Thành viên chính thức.\n- エンジニア: Kỹ sư.\n- ゲスト: Khách mời.\n- タレント: Nghệ sĩ."
+  },
+  {
+    "id": 10,
+    "question": "店頭で新製品の＿＿＿＿を見て、つい買ってしまった。",
+    "translation": "Thấy ______ sản phẩm mới tại cửa hàng nên tôi đã lỡ mua.",
+    "options": ["ストライキ", "フォーム", "ポーズ", "デモンストレーション"],
+    "answer": 3,
+    "explanation": "【デモンストレーション】 (Demonstration): Trình diễn sản phẩm.\n- ストライキ: Đình công.\n- フォーム: Hình thức.\n- ポーズ: Tư thế."
+  },
+  {
+    "id": 11,
+    "question": "男性＿＿＿＿の多い人には禿げる人が多いって、ほんと？",
+    "translation": "Có thật là những người có nhiều ______ nam giới thường dễ bị hói không?",
+    "options": ["ホルモン", "ビタミン", "バクテリア", "カロリー"],
+    "answer": 0,
+    "explanation": "【ホルモン】 (Hormone): Hoóc-môn, ở đây là hormone nam (testosterone).\n- ビタミン: Vitamin.\n- バクテリア: Vi khuẩn.\n- カロリー: Năng lượng (calo)."
+  },
+  {
+    "id": 12,
+    "question": "玄関に付けてある＿＿＿＿を通して友人と連絡を取っている。",
+    "translation": "Tôi liên lạc với bạn bè thông qua ______ gắn ở cửa ra vào.",
+    "options": ["インターチェンジ", "インターナショナル", "インタビュー", "インターフォン"],
+    "answer": 3,
+    "explanation": "【インターフォン】 (Interphone): Chuông cửa có đàm thoại/liên lạc nội bộ.\n- インターチェンジ: Nút giao thông.\n- インターナショナル: Quốc tế.\n- インタビュー: Phỏng vấn."
+  },
+  {
+    "id": 13,
+    "question": "自然界に対して人類のライフ＿＿＿＿がごく短い。",
+    "translation": "So với tự nhiên, ______ của loài người rất ngắn.",
+    "options": ["サイズ", "サンキュー", "サイクル", "サンタクロース"],
+    "answer": 2,
+    "explanation": "【ライフサイクル】 (Life cycle): Vòng đời.\n- サイズ: Kích thước.\n- サンキュー: Cảm ơn.\n- サンタクロース: Ông già Noel."
+  },
+  {
+    "id": 14,
+    "question": "それは＿＿＿＿ドアで、鍵が要らない。",
+    "translation": "Đó là cửa ______, không cần chìa khóa.",
+    "options": ["タイムリー", "ユニーク", "シック", "オートマチック"],
+    "answer": 3,
+    "explanation": "【オートマチック】 (Automatic): Tự động.\n- タイムリー: Kịp thời.\n- ユニーク: Độc đáo.\n- シック: Thanh lịch."
+  },
+  {
+    "id": 15,
+    "question": "＿＿＿＿の近くにガソリンスタンドがあるから、あそこでガソリンを入れるついでに、ちょっと休みましょう。",
+    "translation": "Gần ______ có trạm xăng, ta ghé vào nghỉ chút nhé.",
+    "options": ["ガレージ", "モーテル", "スタジオ", "インターチェンジ"],
+    "answer": 3,
+    "explanation": "【インターチェンジ】 (Interchange): Lối ra vào cao tốc, thường có trạm dịch vụ.\n- ガレージ: Gara.\n- モーテル: Khách sạn ven đường.\n- スタジオ: Studio."
+  },
+  {
+    "id": 16,
+    "question": "就職活動のためにT社の人事担当者に＿＿＿＿を試みた。",
+    "translation": "Tôi đã thử ______ với người phụ trách nhân sự để xin việc.",
+    "options": ["コントロール", "アプローチ", "カムバック", "ゲスト"],
+    "answer": 1,
+    "explanation": "【アプローチ】 (Approach): Tiếp cận, liên hệ.\n- コントロール: Kiểm soát.\n- カムバック: Quay lại.\n- ゲスト: Khách."
+  },
+  {
+    "id": 17,
+    "question": "単語カードを＿＿＿＿順に並べ替える。",
+    "translation": "Sắp xếp thẻ từ theo thứ tự ______.",
+    "options": ["アルファベット", "スプリングベッド", "ミスプリント", "タイプライター"],
+    "answer": 0,
+    "explanation": "【アルファベット順】 (Alphabetical order): Thứ tự ABC.\n- スプリングベッド: Giường lò xo.\n- ミスプリント: Lỗi in.\n- タイプライター: Máy đánh chữ."
+  },
+  {
+    "id": 18,
+    "question": "大型の航空機のことを＿＿＿＿旅客機と言う。",
+    "translation": "Máy bay cỡ lớn được gọi là máy bay ______.",
+    "options": ["ジャンボ", "クール", "クラシック", "シック"],
+    "answer": 0,
+    "explanation": "【ジャンボ】 (Jumbo): Khổng lồ, dùng cho máy bay lớn.\n- クール: Ngầu.\n- クラシック: Cổ điển.\n- シック: Thanh lịch."
+  },
+  {
+    "id": 19,
+    "question": "新製品は発売して以来、その＿＿＿＿がますます広がった。",
+    "translation": "Từ khi ra mắt, ______ của sản phẩm ngày càng mở rộng.",
+    "options": ["シック", "シェア", "クール", "リード"],
+    "answer": 1,
+    "explanation": "【シェア】 (Share): Thị phần.\n- シック: Thanh lịch.\n- クール: Ngầu.\n- リード: Dẫn đầu (không dùng với '広がる')."
+  },
+  {
+    "id": 20,
+    "question": "コンサートで、あの歌い手は3回も＿＿＿＿された。",
+    "translation": "Trong concert, ca sĩ đó được yêu cầu ______ 3 lần.",
+    "options": ["インテリ", "スタジオ", "メディア", "アンコール"],
+    "answer": 3,
+    "explanation": "【アンコール】 (Encore): Yêu cầu hát thêm.\n- インテリ: Trí thức.\n- スタジオ: Studio.\n- メディア: Truyền thông."
+  },
+
+  {
+  "id": 21,
+  "question": "コンピューターのプログラム、つまり＿＿＿＿部門を担当している。",
+  "translation": "Tôi phụ trách bộ phận chương trình máy tính, nói cách khác là bộ phận ______.",
+  "options": ["ハードウェア", "ソフトウェア", "アフターサービス", "タイムサービス"],
+  "answer": 1,
+  "explanation": "【ソフトウェア】: Phần mềm (chương trình máy tính).\n- ハードウェア: Phần cứng.\n- アフターサービス: Dịch vụ hậu mãi.\n- タイムサービス: Giờ giảm giá."
+},
+{
+  "id": 22,
+  "question": "新発売されたスチーム吸入器は、商品の＿＿＿＿テストでは花粉遮断効果がかなりあることがわかった。",
+  "translation": "Máy xông hơi mới cho thấy hiệu quả qua bài kiểm tra ______ sản phẩm.",
+  "options": ["マッサージ", "メッセージ", "モニター", "データ"],
+  "answer": 2,
+  "explanation": "【モニターテスト】: Kiểm tra bằng người dùng thử.\n- マッサージ: Mát-xa.\n- メッセージ: Thông điệp.\n- データ: Dữ liệu."
+},
+{
+  "id": 23,
+  "question": "最終学歴は小学校卒業なのに、いつも＿＿＿＿くさいふりをしている。",
+  "translation": "Dù chỉ tốt nghiệp tiểu học nhưng lúc nào cũng tỏ ra ______.",
+  "options": ["モニター", "カメラマン", "インテリ", "ドライバー"],
+  "answer": 2,
+  "explanation": "【インテリくさい】: Tỏ ra trí thức.\n- モニター: Người dùng thử.\n- カメラマン: Nhiếp ảnh gia.\n- ドライバー: Tài xế."
+},
+{
+  "id": 24,
+  "question": "不況で、＿＿＿＿が離れ、プロスポーツは経営が厳しくなった。",
+  "translation": "Do suy thoái, các ______ rời bỏ khiến thể thao chuyên nghiệp khó khăn.",
+  "options": ["レギュラー", "ポジション", "スポンジ", "スポンサー"],
+  "answer": 3,
+  "explanation": "【スポンサー】: Nhà tài trợ.\n- レギュラー: Thành viên chính.\n- ポジション: Vị trí.\n- スポンジ: Miếng bọt biển."
+},
+{
+  "id": 25,
+  "question": "お歳暮には、コーヒー、ミルク、砂糖の＿＿＿＿セットが人気です。",
+  "translation": "Dịp cuối năm, bộ ______ cà phê rất được ưa chuộng.",
+  "options": ["ギフト", "プレゼント", "シフト", "コンセント"],
+  "answer": 0,
+  "explanation": "【ギフトセット】: Bộ quà tặng.\n- プレゼント: Quà tặng (không dùng ghép set phổ biến).\n- シフト: Ca làm việc.\n- コンセント: Ổ điện."
+},
+{
+  "id": 26,
+  "question": "「だ」は助動詞の＿＿＿＿に入るが、「が」は助詞の＿＿＿＿に入る。",
+  "translation": "「だ」 thuộc ______, còn 「が」 thuộc ______.",
+  "options": ["システム", "カテゴリー", "スペース", "ムード"],
+  "answer": 1,
+  "explanation": "【カテゴリー】: Phân loại.\n- システム: Hệ thống.\n- スペース: Không gian.\n- ムード: Tâm trạng."
+},
+{
+  "id": 27,
+  "question": "将来、私はコンピューターの＿＿＿＿になりたいと思う。",
+  "translation": "Tương lai tôi muốn trở thành ______ máy tính.",
+  "options": ["パイロット", "タレント", "インテリ", "エンジニア"],
+  "answer": 3,
+  "explanation": "【エンジニア】: Kỹ sư.\n- パイロット: Phi công.\n- タレント: Nghệ sĩ.\n- インテリ: Trí thức."
+},
+{
+  "id": 28,
+  "question": "＿＿＿＿してボールをしっかり手に取った。",
+  "translation": "Tôi đã ______ và bắt được bóng.",
+  "options": ["ジャンプ", "ランプ", "キャンプ", "シャンプー"],
+  "answer": 0,
+  "explanation": "【ジャンプ】: Nhảy lên.\n- ランプ: Đèn.\n- キャンプ: Cắm trại.\n- シャンプー: Dầu gội."
+},
+{
+  "id": 29,
+  "question": "渋滞を避けようと、＿＿＿＿で時間を潰す。",
+  "translation": "Để tránh kẹt xe, tôi vào ______ giết thời gian.",
+  "options": ["ゴールイン", "ドライブイン", "チェックイン", "ダイヤルイン"],
+  "answer": 1,
+  "explanation": "【ドライブイン】: Trạm dừng xe.\n- ゴールイン: Về đích.\n- チェックイン: Nhận phòng.\n- ダイヤルイン: Gọi trực tiếp."
+},
+{
+  "id": 30,
+  "question": "街頭は連日デモ隊であふれ、＿＿＿＿前夜のようだ。",
+  "translation": "Đường phố đầy biểu tình, như đêm trước của một cuộc ______.",
+  "options": ["イベント", "セレモニー", "リハーサル", "クーデター"],
+  "answer": 3,
+  "explanation": "【クーデター】: Đảo chính.\n- イベント: Sự kiện.\n- セレモニー: Nghi lễ.\n- リハーサル: Tổng duyệt."
+},
+  {
+  "id": 31,
+  "question": "＿＿＿＿よくバスが来たので、私は雨にあわずにすんだ。",
+  "translation": "Xe buýt đến rất ______ nên tôi đã không bị dính mưa.",
+  "options": ["タイミング", "ドライ", "ドリル", "タイマー"],
+  "answer": 0,
+  "explanation": "【タイミングよく】: Đúng lúc.\n- ドライ: Khô.\n- ドリル: Mũi khoan/bài tập.\n- タイマー: Bộ hẹn giờ."
+},
+{
+  "id": 32,
+  "question": "ガス＿＿＿＿の近くに住むのは危険な気がするものだ。",
+  "translation": "Sống gần ______ ga có cảm giác nguy hiểm.",
+  "options": ["バケツ", "レンジ", "タンク", "ホース"],
+  "answer": 2,
+  "explanation": "【ガスタンク】: Bồn chứa gas.\n- バケツ: Cái xô.\n- レンジ: Bếp/lò.\n- ホース: Ống dẫn."
+},
+{
+  "id": 33,
+  "question": "遊ぶお金がほしいということで、バーの＿＿＿＿をするととは困ったものだ。",
+  "translation": "Vì muốn tiền ăn chơi mà làm ______ ở quán bar thì thật rắc rối.",
+  "options": ["オーエル", "ホステス", "ウーマン", "レディー"],
+  "answer": 1,
+  "explanation": "【ホステス】: Nữ tiếp viên quán bar.\n- オーエル: Nhân viên văn phòng.\n- ウーマン: Phụ nữ.\n- レディー: Quý cô."
+},
+{
+  "id": 35,
+  "question": "彼女と箱根へドライブに行く途中に、＿＿＿＿に一晩泊まった。",
+  "translation": "Trên đường đi Hakone, chúng tôi nghỉ ở ______ một đêm.",
+  "options": ["モニター", "ホール", "ホース", "モーテル"],
+  "answer": 3,
+  "explanation": "【モーテル】: Khách sạn ven đường.\n- モニター: Màn hình/người thử.\n- ホール: Hội trường.\n- ホース: Ống nước."
+},
+{
+  "id": 36,
+  "question": "毎年4月には、新入生や新入社員のための＿＿＿＿が開かれる。",
+  "translation": "Tháng 4 hàng năm có buổi ______ cho người mới.",
+  "options": ["デモンストレーション", "オリエンテーション", "デコレーション", "インフォメーション"],
+  "answer": 1,
+  "explanation": "【オリエンテーション】: Buổi định hướng.\n- デモンストレーション: Trình diễn.\n- デコレーション: Trang trí.\n- インフォメーション: Thông tin."
+},
+{
+  "id": 37,
+  "question": "顕微鏡では、昆虫の生態を＿＿＿＿の単位で観察できる。",
+  "translation": "Có thể quan sát ở mức độ ______ dưới kính hiển vi.",
+  "options": ["ミクロ", "ミリ", "ミルク", "ミシン"],
+  "answer": 0,
+  "explanation": "【ミクロ】: Mức vi mô.\n- ミリ: Milimet.\n- ミルク: Sữa.\n- ミシン: Máy may."
+},
+{
+  "id": 38,
+  "question": "銀座のデパートの＿＿＿＿はどれもきらびやかで、ついつい足が向いてしまう。",
+  "translation": "Các ______ ở Ginza rất lộng lẫy khiến tôi bị thu hút.",
+  "options": ["ビルディング", "ファッションモデル", "ショーウィンドウ", "フロントガラス"],
+  "answer": 2,
+  "explanation": "【ショーウィンドウ】: Tủ kính trưng bày.\n- ビルディング: Tòa nhà.\n- ファッションモデル: Người mẫu.\n- フロントガラス: Kính chắn gió."
+},
+{
+  "id": 39,
+  "question": "どこのスーパーでも午後5時をすぎると、＿＿＿＿を行う。",
+  "translation": "Sau 5 giờ chiều, siêu thị sẽ làm ______.",
+  "options": ["タイミング", "タイムサービス", "タイムリー", "タイマー"],
+  "answer": 1,
+  "explanation": "【タイムサービス】: Giờ giảm giá.\n- タイミング: Thời điểm.\n- タイムリー: Kịp thời.\n- タイマー: Hẹn giờ."
+},
+{
+  "id": 40,
+  "question": "最新医療において、＿＿＿＿手術は欠かせない。",
+  "translation": "Trong y học hiện đại, phẫu thuật ______ là không thể thiếu.",
+  "options": ["ナイター", "ライン", "スクリーン", "レーザー"],
+  "answer": 3,
+  "explanation": "【レーザー】: Laser.\n- ナイター: Trận đêm.\n- ライン: Đường.\n- スクリーン: Màn hình."
+},
+  {
+  "id": 41,
+  "question": "＿＿＿＿な計画を立てるのは何より重要なことだ。市場の歩みは私たちを待たないのだ。",
+  "translation": "Việc lập một kế hoạch ______ là điều quan trọng nhất.",
+  "options": ["ロマンチック", "ユニーク", "タイムリー", "シック"],
+  "answer": 2,
+  "explanation": "【タイムリー】: Kịp thời.\n- ロマンチック: Lãng mạn.\n- ユニーク: Độc đáo.\n- シック: Sang trọng."
+},
+{
+  "id": 42,
+  "question": "彼はとても＿＿＿＿な性格なので、感情を表に出さない。",
+  "translation": "Anh ấy có tính cách rất ______ nên không thể hiện cảm xúc.",
+  "options": ["ライス", "ルール", "ドライ", "トラブル"],
+  "answer": 2,
+  "explanation": "【ドライ】: Lạnh lùng, khô khan.\n- ライス: Cơm.\n- ルール: Quy tắc.\n- トラブル: Rắc rối."
+},
+{
+  "id": 43,
+  "question": "翻訳で原作の微妙な＿＿＿＿を伝えるのは難しい。",
+  "translation": "Khó truyền tải ______ tinh tế khi dịch.",
+  "options": ["ニュアンス", "ニュース", "ニーズ", "ニュー"],
+  "answer": 0,
+  "explanation": "【ニュアンス】: Sắc thái.\n- ニュース: Tin tức.\n- ニーズ: Nhu cầu.\n- ニュー: Mới."
+},
+{
+  "id": 44,
+  "question": "文章は私が読んだ。ノー＿＿＿＿だった。",
+  "translation": "Tôi đã đọc và không có ______.",
+  "options": ["ファイト", "フロント", "ミスプリント", "タレント"],
+  "answer": 2,
+  "explanation": "【ノー・ミスプリント】: Không lỗi in.\n- ファイト: Quyết tâm.\n- フロント: Phía trước.\n- タレント: Nghệ sĩ."
+},
+{
+  "id": 45,
+  "question": "昔は出勤簿に判を押したが、今はタイム＿＿＿＿ですむ。",
+  "translation": "Giờ chỉ cần ______ là xong.",
+  "options": ["レコード", "レコーダー", "レート", "レーダー"],
+  "answer": 1,
+  "explanation": "【タイムレコーダー】: Máy chấm công.\n- レコード: Bản ghi.\n- レート: Tỷ lệ.\n- レーダー: Radar."
+},
+{
+  "id": 46,
+  "question": "血液などを経由して感染するのが＿＿＿＿である。",
+  "translation": "Bệnh lây qua đường máu là ______.",
+  "options": ["ヘロイン", "アヘン", "ノイローゼ", "エイズ"],
+  "answer": 3,
+  "explanation": "【エイズ】: AIDS.\n- ヘロイン: Ma túy.\n- アヘン: Thuốc phiện.\n- ノイローゼ: Rối loạn thần kinh."
+},
+{
+  "id": 47,
+  "question": "今度の事件についてはまだ調査中なので、人に何を聞かれても＿＿＿＿は控えるようにしてください。",
+  "translation": "Hãy tránh đưa ra ______.",
+  "options": ["コマーシャル", "コメント", "システム", "コントロール"],
+  "answer": 1,
+  "explanation": "【コメント】: Bình luận.\n- コマーシャル: Quảng cáo.\n- システム: Hệ thống.\n- コントロール: Kiểm soát."
+},
+{
+  "id": 48,
+  "question": "扇風機に＿＿＿＿が付いているので、自動的に止まる。",
+  "translation": "Quạt có ______ nên tự tắt.",
+  "options": ["チャイム", "ブザー", "インターフォン", "タイマー"],
+  "answer": 3,
+  "explanation": "【タイマー】: Hẹn giờ.\n- チャイム: Chuông.\n- ブザー: Còi.\n- インターフォン: Chuông cửa."
+},
+{
+  "id": 49,
+  "question": "映画の＿＿＿＿にいろいろな道具が置かれている。",
+  "translation": "Đạo cụ được đặt ở ______.",
+  "options": ["エンジニア", "シナリオ", "タレント", "スタジオ"],
+  "answer": 3,
+  "explanation": "【スタジオ】: Trường quay.\n- エンジニア: Kỹ sư.\n- シナリオ: Kịch bản.\n- タレント: Nghệ sĩ."
+},
+{
+  "id": 50,
+  "question": "蝶――二つ折りの＿＿＿＿が花の番地を探している。",
+  "translation": "Con bướm như một tờ ______.",
+  "options": ["エアメール", "イーメール", "ラブレター", "ラブシーン"],
+  "answer": 2,
+  "explanation": "【ラブレター】: Thư tình (nghĩa ẩn dụ).\n- エアメール: Thư hàng không.\n- イーメール: Email.\n- ラブシーン: Cảnh tình cảm."
+},
+{
+  "id": 51,
+  "question": "このコーヒーを飲むには＿＿＿＿ペーパーが必要です。",
+  "translation": "Cần giấy ______ để uống cà phê.",
+  "options": ["ストロー", "ホース", "フィルター", "ボルト"],
+  "answer": 2,
+  "explanation": "【フィルターペーパー】: Giấy lọc.\n- ストロー: Ống hút.\n- ホース: Ống nước.\n- ボルト: Bu lông."
+},
+{
+  "id": 52,
+  "question": "骨折したのかと心配して＿＿＿＿検査をしてもらった。",
+  "translation": "Tôi đi kiểm tra ______.",
+  "options": ["フラッシュ", "レントゲン", "ストロボ", "レンズ"],
+  "answer": 1,
+  "explanation": "【レントゲン】: X-quang.\n- フラッシュ: Flash.\n- ストロボ: Đèn nháy.\n- レンズ: Ống kính."
+},
+{
+  "id": 53,
+  "question": "昔は背の低い女の子を＿＿＿＿ガールなんて言ったものだ。",
+  "translation": "Người ta gọi là ______ girl.",
+  "options": ["トランジスター", "ハイビジョン", "ケーブルテレビ", "プロジェクター"],
+  "answer": 0,
+  "explanation": "【トランジスターガール】: Cô gái nhỏ nhắn.\n- ハイビジョン: HD.\n- ケーブルテレビ: TV cáp.\n- プロジェクター: Máy chiếu."
+},
+{
+  "id": 54,
+  "question": "＿＿＿＿技師としての父は団地の中央暖房で湯を沸かす仕事をしている。",
+  "translation": "Cha tôi là kỹ sư ______.",
+  "options": ["ポンプ", "タンク", "ボイラー", "パイプ"],
+  "answer": 2,
+  "explanation": "【ボイラー】: Nồi hơi.\n- ポンプ: Máy bơm.\n- タンク: Bồn.\n- パイプ: Ống."
+},
+{
+  "id": 55,
+  "question": "彼はスキー＿＿＿＿になりたがって、毎日練習している。",
+  "translation": "Anh ấy muốn trở thành ______ trượt tuyết.",
+  "options": ["ジャンパー", "ジャンボ", "チームワーク", "カムバック"],
+  "answer": 0,
+  "explanation": "【スキージャンパー】: VĐV nhảy xa.\n- ジャンボ: To lớn.\n- チームワーク: Làm việc nhóm.\n- カムバック: Trở lại."
+},
+  {
+  "id": 56,
+  "question": "＿＿＿＿が長い彼の後につくのは疲れることだ。",
+  "translation": "Đi theo sau một người có ______ dài như anh ta thật là mệt mỏi.",
+  "options": ["スペース", "スプリング", "サイズ", "コンパス"],
+  "answer": 3,
+  "explanation": "【コンパス】: Sải chân.\n- スペース: Khoảng không gian.\n- スプリング: Lò xo/mùa xuân.\n- サイズ: Kích thước.\n→ コンパスが長い = sải chân dài."
+},
+{
+  "id": 57,
+  "question": "高速道路に上がると＿＿＿＿を踏んで速いスピードで車を走らせた。",
+  "translation": "Vừa lên cao tốc, tôi nhấn ______ và cho xe chạy nhanh.",
+  "options": ["エンジン", "モーター", "タイヤ", "アクセル"],
+  "answer": 3,
+  "explanation": "【アクセル】: Chân ga.\n- エンジン: Động cơ (không “踏む”).\n- モーター: Mô-tơ.\n- タイヤ: Lốp xe.\n→ 踏む dùng với bàn đạp → アクセル."
+},
+{
+  "id": 58,
+  "question": "試合はAチームが1点＿＿＿＿している。",
+  "translation": "Đội A đang ______ 1 điểm.",
+  "options": ["ドライ", "ドリル", "パンク", "リード"],
+  "answer": 3,
+  "explanation": "【リード】: Dẫn trước.\n- ドライ: Khô/lạnh lùng.\n- ドリル: Mũi khoan/bài tập.\n- パンク: Thủng (lốp).\n→ Trong thể thao: リードする = dẫn trước."
+},
+{
+  "id": 59,
+  "question": "学校と関係部門とが＿＿＿＿化になってから、卒業証書を偽造する現象が急に減った。",
+  "translation": "Từ khi được ______ hóa, việc làm giả bằng đã giảm mạnh.",
+  "options": ["システム", "オンライン", "チャンネル", "テレックス"],
+  "answer": 1,
+  "explanation": "【オンライン】: Trực tuyến.\n- システム: Hệ thống (không dùng “化” tự nhiên như vậy).\n- チャンネル: Kênh.\n- テレックス: Hệ thống điện tín cũ.\n→ オンライン化 = số hóa/trực tuyến hóa."
+},
+{
+  "id": 60,
+  "question": "今晩、野球の＿＿＿＿を見に行きたいですが、切符がまだ手に入っていません。",
+  "translation": "Tối nay tôi muốn đi xem trận ______.",
+  "options": ["ワット", "ナイター", "ライター", "ダンプ"],
+  "answer": 1,
+  "explanation": "【ナイター】: Trận đấu ban đêm.\n- ワット: Đơn vị điện.\n- ライター: Bật lửa/người viết.\n- ダンプ: Xe ben.\n→ ナイター = thi đấu buổi tối."
+},
+{
+  "id": 61,
+  "question": "A：食事のあと、＿＿＿＿は何になさいますか。",
+  "translation": "Sau bữa ăn, quý khách dùng ______ gì?",
+  "options": ["ソース", "デザート", "ライス", "カレー"],
+  "answer": 1,
+  "explanation": "【デザート】: Món tráng miệng.\n- ソース: Nước sốt.\n- ライス: Cơm.\n- カレー: Cà ri.\n→ Sau bữa ăn → デザート."
+},
+{
+  "id": 62,
+  "question": "たとえ＿＿＿＿が良くても、いい監督や俳優がなければだめだ。",
+  "translation": "Dù ______ có tốt cũng không đủ.",
+  "options": ["チャンネル", "スタジオ", "タレント", "シナリオ"],
+  "answer": 3,
+  "explanation": "【シナリオ】: Kịch bản.\n- チャンネル: Kênh.\n- スタジオ: Trường quay.\n- タレント: Diễn viên/nghệ sĩ.\n→ Kịch bản + đạo diễn + diễn viên → đủ yếu tố phim."
+},
+{
+  "id": 63,
+  "question": "この辺りの土地はますます＿＿＿＿化になるばかりだ。",
+  "translation": "Đất đai ngày càng bị ______ hóa.",
+  "options": ["タイムリー", "ジャンル", "アルカリ", "アルミ"],
+  "answer": 2,
+  "explanation": "【アルカリ】: Kiềm.\n- タイムリー: Kịp thời.\n- ジャンル: Thể loại.\n- アルミ: Nhôm.\n→ アルカリ化 = kiềm hóa đất."
+},
+{
+  "id": 64,
+  "question": "彼は医者から処方箋と＿＿＿＿をもらってからまっすぐ薬局へ向かった。",
+  "translation": "Anh ấy nhận đơn thuốc và ______ rồi đi hiệu thuốc.",
+  "options": ["カルテ", "メッセージ", "アンケート", "コマーシャル"],
+  "answer": 0,
+  "explanation": "【カルテ】: Hồ sơ bệnh án.\n- メッセージ: Thông điệp.\n- アンケート: Khảo sát.\n- コマーシャル: Quảng cáo.\n→ Bác sĩ → 処方箋 + カルテ."
+},
+{
+  "id": 65,
+  "question": "ポピュラー＿＿＿＿の中には優秀なものもある。",
+  "translation": "Trong ______ phổ thông cũng có tác phẩm hay.",
+  "options": ["ミュージック", "ピアニスト", "ゲスト", "テレックス"],
+  "answer": 0,
+  "explanation": "【ミュージック】: Âm nhạc.\n- ピアニスト: Nghệ sĩ piano.\n- ゲスト: Khách mời.\n- テレックス: Điện tín.\n→ ポピュラーミュージック = nhạc đại chúng."
+},
+{
+  "id": 66,
+  "question": "仕事も家も失い、＿＿＿＿生活を余儀なくされた。",
+  "translation": "Bị buộc phải sống cuộc sống ______.",
+  "options": ["ホームシック", "ホームレス", "ホームステイ", "ホームページ"],
+  "answer": 1,
+  "explanation": "【ホームレス】: Vô gia cư.\n- ホームシック: Nhớ nhà.\n- ホームステイ: Ở homestay.\n- ホームページ: Trang web.\n→ Mất nhà + việc → ホームレス."
+},
+{
+  "id": 67,
+  "question": "9・11事件以降、＿＿＿＿対策が強化された。",
+  "translation": "Sau 11/9, biện pháp chống ______ được tăng cường.",
+  "options": ["テロ", "ソロ", "エロ", "プロ"],
+  "answer": 0,
+  "explanation": "【テロ】: Khủng bố.\n- ソロ: Đơn lẻ.\n- エロ: Nhạy cảm.\n- プロ: Chuyên nghiệp.\n→ テロ対策 = chống khủng bố."
+},
+{
+  "id": 68,
+  "question": "好きな歌手がステージに上がると、＿＿＿＿が光った。",
+  "translation": "Đèn ______ lóe sáng.",
+  "options": ["システム", "オンライン", "ストロボ", "ランプ"],
+  "answer": 2,
+  "explanation": "【ストロボ】: Đèn flash.\n- システム: Hệ thống.\n- オンライン: Trực tuyến.\n- ランプ: Đèn thường.\n→ Chụp ảnh → ストロボ."
+},
+{
+  "id": 69,
+  "question": "兄貴はダム工事の＿＿＿＿の運転手である。",
+  "translation": "Anh tôi là tài xế xe ______.",
+  "options": ["スピーカー", "サイレン", "パトカー", "ダンプ"],
+  "answer": 3,
+  "explanation": "【ダンプ】: Xe ben.\n- スピーカー: Loa.\n- サイレン: Còi hú.\n- パトカー: Xe cảnh sát.\n→ Công trường → ダンプ."
+},
+{
+  "id": 70,
+  "question": "明日の晩、＿＿＿＿パーティーに出る予定です。",
+  "translation": "Tôi sẽ tham gia tiệc ______.",
+  "options": ["ジャンプ", "セール", "カクテル", "カンニング"],
+  "answer": 2,
+  "explanation": "【カクテル】: Cocktail.\n- ジャンプ: Nhảy.\n- セール: Giảm giá.\n- カンニング: Gian lận.\n→ カクテルパーティー = tiệc cocktail."
+},
+  {
+  "id": 71,
+  "question": "これは＿＿＿＿したばかりの新型流行品だ。",
+  "translation": "Đây là mặt hàng mới vừa ______.",
+  "options": ["フリーズ", "ボイカット", "デビュー", "ドライ"],
+  "answer": 2,
+  "explanation": "【デビュー】: Ra mắt lần đầu.\n- フリーズ: Đóng băng.\n- ボイカット: Tẩy chay.\n- ドライ: Khô.\n→ デビューする = sản phẩm mới ra mắt."
+},
+{
+  "id": 72,
+  "question": "旅行会社の車で旅行に行くより、＿＿＿＿を利用するほうが逆に安くなることがある。",
+  "translation": "Dùng ______ đôi khi rẻ hơn.",
+  "options": ["スポーツカー", "パトカー", "レンタカー", "バッテリーカー"],
+  "answer": 2,
+  "explanation": "【レンタカー】: Xe thuê.\n- スポーツカー: Xe thể thao.\n- パトカー: Xe cảnh sát.\n- バッテリーカー: Xe điện đồ chơi.\n→ Du lịch tự túc → レンタカー."
+},
+{
+  "id": 73,
+  "question": "日本に来て半年ぐらい経って＿＿＿＿にかかった。",
+  "translation": "Sau nửa năm thì bị ______.",
+  "options": ["ホームラン", "ホームレス", "ホームシック", "ホームステイ"],
+  "answer": 2,
+  "explanation": "【ホームシック】: Nhớ nhà.\n- ホームラン: Cú đánh bóng chày.\n- ホームレス: Vô gia cư.\n- ホームステイ: Ở homestay.\n→ Đi xa lâu → ホームシック."
+},
+{
+  "id": 74,
+  "question": "日本製品＿＿＿＿運動",
+  "translation": "Phong trào ______ hàng Nhật.",
+  "options": ["ハンガー", "ハンバーガ", "マッサージ", "ボイカット"],
+  "answer": 3,
+  "explanation": "【ボイカット】: Tẩy chay.\n- ハンガー: Móc áo.\n- ハンバーガ: Hamburger.\n- マッサージ: Massage.\n→ ボイカット運動 = phong trào tẩy chay."
+},
+{
+  "id": 75,
+  "question": "車の＿＿＿＿電気がなくなってエンジンがかからない。",
+  "translation": "Do hết điện ______ nên xe không nổ máy.",
+  "options": ["ハンドル", "ブレーキ", "キー", "バッテリー"],
+  "answer": 3,
+  "explanation": "【バッテリー】: Ắc quy.\n- ハンドル: Vô lăng.\n- ブレーキ: Phanh.\n- キー: Chìa khóa.\n→ Hết điện → バッテリー."
+},
+{
+  "id": 76,
+  "question": "＿＿＿＿店を展開している。",
+  "translation": "Triển khai cửa hàng ______.",
+  "options": ["チェーン", "シーン", "フィクション", "ステーション"],
+  "answer": 0,
+  "explanation": "【チェーン】: Chuỗi.\n- シーン: Cảnh phim.\n- フィクション: Hư cấu.\n- ステーション: Trạm.\n→ チェーン店 = chuỗi cửa hàng."
+},
+{
+  "id": 77,
+  "question": "学校の裏＿＿＿＿",
+  "translation": "______ đen sau trường.",
+  "options": ["アクセス", "サイト", "インプット", "ホームページ"],
+  "answer": 1,
+  "explanation": "【裏サイト】: Trang web ngầm.\n- アクセス: Truy cập.\n- インプット: Đầu vào.\n- ホームページ: Trang chủ.\n→ 裏サイト = web đen/ngầm."
+},
+{
+  "id": 78,
+  "question": "インターネットの＿＿＿＿がよくなった。",
+  "translation": "Việc ______ Internet tốt hơn.",
+  "options": ["アクセス", "アクセル", "アカデミック", "アイドル"],
+  "answer": 0,
+  "explanation": "【アクセス】: Truy cập.\n- アクセル: Chân ga.\n- アカデミック: Học thuật.\n- アイドル: Thần tượng.\n→ アクセスがいい = truy cập tốt."
+},
+{
+  "id": 79,
+  "question": "アメリカで初めて作られた音楽",
+  "translation": "Âm nhạc có nguồn gốc từ Mỹ.",
+  "options": ["ジャズ", "カラオケ", "ミュージック", "メロディー"],
+  "answer": 0,
+  "explanation": "【ジャズ】: Nhạc Jazz.\n- カラオケ: Karaoke (Nhật).\n- ミュージック: Âm nhạc chung.\n- メロディー: Giai điệu.\n→ Jazz có nguồn gốc Mỹ."
+},
+{
+  "id": 80,
+  "question": "＿＿＿＿東京のコンテスト",
+  "translation": "Cuộc thi ______ Tokyo.",
+  "options": ["ミス", "ガール", "レディー", "マダム"],
+  "answer": 0,
+  "explanation": "【ミス】: Hoa khôi.\n- ガール: Cô gái.\n- レディー: Quý cô.\n- マダム: Phu nhân.\n→ ミスコンテスト = thi hoa khôi."
+},
+{
+  "id": 81,
+  "question": "バイオリン＿＿＿＿",
+  "translation": "Biểu diễn violin ______.",
+  "options": ["ゼロ", "ソロ", "プロ", "キロ"],
+  "answer": 1,
+  "explanation": "【ソロ】: Độc tấu.\n- ゼロ: Số 0.\n- プロ: Chuyên nghiệp.\n- キロ: Kg.\n→ ソロ演奏 = biểu diễn một mình."
+},
+{
+  "id": 82,
+  "question": "この曲の＿＿＿＿",
+  "translation": "______ của bài hát.",
+  "options": ["ロック", "ジャズ", "ソング", "メロディー"],
+  "answer": 3,
+  "explanation": "【メロディー】: Giai điệu.\n- ロック: Thể loại nhạc.\n- ジャズ: Nhạc jazz.\n- ソング: Bài hát.\n→ Nhận ra bài hát → メロディー."
+},
+{
+  "id": 83,
+  "question": "＿＿＿＿を振るフォーム",
+  "translation": "Tư thế vung ______.",
+  "options": ["パンク", "ハンガー", "バット", "バッジ"],
+  "answer": 2,
+  "explanation": "【バット】: Gậy bóng chày.\n- パンク: Thủng.\n- ハンガー: Móc áo.\n- バッジ: Huy hiệu.\n→ 振る → バット."
+},
+{
+  "id": 84,
+  "question": "＿＿＿＿をつけると目に悪い",
+  "translation": "Đeo ______ hại mắt.",
+  "options": ["ソフト", "ハード", "コンテスト", "コンタクト"],
+  "answer": 3,
+  "explanation": "【コンタクト】: Kính áp tròng.\n- ソフト: Mềm.\n- ハード: Cứng.\n- コンテスト: Cuộc thi.\n→ つける + mắt → コンタクト."
+},
+{
+  "id": 85,
+  "question": "＿＿＿＿屋に電話して修理",
+  "translation": "Gọi thợ ______ sửa.",
+  "options": ["ダンプ", "ポンプ", "ジャンプ", "ランプ"],
+  "answer": 1,
+  "explanation": "【ポンプ】: Máy bơm/thợ nước.\n- ダンプ: Xe ben.\n- ジャンプ: Nhảy.\n- ランプ: Đèn.\n→ Nước hỏng → ポンプ屋."
+},
+ {
+  "id": 86,
+  "question": "田中さんが旅行に行く時は、必ず観光地の記念＿＿＿＿を買う。今まで100個以上も集められたそうだ。",
+  "translation": "Mỗi khi anh Tanaka đi du lịch, anh ấy nhất định sẽ mua ______ kỷ niệm của địa danh đó. Nghe nói đến nay anh ấy đã sưu tập được hơn 100 cái rồi.",
+  "options": ["バッジ (Huy hiệu)", "タイル (Gạch men)", "アルミ (Nhôm)", "トランジスター (Bóng bán dẫn)"],
+  "answer": 0,
+  "explanation": "【バッジ】: Huy hiệu kỷ niệm, thường được mua ở các điểm du lịch.\n- タイル: Gạch men.\n- アルミ: Nhôm.\n- トランジスター: Linh kiện điện tử."
+},
+{
+  "id": 87,
+  "question": "その斜張橋は合わせて4百本の＿＿＿＿で橋桁を吊り上げているという。",
+  "translation": "Cây cầu dây văng đó nghe nói được treo giữ bởi tổng cộng 400 sợi ______.",
+  "options": ["ボルト (Bu lông)", "ホース (Vòi nước)", "ロープ (Dây cáp/Dây thừng)", "コード (Dây điện)"],
+  "answer": 2,
+  "explanation": "【ロープ】: Dây cáp/dây thừng dùng để treo hoặc kéo.\n- ボルト: Bu lông.\n- ホース: Ống dẫn nước.\n- コード: Dây điện."
+},
+{
+  "id": 88,
+  "question": "「あら、この＿＿＿＿は破れているんじゃない。水が漏れているわ。」",
+  "translation": "「Ôi, cái ______ này chẳng phải bị rách rồi sao. Nước đang bị rò rỉ ra này.」",
+  "options": ["ホース (Vòi ống mềm)", "ボルト (Bu lông)", "タワー (Tháp)", "バット (Gậy bóng chày)"],
+  "answer": 0,
+  "explanation": "【ホース】: Ống dẫn nước mềm, có thể bị rách và rò rỉ.\n- ボルト: Bu lông.\n- タワー: Tháp.\n- バット: Gậy bóng chày."
+},
+{
+  "id": 89,
+  "question": "彼女は美しい＿＿＿＿でプールに飛び込んだ。",
+  "translation": "Cô ấy đã nhảy xuống hồ bơi với một ______ đẹp mắt.",
+  "options": ["スタイル (Kiểu dáng/Vóc dáng)", "ポーズ (Tư thế tạo dáng)", "フォーム (Tư thế/Hình thể chuyển động)", "フォーク (Cái nĩa)"],
+  "answer": 2,
+  "explanation": "【フォーム】: Tư thế/kỹ thuật khi thực hiện động tác.\n- スタイル: Vóc dáng tổng thể.\n- ポーズ: Tư thế tạo dáng (chụp ảnh).\n- フォーク: Cái nĩa."
+},
+{
+  "id": 90,
+  "question": "核兵器を持っているA国の＿＿＿＿攻撃を警戒すべきである。",
+  "translation": "Cần phải cảnh giác với cuộc tấn công ______ của nước A, quốc gia đang sở hữu vũ khí hạt nhân.",
+  "options": ["ミサイル (Tên lửa)", "スタイル (Phong cách)", "スパイ (Gián điệp)", "ハイテク (Công nghệ cao)"],
+  "answer": 0,
+  "explanation": "【ミサイル】: Tên lửa, vũ khí quân sự tầm xa.\n- スタイル: Phong cách.\n- スパイ: Gián điệp.\n- ハイテク: Công nghệ cao."
+},
+{
+  "id": 91,
+  "question": "＿＿＿＿によって、複数の人と同時に会話をすることができる。",
+  "translation": "Thông qua ______, chúng ta có thể trò chuyện với nhiều người cùng một lúc.",
+  "options": ["アクセス (Truy cập)", "ホームページ (Trang chủ)", "ディスプレー (Màn hình)", "チャット (Chat/Trò chuyện trực tuyến)"],
+  "answer": 3,
+  "explanation": "【チャット】: Trò chuyện trực tuyến nhiều người cùng lúc.\n- アクセス: Truy cập.\n- ホームページ: Trang web.\n- ディスプレー: Màn hình."
+},
+{
+  "id": 92,
+  "question": "この物は＿＿＿＿で作ったもので、軽くて持ち運びも便利です。",
+  "translation": "Vật này được làm bằng ______, nên rất nhẹ và tiện lợi để mang theo.",
+  "options": ["ボルト (Bu lông)", "フィルター (Bộ lọc)", "アルミ (Nhôm)", "タイル (Gạch men)"],
+  "answer": 2,
+  "explanation": "【アルミ】: Nhôm, kim loại nhẹ, dễ mang theo.\n- ボルト: Bu lông.\n- フィルター: Bộ lọc.\n- タイル: Gạch."
+},
+{
+  "id": 93,
+  "question": "煉瓦造りの建物とガラス張り、＿＿＿＿張りの建物は上海の建築史の流れを物語っている。",
+  "translation": "Những tòa nhà xây bằng gạch, lắp kính và ốp ______ đã kể câu chuyện về dòng chảy lịch sử kiến trúc của Thượng Hải.",
+  "options": ["タイル (Gạch men/Gạch ốp)", "カーペット (Thảm)", "スプリング (Lò xo)", "フィルター (Bộ lọc)"],
+  "answer": 0,
+  "explanation": "【タイル】: Gạch ốp/tile dùng trong xây dựng.\n- カーペット: Thảm.\n- スプリング: Lò xo.\n- フィルター: Bộ lọc."
+},
+{
+  "id": 94,
+  "question": "彼女は家に帰ってからパンティストッキングを＿＿＿＿に履き替えている。",
+  "translation": "Sau khi về nhà, cô ấy thay quần tất bằng ______.",
+  "options": ["ソックス (Tất ngắn)", "パジャマ (Đồ ngủ)", "ブーツ (Giày bốt)", "スラックス (Quần tây/Quần dài)"],
+  "answer": 0,
+  "explanation": "【スラックス】: Quần dài thoải mái.\n- ソックス: Tất.\n- パジャマ: Đồ ngủ.\n- ブーツ: Giày bốt."
+},
+  {
+  "id": 95,
+  "question": "あの子はまだ小さいんだから、軟らかくて食べやすい物のほうがいいでしょう。例えば、＿＿＿＿とか……",
+  "translation": "Đứa bé đó vẫn còn nhỏ nên những món mềm và dễ ăn sẽ tốt hơn. Ví dụ như ______ chẳng hạn...",
+  "options": ["タイル", "アルミ", "ゼリー", "ソース"],
+  "answer": 2,
+  "explanation": "【ゼリー】: Thạch, mềm và dễ ăn.\n- タイル: Gạch.\n- アルミ: Nhôm.\n- ソース: Nước sốt."
+},
+{
+  "id": 96,
+  "question": "＿＿＿＿が付いていないジュースを買ってしまって、飲むのに困っちゃった。",
+  "translation": "Tôi lỡ mua hộp nước trái cây không có ______ kèm theo nên việc uống khá khó.",
+  "options": ["パルプ", "ホース", "ストロボ", "ストロー"],
+  "answer": 3,
+  "explanation": "【ストロー】: Ống hút dùng để uống nước.\n- パルプ: Cơm trái cây.\n- ホース: Ống nước.\n- ストロボ: Đèn flash."
+},
+{
+  "id": 97,
+  "question": "楽器はそれぞれの＿＿＿＿があります。よく調和するとすばらしいメロディーを作ることができます。",
+  "translation": "Mỗi nhạc cụ đều có ______ riêng.",
+  "options": ["ローン", "トーン", "ムード", "リード"],
+  "answer": 1,
+  "explanation": "【トーン】: Âm sắc/tông nhạc.\n- ローン: Khoản vay.\n- ムード: Tâm trạng.\n- リード: Dẫn dắt."
+},
+{
+  "id": 98,
+  "question": "＿＿＿＿の芸人が見物人をはらはらさせる。",
+  "translation": "Nghệ sĩ ______ khiến khán giả hồi hộp.",
+  "options": ["サーカス", "オペラ", "スキー", "スケート"],
+  "answer": 0,
+  "explanation": "【サーカス】: Nghệ sĩ xiếc.\n- オペラ: Nhạc kịch.\n- スキー: Trượt tuyết.\n- スケート: Trượt băng."
+},
+{
+  "id": 99,
+  "question": "移動・宿泊などを＿＿＿＿にすれば、旅行が安上がりだ。",
+  "translation": "Nếu chọn ______ thì du lịch sẽ rẻ hơn.",
+  "options": ["バッジ", "バンド", "パッケージ", "ハンドバッグ"],
+  "answer": 2,
+  "explanation": "【パッケージ】: Tour trọn gói.\n- バッジ: Huy hiệu.\n- バンド: Ban nhạc.\n- ハンドバッグ: Túi xách."
+},
+{
+  "id": 100,
+  "question": "アフリカの留学生として日本に来ている私は、アフリカと日本の習慣の違いに＿＿＿＿ショックを感じた。",
+  "translation": "Tôi bị sốc ______ vì khác biệt văn hóa.",
+  "options": ["テクノロジー", "ホームステイ", "カルチャー", "ギャップ"],
+  "answer": 2,
+  "explanation": "【カルチャー】: Văn hóa → カルチャーショック.\n- テクノロジー: Công nghệ.\n- ホームステイ: Ở nhà dân.\n- ギャップ: Khoảng cách."
+},
+{
+  "id": 101,
+  "question": "幸いにもコンサートで憧れの＿＿＿＿歌手と握手したうえ、サインもしてもらえた。",
+  "translation": "Tôi được gặp ca sĩ ______ mình yêu thích.",
+  "options": ["スタイル", "モデル", "シンボル", "アイドル"],
+  "answer": 3,
+  "explanation": "【アイドル】: Thần tượng.\n- スタイル: Phong cách.\n- モデル: Người mẫu.\n- シンボル: Biểu tượng."
+},
+{
+  "id": 102,
+  "question": "あの会社は物を売った後のアフター＿＿＿＿も行き届いている。",
+  "translation": "Công ty có dịch vụ hậu ______ tốt.",
+  "options": ["シェア", "ペア", "ギア", "ケア"],
+  "answer": 3,
+  "explanation": "【ケア】: Chăm sóc → アフターケア.\n- シェア: Chia sẻ.\n- ペア: Cặp.\n- ギア: Bánh răng."
+},
+{
+  "id": 103,
+  "question": "この通りは＿＿＿＿はもちろん、土、日も人でいっぱいだ。",
+  "translation": "Con phố này không chỉ ______ mà cả cuối tuần cũng đông.",
+  "options": ["バースデー", "ウイークデー", "メーデー", "バレンタインデー"],
+  "answer": 1,
+  "explanation": "【ウイークデー】: Ngày thường.\n- バースデー: Sinh nhật.\n- メーデー: Ngày lao động.\n- バレンタインデー: Valentine."
+},
+{
+  "id": 104,
+  "question": "父はドライなのに対して、母は＿＿＿＿性質だ。",
+  "translation": "Cha thì khô khan, mẹ thì ______.",
+  "options": ["ルーズな", "ウエットな", "ラッキーな", "デリケートな"],
+  "answer": 1,
+  "explanation": "【ウエット】: Sống tình cảm.\n- ルーズ: Cẩu thả.\n- ラッキー: May mắn.\n- デリケート: Nhạy cảm."
+},
+{
+  "id": 105,
+  "question": "先輩が入社したばかりのぼくの仕事を＿＿＿＿してくれた。",
+  "translation": "Tiền bối đã ______ công việc cho tôi.",
+  "options": ["フォロー", "ポジション", "レギュラー", "インパクト"],
+  "answer": 0,
+  "explanation": "【フォロー】: Hỗ trợ.\n- ポジション: Vị trí.\n- レギュラー: Chính thức.\n- インパクト: Tác động."
+},
+{
+  "id": 106,
+  "question": "新聞の社会欄に＿＿＿＿を投稿したら、載せてくれた。",
+  "translation": "Tôi gửi ______ và được đăng báo.",
+  "options": ["タイトル", "トピック", "エッセー", "ストーリー"],
+  "answer": 2,
+  "explanation": "【エッセー】: Bài tản văn.\n- タイトル: Tiêu đề.\n- トピック: Chủ đề.\n- ストーリー: Câu chuyện."
+},
+{
+  "id": 107,
+  "question": "たいてい映画スターにはおもしろい＿＿＿＿が多いと言われている。",
+  "translation": "Ngôi sao điện ảnh có nhiều ______ thú vị.",
+  "options": ["ファッション", "ヘアスタイル", "エピソード", "イラスト"],
+  "answer": 2,
+  "explanation": "【エピソード】: Giai thoại.\n- ファッション: Thời trang.\n- ヘアスタイル: Kiểu tóc.\n- イラスト: Hình minh họa."
+},
+{
+  "id": 108,
+  "question": "その会社はハイテク業なので、＿＿＿＿しか募集していないように思える。",
+  "translation": "Công ty công nghệ cao chỉ tuyển ______.",
+  "options": ["スパイ", "ギャング", "サラリーマン", "エリート"],
+  "answer": 3,
+  "explanation": "【エリート】: Người ưu tú.\n- スパイ: Gián điệp.\n- ギャング: Băng đảng.\n- サラリーマン: Nhân viên."
+},
+{
+  "id": 109,
+  "question": "鋼索鉄道の＿＿＿＿カーに乗って登山する観光客もいた。",
+  "translation": "Đi bằng xe ______ leo núi.",
+  "options": ["ケーブル", "ロープ", "レール", "ダンプ"],
+  "answer": 0,
+  "explanation": "【ケーブル】: Cáp → ケーブルカー.\n- ロープ: Dây thừng.\n- レール: Đường ray.\n- ダンプ: Xe ben."
+},
+{
+  "id": 110,
+  "question": "歯磨きは昔は粉末で瓶に入っていたが、今は＿＿＿＿式だ。",
+  "translation": "Giờ là dạng ______.",
+  "options": ["ホース", "チューブ", "ストロー", "パイプ"],
+  "answer": 1,
+  "explanation": "【チューブ】: Dạng tuýp.\n- ホース: Ống nước.\n- ストロー: Ống hút.\n- パイプ: Ống."
+},
+{
+  "id": 111,
+  "question": "装置など、＿＿＿＿ウェアの面では優れているが、ソフト面に弱い。",
+  "translation": "Mạnh về ______ nhưng yếu phần mềm.",
+  "options": ["ヘア", "ペア", "ハード", "ハート"],
+  "answer": 2,
+  "explanation": "【ハード】: Phần cứng.\n- ヘア: Tóc.\n- ペア: Cặp.\n- ハート: Tim."
+},
+{
+  "id": 112,
+  "question": "高速道路のサービス＿＿＿＿の食堂が安い、うまい、早いと言われている。",
+  "translation": "Nhà ăn ở ______ rất tốt.",
+  "options": ["ショップ", "エリア", "デパート", "ゾーン"],
+  "answer": 1,
+  "explanation": "【エリア】: Khu vực → サービスエリア.\n- ショップ: Cửa hàng.\n- デパート: Bách hóa.\n- ゾーン: Vùng."
+},
+{
+  "id": 113,
+  "question": "＿＿＿＿で舗装された道路が川に沿って続いている。",
+  "translation": "Đường lát bằng ______.",
+  "options": ["アルミニウム", "アルコール", "コンセント", "アスファルト"],
+  "answer": 3,
+  "explanation": "【アスファルト】: Nhựa đường.\n- アルミニウム: Nhôm.\n- アルコール: Cồn.\n- コンセント: Ổ điện."
+},
+{
+  "id": 114,
+  "question": "＿＿＿＿で掘るのはたいへんだ。ブルドーザーを使おうぜ。",
+  "translation": "Đào bằng ______ rất vất vả.",
+  "options": ["レバー", "ポンプ", "シャベル", "バット"],
+  "answer": 2,
+  "explanation": "【シャベル】: Cái xẻng.\n- レバー: Cần gạt.\n- ポンプ: Máy bơm.\n- バット: Gậy."
+},
+{
+  "id": 115,
+  "question": "バス旅行を申し込んだら、＿＿＿＿券が人数分送られてきた。",
+  "translation": "Nhận được ______ cho chuyến đi.",
+  "options": ["クーポン", "ギフト", "サイクル", "モーテル"],
+  "answer": 0,
+  "explanation": "【クーポン】: Phiếu dịch vụ.\n- ギフト: Quà.\n- サイクル: Chu kỳ.\n- モーテル: Nhà nghỉ."
+},
+{
+  "id": 116,
+  "question": "＿＿＿＿映像で見ると世界遺産はすばらしい。",
+  "translation": "Xem bằng hình ảnh ______ rất đẹp.",
+  "options": ["ハイビジョン", "ハイレベル", "ハイスピード", "ハイスコア"],
+  "answer": 0,
+  "explanation": "【ハイビジョン】: Hình ảnh HD.\n- ハイレベル: Trình độ cao.\n- ハイスピード: Tốc độ cao.\n- ハイスコア: Điểm cao."
+},
+{
+  "id": 117,
+  "question": "この時計は装飾過剰だ。もっと機能的で＿＿＿＿なのがいい。",
+  "translation": "Nên đơn giản hơn.",
+  "options": ["サンプル", "シンプル", "トラブル", "トランプ"],
+  "answer": 1,
+  "explanation": "【シンプル】: Đơn giản.\n- サンプル: Mẫu.\n- トラブル: Rắc rối.\n- トランプ: Bài."
+},
+{
+  "id": 118,
+  "question": "いまになって彼の＿＿＿＿を断ったことを後悔してきた。",
+  "translation": "Hối hận vì từ chối ______.",
+  "options": ["プロポーズ", "ハネムーン", "ラブストーリー", "スキャンダル"],
+  "answer": 0,
+  "explanation": "【プロポーズ】: Lời cầu hôn.\n- ハネムーン: Trăng mật.\n- ラブストーリー: Chuyện tình.\n- スキャンダル: Scandal."
+},
+{
+  "id": 119,
+  "question": "＿＿＿＿ソングって毎日流れるから、子供が覚えて困るんです。",
+  "translation": "Nhạc ______ phát mỗi ngày.",
+  "options": ["DNA", "AIDS", "CM", "JIS"],
+  "answer": 2,
+  "explanation": "【CM】: Quảng cáo.\n- DNA: ADN.\n- AIDS: Bệnh.\n- JIS: Tiêu chuẩn."
+},
+{
+  "id": 120,
+  "question": "＿＿＿＿に関する開発には高度の技術を要するので、しっかりとした知識がなくてはいけない。",
+  "translation": "Phát triển ______ cần kỹ thuật cao.",
+  "options": ["UN", "PR", "OL", "IT"],
+  "answer": 3,
+  "explanation": "【IT】: Công nghệ thông tin.\n- UN: Liên Hợp Quốc.\n- PR: Quan hệ công chúng.\n- OL: Nhân viên văn phòng."
+}
+
+]

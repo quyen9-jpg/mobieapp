@@ -1,0 +1,569 @@
+[
+  {
+    "id": 1,
+    "question": "病気の悪化の兆しが<span class='underline'>顕著</span>になった。",
+    "translation": "Dấu hiệu bệnh tình xấu đi đã trở nên rõ rệt.",
+    "options": ["1 朗らか", "2 明らか", "3 鮮やか", "4 速やか"],
+    "answer": 1,
+    "explanation": "【顕著（けんちょ）】Rõ rệt, nổi bật。\n→ Đồng nghĩa: 【明らか（あきらか）】Rõ ràng, hiển nhiên。\n→ Các từ khác: 朗らか (vui vẻ), 鮮やか (rực rỡ), 速やか (nhanh chóng)"
+  },
+  {
+    "id": 2,
+    "question": "<span class='underline'>たちが悪い</span>いたずらをした子を厳しくしかる。",
+    "translation": "Mắng đứa trẻ đã gây ra trò đùa ác ý.",
+    "options": ["1 不意な", "2 悪質な", "3 臆病な", "4 大胆な"],
+    "answer": 1,
+    "explanation": "【たちが悪い】Tính chất xấu, ác ý。\n→ Đồng nghĩa: 【悪質（あくしつ）】Ác tính, xấu。\n→ Khác: 不意 (bất ngờ), 臆病 (nhút nhát), 大胆 (táo bạo)"
+  },
+  {
+    "id": 3,
+    "question": "探偵は<span class='underline'>鮮やかに</span>事件を解決して見せました。",
+    "translation": "Thám tử đã giải quyết vụ án một cách ngoạn mục.",
+    "options": ["1 かすかに", "2 のどかに", "3 やたらに", "4 みごとに"],
+    "answer": 3,
+    "explanation": "【鮮やか（あざやか）】Rực rỡ, khéo léo。\n→ Trong ngữ cảnh: làm việc xuất sắc → 【見事（みごと）】Ngoạn mục。\n→ Khác: かすか (mơ hồ), のどか (yên bình), やたら (bừa bãi)"
+  },
+  {
+    "id": 4,
+    "question": "賛成が<span class='underline'>比べものにならないほど多い</span>ので、例の議案は可決されたのだ。",
+    "translation": "Vì số phiếu tán thành áp đảo nên dự luật được thông qua.",
+    "options": ["1 魅力的に", "2 積極的に", "3 圧倒的に", "4 戦闘的に"],
+    "answer": 2,
+    "explanation": "【比べものにならないほど】Không thể so sánh。\n→ Đồng nghĩa: 【圧倒的（あっとうてき）】Áp đảo。\n→ Khác: 魅力的 (hấp dẫn), 積極的 (tích cực), 戦闘的 (hiếu chiến)"
+  },
+  {
+    "id": 5,
+    "question": "こんな易しい問題も解けないなんて、<span class='underline'>遺憾な限り</span>だ。",
+    "translation": "Thật đáng tiếc khi không giải được bài dễ vậy.",
+    "options": ["1 なさけない", "2 なにげない", "3 かつてない", "4 かぎりない"],
+    "answer": 0,
+    "explanation": "【遺憾（いかん）】Đáng tiếc。\n→ Gần nghĩa: 【情けない（なさけない）】Đáng xấu hổ。\n→ Khác: なにげない (vô tình), かつてない (chưa từng), かぎりない (vô hạn)"
+  },
+  {
+    "id": 6,
+    "question": "彼女はよく<span class='underline'>いきな</span>装いをしている。",
+    "translation": "Cô ấy ăn mặc rất sành điệu.",
+    "options": ["1 ラフな", "2 エレガントな", "3 デリケートな", "4 ドライな"],
+    "answer": 1,
+    "explanation": "【粋（いき）】Sành điệu, tinh tế。\n→ Đồng nghĩa: エレガント (thanh lịch)。\n→ Khác: ラフ (thoải mái), デリケート (nhạy cảm), ドライ (khô khan)"
+  },
+  {
+    "id": 7,
+    "question": "<span class='underline'>陰気な</span>空がもう一週間も続いてきた。",
+    "translation": "Bầu trời u ám kéo dài 1 tuần.",
+    "options": ["1 くずれない", "2 くだらない", "3 すぐれない", "4 さわらない"],
+    "answer": 2,
+    "explanation": "【陰気（いんき）】U ám。\n→ Khi nói thời tiết: 【（天気が）優れない】Không tốt。\n→ Khác: くずれない (không sụp), くだらない (tào lao), さわらない (không chạm)"
+  },
+  {
+    "id": 8,
+    "question": "世の中には<span class='underline'>円満な</span>人格の持ち主はいないでしょう。",
+    "translation": "Không ai có nhân cách hoàn hảo.",
+    "options": ["1 かんぺきな", "2 たくみな", "3 輝かしい", "4 真ん丸い"],
+    "answer": 0,
+    "explanation": "⚠️ Câu này hơi tricky\n【円満】= hòa thuận, êm đẹp (quan hệ)\n→ Đáp án gần nhất: 【完璧】 (hoàn hảo)\n→ Nhưng KHÔNG hoàn toàn đồng nghĩa (thi JLPT hay đánh lừa)"
+  },
+  {
+    "id": 9,
+    "question": "彼女は細かいことは気にしない、<span class='underline'>おおらかな</span>性格だ。",
+    "translation": "Cô ấy có tính cách rộng lượng.",
+    "options": ["1 おおまかな", "2 心が広い", "3 おおざっぱな", "4 顔が広い"],
+    "answer": 1,
+    "explanation": "【おおらか】Rộng lượng。\n→ Đồng nghĩa: 【心が広い】Bao dung。\n→ Khác: おおざっぱ (cẩu thả), 顔が広い (quen biết nhiều)"
+  },
+  {
+    "id": 10,
+    "question": "家事に飽きて、料理をするのも<span class='underline'>おっくう</span>だ。",
+    "translation": "Ngay cả nấu ăn cũng thấy phiền.",
+    "options": ["1 生ぐさい", "2 バタくさい", "3 焦げくさい", "4 面倒くさい"],
+    "answer": 3,
+    "explanation": "【おっくう】Ngại làm, lười làm vì thấy phiền.\n→ Đồng nghĩa: 【面倒くさい（めんどうくさい）】Phiền phức, không muốn làm.\n\n❌ 1. 生ぐさい（なまぐさい）: Có mùi tanh (máu, cá), hoặc ám chỉ chuyện thực tế quá mức.\n❌ 2. バタくさい: Mùi bơ/sữa, hoặc mang phong cách Tây (không liên quan ngữ cảnh).\n❌ 3. 焦げくさい（こげくさい）: Mùi cháy khét.\n\n👉 Chỉ có 面倒くさい là diễn tả 'ngại làm' nên đúng."
+  },
+  {
+    "id": 11,
+    "question": "パソコンの出現により、通信手段が<span class='underline'>格段に</span>進歩した。",
+    "translation": "Phương thức liên lạc tiến bộ vượt bậc.",
+    "options": ["1 いちだんと", "2 しょっちゅう", "3 ぽつぽつ", "4 うんざり"],
+    "answer": 0,
+    "explanation": "【格段（かくだん）】Vượt bậc。\n→ Đồng nghĩa: 【一段と】Hơn hẳn。\n→ Khác: しょっちゅう (thường xuyên), ぽつぽつ (lác đác), うんざり (chán ngán)"
+  },
+  {
+    "id": 12,
+    "question": "あの人は体が<span class='underline'>頑丈</span>で、病気になったことが一度もないらしい。",
+    "translation": "Người đó rất khỏe mạnh, chưa từng bị bệnh.",
+    "options": ["1 がっくりとして", "2 くっきりとして", "3 がっしりとして", "4 きっかりとして"],
+    "answer": 2,
+    "explanation": "【頑丈（がんじょう）】Chắc khỏe。\n→ Đồng nghĩa: がっしりとして (rắn chắc, lực lưỡng)\n\n❌ がっくり: chán nản\n❌ くっきり: rõ nét\n❌ きっかり: chính xác (thời gian/số lượng)"
+  },
+  {
+    "id": 13,
+    "question": "焦らずに、慌てずに試験を受けるのが<span class='underline'>肝要</span>だ。",
+    "translation": "Thi mà không hoảng loạn là rất quan trọng.",
+    "options": ["1 切実", "2 大切", "3 痛切", "4 切迫"],
+    "answer": 1,
+    "explanation": "【肝要（かんよう）】Cực kỳ quan trọng。\n→ Đồng nghĩa: 大切（たいせつ）\n\n❌ 切実: cấp thiết (cảm xúc mạnh)\n❌ 痛切: sâu sắc, đau đớn\n❌ 切迫: cấp bách"
+  },
+  {
+    "id": 14,
+    "question": "結婚式はなるべく<span class='underline'>簡略</span>にしたほうがいい。",
+    "translation": "Nên làm đám cưới đơn giản.",
+    "options": ["1 はで", "2 きゃしゃ", "3 じみ", "4 ざつ"],
+    "answer": 2,
+    "explanation": "【簡略（かんりゃく）】Đơn giản hóa。\n→ Gần nghĩa: 地味 (không phô trương)\n\n❌ はで: lòe loẹt\n❌ きゃしゃ: mảnh mai\n❌ ざつ: cẩu thả (tiêu cực)"
+  },
+  {
+    "id": 15,
+    "question": "あの男はいつも<span class='underline'>気障な</span>話し方をして、みんなに嫌がられている。",
+    "translation": "Hắn nói chuyện làm bộ nên bị ghét.",
+    "options": ["1 気づいた", "2 気がいもい", "3 気どった", "4 気が利かない"],
+    "answer": 2,
+    "explanation": "【気障（きざ）】Làm bộ, sến。\n→ Đồng nghĩa: 気どった (làm bộ)\n\n❌ 気づく: nhận ra\n❌ 気が重い: nặng lòng (có vẻ bạn gõ sai)\n❌ 気が利かない: không tinh ý"
+  },
+  {
+    "id": 16,
+    "question": "さすが高原だけあって、平野より空気が<span class='underline'>希薄</span>だ。",
+    "translation": "Không khí loãng hơn.",
+    "options": ["1 あわい", "2 うすい", "3 ひくい", "4 しぶい"],
+    "answer": 1,
+    "explanation": "【希薄（きはく）】Loãng。\n→ Đồng nghĩa: 薄い（うすい）\n\n❌ あわい: nhạt (màu)\n❌ ひくい: thấp\n❌ しぶい: chát / trầm"
+  },
+  {
+    "id": 17,
+    "question": "彼は<span class='underline'>気まぐれな</span>性格で、最後までやり続けられないだろう。",
+    "translation": "Tính cách thất thường.",
+    "options": ["1 働きやすい", "2 働きにくい", "3 変わりやすい", "4 変わりにくい"],
+    "answer": 2,
+    "explanation": "【気まぐれ】Thất thường。\n→ Đồng nghĩa: 変わりやすい\n\n❌ 働きやすい: dễ làm việc\n❌ 働きにくい: khó làm việc\n❌ 変わりにくい: khó thay đổi"
+  },
+  {
+    "id": 18,
+    "question": "この机は<span class='underline'>華奢に</span>できているから、上に立ってはいけない。",
+    "translation": "Bàn mỏng manh.",
+    "options": ["1 わかわかしく", "2 しぶく", "3 しぶとく", "4 よわよわしく"],
+    "answer": 3,
+    "explanation": "【華奢（きゃしゃ）】Mỏng manh。\n→ Đồng nghĩa: 弱々しい\n\n❌ わかわかしい: trẻ trung\n❌ しぶい: trầm\n❌ しぶとい: lì lợm (ngược nghĩa)"
+  },
+  {
+    "id": 19,
+    "question": "彼の成績が<span class='underline'>脅威的に</span>伸びている。",
+    "translation": "Tăng trưởng đáng kinh ngạc.",
+    "options": ["1 でかく", "2 おっかなく", "3 まぶしく", "4 めざましく"],
+    "answer": 3,
+    "explanation": "【脅威的】Đáng kinh ngạc。\n→ Đồng nghĩa: 目覚ましい\n\n❌ でかい: to\n❌ おっかない: đáng sợ\n❌ まぶしい: chói mắt"
+  },
+  {
+    "id": 20,
+    "question": "牧場の朝の空気は<span class='underline'>清らかに</span>澄み切っている。",
+    "translation": "Không khí trong lành.",
+    "options": ["1 なれなれしく", "2 すがすがしく", "3 いさましく", "4 たくましく"],
+    "answer": 1,
+    "explanation": "【清らか】Trong lành。\n→ Đồng nghĩa: すがすがしい\n\n❌ なれなれしい: suồng sã\n❌ いさましい: dũng mãnh\n❌ たくましい: khỏe mạnh"
+  },
+  {
+    "id": 21,
+    "question": "生産ラインで作られたものは<span class='underline'>均質な</span>製品で個性がない。",
+    "translation": "Sản phẩm đồng nhất.",
+    "options": ["1 一様の", "2 一括の", "3 一定の", "4 一方の"],
+    "answer": 0,
+    "explanation": "【均質】Đồng nhất。\n→ Đồng nghĩa: 一様\n\n❌ 一括: gộp lại\n❌ 一定: cố định\n❌ 一方: một phía"
+  },
+  {
+    "id": 22,
+    "question": "文章の内容にふさわしいイラストを書いて、<span class='underline'>空白</span>をうめよう。",
+    "translation": "Lấp đầy chỗ trống.",
+    "options": ["1 メモ", "2 メモリー", "3 ブランク", "4 トランク"],
+    "answer": 2,
+    "explanation": "【空白】Khoảng trống。\n→ Đồng nghĩa: ブランク\n\n❌ メモ: ghi chú\n❌ メモリー: bộ nhớ\n❌ トランク: vali"
+  },
+  {
+    "id": 23,
+    "question": "きれいに整えた髪が風で<span class='underline'>くしゃくしゃ</span>になった。",
+    "reading": "くしゃくしゃ",
+    "translation": "Mái tóc vốn gọn gàng đã bị gió làm rối tung.",
+    "options": ["1 すれすれ", "2 ぎりぎり", "3 ちょいちょい", "4 ごちゃごちゃ"],
+    "answer": 3,
+    "explanation": "【くしゃくしゃ】: rối bời, nhăn nhúm.\n→ 同 nghĩa: ごちゃごちゃ (lộn xộn)\n\n❌ 1 すれすれ: sát nút\n❌ 2 ぎりぎり: vừa kịp\n❌ 3 ちょいちょい: thỉnh thoảng"
+  },
+  {
+    "id": 24,
+    "question": "若者は<span class='underline'>軽快な</span>リズムの曲を好む。",
+    "reading": "けいかい",
+    "translation": "Người trẻ thích nhạc có nhịp điệu vui tươi.",
+    "options": ["1 かんばしい", "2 こいしい", "3 うすぐらい", "4 あかるい"],
+    "answer": 3,
+    "explanation": "【軽快】: nhẹ nhàng, vui tươi\n→ 同 nghĩa: 明るい\n\n❌ 1 かんばしい: thơm / đáng khen (không hợp)\n❌ 2 こいしい: nhớ nhung\n❌ 3 うすぐらい: tối tăm"
+  },
+  {
+    "id": 25,
+    "question": "<span class='underline'>酷な</span>訓練に耐えられないから、途中でやめた。",
+    "reading": "こく",
+    "translation": "Không chịu nổi huấn luyện khắc nghiệt nên bỏ cuộc.",
+    "options": ["1 ひどい", "2 でかい", "3 おもい", "4 あやうい"],
+    "answer": 0,
+    "explanation": "【酷】: khắc nghiệt\n→ 同 nghĩa: ひどい\n\n❌ 2 でかい: to lớn\n❌ 3 おもい: nặng\n❌ 4 あやうい: nguy hiểm"
+  },
+  {
+    "id": 26,
+    "question": "振られたのに、まだ<span class='underline'>執拗に</span>相手につきまとうなんて、厚かましいやつだ。",
+    "reading": "しつよう",
+    "translation": "Bị từ chối mà vẫn đeo bám thì thật mặt dày.",
+    "options": ["1 しつこく", "2 くどく", "3 しぶく", "4 つよく"],
+    "answer": 0,
+    "explanation": "【執拗】: dai dẳng, lì lợm\n→ 同 nghĩa: しつこく\n\n❌ 2 くどく: dài dòng\n❌ 3 しぶく: keo kiệt\n❌ 4 つよく: mạnh"
+  },
+  {
+    "id": 27,
+    "question": "体の<span class='underline'>柔軟な</span>人は運動がうまい。",
+    "reading": "じゅうなん",
+    "translation": "Người dẻo dai thường chơi thể thao giỏi.",
+    "options": ["1 きらびやか", "2 しなやか", "3 おだやか", "4 なめらか"],
+    "answer": 1,
+    "explanation": "【柔軟】: dẻo\n→ 同 nghĩa: しなやか\n\n❌ 1 きらびやか: lộng lẫy\n❌ 3 おだやか: ôn hòa\n❌ 4 なめらか: mượt"
+  },
+  {
+    "id": 28,
+    "question": "彼女は<span class='underline'>神経質な</span>ぐらい、髪の毛の汚れを気にした。",
+    "reading": "しんけいしつ",
+    "translation": "Cô ấy để ý đến vết bẩn trên tóc một cách quá mức.",
+    "options": ["1 気になる", "2 気に入る", "3 気に障る", "4 気に病む"],
+    "answer": 2,
+    "explanation": "【神経質】: quá nhạy cảm, khó tính\n→ 近い: 気に障る (dễ bị khó chịu)\n\n❌ 1 気になる: chỉ là quan tâm (nhẹ)\n❌ 2 気に入る: thích\n❌ 4 気に病む: lo lắng"
+  },
+  {
+    "id": 29,
+    "question": "東西文化の<span class='underline'>粋</span>を吸収する。",
+    "translation": "Hấp thụ những gì tinh túy nhất của văn hóa Đông Tây.",
+    "options": ["1 ルーツ", "2 カルチャー", "3 エキス", "4 メリット"],
+    "answer": 2,
+    "explanation": "【粋（すい）】Tinh túy, phần được chọn lọc.\n→ 同 nghĩa: エキス\n\n❌ 1 ルーツ: nguồn gốc → không phải 'tinh túy'\n❌ 2 カルチャー: văn hóa → nghĩa rộng, không phải phần tinh lọc\n⭕ 3 エキス: tinh chất → ĐÚNG\n❌ 4 メリット: lợi ích → sai nghĩa"
+  },
+  {
+    "id": 30,
+    "question": "赤ん坊が<span class='underline'>すこやかに</span>育つのは何よりだ。",
+    "translation": "Em bé lớn lên khỏe mạnh là điều tuyệt vời nhất.",
+    "options": ["1 健全", "2 健在", "3 保全", "4 自在"],
+    "answer": 0,
+    "explanation": "【すこやか】Khỏe mạnh, phát triển tốt.\n→ 同 nghĩa: 健全\n\n⭕ 1 健全: khỏe mạnh → ĐÚNG\n❌ 2 健在: vẫn tồn tại (dùng cho người/vật còn sống)\n❌ 3 保全: bảo toàn, giữ nguyên\n❌ 4 自在: tự do, thoải mái"
+  },
+  {
+    "id": 31,
+    "question": "信号が赤<span class='underline'>すれすれ</span>で通り抜ける車がけっこうある。",
+    "translation": "Có nhiều xe vượt khi đèn đỏ sát nút.",
+    "options": ["1 ぼつぼつ", "2 ぎりぎり", "3 まちまち", "4 すたすた"],
+    "answer": 1,
+    "explanation": "【すれすれ】Sát giới hạn, suýt nữa.\n→ 同 nghĩa: ぎりぎり\n\n❌ 1 ぼつぼつ: dần dần\n⭕ 2 ぎりぎり: sát nút → ĐÚNG\n❌ 3 まちまち: không đồng đều\n❌ 4 すたすた: bước nhanh"
+  },
+  {
+    "id": 32,
+    "question": "彼女の指は<span class='underline'>繊細</span>で、ピアノに向いている。",
+    "translation": "Ngón tay cô ấy tinh tế, hợp chơi piano.",
+    "options": ["1 なめらか", "2 しなやか", "3 こまやか", "4 やわらか"],
+    "answer": 1,
+    "explanation": "【繊細】Tinh tế, mảnh mai, nhạy cảm.\n→ gần nghĩa: しなやか\n\n❌ 1 なめらか: trơn tru (về chuyển động)\n⭕ 2 しなやか: mềm mại, uyển chuyển → ĐÚNG\n❌ 3 こまやか: tỉ mỉ, chi tiết\n❌ 4 やわらか: mềm (vật lý)"
+  },
+  {
+    "id": 33,
+    "question": "日本語が<span class='underline'>達者な</span>彼女は通訳をしている。",
+    "translation": "Cô ấy giỏi tiếng Nhật nên làm phiên dịch.",
+    "options": ["1 到達する", "2 定着する", "3 成熟する", "4 熟達する"],
+    "answer": 3,
+    "explanation": "【達者】Giỏi, thành thạo kỹ năng.\n→ 同 nghĩa: 熟達する\n\n❌ 1 到達する: đạt tới\n❌ 2 定着する: ổn định, bám rễ\n❌ 3 成熟する: trưởng thành\n⭕ 4 熟達する: thành thạo → ĐÚNG"
+  },
+  {
+    "id": 34,
+    "question": "これは<span class='underline'>重宝な</span>電子辞書だ。",
+    "translation": "Đây là từ điển rất tiện lợi.",
+    "options": ["1 めずらしい", "2 めでたい", "3 有利", "4 便利"],
+    "answer": 3,
+    "explanation": "【重宝】Hữu ích, tiện dụng.\n→ 同 nghĩa: 便利\n\n❌ 1 めずらしい: hiếm\n❌ 2 めでたい: đáng mừng\n❌ 3 有利: có lợi thế\n⭕ 4 便利: tiện lợi → ĐÚNG"
+  },
+  {
+    "id": 35,
+    "question": "交渉が<span class='underline'>なめらかに</span>進んだ。",
+    "translation": "Cuộc đàm phán diễn ra suôn sẻ.",
+    "options": ["1 なんなりと", "2 ちらっと", "3 すんなりと", "4 ひょっと"],
+    "answer": 2,
+    "explanation": "【なめらか】Trôi chảy, không vướng mắc.\n→ 同 nghĩa: すんなりと\n\n❌ 1 なんなりと: tùy ý\n❌ 2 ちらっと: thoáng qua\n⭕ 3 すんなりと: suôn sẻ → ĐÚNG\n❌ 4 ひょっと: có lẽ"
+  },
+  {
+    "id": 36,
+    "question": "試験後、<span class='underline'>のどかな</span>気持ちで過ごす。",
+    "translation": "Sau kỳ thi, tôi trải qua thời gian thảnh thơi.",
+    "options": ["1 のんびりした", "2 しっかりした", "3 はきはきした", "4 どきどきした"],
+    "answer": 0,
+    "explanation": "【のどか】Yên bình, thư thái.\n→ 同 nghĩa: のんびりした\n\n⭕ 1 のんびりした: thư giãn → ĐÚNG\n❌ 2 しっかりした: chắc chắn\n❌ 3 はきはきした: rõ ràng, nhanh nhẹn\n❌ 4 どきどきした: hồi hộp"
+  },
+  {
+    "id": 37,
+    "question": "ぼくは意志<span class='underline'>薄弱</span>なものだから、タバコはなかなか止められない。",
+    "translation": "Vì tôi là người có ý chí yếu nên mãi không bỏ được thuốc lá.",
+    "options": ["1 よわよわしい", "2 なれなれしい", "3 はなばなしい", "4 ばかばかしい"],
+    "answer": 1,
+    "explanation": "【薄弱（はくじゃく）】: yếu đuối, ý chí kém\n→ 同 nghĩa: よわよわしい\n\n⭕ 1 よわよわしい: yếu ớt, nhu nhược\n❌ 2 なれなれしい: suồng sã\n❌ 3 はなばなしい: rực rỡ\n❌ 4 ばかばかしい: ngu ngốc"
+  },
+  {
+    "id": 38,
+    "question": "映画館で見る映画は音響効果が<span class='underline'>抜群</span>だ。",
+    "translation": "Xem phim ở rạp có hiệu ứng âm thanh cực kỳ xuất sắc.",
+    "options": ["1 むらがっている", "2 ぬきだしている", "3 すぐれている", "4 すすめている"],
+    "answer": 3,
+    "explanation": "【抜群（ばつぐん）】: vượt trội, xuất sắc\n→ 同 nghĩa: すぐれている\n\n❌ 1 むらがっている: tụ lại\n❌ 2 ぬきだしている: lôi ra\n⭕ 3 すぐれている: ưu tú, xuất sắc\n❌ 4 すすめている: khuyên"
+  },
+  {
+    "id": 39,
+    "question": "もともと世界中の大陸はみな一つにまとまっていたのだが、次第に<span class='underline'>離れ離れ</span>になっていったのだ。",
+    "translation": "Ban đầu các lục địa là một, nhưng dần dần bị tách rời.",
+    "options": ["1 ぼちぼち", "2 ぼそぼそ", "3 はらはら", "4 ばらばら"],
+    "answer": 4,
+    "explanation": "【離れ離れ】: chia lìa\n→ 同 nghĩa: ばらばら\n\n❌ 1 ぼちぼち: từ từ\n❌ 2 ぼそぼそ: nói nhỏ\n❌ 3 はらはら: lo lắng\n⭕ 4 ばらばら: rời rạc"
+  },
+  {
+    "id": 40,
+    "question": "健康のため、食塩の摂取は<span class='underline'>控えめ</span>にすべきだ。",
+    "translation": "Vì sức khỏe nên hạn chế muối.",
+    "options": ["1 ほそめ", "2 ながめ", "3 おおきめ", "4 すくなめ"],
+    "answer": 4,
+    "explanation": "【控えめ】: hạn chế, vừa phải\n→ gần nghĩa: すくなめ\n\n❌ 1 ほそめ: hơi mảnh\n❌ 2 ながめ: hơi dài\n❌ 3 おおきめ: hơi to\n⭕ 4 すくなめ: ít"
+  },
+  {
+    "id": 41,
+    "question": "<span class='underline'>非力</span>ながら、全力をして協力します。",
+    "translation": "Dù sức yếu nhưng sẽ cố gắng hết sức.",
+    "options": ["1 無気力", "2 無関心", "3 無能", "4 無知"],
+    "answer": 3,
+    "explanation": "【非力】: sức yếu, kém năng lực\n→ 同 nghĩa: 無能\n\n❌ 1 無気力: thiếu động lực\n❌ 2 無関心: thờ ơ\n⭕ 3 無能: không có năng lực\n❌ 4 無知: thiếu hiểu biết"
+  },
+  {
+    "id": 42,
+    "question": "<span class='underline'>無愛想な</span>店員がリストラされる対象となる。",
+    "translation": "Nhân viên lạnh nhạt sẽ bị cắt giảm.",
+    "options": ["1 あっけない", "2 そっけない", "3 おぼつかない", "4 いなめない"],
+    "answer": 2,
+    "explanation": "【無愛想】: lạnh nhạt\n→ 同 nghĩa: そっけない\n\n❌ 1 あっけない: chóng vánh\n⭕ 2 そっけない: lạnh lùng\n❌ 3 おぼつかない: không chắc chắn\n❌ 4 いなめない: không thể phủ nhận"
+  },
+  {
+    "id": 43,
+    "question": "物好きな彼は<span class='underline'>風変わりな</span>趣味を持っている。",
+    "translation": "Anh ta có sở thích kỳ lạ.",
+    "options": ["1 神秘", "2 神聖", "3 巧妙", "4 奇妙"],
+    "answer": 4,
+    "explanation": "【風変わり】: kỳ lạ\n→ 同 nghĩa: 奇妙\n\n❌ 1 神秘: thần bí\n❌ 2 神聖: thiêng liêng\n❌ 3 巧妙: khéo léo\n⭕ 4 奇妙: kỳ quặc"
+  },
+  {
+    "id": 44,
+    "question": "学生だれにも<span class='underline'>不得手な</span>科目があるでしょう。",
+    "translation": "Ai cũng có môn không giỏi.",
+    "options": ["1 不思議", "2 不得意", "3 不可欠", "4 不可解"],
+    "answer": 2,
+    "explanation": "【不得手】: không giỏi\n→ 同 nghĩa: 不得意\n\n❌ 1 不思議: kỳ lạ\n⭕ 2 不得意: không giỏi\n❌ 3 不可欠: không thể thiếu\n❌ 4 不可解: khó hiểu"
+  },
+  {
+    "id": 45,
+    "question": "先生に対して、そんな<span class='underline'>不遠慮な</span>言葉を使ってはいけないよ。",
+    "translation": "Đối với giáo viên, không được dùng những lời lẽ bất lịch sự như thế đâu.",
+    "options": ["1 無作法", "2 無意味", "3 無邪気", "4 無責任"],
+    "answer": 0,
+    "explanation": "【不遠慮（ふえんりょ）】Không giữ lễ nghĩa, suồng sã, thiếu lịch sự.\n→ 同 nghĩa: 無作法\n\n⭕ 1 無作法: bất lịch sự, thiếu lễ độ → ĐÚNG\n❌ 2 無意味: vô nghĩa\n❌ 3 無邪気: ngây thơ, hồn nhiên\n❌ 4 無責任: vô trách nhiệm"
+  },
+  {
+    "id": 46,
+    "question": "この二、三日胃腸の<span class='underline'>不調</span>で食欲がない。",
+    "translation": "Hai ba ngày nay do dạ dày và đường ruột không được tốt nên tôi không có cảm giác thèm ăn.",
+    "options": ["1 狂わない", "2 舞わない", "3 振るわない", "4 添わない"],
+    "answer": 2,
+    "explanation": "【不調（ふちょう）】Tình trạng không tốt, không thuận lợi.\n→ gần nghĩa: 振るわない\n\n❌ 1 狂わない: không điên cuồng/không xáo trộn\n❌ 2 舞わない: không nhảy múa\n⭕ 3 振るわない: không thuận lợi, không tốt (phong độ/sức khỏe) → ĐÚNG\n❌ 4 添わない: không đáp ứng/không đi cùng"
+  },
+  {
+    "id": 47,
+    "question": "<span class='underline'>無茶な</span>飲み方をして、体を壊した。",
+    "translation": "Uống rượu quá mức/vô độ nên đã làm hỏng cả cơ thể.",
+    "options": ["1 みじめ", "2 あわれ", "3 でたらめ", "4 すなお"],
+    "answer": 2,
+    "explanation": "【無茶（むちゃ）】Quá mức, vô lý, liều lĩnh.\n→ gần nghĩa: でたらめ\n\n❌ 1 みじめ: đáng thương, thảm hại\n❌ 2 あわれ: đáng thương, tội nghiệp\n⭕ 3 でたらめ: bừa bãi, lung tung → ĐÚNG\n❌ 4 すなお: ngoan ngoãn, thành thật"
+  },
+  {
+    "id": 48,
+    "question": "毎日、<span class='underline'>裕福な</span>生活を送っている人にもそれなりの悩みがある。",
+    "translation": "Ngay cả những người đang sống cuộc sống giàu sang mỗi ngày cũng có những nỗi khổ riêng.",
+    "options": ["1 ゆたか", "2 のどか", "3 かすか", "4 おろか"],
+    "answer": 0,
+    "explanation": "【裕福（ゆうふく）】Giàu có, dư dả về kinh tế.\n→ 同 nghĩa: ゆたか\n\n⭕ 1 ゆたか: phong phú, giàu có → ĐÚNG\n❌ 2 のどか: thanh bình, thảnh thơi\n❌ 3 かすか: thấp thoáng, nhỏ bé\n❌ 4 おろか: ngu ngốc"
+  },
+  {
+    "id": 49,
+    "question": "最近、交通違反の取り締まりが<span class='underline'>ゆるやかに</span>なった。",
+    "translation": "Gần đây, việc kiểm soát vi phạm giao thông đã trở nên lỏng lẻo hơn.",
+    "options": ["1 やすっぽく", "2 なまぬるく", "3 おめでたく", "4 しぶとく"],
+    "answer": 1,
+    "explanation": "【ゆるやか】Lỏng lẻo, nhẹ nhàng, chậm rãi.\n→ gần nghĩa: なまぬるく\n\n❌ 1 やすっぽく: rẻ tiền, rẻ rúng\n⭕ 2 なまぬるく: nửa vời, lỏng lẻo (thái độ/quy định) → ĐÚNG\n❌ 3 おめでたく: ngây thơ/đáng chúc mừng\n❌ 4 しぶとく: kiên cường, ngoan cố"
+  },
+  {
+    "id": 50,
+    "question": "<span class='underline'>理不尽な</span>要求を断固に拒否する。",
+    "translation": "Kiên quyết từ chối những yêu cầu phi lý/không có đạo lý.",
+    "options": ["1 もってのほかの", "2 もってこいの", "3 根も葉もない", "4 影も形もない"],
+    "answer": 0,
+    "explanation": "【理不尽（りふじん）】Phi lý, không có đạo lý, quá đáng.\n→ 同 nghĩa: もってのほか\n\n⭕ 1 もってのほかの: quá đáng, không thể chấp nhận được → ĐÚNG\n❌ 2 もってこいの: lý tưởng, phù hợp nhất\n❌ 3 根も葉もない: không căn cứ (tin đồn)\n❌ 4 影も形もない: không còn dấu vết gì"
+  },
+  {
+    "id": 51,
+    "question": "あんなに品性<span class='underline'>劣等な</span>人間とは交際をするものですか。",
+    "translation": "Ai lại đi giao du với hạng người có nhân phẩm thấp kém như thế chứ?",
+    "options": ["1 たくましい", "2 いさましい", "3 まぎらわしい", "4 あさましい"],
+    "answer": 3,
+    "explanation": "【劣等（れっとう）】Thấp kém, tồi tệ.\n→ gần nghĩa: あさましい\n\n❌ 1 たくましい: lực lưỡng, mạnh mẽ\n❌ 2 いさましい: dũng cảm, oai hùng\n❌ 3 まぎらわしい: mơ hồ, dễ gây nhầm lẫn\n⭕ 4 あさましい: hèn hạ, thấp kém (nhân cách) → ĐÚNG"
+  },
+  {
+    "id": 52,
+    "question": "彼はお金持ちなのに、その生活はずいぶん<span class='underline'>質素</span>だよ。",
+    "translation": "Dù anh ấy giàu nhưng lối sống lại cực kỳ giản dị.",
+    "options": ["1 安易", "2 容易", "3 制約", "4 倹約"],
+    "answer": 3,
+    "explanation": "【質素（しっそ）】Giản dị, không xa hoa.\n→ gần nghĩa: 倹約\n\n❌ 1 安易: dễ dàng, đơn giản (thiếu suy nghĩ)\n❌ 2 容易: dễ dàng\n❌ 3 制約: hạn chế, định mức\n⭕ 4 倹約: tiết kiệm, giản dị → ĐÚNG"
+  },
+  {
+    "id": 53,
+    "question": "彼は新しい機械を<span class='underline'>自在に</span>操る。",
+    "translation": "Anh ấy điều khiển máy móc mới một cách tự tại/thành thạo.",
+    "options": ["1 ラフ", "2 フリー", "3 ルーズ", "4 ラッキー"],
+    "answer": 1,
+    "explanation": "【自在（じざい）】Tự do, theo ý muốn, không bị gò bó.\n→ 同 nghĩa: フリー\n\n❌ 1 ラフ: phác thảo/thô (rough)\n⭕ 2 フリー: tự do (free) → ĐÚNG\n❌ 3 ルーズ: lỏng lẻo, cẩu thả (loose)\n❌ 4 ラッキー: may mắn (lucky)"
+  },
+  {
+    "id": 54,
+    "question": "彼は仕事が<span class='underline'>雑</span>だから、大事なことは頼まないほうがいい。",
+    "translation": "Vì anh ấy làm việc cẩu thả nên tốt nhất không nên nhờ vả những việc quan trọng.",
+    "options": ["1 ぞんざい", "2 ふんだん", "3 あいまい", "4 でこぼこ"],
+    "answer": 0,
+    "explanation": "【雑（ざつ）】Qua loa, cẩu thả, không cẩn thận.\n→ 同 nghĩa: ぞんざい\n\n⭕ 1 ぞんざい: cẩu thả, lơ là → ĐÚNG\n❌ 2 ふんだん: dồi dào, nhiều\n❌ 3 あいまい: mơ hồ, mập mờ\n❌ 4 でこぼこ: lồi lõm"
+  },
+  {
+    "id": 55,
+    "question": "<span class='underline'>巧妙な</span>手口で女性を騙す彼は自慢がっているらしい。",
+    "translation": "Anh ta có vẻ đắc ý về việc lừa dối phụ nữ bằng những thủ đoạn tinh vi.",
+    "options": ["1 ゆたか", "2 たくみ", "3 多様", "4 優位"],
+    "answer": 1,
+    "explanation": "【巧妙（こうみょう）】Khéo léo, tinh vi.\n→ 同 nghĩa: たくみ\n\n❌ 1 ゆたか: phong phú\n⭕ 2 たくみ: khéo léo, kỹ xảo → ĐÚNG\n❌ 3 多様: đa dạng\n❌ 4 優位: ưu thế"
+  },
+  {
+    "id": 56,
+    "question": "そのことについては<span class='underline'>賢明な</span>処置をとるべきだ。",
+    "translation": "Về việc đó, nên thực hiện một biện pháp xử lý sáng suốt.",
+    "options": ["1 有利", "2 有力", "3 利口", "4 利点"],
+    "answer": 2,
+    "explanation": "【賢明（けんめい）】Thông minh, sáng suốt.\n→ 同 nghĩa: 利口\n\n❌ 1 有利: có lợi\n❌ 2 有力: có thế lực, mạnh mẽ\n⭕ 3 利口: thông minh, lanh lợi → ĐÚNG\n❌ 4 利点: ưu điểm"
+  },
+  {
+    "id": 57,
+    "question": "彼女はみんなに<span class='underline'>優美な</span>美術品を展示した。",
+    "translation": "Cô ấy đã trưng bày những tác phẩm mỹ thuật ưu nhã cho mọi người xem.",
+    "options": ["1 気品", "2 気質", "3 上達", "4 上品"],
+    "answer": 3,
+    "explanation": "【優美（ゆうび）】Sự thanh nhã, duyên dáng, có tính thẩm mỹ cao.\n→ 同 nghĩa: 上品\n\n❌ 1 気品: hương khí/phong thái (danh từ)\n❌ 2 気質: khí chất, tính cách\n❌ 3 上達: tiến bộ, cải thiện kỹ năng\n⭕ 4 上品: thanh lịch, tao nhã → ĐÚNG"
+  },
+  {
+    "id": 58,
+    "question": "子供たちに<span class='underline'>有益な</span>話をして聞かせる。",
+    "translation": "Nói những câu chuyện có ích cho lũ trẻ nghe.",
+    "options": ["1 あてになる", "2 ためになる", "3 はてになる", "4 はめになる"],
+    "answer": 1,
+    "explanation": "【有益（ゆうえき）】Có ích, có lợi.\n→ 同 nghĩa: ためになる\n\n❌ 1 あてになる: đáng tin cậy\n⭕ 2 ためになる: có ích, giúp ích cho bản thân → ĐÚNG\n❌ 3 はてになる: trở thành kết thúc (không phổ biến)\n❌ 4 はめになる: rơi vào tình cảnh (xấu)"
+  },
+  {
+    "id": 59,
+    "question": "彼は<span class='underline'>明瞭な</span>発音で日本語を話している。",
+    "translation": "Anh ấy đang nói tiếng Nhật với phát âm rõ ràng.",
+    "options": ["1 はっきりした", "2 しっかりした", "3 あっさりした", "4 がっちりした"],
+    "answer": 0,
+    "explanation": "【明瞭（めいりょう）】Sự rõ ràng, rành mạch.\n→ 同 nghĩa: はっきりした\n\n⭕ 1 はっきりした: rõ ràng → ĐÚNG\n❌ 2 しっかりした: chắc chắn, vững vàng\n❌ 3 あっさりした: đơn giản, thanh đạm\n❌ 4 がっちりした: cơ bắp, chắc nịch"
+  },
+  {
+    "id": 60,
+    "question": "彼は<span class='underline'>几帳面な</span>人で、少しのミスでも逃しません。",
+    "translation": "Anh ấy là một người ngăn nắp/cẩn thận, một lỗi nhỏ cũng không bỏ sót.",
+    "options": ["1 きちんとした", "2 さっぱりした", "3 たいした", "4 いらいらした"],
+    "answer": 0,
+    "explanation": "【几帳面（きちょうめん）】Ngăn nắp, cẩn thận, đúng giờ giấc.\n→ 同 nghĩa: きちんとした\n\n⭕ 1 きちんとした: chỉn chu, cẩn thận → ĐÚNG\n❌ 2 さっぱりした: sảng khoái/nhạt (vị)\n❌ 3 たいした: to tát, quan trọng\n❌ 4 いらいらした: sốt ruột, cáu bẳn"
+  },
+  {
+    "id": 61,
+    "question": "彼の給料は<span class='underline'>役職相応</span>のものとはとてもいえない。",
+    "translation": "Lương của anh ấy hoàn toàn không thể nói là tương xứng với chức vụ.",
+    "options": ["1 このましい", "2 まちどおしい", "3 とうとい", "4 ふさわしい"],
+    "answer": 3,
+    "explanation": "【相応（そうおう）】Tương ứng, phù hợp với vị thế/hoàn cảnh.\n→ 同 nghĩa: ふさわしい\n\n❌ 1 このましい: đáng mến, dễ chuộng\n❌ 2 まちどおしい: mong ngóng, chờ đợi\n❌ 3 とうとい: quý giá, cao quý\n⭕ 4 ふさわしい: phù hợp, tương xứng → ĐÚNG"
+  },
+  {
+    "id": 62,
+    "question": "月日が経ってもまだ cô ấy には<span class='underline'>未練</span>がある。",
+    "translation": "Dù thời gian đã trôi qua nhưng vẫn còn vương vấn cô ấy.",
+    "options": ["1 辛抱強い", "2 心細い", "3 途方もない", "4 名残惜しい"],
+    "answer": 3,
+    "explanation": "【未練（みれん）】Sự luyến tiếc, vương vấn, chưa dứt tình.\n→ gần nghĩa: 名残惜しい\n\n❌ 1 辛抱強い: kiên nhẫn, chịu đựng giỏi\n❌ 2 心細い: cô đơn, bất an\n❌ 3 途方もない: quá mức tưởng tượng, vô lý\n⭕ 4 名残惜しい: luyến tiếc khi phải chia xa → ĐÚNG"
+  },
+  {
+    "id": 63,
+    "question": "この決定に<span class='underline'>不服</span>があるのなら、はっきり言ってほしい。",
+    "translation": "Nếu có điều gì không phục/không hài lòng với quyết định này, tôi muốn bạn nói thẳng ra.",
+    "options": ["1 不正", "2 不審", "3 不満", "4 不思議"],
+    "answer": 2,
+    "explanation": "【不服（ふふく）】Không phục, không thỏa mãn với quyết định/ý kiến.\n→ 同 nghĩa: 不満\n\n❌ 1 不正: bất chính, gian lận\n❌ 2 不審: đáng nghi\n⭕ 3 不満: bất mãn, không hài lòng → ĐÚNG\n❌ 4 不思議: kỳ lạ"
+  },
+  {
+    "id": 64,
+    "question": "あの人は<span class='underline'>素朴な</span>人柄で、変な考えが何もない。",
+    "translation": "Người đó có tính cách chất phác, không có suy nghĩ gì lệch lạc cả.",
+    "options": ["1 すてき", "2 すなお", "3 みじゃき", "4 きまじめ"],
+    "answer": 1,
+    "explanation": "【素朴（そぼく）】Mộc mạc, hồn nhiên, chất phác.\n→ gần nghĩa: すなお\n\n❌ 1 すてき: tuyệt vời\n⭕ 2 すなお: ngoan ngoãn, thật thà → ĐÚNG\n❌ 3 みじゃき: ngây thơ, hồn nhiên (vô tội)\n❌ 4 きまじめ: quá nghiêm túc"
+  },
+  {
+    "id": 65,
+    "question": "立ち枯れた木々を見て、自然保護の大切さを<span class='underline'>痛切に</span>感じた。",
+    "translation": "Nhìn những hàng cây chết khô, tôi cảm nhận một cách sâu sắc tầm quan trọng của việc bảo vệ tự nhiên.",
+    "options": ["1 つくづく", "2 ぞくぞく", "3 はらはら", "4 いきいき"],
+    "answer": 0,
+    "explanation": "【痛切（つうせつ）】Sâu sắc, thấm thía.\n→ 同 nghĩa: つくづく\n\n⭕ 1 つくづく: tỉ mỉ, sâu sắc → ĐÚNG\n❌ 2 ぞくぞく: run rẩy/phấn khích\n❌ 3 はらはら: thấp thỏm lo âu\n❌ 4 いきいき: sống động, đầy sức sống"
+  },
+  {
+    "id": 66,
+    "question": "彼女の話し方や歩き方は、<span class='underline'>しとやかだ</span>。",
+    "translation": "Cách nói chuyện và đi đứng của cô ấy thật đoan trang/nhã nhặn.",
+    "options": ["1 有望", "2 高尚", "3 優秀", "4 上品"],
+    "answer": 3,
+    "explanation": "【しとやか】Sự thùy mị, đoan trang, nhã nhặn.\n→ 同 nghĩa: 上品\n\n❌ 1 有望: có triển vọng\n❌ 2 高尚: cao quý, cao thượng\n❌ 3 優秀: ưu tú, giỏi\n⭕ 4 上品: lịch sự, tao nhã → ĐÚNG"
+  },
+  {
+    "id": 67,
+    "question": "豊かな生活どころか、<span class='underline'>ろくに</span>暮らすことができない。",
+    "translation": "Đừng nói là cuộc sống giàu có, ngay cả sống một cách hẳn hoi cũng không làm được.",
+    "options": ["1 満足", "2 贅沢", "3 正直", "4 最善"],
+    "answer": 0,
+    "explanation": "【ろくに】Thường đi với phủ định: (không) hẳn hoi, (không) tử tế.\n→ gần nghĩa: 満足に\n\n⭕ 1 満足: thỏa mãn, hẳn hoi → ĐÚNG\n❌ 2 贅沢: xa hoa\n❌ 3 正直: thành thật\n❌ 4 最善: tốt nhất"
+  },
+  {
+    "id": 68,
+    "question": "仕事が捗らなくて<span class='underline'>ゆううつ</span>だ。",
+    "translation": "Công việc không tiến triển khiến tôi buồn bực.",
+    "options": ["1 けがらわしい", "2 はたはだしい", "3 うっとうしい", "4 あつかましい"],
+    "answer": 2,
+    "explanation": "【ゆううつ】U sầu。\n→ gần nghĩa: うっとうしい\n\n❌ 1 けがらわしい: bẩn\n❌ 2 はたはだしい: quá mức\n⭕ 3 うっとうしい: khó chịu → ĐÚNG\n❌ 4 あつかましい: trơ trẽn"
+  },
+  {
+    "id": 69,
+    "question": "三歳の姪は、靴を左右<span class='underline'>あべこべ</span>に履いている。",
+    "translation": "Đứa cháu đi giày trái phải ngược nhau.",
+    "options": ["1 でこぼこ", "2 さかさま", "3 ちやほや", "4 たいら"],
+    "answer": 1,
+    "explanation": "【あべこべ】Ngược。\n→ 同 nghĩa: さかさま\n\n❌ 1 でこぼこ: lồi lõm\n⭕ 2 さかさま: đảo ngược → ĐÚNG\n❌ 3 ちやほや: nuông chiều\n❌ 4 たいら: bằng phẳng"
+  },
+  {
+    "id": 70,
+    "question": "<span class='underline'>あやふやな</span>態度で返事を引き延ばす。",
+    "translation": "Trì hoãn trả lời bằng thái độ mập mờ.",
+    "options": ["1 まるまる", "2 あいまい", "3 謙虚", "4 謙遜"],
+    "answer": 1,
+    "explanation": "【あやふや】Mơ hồ。\n→ 同 nghĩa: あいまい\n\n❌ 1 まるまる: toàn bộ\n⭕ 2 あいまい: mơ hồ → ĐÚNG\n❌ 3 謙虚: khiêm tốn\n❌ 4 謙遜: khiêm nhường"
+  }
+
+]

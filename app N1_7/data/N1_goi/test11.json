@@ -1,0 +1,1017 @@
+[
+  {
+    "id": 1,
+    "question": "有望",
+    "reading": "ゆうぼう",
+    "translation": "Có triển vọng, có tương lai sáng sủa",
+    "options": [
+      {
+        "text": "彼はやる気がいっぱいあって、前途有望な人だ。",
+        "translation": "Anh ấy có rất nhiều động lực và là người có tương lai sáng sủa.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>前途有望</b> là cụm từ cố định dùng để chỉ người có tiền đồ rộng mở."
+      },
+      {
+        "text": "問題の解決は今週有望していると言われている。",
+        "translation": "Việc giải quyết vấn đề được cho là có triển vọng trong tuần này.",
+        "explanation": "<b style='color:red'>[Sai]</b> <b>有望</b> là tính từ, không dùng như một động từ (有望している)."
+      },
+      {
+        "text": "この事業は有望적で、大成功が望まれる。",
+        "translation": "Dự án này mang tính triển vọng và được kỳ vọng thành công lớn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không có dạng <b>有望的</b>, chỉ cần dùng <b>有望な</b>."
+      },
+      {
+        "text": "中国は有望の将来があると確信している。",
+        "translation": "Tôi tin Trung Quốc có tương lai triển vọng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Sai ngữ pháp, phải dùng tính từ đuôi na: <b>有望な将来</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2,
+    "question": "明朗",
+    "reading": "めいろう",
+    "translation": "Tươi sáng (tính cách) / Minh bạch (tài chính)",
+    "options": [
+      {
+        "text": "夜が明朗になり、一行は出発の準備を始めた。",
+        "translation": "Đêm trở nên sáng rõ, mọi người chuẩn bị xuất phát.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không dùng cho ánh sáng tự nhiên, nên dùng <b>明ける</b>."
+      },
+      {
+        "text": "明朗に字を書けば、読みやすい。",
+        "translation": "Viết chữ rõ ràng sẽ dễ đọc.",
+        "explanation": "<b style='color:red'>[Sai]</b> Viết chữ rõ ràng nên dùng <b>明瞭</b> hoặc <b>はっきり</b>."
+      },
+      {
+        "text": "会社の経理を明朗化する必要がある。",
+        "translation": "Cần minh bạch hóa kế toán công ty.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>明朗化</b> dùng chính xác cho sự minh bạch trong tài chính."
+      },
+      {
+        "text": "火事で辺りが明朗に赤くなった。",
+        "translation": "Xung quanh đỏ rực do cháy.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không phù hợp ngữ cảnh, nên dùng <b>明るく</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 3,
+    "question": "無口",
+    "reading": "むくち",
+    "translation": "Ít nói, kiệm lời (chỉ tính cách con người)",
+    "options": [
+      {
+        "text": "このことは君とはまったく関係ないんだから、無口しなさい。",
+        "translation": "Việc này hoàn toàn không liên quan đến cậu nên hãy im lặng đi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Yêu cầu ai đó im lặng dùng <b>黙る</b> (だまる). <b>無口</b> không dùng làm mệnh lệnh."
+      },
+      {
+        "text": "恋人とけんかしてから、彼女は恋人にずっと無口だった。",
+        "translation": "Sau khi cãi nhau, cô ấy đã hoàn toàn im lặng với người yêu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Giận dỗi không nói chuyện dùng cụm <b>口をきかない</b>."
+      },
+      {
+        "text": "彼は無口な性格なので、人とのコミュニケーションが上手ではない。",
+        "translation": "Vì có tính cách ít nói nên anh ấy không giỏi giao tiếp với mọi người.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>無口な性格</b> là cách dùng tự nhiên để chỉ người trầm tính."
+      },
+      {
+        "text": "いつもは無口の彼女は今日に限ってよくしゃべっていたね。",
+        "translation": "Cô gái vốn thường ngày ít nói, hôm nay lại nói nhiều lạ thường nhỉ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Sai ngữ pháp, phải dùng <b>無口な彼女</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "question": "露骨",
+    "reading": "ろこつ",
+    "translation": "Thẳng thừng, trơ tráo, không che đậy (thường là thái độ xấu)",
+    "options": [
+      {
+        "text": "映画では暴力などを露骨に描写するシーンは避けるべきだ。",
+        "translation": "Trong phim ảnh nên tránh các cảnh quay miêu tả bạo lực một cách quá trần trụi.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>露骨に描写</b> chỉ việc miêu tả sự việc quá lộ liễu, không che đậy."
+      },
+      {
+        "text": "気に入らないと彼はすぐ不満の露骨していやな顔をした。",
+        "translation": "Hễ không vừa ý là anh ta lộ rõ vẻ bất mãn và lộ vẻ mặt khó chịu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Sai ngữ pháp, nên dùng cụm <b>不満を露骨に表す</b>."
+      },
+      {
+        "text": "無計画な伐採で、山が露骨になったまま、岩だらけの荒山になった。",
+        "translation": "Do khai thác không kế hoạch, ngọn núi trở nên trơ trọi và biến thành núi đá hoang vu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Núi trọc, trơ trọi nên dùng <b>むき出し</b> hoặc <b>はげ山</b>."
+      },
+      {
+        "text": "コンテナにひかれたその人は全身露骨になって見るにたえない。",
+        "translation": "Người bị xe container cán trúng, toàn thân lộ cả xương ra không nỡ nhìn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Xương bị lộ ra dùng <b>露出</b>, <b>露骨</b> thường dùng cho nghĩa bóng."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "question": "無難",
+    "reading": "ぶ난",
+    "translation": "An toàn, thỏa đáng, tránh rắc rối (không xuất sắc nhưng không có lỗi)",
+    "options": [
+      {
+        "text": "失敗は二度とないように、なんとかして無難の方法を考えなくてはならない。",
+        "translation": "Để không thất bại lần nữa, bằng mọi giá phải nghĩ ra phương pháp an toàn nhất.",
+        "explanation": "<b style='color:red'>[Sai]</b> Phương pháp chắc chắn, không sai sót dùng <b>確実な方法</b>."
+      },
+      {
+        "text": "おかげさまで、両親は達者で、無難的に暮らしています。",
+        "translation": "Nhờ trời, bố mẹ tôi vẫn khỏe và đang sống một cuộc đời bình an.",
+        "explanation": "<b style='color:red'>[Sai]</b> Sống bình yên dùng <b>無事に</b> hoặc <b>平穏に</b>. Không có từ <b>無難的に</b>."
+      },
+      {
+        "text": "親として、夫婦げんかに干渉しないのが一番無難なやり方だ。",
+        "translation": "Với tư cách là cha mẹ, việc không can thiệp vào cuộc cãi vã của vợ chồng con cái là cách làm an toàn nhất.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>無難なやり方</b> chỉ lựa chọn khôn ngoan để tránh rắc rối."
+      },
+      {
+        "text": "登山隊は山の中で雪崩にあったが、幸いにも無難せずにすんだ。",
+        "translation": "Đội leo núi gặp tuyết lở trong núi nhưng may mắn đã không gặp nguy hiểm gì.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không gặp nạn dùng <b>無事に</b> hoặc <b>被害に遭わず</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6,
+    "question": "薄弱",
+    "reading": "はくじゃく",
+    "translation": "Mỏng manh, yếu ớt, thiếu sức thuyết phục",
+    "options": [
+      {
+        "text": "薄弱の体に見えるが、病気になったことはない。",
+        "translation": "Nhìn cơ thể có vẻ yếu ớt nhưng tôi chưa bao giờ bị bệnh.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cơ thể yếu ớt dùng <b>虚弱</b> (きょじゃく) hoặc <b>虚弱体質</b>."
+      },
+      {
+        "text": "こんなに薄弱な服を着ると、風邪を引くよ。",
+        "translation": "Mặc quần áo mỏng manh thế này sẽ bị cảm đấy.",
+        "explanation": "<b style='color:red'>[Sai]</b> Quần áo mỏng dùng <b>薄手の</b> (うすでの) hoặc <b>薄い</b>."
+      },
+      {
+        "text": "この板は薄弱すぎて、本棚の材料としては適しない。",
+        "translation": "Tấm ván này quá mỏng yếu, không thích hợp làm vật liệu đóng giá sách.",
+        "explanation": "<b style='color:red'>[Sai]</b> Vật liệu mỏng, không bền dùng <b>もろい</b> hoặc <b>強度が足りない</b>."
+      },
+      {
+        "text": "君の挙げた証拠は薄弱で、説得力に欠けている。",
+        "translation": "Chứng cứ bạn đưa ra rất yếu ớt và thiếu sức thuyết phục.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>薄弱</b> thường dùng cho ý chí (意志薄弱) hoặc lý lẽ/chứng cứ thiếu tính căn cứ."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7,
+    "question": "密接",
+    "reading": "みっせつ",
+    "translation": "Mật thiết, có quan hệ gần gũi không thể tách rời",
+    "options": [
+      {
+        "text": "A社と提携して20年、お互いに密接な係わりを持っている。",
+        "translation": "Hợp tác với công ty A đã 20 năm, hai bên có mối liên hệ mật thiết với nhau.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>密接な係わり/関係</b> dùng để chỉ mối quan hệ gắn bó sâu sắc giữa hai bên."
+      },
+      {
+        "text": "蓋と瓶の口を密接しないと、中のものが腐ってしまうよ。",
+        "translation": "Nếu không đậy chặt nắp với miệng bình, đồ bên trong sẽ bị hỏng đấy.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đậy nắp kín dùng <b>密閉</b> (みっぺい) hoặc <b>きっちり閉める</b>."
+      },
+      {
+        "text": "気象条件はわれわれの生活とは密接的な関係がある。",
+        "translation": "Điều kiện khí tượng có mối quan hệ mang tính mật thiết với cuộc sống chúng ta.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không dùng <b>密接的</b>. Chỉ cần dùng <b>密接な関係</b> là đủ."
+      },
+      {
+        "text": "知らない女性と密接すると、かえって嫌われることがある。",
+        "translation": "Nếu tiếp cận quá gần gũi với người phụ nữ lạ, ngược lại có khi sẽ bị ghét.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tiếp xúc thân thể hoặc lại gần dùng <b>接近</b> (せっきん) hoặc <b>密着</b> (みっちゃく)."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8,
+    "question": "切実",
+    "reading": "せつじつ",
+    "translation": "Cấp bách, khẩn thiết, nghiêm trọng (cảm nhận rõ rệt)",
+    "options": [
+      {
+        "text": "法廷では、弁護士は被告者の無罪としての切実の証拠を出した。",
+        "translation": "Tại tòa, luật sư đã đưa ra bằng chứng xác thực về sự vô tội của bị cáo.",
+        "explanation": "<b style='color:red'>[Sai]</b> Bằng chứng xác thực dùng <b>確実な</b> hoặc <b>決定的な</b>."
+      },
+      {
+        "text": "校長先生は卒業生に立派な社会人になるよう切実願いました。",
+        "translation": "Thầy hiệu trưởng đã khẩn thiết cầu chúc học sinh tốt nghiệp trở thành người có ích cho xã hội.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cầu nguyện, mong mỏi một cách chân thành dùng <b>切に</b> (せつに)."
+      },
+      {
+        "text": "現代社会にあって、パソコンの知識と外国語の必要を切実に感じる。",
+        "translation": "Trong xã hội hiện đại, tôi cảm nhận một cách sâu sắc sự cần thiết của kiến thức máy tính và ngoại ngữ.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>切実に感じる</b> dùng để chỉ việc cảm thấy một vấn đề gì đó rất cấp thiết và quan trọng đối với bản thân."
+      },
+      {
+        "text": "彼女が言ったのはウソではなく、みな切実だとぼくは保証する。",
+        "translation": "Tôi đảm bảo những gì cô ấy nói không phải là nói dối, tất cả đều là sự thật.",
+        "explanation": "<b style='color:red'>[Sai]</b> Là sự thật/thành thực dùng <b>真実</b> (しんじつ) hoặc <b>切実な話</b> (nếu là câu chuyện đau lòng có thật)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 9,
+    "question": "きゃしゃ",
+    "reading": "きゃしゃ",
+    "translation": "Mỏng manh, mảnh khảnh, thanh mảnh (thường là lời khen)",
+    "options": [
+      {
+        "text": "彼女は足がききゃしゃなので、ダンサーに向いている。",
+        "translation": "Cô ấy có đôi chân mảnh khảnh nên rất hợp làm vũ công.",
+        "explanation": "<b style='color:red'>[Sai]</b> Chân mảnh khảnh và thon gọn thường dùng <b>すらりとした</b>. <b>きゃしゃ</b> thiên về cấu trúc xương nhỏ."
+      },
+      {
+        "text": "このチャイナドレスはきゃしゃな感じの彼女に着てもらいたいな。",
+        "translation": "Tôi muốn cô ấy - người có vẻ ngoài mảnh mai - mặc chiếc sườn xám này.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>きゃしゃ</b> dùng để tả những người phụ nữ có dáng người nhỏ nhắn, thanh mảnh, thanh tú."
+      },
+      {
+        "text": "この道はきゃしゃなので、二台の車が並行して通れない。",
+        "translation": "Con đường này mảnh khảnh nên hai xe ô tô không thể đi song song.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đường hẹp dùng <b>幅が狭い</b> (はばがせまい)."
+      },
+      {
+        "text": "きゃしゃな川が村の中を流れてやがて遠くの海に注ぐ。",
+        "translation": "Dòng sông nhỏ chảy qua làng rồi đổ ra biển xa.",
+        "explanation": "<b style='color:red'>[Sai]</b> Dòng sông nhỏ dùng <b>小川</b> (おがわ) hoặc <b>細い</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "question": "無造作",
+    "reading": "むぞうさ",
+    "translation": "Thản nhiên, không chút do dự, đơn giản (không cầu kỳ)",
+    "options": [
+      {
+        "text": "店員は品を無造作に客に差し出した。",
+        "translation": "Nhân viên thản nhiên đưa món đồ cho khách (không chút khách sáo).",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>無造作</b> dùng để chỉ hành động làm một việc gì đó một cách tự nhiên, không chuẩn bị hay giữ kẽ cầu kỳ."
+      },
+      {
+        "text": "仕事を無造作に仕上げてほっとした。",
+        "translation": "Hoàn thành công việc một cách đơn giản nên tôi đã nhẹ người.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hoàn thành công việc dễ dàng dùng <b>造作もない</b> (ぞうさもない)."
+      },
+      {
+        "text": "無造作な食べ方は健康によいと言われている。",
+        "translation": "Cách ăn uống đơn giản được cho là tốt cho sức khỏe.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ăn uống điều độ/đạm bạc dùng <b>質素な</b> hoặc <b>控えめな</b>."
+      },
+      {
+        "text": "先生の前で無造作な言葉づかいを使うべきだ。",
+        "translation": "Nên sử dụng cách nói chuyện thản nhiên trước mặt giáo viên.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cách nói chuyện suồng sã, thiếu lễ độ dùng <b>不遠慮な</b> hoặc <b>ぞんざいな</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "question": "壮大",
+    "reading": "そうだい",
+    "translation": "Hùng vĩ, tráng lệ, quy mô lớn (thường dùng cho kế hoạch, công trình)",
+    "options": [
+      {
+        "text": "彼は若いころから壮大な規模の事業を計画していたそうだ。",
+        "translation": "Nghe nói anh ấy đã lên kế hoạch cho một sự nghiệp quy mô tráng lệ từ khi còn trẻ.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>壮大な規模</b> dùng rất chính xác để chỉ những kế hoạch hoặc sự nghiệp có tầm vóc lớn lao."
+      },
+      {
+        "text": "アメリカのニューヨークでは壮大した建物を建てるそうだ。",
+        "translation": "Nghe nói ở New York, Mỹ người ta sẽ xây những tòa nhà tráng lệ.",
+        "explanation": "<b style='color:red'>[Sai]</b> <b>壮 đại</b> là tính từ đuôi な, không dùng như động từ (壮大した). Nên dùng <b>壮大な建物</b>."
+      },
+      {
+        "text": "目の前に立っているのは、ぼくの三倍ほど壮大な体をしている相撲だった。",
+        "translation": "Đứng trước mặt tôi là một võ sĩ Sumo có thân hình to lớn gấp 3 lần tôi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thân hình to lớn, vạm vỡ dùng <b> đồ sộ (巨大な)</b> hoặc <b>たくましい</b>. <b>壮大</b> không dùng tả người."
+      },
+      {
+        "text": "風船は膨らませば膨らますほど壮大になるが、空気を入れすぎるとパンクする。",
+        "translation": "Quả bóng càng thổi thì càng to ra, nhưng thổi quá sẽ nổ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Quả bóng to ra dùng <b>大きく</b>. <b>壮大</b> không dùng cho những vật nhỏ như quả bóng."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 12,
+    "question": "精巧",
+    "reading": "せいこう",
+    "translation": "Tinh xảo, tinh vi (máy móc, kỹ thuật)",
+    "options": [
+      {
+        "text": "犯人の精巧な手口の犯行に警察さえも驚いた。",
+        "translation": "Cảnh sát cũng kinh ngạc trước thủ đoạn phạm tội tinh vi của tên tội phạm.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thủ đoạn phạm tội tinh vi thường dùng <b>巧妙な</b> (こうみょう). <b>精巧</b> thiên về cấu tạo vật lý."
+      },
+      {
+        "text": "このラジオは小さくて精巧にできている。",
+        "translation": "Chiếc đài này nhỏ nhưng được chế tạo rất tinh xảo.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>精巧</b> dùng để chỉ các thiết bị, máy móc có cấu tạo tỉ mỉ, độ chính xác cao."
+      },
+      {
+        "text": "あの子は精巧に先生の質問に答えた。",
+        "translation": "Đứa bé đó đã trả lời câu hỏi của giáo viên một cách tinh vi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Trả lời chính xác dùng <b>正確に</b> (せいかく) hoặc <b>的確に</b>."
+      },
+      {
+        "text": "器用な父は精巧したおもちゃを作ってくれた。",
+        "translation": "Người cha khéo tay đã làm cho tôi một món đồ chơi tinh xảo.",
+        "explanation": "<b style='color:red'>[Sai]</b> Sai ngữ pháp, không dùng <b>精巧した</b>. Nên dùng <b>精巧な</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 13,
+    "question": "有力",
+    "reading": "ゆうりょく",
+    "translation": "Có thế lực, có sức ảnh hưởng, có triển vọng (khả năng cao)",
+    "options": [
+      {
+        "text": "小柄ながら有力な彼はたやすく150キロのバーベルを持ち上げた。",
+        "translation": "Dù nhỏ con nhưng anh ấy có sức mạnh và đã nhấc bổng tạ 150kg dễ dàng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Có sức mạnh cơ bắp dùng <b>力持ち</b> hoặc <b>強力な</b>. <b>有力</b> chỉ thế lực hoặc khả năng xảy ra."
+      },
+      {
+        "text": "あいつは自分に有力なことがなければしない利己的なやつだ。",
+        "translation": "Hắn ta là kẻ ích kỷ, không có lợi cho mình thì không làm.",
+        "explanation": "<b style='color:red'>[Sai]</b> Có lợi cho bản thân dùng <b>有利な</b> (ゆうり)."
+      },
+      {
+        "text": "外国語をマスターしたら、将来就職において有力な条件になり得る。",
+        "translation": "Nếu thông thạo ngoại ngữ, đó sẽ là một điều kiện có lợi (triển vọng cao) khi tìm việc sau này.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>有力な条件</b> dùng để chỉ một lợi thế lớn, có sức nặng trong việc đạt được mục đích."
+      },
+      {
+        "text": "大粒の雨が有力に道を急いでいる私たちを襲った。",
+        "translation": "Trận mưa lớn đã tấn công chúng tôi khi đang vội vã trên đường một cách mạnh mẽ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Mưa dữ dội dùng <b>激しく</b> (はげしく)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 14,
+    "question": "きらびやか",
+    "reading": "",
+    "translation": "Rực rỡ, lộng lẫy, huy hoàng",
+    "options": [
+      {
+        "text": "スターはきらびやかな衣装をまとってステージに登場した。",
+        "translation": "Ngôi sao xuất hiện trên sân khấu với bộ trang phục lộng lẫy rực rỡ.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>きらびやか</b> dùng để tả vẻ ngoài lộng lẫy của trang phục, trang sức hoặc cung điện."
+      },
+      {
+        "text": "きらびやかな太陽が容赦なく畑仕事をしている村民に照り付けている。",
+        "translation": "Mặt trời rực rỡ chiếu xuống những người dân làng đang làm việc trên đồng không thương tiếc.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ánh nắng gay gắt dùng <b> まぶしい</b> hoặc <b>強烈な</b>."
+      },
+      {
+        "text": "几帳面な彼はひとつひとつの仕事をきらびやかにこなした。",
+        "translation": "Người kỹ tính như anh ấy đã giải quyết từng công việc một cách rực rỡ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Giải quyết công việc gọn gàng dùng <b>見事に</b> hoặc <b>完璧に</b>."
+      },
+      {
+        "text": "大金を使って、コンサートの会場をすごくきらびやかした。",
+        "translation": "Dùng rất nhiều tiền để làm cho hội trường buổi hòa nhạc trở nên lộng lẫy.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không dùng như động từ. Phải dùng <b>きらびやかにした</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 15,
+    "question": "かすか",
+    "reading": "",
+    "translation": "Thoáng qua, mong manh, mờ nhạt (âm thanh, ánh sáng, ký ức)",
+    "options": [
+      {
+        "text": "ゴールまで後かすかだから、頑張って！",
+        "translation": "Chỉ còn một chút nữa là đến đích rồi, cố lên!",
+        "explanation": "<b style='color:red'>[Sai]</b> Khoảng cách ngắn còn lại dùng <b>わずか</b>."
+      },
+      {
+        "text": "銀行にかすかな貯金が残っているから、あれを下ろそう。",
+        "translation": "Còn một ít tiền tiết kiệm trong ngân hàng, hãy rút nó ra.",
+        "explanation": "<b style='color:red'>[Sai]</b> Lượng tiền ít ỏi dùng <b>わずかな貯金</b>."
+      },
+      {
+        "text": "彼女はかすかな黄色のワンピースを着ている。",
+        "translation": "Cô ấy đang mặc chiếc váy màu vàng nhạt.",
+        "explanation": "<b style='color:red'>[Sai]</b> Màu sắc nhạt dùng <b>淡い</b> (あわい) hoặc <b>薄い</b>."
+      },
+      {
+        "text": "別れてもう35年になったので、彼女に対する記憶はかすかにしかない。",
+        "translation": "Đã chia tay 35 năm rồi nên ký ức về cô ấy chỉ còn mờ nhạt.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>かすかな記憶</b> dùng rất tốt để chỉ những ký ức đã phai mờ theo thời gian."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 16,
+    "question": "簡素",
+    "reading": "かんそ",
+    "translation": "Đơn giản, chất phác, không cầu kỳ (thường dùng cho lối sống, thiết kế)",
+    "options": [
+      {
+        "text": "このデジカメは取り扱い方が簡素で、誰でも使える。",
+        "translation": "Chiếc máy ảnh kỹ thuật số này có cách sử dụng đơn giản, ai cũng dùng được.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cách sử dụng đơn giản, dễ hiểu dùng <b>簡単</b> (かんたん) hoặc <b>単純</b> (たんじゅん)."
+      },
+      {
+        "text": "お前は考え方が簡素すぎで、都市の生活に向いていない。",
+        "translation": "Cách suy nghĩ của cậu quá đơn giản, không hợp với cuộc sống đô thị đâu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Suy nghĩ đơn giản (ngây thơ) dùng <b>単純</b> (たんじゅん) hoặc <b>おめでたい</b>."
+      },
+      {
+        "text": "彼女は金もちの娘だが、いつも簡素な生活をしている。",
+        "translation": "Cô ấy là con gái nhà giàu nhưng luôn sống một cuộc sống giản dị.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>簡素な生活</b> dùng để chỉ lối sống đơn giản, tiết chế, không xa hoa lãng phí."
+      },
+      {
+        "text": " 時間があまりないので、あいさつを簡素して本題に入ろう。",
+        "translation": "Vì không có nhiều thời gian nên hãy lược bớt chào hỏi và vào vấn đề chính luôn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Lược bỏ những thứ rườm rà để ngắn gọn dùng <b>簡略</b> (かんりゃく) hoặc <b>手短に</b> (てみじかに)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 17,
+    "question": "内気",
+    "reading": "うちき",
+    "translation": "Nhút nhát, rụt rè, sống nội tâm",
+    "options": [
+      {
+        "text": "人前でほめられて、私は照れくさくて内気に思える。",
+        "translation": "Được khen trước mặt mọi người, tôi thấy ngượng ngùng và nhút nhát.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cảm thấy xấu hổ dùng <b>恥ずかしい</b>. <b>内気</b> là tính cách cố định, không phải cảm xúc nhất thời."
+      },
+      {
+        "text": "内気を出して仕事に取り組もうじゃないか。",
+        "translation": "Hãy đưa sự nhút nhát ra và nỗ lực làm việc nào.",
+        "explanation": "<b style='color:red'>[Sai]</b> Phải là đưa ra lòng nhiệt huyết hoặc dũng khí, dùng <b>やる気</b> hoặc <b>勇気</b>."
+      },
+      {
+        "text": "内気でおとなしい彼は異性との接触が不得手だ。",
+        "translation": "Anh ấy vốn nhút nhát và hiền lành nên rất kém trong việc tiếp xúc với người khác giới.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>内気</b> dùng chính xác để miêu tả tính cách nhút nhát, ngại giao tiếp."
+      },
+      {
+        "text": "うちの社員は内気的な若者ばかりで、うるさくない。",
+        "translation": "Nhân viên công ty tôi toàn những người trẻ có xu hướng nội tâm nên không bị ồn ào.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không có dạng <b>内気的な</b>. Chỉ dùng <b>内気な</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 18,
+    "question": "得手",
+    "reading": "えて",
+    "translation": "Sở trường, điểm mạnh, điều mình giỏi nhất",
+    "options": [
+      {
+        "text": "走るのは得手ではないから、サッカー部に入らなかった。",
+        "translation": "Chạy bộ không phải sở trường của tôi nên tôi đã không vào câu lạc bộ bóng đá.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>得手</b> đồng nghĩa với <b>得意</b>, chỉ những việc mình làm tốt nhất."
+      },
+      {
+        "text": "この材料は寒さに得手だが、火には弱い性質がある。",
+        "translation": "Loại vật liệu này chịu lạnh tốt nhưng lại yếu với lửa.",
+        "explanation": "<b style='color:red'>[Sai]</b> Chịu đựng tốt (vật lý) dùng <b>強い</b> (つよい) hoặc <b>耐性がある</b>."
+      },
+      {
+        "text": "金属は電気を通すという得手があるから、コードに使われる。",
+        "translation": "Kim loại có ưu điểm dẫn điện nên được dùng làm dây dẫn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đặc tính vật lý dùng <b>性質</b> (せいしつ) hoặc <b>長所</b> (ちょうしょ)."
+      },
+      {
+        "text": "カラオケが得手だから、てんで歌わない。",
+        "translation": "Vì hát karaoke là sở trường nên tôi chẳng hát hò gì cả.",
+        "explanation": "<b style='color:red'>[Sai]</b> Câu này mâu thuẫn về nghĩa. Nếu là sở trường thì phải hay hát. Đúng ra là <b>不得手</b> (ふえて - sở đoản)."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 19,
+    "question": "大がかり",
+    "reading": "おおがかり",
+    "translation": "Quy mô lớn, huy động nhiều nhân lực/vật lực",
+    "options": [
+      {
+        "text": "この大学は面積が大がかりですね。",
+        "translation": "Trường đại học này có diện tích quy mô lớn nhỉ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diện tích rộng dùng <b>広大な</b> (こうだい) hoặc đơn giản là <b>広い</b>."
+      },
+      {
+        "text": "おなかが空いたのか、大がかりに食べた。",
+        "translation": "Chắc là vì đói nên đã ăn một bữa quy mô lớn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ăn nhiều dùng <b>たくさん</b> hoặc <b>豪快に</b> (ごうかい)."
+      },
+      {
+        "text": "大がかりな高速道路工事がスタートした。",
+        "translation": "Một dự án công trình đường cao tốc quy mô lớn đã bắt đầu.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>大がかり</b> dùng cho các sự kiện, công trình cần sự đầu tư và chuẩn bị lớn."
+      },
+      {
+        "text": "このビルは大がかりの高さで、150階もある。",
+        "translation": "Tòa nhà này có độ cao quy mô lớn, tận 150 tầng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Độ cao lớn dùng <b>大変な</b> hoặc <b>驚くべき</b>. Không dùng <b>大がかりの高さ</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 20,
+    "question": "旺盛",
+    "reading": "おうせい",
+    "translation": "Thịnh vượng, tràn trề, phấn chấn (tinh thần, sức khỏe, ham muốn)",
+    "options": [
+      {
+        "text": "景気が回復して会社も次第に旺盛になった。",
+        "translation": "Kinh tế hồi phục nên công ty cũng dần trở nên thịnh vượng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Công ty làm ăn phát đạt dùng <b>盛ん</b> (さかん) hoặc <b>好調</b> (こうちょう)."
+      },
+      {
+        "text": "旺盛な意欲でボランティア活動に参加する。",
+        "translation": "Tham gia hoạt động tình nguyện với ý chí tràn đầy.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>意欲旺盛</b> (ý chí tràn đầy) hoặc <b>好奇心旺盛</b> (tính hiếu kỳ cao) là cách dùng tiêu biểu."
+      },
+      {
+        "text": "病気が治り、食欲が以前にもまして旺盛した。",
+        "translation": "Bệnh đã khỏi, sự thèm ăn còn tràn trề hơn cả lúc trước.",
+        "explanation": "<b style='color:red'>[Sai]</b> <b>旺盛</b> là tính từ đuôi na, không dùng như động từ (旺盛した). Phải là <b>旺盛になった</b>."
+      },
+      {
+        "text": "台風が旺盛に吹いて小船が覆されんばかりだった。",
+        "translation": "Cơn bão thổi mạnh đến mức suýt lật úp con thuyền nhỏ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Gió thổi mạnh dùng <b>激しく</b> (はげしく) hoặc <b>猛烈に</b> (もうれつ)."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "おせっかい",
+    "reading": "",
+    "translation": "Tọc mạch, lanh chanh, xía vào chuyện người khác",
+    "options": [
+      {
+        "text": "今のお笑い番組はおせっかいばかりで見たくない。",
+        "translation": "Chương trình hài kịch bây giờ toàn những thứ tọc mạch nên tôi không muốn xem.",
+        "explanation": "<b style='color:red'>[Sai]</b> Chương trình hài nhảm, chán dùng <b>つまらない</b> hoặc <b>くだらない</b>."
+      },
+      {
+        "text": "子供のおせっかいをするのは親としての責任である。",
+        "translation": "Việc chăm sóc con cái là trách nhiệm của cha mẹ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Chăm sóc, lo liệu dùng <b>面倒を見る</b> (めんどうをみる) hoặc <b>世話</b>."
+      },
+      {
+        "text": "この寒さで海で泳ぐなんて、なんたるおせっかいだな。",
+        "translation": "Bơi ở biển giữa trời lạnh thế này thì thật là... (ngớ ngẩn).",
+        "explanation": "<b style='color:red'>[Sai]</b> Hành động ngớ ngẩn, điên rồ dùng <b>ばかげたこと</b> hoặc <b>無茶なこと</b>."
+      },
+      {
+        "text": "それは余計なおせっかいで、かえって迷惑になるよ。",
+        "translation": "Đó là sự tọc mạch dư thừa, ngược lại còn gây phiền phức đấy.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>余計なおせっかい</b> là cụm từ phổ biến nhất để chỉ việc can thiệp không cần thiết vào việc của người khác."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 22,
+    "question": "過酷",
+    "reading": "かこく",
+    "translation": "Khắc nghiệt, khốc liệt, quá mức chịu đựng",
+    "options": [
+      {
+        "text": "過酷たる寒さが過ぎて日増しに暖かくなってきた。",
+        "translation": "Cái lạnh khắc nghiệt đã qua và ngày càng ấm lên.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không dùng cấu trúc <b>過酷たる</b>. Nên dùng <b>厳しい寒さ</b> (きびしい)."
+      },
+      {
+        "text": "220ボルトの電圧は過酷だから、110ボルトにしよう。",
+        "translation": "Điện áp 220V quá mạnh (khắc nghiệt), hãy dùng 110V.",
+        "explanation": "<b style='color:red'>[Sai]</b> Điện áp quá tải, mạnh dùng <b>強力な</b> hoặc <b>高すぎる</b>."
+      },
+      {
+        "text": "そんな体罰は過酷ではないかと思う。",
+        "translation": "Tôi nghĩ hình phạt thể xác như vậy là quá khắc nghiệt.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>過酷</b> dùng cho các điều kiện, hình phạt hoặc lao động cực kỳ nặng nề, tàn nhẫn."
+      },
+      {
+        "text": "ビジネスマンは過酷の手口で儲けるのは当然だ。",
+        "translation": "Thương nhân kiếm lời bằng thủ đoạn tàn độc là đương nhiên.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thủ đoạn tàn độc dùng <b>残忍な</b> (ざんにん) hoặc <b>悪辣な</b> (あくらつ)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 23,
+    "question": "健勝",
+    "reading": "けんしょう",
+    "translation": "Mạnh khỏe (dùng trong lời chúc trang trọng)",
+    "options": [
+      {
+        "text": "先生には、ご健勝のこととお喜び申し上げます。",
+        "translation": "Chúc mừng thầy vẫn luôn mạnh khỏe.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ご健勝</b> là kính ngữ, thường dùng đầu thư để hỏi thăm sức khỏe người lớn tuổi hoặc cấp trên."
+      },
+      {
+        "text": "わが国のチームは五輪大会で大いに健勝した。",
+        "translation": "Đội tuyển nước nhà đã chiến thắng vẻ vang tại Olympic.",
+        "explanation": "<b style='color:red'>[Sai]</b> Chiến đấu dũng cảm, thắng lợi dùng <b>健闘</b> (けんとう)."
+      },
+      {
+        "text": "いろんな困難を乗り越えて、企業が健勝になった。",
+        "translation": "Vượt qua nhiều khó khăn, doanh nghiệp đã trở nên vững mạnh.",
+        "explanation": "<b style='color:red'>[Sai]</b> Doanh nghiệp vững mạnh dùng <b>健全</b> (けんぜん) hoặc <b>安泰</b> (あんたい)."
+      },
+      {
+        "text": "子どもにとってパチンコは健勝な娯楽とは言えない。",
+        "translation": "Với trẻ em, Pachinko không thể nói là một trò giải trí lành mạnh.",
+        "explanation": "<b style='color:red'>[Sai]</b> Giải trí lành mạnh dùng <b>健全な</b> (けんぜん)."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 24,
+    "question": "最適",
+    "reading": "さいてき",
+    "translation": "Thích hợp nhất, phù hợp nhất",
+    "options": [
+      {
+        "text": "地震がその地域に最適な自然災害の一つである。",
+        "translation": "Động đất là một trong những thiên tai thích hợp nhất cho khu vực đó.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thiên tai xảy ra thường xuyên dùng <b>特有の</b> (とくゆう) hoặc <b>頻繁な</b>."
+      },
+      {
+        "text": "説明に最適する用例を挙げねばならぬ。",
+        "translation": "Phải đưa ra ví dụ phù hợp nhất để giải thích.",
+        "explanation": "<b style='color:red'>[Sai]</b> Sai ngữ pháp, <b>最適</b> là danh từ/tính từ na, không dùng động từ <b>最適する</b>. Phải dùng <b>最適な</b>."
+      },
+      {
+        "text": "水牛の成育には広い牧草が最適だ。",
+        "translation": "Đồng cỏ rộng lớn là nơi thích hợp nhất để nuôi dưỡng trâu nước.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>最適</b> dùng để chỉ điều kiện tốt nhất cho một mục đích nào đó."
+      },
+      {
+        "text": "お口に最適ではないが、味わってみて。",
+        "translation": "Dù không hợp khẩu vị nhất nhưng hãy nếm thử xem.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hợp khẩu vị dùng <b>口に合う</b> (くちにあう)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 25,
+    "question": "ささやか",
+    "reading": "",
+    "translation": "Khiêm tốn, nhỏ bé, giản dị (thể hiện sự khiêm nhường)",
+    "options": [
+      {
+        "text": "ささやかに食事を取るのはしとやかに見えるよ。",
+        "translation": "Ăn một cách giản dị trông rất nhã nhặn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ăn uống tao nhã dùng <b>上品に</b> (じょうひんに)."
+      },
+      {
+        "text": "今日の日差しはささやかで、寒気がする。",
+        "translation": "Ánh nắng hôm nay thật ít ỏi nên thấy lạnh.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ánh nắng yếu dùng <b>弱い</b> hoặc <b>かすかな</b>."
+      },
+      {
+        "text": "この服はちょっと大きい。これよりささやかなサイズでいい。",
+        "translation": "Bộ này hơi rộng. Cỡ nhỏ hơn chút nữa là được.",
+        "explanation": "<b style='color:red'>[Sai]</b> Kích cỡ nhỏ dùng <b>小さい</b>."
+      },
+      {
+        "text": "ささやかながら、故郷のお土産を先生に差し上げました。",
+        "translation": "Dù chỉ là chút quà mọn, tôi xin biếu thầy quà quê hương ạ.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ささやかながら</b> là cách nói khiêm nhường cực kỳ phổ biến khi tặng quà hoặc đãi tiệc."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 26,
+    "question": "さっきゅう",
+    "reading": "",
+    "translation": "Cấp bách, ngay lập tức (Tốc cấp)",
+    "options": [
+      {
+        "text": "さっきゅうな食べ方は体によくないから、ごゆっくり。",
+        "translation": "Cách ăn vội vàng không tốt cho cơ thể nên hãy thong thả.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ăn vội vàng dùng <b>急いで</b> hoặc <b>早食い</b> (はやぐい)."
+      },
+      {
+        "text": "先生のご説明で、問題の解き方がさっきゅう分かった。",
+        "translation": "Nhờ thầy giải thích mà tôi đã hiểu cách giải bài ngay lập tức.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hiểu ngay lập tức dùng <b>すぐ</b> hoặc <b>即座に</b> (そくざに)."
+      },
+      {
+        "text": "彼女からさっきゅうのEメールをもらって嬉しかった。",
+        "translation": "Tôi rất vui khi nhận được email phản hồi nhanh chóng từ cô ấy.",
+        "explanation": "<b style='color:red'>[Sai]</b> Phản hồi nhanh dùng <b>早速の</b> (さっそく)."
+      },
+      {
+        "text": "事故の再発防止策をさっきゅうに立てないといけない。",
+        "translation": "Cần phải lập tức đưa ra các biện pháp ngăn ngừa tai nạn tái phát.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>さっきゅうに</b> dùng cho các vấn đề mang tính giải quyết cấp bách, cần hành động ngay."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 27,
+    "question": "精細",
+    "reading": "せいさい",
+    "translation": "Chi tiết, tỉ mỉ, sắc nét (Tinh tế)",
+    "options": [
+      {
+        "text": "水が小さな穴から精細に流れてきた。",
+        "translation": "Nước chảy qua cái lỗ nhỏ một cách tỉ mỉ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nước chảy dùng <b>細く</b> (ほそく - chảy nhỏ giọt)."
+      },
+      {
+        "text": "野菜は大きめに、肉は精細に切ってください。",
+        "translation": "Hãy cắt rau to một chút, còn thịt thì cắt nhỏ (tỉ mỉ).",
+        "explanation": "<b style='color:red'>[Sai]</b> Cắt nhỏ thức ăn dùng <b>細かく</b> (こまかく)."
+      },
+      {
+        "text": "そこのところをもう少し精細に説明していただけませんか。",
+        "translation": "Bạn có thể giải thích chỗ đó chi tiết hơn một chút được không?",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>精細</b> dùng khi muốn yêu cầu giải thích một cách cực kỳ chi tiết và tỉ mỉ."
+      },
+      {
+        "text": "返してくれたお金は精細で、間違いない。",
+        "translation": "Số tiền trả lại rất chi tiết (chính xác), không sai lệch.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tiền bạc chính xác dùng <b>正確な</b> (せいかく)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 28,
+    "question": "単独",
+    "reading": "たんどく",
+    "translation": "Đơn độc, một mình, độc lập",
+    "options": [
+      {
+        "text": "ヨーロッパの国々は、単独通貨ユーロを導入しようとしている。",
+        "translation": "Các quốc gia châu Âu đang cố gắng đưa vào sử dụng đồng tiền chung Euro.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đồng tiền chung dùng <b>共通通貨</b> (きょうつうつうか)."
+      },
+      {
+        "text": "小さなヨットに乗って単独で太平洋を横断したのは彼が最初だった。",
+        "translation": "Anh ấy là người đầu tiên một mình vượt Thái Bình Dương trên một chiếc thuyền buồm nhỏ.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>単独</b> dùng chính xác cho việc thực hiện một hành động/thành tựu nào đó mà không có sự trợ giúp của người khác."
+      },
+      {
+        "text": "今まで、原爆被害を被った単独の国が日本だ。",
+        "translation": "Cho đến nay, Nhật Bản là quốc gia đơn độc (duy nhất) chịu thiệt hại từ bom nguyên tử.",
+        "explanation": "<b style='color:red'>[Sai]</b> Quốc gia duy nhất dùng <b>唯一の</b> (ゆいいつ)."
+      },
+      {
+        "text": "二本でなく、単独な紐で小包を結べばいい。",
+        "translation": "Không cần hai sợi, chỉ cần dùng một sợi dây đơn để buộc kiện hàng là được.",
+        "explanation": "<b style='color:red'>[Sai]</b> Một sợi dùng <b>一本の</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 29,
+    "question": "不案内",
+    "reading": "ふあんない",
+    "translation": "Không thạo, lạ lẫm, không am hiểu (địa hình, tình hình)",
+    "options": [
+      {
+        "text": "どうやって日本語を不案内から案内まですればいいか。",
+        "translation": "Làm thế nào để đưa tiếng Nhật từ chỗ không biết đến chỗ biết rõ.",
+        "explanation": "<b style='color:red'>[Sai]</b> <b>不案内</b> không dùng để chỉ trình độ ngoại ngữ. Nên dùng <b>下手</b> đến <b>上手</b>."
+      },
+      {
+        "text": "ガイドさんは観光客を行くべき所へは不案内した。",
+        "translation": "Người hướng dẫn đã chỉ dẫn cho khách du lịch đến nơi cần đi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Chỉ dẫn dùng <b>案内</b>. <b>不案内</b> là tính từ, không phải động từ."
+      },
+      {
+        "text": "わたくしは新米で、まだ会社の勝手には不案内です。",
+        "translation": "Tôi là người mới nên vẫn chưa am hiểu các công việc/ngõ ngách trong công ty.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>不案内</b> dùng để chỉ việc chưa quen với một môi trường, địa bàn hoặc lĩnh vực cụ thể nào đó."
+      },
+      {
+        "text": "あの方には不案内だから、いい友人になったんだ。",
+        "translation": "Vì tôi lạ lẫm với người đó nên đã trở thành bạn tốt.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không quen biết dùng <b>面識がない</b> hoặc <b>知らない</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 30,
+    "question": "不可解",
+    "reading": "ふかかい",
+    "translation": "Không thể hiểu nổi, kỳ quái, bí ẩn",
+    "options": [
+      {
+        "text": "彼女が突然中退したのは、不可解極まりないことだ。",
+        "translation": "Việc cô ấy đột ngột bỏ học là một điều cực kỳ không thể hiểu nổi.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>不可解</b> dùng cho những sự việc lạ lùng, khó lý giải bằng logic thông thường."
+      },
+      {
+        "text": "使い捨てカメラは不可解で、修理なんかできない。",
+        "translation": "Máy ảnh dùng một lần thì không thể hiểu nổi nên không sửa được.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cấu tạo không thể sửa được dùng <b>複雑</b> hoặc <b>不可能</b>. <b>不可解</b> chỉ dùng cho hiện tượng/hành động."
+      },
+      {
+        "text": "この物質は溶剤に入れても、不可解な性質がある。",
+        "translation": "Chất này dù cho vào dung môi cũng có những tính chất không thể hiểu nổi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tính chất đặc biệt dùng <b>不思議な</b> hoặc <b>特殊な</b>."
+      },
+      {
+        "text": "この世の中には不可解がることがたくさんある。",
+        "translation": "Trong thế gian này có nhiều điều đáng để không hiểu nổi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không dùng <b>不可解がる</b>. Nên dùng <b>不可解なこと</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 31,
+    "question": "不摂生",
+    "reading": "ふせっせい",
+    "translation": "Không điều độ, không giữ gìn sức khỏe",
+    "options": [
+      {
+        "text": "彼の病気は不摂生な生活につながっている。",
+        "translation": "Bệnh tật của anh ấy có liên quan đến lối sống thiếu điều độ.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>不摂生</b> dùng để chỉ việc ăn uống, sinh hoạt không khoa học dẫn đến hại sức khỏe."
+      },
+      {
+        "text": "彼の部屋は不摂生で、足を置く場所までないぐらいだ。",
+        "translation": "Phòng của anh ấy rất thiếu điều độ, đến mức không có chỗ đặt chân.",
+        "explanation": "<b style='color:red'>[Sai]</b> Phòng bừa bộn dùng <b>散らかり放題</b> (ちちらかりほうだい) hoặc <b>不衛生</b> (ふえいせい - mất vệ sinh)."
+      },
+      {
+        "text": "彼は不摂生な水を飲んだせいで、おなかを壊したそうだ。",
+        "translation": "Nghe nói anh ấy bị đau bụng do uống nước thiếu điều độ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nước bẩn, không sạch dùng <b>不衛生な</b> hoặc <b>汚れた</b>."
+      },
+      {
+        "text": "彼が窃盗を働くのは不摂生な人生によるものだ。",
+        "translation": "Việc anh ta trộm cắp là do một cuộc đời thiếu điều độ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cuộc đời lầm lạc dùng <b>不遇な</b> (ふぐう) hoặc <b>すさんだ</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 32,
+    "question": "まとも",
+    "reading": "",
+    "translation": "Chỉnh chu, tử tế, đàng hoàng, đối diện trực tiếp",
+    "options": [
+      {
+        "text": "彼女の書いた文章はまともで分かりやすい。",
+        "translation": "Đoạn văn cô ấy viết rất chỉnh chu và dễ hiểu.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>まとも</b> dùng để chỉ những thứ được thực hiện một cách tử tế, đúng tiêu chuẩn thông thường."
+      },
+      {
+        "text": "三日間吹きまくった台風がまともに大陸を離れた。",
+        "translation": "Cơn bão thổi suốt ba ngày đã rời khỏi lục địa một cách đàng hoàng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cơn bão đi xa dần dùng <b>ようやく</b> hoặc <b>完全に</b>."
+      },
+      {
+        "text": "まともをすればするほど損をすることがある。",
+        "translation": "Càng làm điều đàng hoàng thì đôi khi càng bị thiệt.",
+        "explanation": "<b style='color:red'>[Sai]</b> Làm việc thiện/đúng đắn dùng <b>正当なこと</b> hoặc <b>正直なこと</b>."
+      },
+      {
+        "text": "彼女はまともで、少しもすれたところがないよ。",
+        "translation": "Cô ấy rất tử tế, không có một chút gì là bị tha hóa cả.",
+        "explanation": "<b style='color:red'>[Sai]</b> Người thuần khiết, không bị vẩn đục bởi xã hội dùng <b>純粋な</b> (じゅんすい) hoặc <b>うぶな</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 33,
+    "question": "名誉",
+    "reading": "めいよ",
+    "translation": "Danh dự, vinh dự",
+    "options": [
+      {
+        "text": "この絵は名誉が高いA先生の傑作です。",
+        "translation": "Bức tranh này là kiệt tác của thầy A, người có danh dự cao.",
+        "explanation": "<b style='color:red'>[Sai]</b> Người nổi tiếng, có danh tiếng dùng <b>有名</b> hoặc <b>名高い</b> (なだかい)."
+      },
+      {
+        "text": "今度の対抗戦で優勝をした君はわが校の名誉だぞ。",
+        "translation": "Em, người vừa vô địch trong trận đối đầu lần này, chính là niềm vinh dự của trường ta.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>名誉</b> dùng để chỉ niềm tự hào, vinh quang mang lại cho một tập thể hoặc cá nhân."
+      },
+      {
+        "text": "名誉的な職ですが、ないよりましだと思っている。",
+        "translation": "Đó là một công việc mang tính danh dự, nhưng tôi nghĩ có vẫn hơn không.",
+        "explanation": "<b style='color:red'>[Sai]</b> Công việc mang tính hình thức, danh nghĩa dùng <b>名誉職</b> (めいよしょく) nhưng câu này dùng <b>名誉的な</b> là không tự nhiên."
+      },
+      {
+        "text": "会社側として、功労のある職員に名誉してあげる。",
+        "translation": "Về phía công ty, chúng tôi sẽ danh dự cho những nhân viên có công lao.",
+        "explanation": "<b style='color:red'>[Sai]</b> Khen thưởng, vinh danh dùng <b>表彰する</b> (ひょうしょう) hoặc <b>栄誉をたたえる</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 34,
+    "question": "流暢",
+    "reading": "りゅうちょう",
+    "translation": "Lưu loát, trôi chảy (thường dùng cho ngoại ngữ)",
+    "options": [
+      {
+        "text": "交渉が流暢に進んだのは何よりのことだ。",
+        "translation": "Việc đàm phán tiến triển trôi chảy là điều đáng mừng nhất.",
+        "explanation": "<b style='color:red'>[Sai]</b> Sự việc tiến triển thuận lợi dùng <b>円滑に</b> (えんかつ) hoặc <b>スムーズに</b>."
+      },
+      {
+        "text": "5歳の子供だが、流暢に絵を描いているのを見て感心した。",
+        "translation": "Dù là đứa trẻ 5 tuổi nhưng tôi thấy ấn tượng khi nó vẽ tranh một cách lưu loát.",
+        "explanation": "<b style='color:red'>[Sai]</b> Vẽ tranh khéo léo dùng <b>上手</b> (じょうず) hoặc <b>すらすらと</b>."
+      },
+      {
+        "text": "流暢な話し方だったが、内容は必ずしもいただけることではなかった。",
+        "translation": "Cách nói chuyện tuy lưu loát nhưng nội dung không hẳn là đã tốt.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>流暢</b> dùng để tả việc nói một ngôn ngữ (thường là ngoại ngữ) rất trôi chảy."
+      },
+      {
+        "text": "泥で詰まっていた溝をさらったら、流れが流暢になった。",
+        "translation": "Sau khi nạo vét mương bị tắc bùn, dòng chảy đã trở nên trôi chảy.",
+        "explanation": "<b style='color:red'>[Sai]</b> Dòng chảy thông suốt dùng <b>スムーズ</b> hoặc <b>良好</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 35,
+    "question": "不備",
+    "reading": "ふび",
+    "translation": "Thiếu sót, không đầy đủ (về hồ sơ, thiết bị, chuẩn bị)",
+    "options": [
+      {
+        "text": "衛生設備の改善計画に不備な点がいくつかある。",
+        "translation": "Trong kế hoạch cải thiện thiết bị vệ sinh có một vài điểm thiếu sót.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>不備</b> thường dùng cho các văn bản, kế hoạch hoặc thiết bị thiếu đi các yếu tố cần thiết."
+      },
+      {
+        "text": "衛生設備が不備しているので、改善を命じられた。",
+        "translation": "Vì thiết bị vệ sinh đang thiếu sót nên đã bị lệnh phải cải thiện.",
+        "explanation": "<b style='color:red'>[Sai]</b> <b>不備</b> là danh từ, không dùng dạng <b>不備している</b>. Phải dùng <b>不備がある</b>."
+      },
+      {
+        "text": "はしが一本しかなく不備だから、食べようがない。",
+        "translation": "Chỉ có một chiếc đũa, vì thiếu sót nên không thể ăn được.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thiếu một chiếc trong một cặp dùng <b>不揃い</b> (ふぞろい) hoặc đơn giản là <b>足りない</b>."
+      },
+      {
+        "text": "不備な食べ方では健康によくないから、気をつけてね。",
+        "translation": "Cách ăn uống thiếu sót không tốt cho sức khỏe nên hãy cẩn thận nhé.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ăn uống không điều độ dùng <b>不摂生な</b> (ふせっせい)."
+      }
+    ],
+    "answer": 0
+  }
+]

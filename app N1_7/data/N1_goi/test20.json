@@ -1,0 +1,1529 @@
+[
+
+  {
+    "id": 1,
+    "question": "彼は取引で2億円<span class='underline'>ロスして</span>自殺を図ったことがあるそうだ。",
+    "translation": "Nghe nói anh ta từng định tự sát vì làm lỗ 200 triệu Yên trong giao dịch.",
+    "options": ["窃盗して", "横領して", "雑にして", "損して"],
+    "answer": 3,
+    "explanation": "窃盗して：Trộm cắp\n横領して：Biển thủ tiền\n雑にして：Làm cẩu thả\n損して：Bị lỗ, thiệt hại → đúng với ロスする"
+  },
+  {
+    "id": 2,
+    "question": "この大学の<span class='underline'>アカデミックな</span>雰囲気に憧れて入学した。",
+    "translation": "Tôi đã nhập học vì ngưỡng mộ bầu không khí học thuật của ngôi trường này.",
+    "options": ["論理的", "学問的", "道徳的", "先進的"],
+    "answer": 1,
+    "explanation": "論理的：Mang tính logic\n学問的：Mang tính học thuật → đúng\n道徳的：Mang tính đạo đức\n先進的：Tiên tiến"
+  },
+  {
+    "id": 3,
+    "question": "彼は<span class='underline'>アレルギー</span>性体質なので、ペニシリン注射はだめだ。",
+    "translation": "Vì anh ấy có cơ địa dị ứng nên không tiêm penicillin được.",
+    "options": ["敏感", "過敏", "過激", "激化"],
+    "answer": 1,
+    "explanation": "敏感：Nhạy cảm\n過敏：Quá mẫn, dị ứng → đúng\n過激：Quá khích\n激化：Trở nên dữ dội"
+  },
+  {
+    "id": 4,
+    "question": "今年の桜祭りでは、のど自慢大会など各種の<span class='underline'>イベント</span>が催された。",
+    "translation": "Trong lễ hội hoa anh đào có nhiều sự kiện được tổ chức.",
+    "options": ["娯楽", "行楽", "行事", "工事"],
+    "answer": 2,
+    "explanation": "娯楽：Giải trí\n行楽：Đi chơi/dã ngoại\n行事：Sự kiện → đúng\n工事：Công trình xây dựng"
+  },
+  {
+    "id": 5,
+    "question": "高級な外車を買って<span class='underline'>オーナー</span>になる。",
+    "translation": "Mua xe sang để trở thành chủ sở hữu.",
+    "options": ["持ち主", "貸し主", "主人", "地主"],
+    "answer": 0,
+    "explanation": "持ち主：Chủ sở hữu → đúng\n貸し主：Người cho thuê\n主人：Chủ nhà/chồng\n地主：Chủ đất"
+  },
+  {
+    "id": 6,
+    "question": "人とは異なる<span class='underline'>オリジナルな</span>発想が必要だ。",
+    "translation": "Cần ý tưởng độc đáo khác người.",
+    "options": ["想像的な", "模倣的な", "独立的な", "独創的な"],
+    "answer": 3,
+    "explanation": "想像的な：Mang tính tưởng tượng\n模倣的な：Bắt chước\n独立的な：Độc lập\n独創的な：Sáng tạo độc đáo → đúng"
+  },
+  {
+    "id": 7,
+    "question": "留学生たちが気軽に<span class='underline'>カウンセラー</span>からカウンセリングを受けることができる。",
+    "translation": "Du học sinh có thể dễ dàng nhận tư vấn.",
+    "options": ["管理員", "相談員", "受付係", "応接係"],
+    "answer": 1,
+    "explanation": "管理員：Nhân viên quản lý\n相談員：Nhân viên tư vấn → đúng\n受付係：Lễ tân\n応接係：Nhân viên tiếp khách"
+  },
+  {
+    "id": 8,
+    "question": "彼は1回で試験を<span class='underline'>クリアした</span>。",
+    "translation": "Anh ấy đã vượt qua kỳ thi ngay lần đầu.",
+    "options": ["通り過ぎた", "切り抜けた", "やり過ごした", "打ち落とした"],
+    "answer": 1,
+    "explanation": "通り過ぎた：Đi qua\n切り抜けた：Vượt qua khó khăn → đúng\nやり過ごした：Bỏ qua\n打ち落とした：Bắn rơi"
+  },
+  {
+    "id": 9,
+    "question": "重症患者へは精神面においても<span class='underline'>ケアする</span>必要がある。",
+    "translation": "Cần chăm sóc bệnh nhân cả về tinh thần.",
+    "options": ["さずける", "ささげる", "いたわる", "たずさわる"],
+    "answer": 2,
+    "explanation": "さずける：Ban cho\nささげる：Dâng hiến\nいたわる：Chăm sóc, an ủi → đúng\nたずさわる：Tham gia"
+  },
+  {
+    "id": 10,
+    "question": "インターネットの普及は社会の<span class='underline'>グローバル化</span>に役立っている。",
+    "translation": "Internet góp phần vào toàn cầu hóa.",
+    "options": ["団体的", "世界的", "効果的", "事務的"],
+    "answer": 1,
+    "explanation": "団体的：Tập thể\n世界的：Toàn cầu → đúng\n効果的：Hiệu quả\n事務的：Hành chính"
+  },
+  {
+    "id": 11,
+    "question": "背が低いことが彼の<span class='underline'>コンプレックス</span>だった。",
+    "translation": "Chiều cao thấp là mặc cảm của anh ấy.",
+    "options": ["劣等感", "緊張感", "抵抗感", "危機感"],
+    "answer": 0,
+    "explanation": "劣等感：Tự ti → đúng\n緊張感：Căng thẳng\n抵抗感：Kháng cự\n危機感：Cảm giác nguy hiểm"
+  },
+  {
+    "id": 12,
+    "question": "企業からの<span class='underline'>サポート</span>が必要だ。",
+    "translation": "Cần sự hỗ trợ từ doanh nghiệp.",
+    "options": ["助言", "援助", "返済", "還元"],
+    "answer": 1,
+    "explanation": "助言：Lời khuyên\n援助：Hỗ trợ → đúng\n返済：Trả nợ\n還元：Hoàn trả"
+  },
+  {
+    "id": 13,
+    "question": "その城の壮大な<span class='underline'>スケール</span>に感動した。",
+    "translation": "Tôi ấn tượng với quy mô lớn.",
+    "options": ["規則", "規範", "規準", "規模"],
+    "answer": 3,
+    "explanation": "規則：Quy tắc\n規範：Chuẩn mực\n規準：Tiêu chuẩn\n規模：Quy mô → đúng"
+  },
+  {
+    "id": 14,
+    "question": "食料を<span class='underline'>ストック</span>している。",
+    "translation": "Tôi đang dự trữ thực phẩm.",
+    "options": ["ささえる", "さえる", "たくわえる", "くわえる"],
+    "answer": 2,
+    "explanation": "ささえる：Chống đỡ\nさえる：Minh mẫn\nたくわえる：Tích trữ → đúng\nくわえる：Thêm vào"
+  },
+  {
+    "id": 15,
+    "question": "スローガンを掲げる。",
+    "translation": "Đưa ra khẩu hiệu.",
+    "options": ["標語", "標準", "用語", "水準"],
+    "answer": 0,
+    "explanation": "標語：Khẩu hiệu → đúng\n標準：Tiêu chuẩn\n用語：Thuật ngữ\n水準：Mức độ"
+  },
+  {
+    "id": 16,
+    "question": "売上を<span class='underline'>トータル</span>する。",
+    "translation": "Tổng doanh thu.",
+    "options": ["あわせる", "よせる", "かぶせる", "ふせる"],
+    "answer": 0,
+    "explanation": "あわせる：Cộng lại → đúng\nよせる：Gom lại\nかぶせる：Che phủ\nふせる：Úp xuống"
+  },
+  {
+    "id": 17,
+    "question": "意見を<span class='underline'>アピール</span>する。",
+    "translation": "Kêu gọi/trình bày ý kiến.",
+    "options": ["くちずさむ", "うなる", "ことづける", "うったえる"],
+    "answer": 3,
+    "explanation": "くちずさむ：Ngâm nga\nうなる：Rên\nことづける：Nhắn gửi\nうったえる：Kêu gọi → đúng"
+  },
+  {
+    "id": 18,
+    "question": "何度も<span class='underline'>トライ</span>する。",
+    "translation": "Thử nhiều lần.",
+    "options": ["やりこなす", "やりとげる", "めざす", "試みる"],
+    "answer": 3,
+    "explanation": "やりこなす：Làm thành thạo\nやりとげる：Hoàn thành\nめざす：Hướng tới\n試みる：Thử → đúng"
+  },
+  {
+    "id": 19,
+    "question": "ノウハウを伝える。",
+    "translation": "Truyền đạt bí quyết.",
+    "options": ["テクノロジー", "アカデミック", "インプット", "デジタル"],
+    "answer": 0,
+    "explanation": "テクノロジー：Công nghệ → gần nghĩa nhất\nアカデミック：Học thuật\nインプット：Đầu vào\nデジタル：Kỹ thuật số"
+  },
+  {
+    "id": 20,
+    "question": "パートナーが必要だ。",
+    "translation": "Cần đối tác.",
+    "options": ["仲人", "仲間", "玄人", "間柄"],
+    "answer": 1,
+    "explanation": "仲人：Người mai mối\n仲間：Đồng đội/đối tác → đúng\n玄人：Chuyên gia\n間柄：Mối quan hệ"
+  },
+  {
+    "id": 21,
+    "question": "彼の発表する新曲は次々に<span class='underline'>ヒット</span>した。",
+    "translation": "Các ca khúc mới của anh ấy liên tiếp trở thành hit.",
+    "options": ["いただいた", "もらった", "受けた", "承った"],
+    "answer": 2,
+    "explanation": "いただいた：Nhận (khiêm nhường)\nもらった：Nhận\n受けた：Được đón nhận → đúng\n承った：Nhận (khiêm nhường trang trọng)"
+  },
+  {
+    "id": 22,
+    "question": "許可を得ずに人のメールを読むことは<span class='underline'>プライバシー</span>の侵害になる。",
+    "translation": "Đọc email người khác khi chưa được phép là xâm phạm quyền riêng tư.",
+    "options": ["私生活", "個人的", "一人暮らし", "個性"],
+    "answer": 0,
+    "explanation": "私生活：Đời sống riêng tư → đúng\n個人的：Mang tính cá nhân\n一人暮らし：Sống một mình\n個性：Cá tính"
+  },
+  {
+    "id": 23,
+    "question": "自分の能力を<span class='underline'>フルに</span>発揮できる職場で働きたい。",
+    "translation": "Muốn làm việc nơi có thể phát huy hết năng lực.",
+    "options": ["創造的に", "先端的に", "完全に", "完備に"],
+    "answer": 2,
+    "explanation": "創造的に：Sáng tạo\n先端的に：Tiên tiến\n完全に：Hoàn toàn → đúng\n完備に：Đầy đủ (trang bị)"
+  },
+  {
+    "id": 24,
+    "question": "<span class='underline'>プレッシャー</span>に負けてしまった。",
+    "translation": "Tôi đã thua trước áp lực.",
+    "options": ["非力", "実力", "威力", "圧力"],
+    "answer": 3,
+    "explanation": "非力：Thiếu sức\n実力：Thực lực\n威力：Uy lực\n圧力：Áp lực → đúng"
+  },
+  {
+    "id": 25,
+    "question": "都市開発の大型<span class='underline'>プロジェクト</span>が成立した。",
+    "translation": "Dự án lớn phát triển đô thị đã được thành lập.",
+    "options": ["戦術", "計画", "意図", "下心"],
+    "answer": 1,
+    "explanation": "戦術：Chiến thuật\n計画：Kế hoạch → đúng\n意図：Ý định\n下心：Ý đồ xấu"
+  },
+  {
+    "id": 26,
+    "question": "そこに至るまでの<span class='underline'>プロセス</span>だ。",
+    "translation": "Đó là quá trình để đạt được kết quả.",
+    "options": ["経過", "経由", "経路", "経歴"],
+    "answer": 0,
+    "explanation": "経過：Quá trình → đúng\n経由：Đi qua\n経路：Lộ trình\n経歴：Lý lịch"
+  },
+  {
+    "id": 27,
+    "question": "もう少し<span class='underline'>ペース</span>を上げてください。",
+    "translation": "Hãy tăng tốc độ lên một chút.",
+    "options": ["歩調", "徒歩", "歩道", "一歩"],
+    "answer": 0,
+    "explanation": "歩調：Nhịp bước → đúng\n徒歩：Đi bộ\n歩道：Vỉa hè\n一歩：Một bước"
+  },
+  {
+    "id": 28,
+    "question": "メリットとデメリットを検討する。",
+    "translation": "Xem xét ưu và nhược điểm.",
+    "options": ["優秀", "優位", "利点", "利益"],
+    "answer": 2,
+    "explanation": "優秀：Xuất sắc\n優位：Ưu thế\n利点：Ưu điểm → đúng\n利益：Lợi nhuận"
+  },
+  {
+    "id": 29,
+    "question": "ライフスタイルは変わった。",
+    "translation": "Phong cách sống đã thay đổi.",
+    "options": ["食べ方", "考え方", "生き方", "持ち方"],
+    "answer": 2,
+    "explanation": "食べ方：Cách ăn\n考え方：Cách suy nghĩ\n生き方：Cách sống → đúng\n持ち方：Cách cầm"
+  },
+  {
+    "id": 30,
+    "question": "ラッキーな人だ。",
+    "translation": "Là người may mắn.",
+    "options": ["唯一", "幸運", "まれ", "わざわい"],
+    "answer": 1,
+    "explanation": "唯一：Duy nhất\n幸運：May mắn → đúng\nまれ：Hiếm\nわざわい：Tai họa"
+  },
+  {
+    "id": 31,
+    "question": "びりにランクされた。",
+    "translation": "Bị xếp hạng cuối.",
+    "options": ["等級化", "自由化", "多様化", "自動化"],
+    "answer": 0,
+    "explanation": "等級化：Xếp hạng → đúng\n自由化：Tự do hóa\n多様化：Đa dạng hóa\n自動化：Tự động hóa"
+  },
+  {
+    "id": 32,
+    "question": "会社をリストラされた。",
+    "translation": "Bị cắt giảm nhân sự.",
+    "options": ["分別", "分離", "整合", "整理"],
+    "answer": 3,
+    "explanation": "分別：Phân biệt\n分離：Tách rời\n整合：Phù hợp\n整理：Sắp xếp/cắt giảm → đúng"
+  },
+  {
+    "id": 33,
+    "question": "感染ルートを調べている。",
+    "translation": "Đang điều tra đường lây nhiễm.",
+    "options": ["回路", "通路", "針路", "経路"],
+    "answer": 3,
+    "explanation": "回路：Mạch\n通路：Lối đi\n針路：Hướng đi\n経路：Lộ trình → đúng"
+  },
+  {
+    "id": 34,
+    "question": "アレンジしてアニメにした。",
+    "translation": "Chuyển thể thành anime.",
+    "options": ["製造", "創立", "脚色", "演出"],
+    "answer": 2,
+    "explanation": "製造：Sản xuất\n創立：Thành lập\n脚色：Chuyển thể → đúng\n演出：Đạo diễn"
+  },
+  {
+    "id": 35,
+    "question": "タブー視されている。",
+    "translation": "Bị xem là điều cấm kỵ.",
+    "options": ["閉鎖", "鎖国", "禁制", "統制"],
+    "answer": 2,
+    "explanation": "閉鎖：Đóng kín\n鎖国：Bế quan tỏa cảng\n禁制：Cấm → đúng\n統制：Kiểm soát"
+  },
+  {
+    "id": 36,
+    "question": "デリケートな問題だ。",
+    "translation": "Là vấn đề nhạy cảm.",
+    "options": ["敏感", "機敏", "警告", "警戒"],
+    "answer": 0,
+    "explanation": "敏感：Nhạy cảm → đúng\n機敏：Nhanh nhẹn\n警告：Cảnh cáo\n警戒：Cảnh giác"
+  },
+  {
+    "id": 37,
+    "question": "明るいキャラクターだ。",
+    "translation": "Có tính cách tươi sáng.",
+    "options": ["品質", "性質", "質量", "知性"],
+    "answer": 1,
+    "explanation": "品質：Chất lượng\n性質：Tính cách → đúng\n質量：Khối lượng\n知性：Trí tuệ"
+  },
+  {
+    "id": 38,
+    "question": "ジレンマに苦しんでいた。",
+    "translation": "Đang đau khổ vì tiến thoái lưỡng nan.",
+    "options": ["見地", "境地", "見解", "境界"],
+    "answer": 1,
+    "explanation": "見地：Quan điểm\n境地：Hoàn cảnh/tình thế → gần nghĩa nhất\n見解：Ý kiến\n境界：Ranh giới"
+  },
+  {
+    "id": 39,
+    "question": "イラストが載っている。",
+    "translation": "Có hình minh họa.",
+    "options": ["絵本", "コミック", "挿絵", "テキスト"],
+    "answer": 2,
+    "explanation": "絵本：Sách tranh\nコミック：Truyện tranh\n挿絵：Hình minh họa → đúng\nテキスト：Văn bản"
+  },
+  {
+    "id": 40,
+    "question": "恋人同士が多い。",
+    "translation": "Có nhiều cặp đôi yêu nhau.",
+    "options": ["ペア", "組", "カップル", "対"],
+    "answer": 2,
+    "explanation": "ペア：Cặp\n組：Nhóm\nカップル：Cặp đôi → đúng\n対：Cặp (trang trọng)"
+  },
+  {
+    "id": 41,
+    "question": "新製品の販売促進の<span class='underline'>キャンペーン</span>が繰り広げられる。",
+    "translation": "Một chiến dịch thúc đẩy bán sản phẩm mới đang được triển khai.",
+    "options": ["活力", "活発", "活躍", "活動"],
+    "answer": 3,
+    "explanation": "活力: sức sống, năng lượng. 活発: sôi nổi, năng động. 活躍: hoạt động nổi bật (thường dùng cho người). 活動: hoạt động → phù hợp với campaign."
+  },
+  {
+    "id": 42,
+    "question": "人口と発展に関する<span class='underline'>シンポジウム</span>が開かれた。",
+    "translation": "Một hội thảo về dân số và phát triển đã được tổ chức.",
+    "options": ["討論会", "同窓会", "連合会", "委員会"],
+    "answer": 0,
+    "explanation": "討論会: buổi thảo luận → đúng nghĩa symposium. 同窓会: họp lớp. 連合会: liên hiệp hội. 委員会: ủy ban."
+  },
+  {
+    "id": 43,
+    "question": "身体障害者に<span class='underline'>スペシャルサービス</span>を提供いたします。",
+    "translation": "Cung cấp dịch vụ đặc biệt cho người khuyết tật.",
+    "options": ["差別", "特別", "区別", "個別"],
+    "answer": 1,
+    "explanation": "差別: phân biệt đối xử. 特別: đặc biệt → đúng. 区別: phân biệt. 個別: riêng lẻ."
+  },
+  {
+    "id": 44,
+    "question": "<span class='underline'>ホスト</span>校として、バレーボール対抗戦を行なった。",
+    "translation": "Với tư cách là trường chủ nhà, đã tổ chức thi đấu.",
+    "options": ["主催", "主要", "主人", "主幹"],
+    "answer": 0,
+    "explanation": "主催: tổ chức → đúng nghĩa host. 主要: chủ yếu. 主人: chủ nhà (người). 主幹: người phụ trách."
+  },
+  {
+    "id": 45,
+    "question": "全国に支店を設けて販売の<span class='underline'>ネットワーク化</span>を図る。",
+    "translation": "Thiết lập mạng lưới bán hàng.",
+    "options": ["網", "棚", "ケーブル", "ロープ"],
+    "answer": 0,
+    "explanation": "網: mạng lưới → đúng. 棚: kệ. ケーブル: cáp. ロープ: dây."
+  },
+  {
+    "id": 46,
+    "question": "それは現実にない、まったくの<span class='underline'>フィクション</span>だ。",
+    "translation": "Đó là câu chuyện hư cấu.",
+    "options": ["夢見", "思慮", "想像", "模倣"],
+    "answer": 2,
+    "explanation": "夢見: mơ mộng. 思慮: suy nghĩ cẩn trọng. 想像: tưởng tượng → đúng. 模倣: bắt chước."
+  },
+  {
+    "id": 47,
+    "question": "先生が<span class='underline'>メスを入れて</span>くださった。",
+    "translation": "Thầy đã chỉnh sửa giúp.",
+    "options": ["首をひねって", "足を運んで", "頭を使って", "手を加えて"],
+    "answer": 3,
+    "explanation": "首をひねって: tỏ vẻ khó hiểu. 足を運んで: đến tận nơi. 頭を使って: suy nghĩ. 手を加えて: chỉnh sửa → đúng."
+  },
+  {
+    "id": 48,
+    "question": "メーカーが<span class='underline'>ユーザー</span>の要請にこたえた。",
+    "translation": "Đáp ứng yêu cầu người dùng.",
+    "options": ["関係者", "使用者", "業者", "役者"],
+    "answer": 1,
+    "explanation": "関係者: người liên quan. 使用者: người sử dụng → đúng. 業者: doanh nghiệp. 役者: diễn viên."
+  },
+  {
+    "id": 49,
+    "question": "みなさんの<span class='underline'>リクエスト</span>にこたえた。",
+    "translation": "Đáp ứng yêu cầu.",
+    "options": ["要素", "要因", "要領", "要望"],
+    "answer": 3,
+    "explanation": "要素: yếu tố. 要因: nguyên nhân. 要領: cách làm. 要望: yêu cầu → đúng."
+  },
+  {
+    "id": 50,
+    "question": "会社復帰を目指して<span class='underline'>リハビリ</span>している。",
+    "translation": "Đang phục hồi.",
+    "options": ["訓練", "試練", "教訓", "模試"],
+    "answer": 0,
+    "explanation": "訓練: luyện tập → đúng. 試練: thử thách. 教訓: bài học. 模試: thi thử."
+  },
+  {
+    "id": 51,
+    "question": "欠陥製品を<span class='underline'>リコール</span>する。",
+    "translation": "Thu hồi sản phẩm lỗi.",
+    "options": ["総合", "回収", "合計", "募集"],
+    "answer": 1,
+    "explanation": "総合: tổng hợp. 回収: thu hồi → đúng. 合計: tổng cộng. 募集: tuyển."
+  },
+  {
+    "id": 52,
+    "question": "盛大な<span class='underline'>レセプション</span>が開かれた。",
+    "translation": "Tổ chức tiệc chiêu đãi.",
+    "options": ["食事会", "飲み会", "忘年会", "招待会"],
+    "answer": 3,
+    "explanation": "食事会: tiệc ăn. 飲み会: tiệc uống. 忘年会: tiệc cuối năm. 招待会: tiệc chiêu đãi → đúng."
+  },
+  {
+    "id": 53,
+    "question": "彼は<span class='underline'>リーダー</span>として活躍している。",
+    "translation": "Anh ấy là lãnh đạo.",
+    "options": ["技術者", "指導者", "役員", "工員"],
+    "answer": 1,
+    "explanation": "技術者: kỹ sư. 指導者: lãnh đạo → đúng. 役員: ban quản lý. 工員: công nhân."
+  },
+  {
+    "id": 54,
+    "question": "自己<span class='underline'>ピーアール</span>も必要だ。",
+    "translation": "Cần PR bản thân.",
+    "options": ["宣伝", "伝達", "自慢", "誇張"],
+    "answer": 0,
+    "explanation": "宣伝: quảng bá → đúng. 伝達: truyền đạt. 自慢: khoe. 誇張: phóng đại."
+  },
+  {
+    "id": 55,
+    "question": "歓声が<span class='underline'>スタジアム</span>に響く。",
+    "translation": "Tiếng reo vang trong sân vận động.",
+    "options": ["宴会場", "試験場", "競技場", "駐輪場"],
+    "answer": 2,
+    "explanation": "宴会場: hội trường tiệc. 試験場: nơi thi. 競技場: sân vận động → đúng. 駐輪場: bãi xe."
+  },
+  {
+    "id": 56,
+    "question": "戦場へ<span class='underline'>ジャーナリスト</span>を派遣する。",
+    "translation": "Cử nhà báo.",
+    "options": ["ゲスト", "記者", "タレント", "役者"],
+    "answer": 1,
+    "explanation": "ゲスト: khách. 記者: phóng viên → đúng. タレント: người nổi tiếng. 役者: diễn viên."
+  },
+  {
+    "id": 57,
+    "question": "バットを<span class='underline'>スイング</span>する。",
+    "translation": "Vung gậy.",
+    "options": ["振る", "踏む", "ける", "はたく"],
+    "answer": 0,
+    "explanation": "振る: vung → đúng. 踏む: dẫm. ける: đá. はたく: vỗ."
+  },
+  {
+    "id": 58,
+    "question": "新製品の<span class='underline'>セールス</span>をする。",
+    "translation": "Bán sản phẩm.",
+    "options": ["購入", "開発", "設計", "販売"],
+    "answer": 3,
+    "explanation": "購入: mua. 開発: phát triển. 設計: thiết kế. 販売: bán → đúng."
+  },
+  {
+    "id": 59,
+    "question": "道具を片付ける。",
+    "translation": "Dọn dụng cụ.",
+    "options": ["ツール", "ルール", "シーツ", "ルーツ"],
+    "answer": 0,
+    "explanation": "ツール: dụng cụ → đúng. ルール: luật. シーツ: ga giường. ルーツ: nguồn gốc."
+  },
+  {
+    "id": 60,
+    "question": "ロボットを<span class='underline'>ディスプレイ</span>する。",
+    "translation": "Trưng bày robot.",
+    "options": ["展示", "展開", "発展", "発売"],
+    "answer": 0,
+    "explanation": "展示: trưng bày → đúng. 展開: triển khai. 発展: phát triển. 発売: phát hành."
+  },
+  {
+    "id": 61,
+    "question": "万博では<span class='underline'>先端技術</span>による新製品が揃っていた。",
+    "translation": "Tại triển lãm thế giới, các sản phẩm mới sử dụng công nghệ tiên tiến đã được trưng bày đầy đủ.",
+    "options": ["ハイジャンプ", "ハイクラス", "ハイテク", "ハイレベル"],
+    "answer": 2,
+    "explanation": "先端技術 = 技術の中でも最も進んだもの。\n①ハイジャンプ: Nhảy cao (không liên quan)\n②ハイクラス: Cao cấp (không phải công nghệ)\n③ハイテク: Công nghệ cao → đúng\n④ハイレベル: Trình độ cao (không cụ thể là công nghệ)"
+  },
+  {
+    "id": 62,
+    "question": "<span class='underline'>バブル</span>経済が崩壊して久しいが、回復の気配がまだ感じられない。",
+    "translation": "Đã lâu kể từ khi nền kinh tế bong bóng sụp đổ, nhưng vẫn chưa thấy dấu hiệu hồi phục.",
+    "options": ["蒸気", "波", "湯気", "泡"],
+    "answer": 3,
+    "explanation": "バブル = bong bóng.\n①蒸気: Hơi nước\n②波: Sóng\n③湯気: Hơi nóng\n④泡: Bong bóng → đúng"
+  },
+  {
+    "id": 63,
+    "question": "人の<span class='underline'>プライド</span>を傷つけるような話をするな。",
+    "translation": "Đừng nói những điều làm tổn thương lòng tự trọng của người khác.",
+    "options": ["好奇心", "自尊心", "向上心", "独立心"],
+    "answer": 1,
+    "explanation": "プライド = lòng tự trọng.\n①好奇心: Tò mò\n②自尊心: Lòng tự trọng → đúng\n③向上心: Ý chí tiến bộ\n④独立心: Tinh thần tự lập"
+  },
+  {
+    "id": 64,
+    "question": "<span class='underline'>ライセンス</span>がないばかりに、他社に委託して輸入するほかない。",
+    "translation": "Vì không có giấy phép nên buộc phải nhờ công ty khác nhập khẩu.",
+    "options": ["保証書", "許可書", "報告書", "領収書"],
+    "answer": 1,
+    "explanation": "ライセンス = giấy phép.\n①保証書: Giấy bảo hành\n②許可書: Giấy phép → đúng\n③報告書: Báo cáo\n④領収書: Hóa đơn"
+  },
+  {
+    "id": 65,
+    "question": "<span class='underline'>ラフな</span>服を着て海外旅行に出かける。",
+    "translation": "Mặc đồ thoải mái đi du lịch nước ngoài.",
+    "options": ["みすぼらしい", "安っぽい", "わがままな", "手軽な"],
+    "answer": 3,
+    "explanation": "ラフ = thoải mái, không cầu kỳ.\n①みすぼらしい: Tồi tàn\n②安っぽい: Rẻ tiền\n③わがままな: Ích kỷ\n④手軽な: Đơn giản, tiện → đúng"
+  },
+  {
+    "id": 66,
+    "question": "政治改革を求める<span class='underline'>ムード</span>が国民の間に広がっている。",
+    "translation": "Không khí yêu cầu cải cách chính trị đang lan rộng.",
+    "options": ["無邪気", "景気", "雰囲気", "強気"],
+    "answer": 2,
+    "explanation": "ムード = bầu không khí.\n①無邪気: Ngây thơ\n②景気: Kinh tế\n③雰囲気: Không khí → đúng\n④強気: Mạnh mẽ, cứng rắn"
+  },
+  {
+    "id": 67,
+    "question": "上司の<span class='underline'>セクハラ</span>で、会社を辞めざるをえなくなる女性は少なくない。",
+    "translation": "Không ít phụ nữ phải nghỉ việc vì bị quấy rối tình dục.",
+    "options": ["いやがらせ", "セクシー", "うれしがらせ", "セックスアピール"],
+    "answer": 0,
+    "explanation": "セクハラ = quấy rối.\n①いやがらせ: Làm phiền, quấy rối → đúng\n②セクシー: Gợi cảm\n③うれしがらせ: Làm vui\n④セックスアピール: Sức hấp dẫn giới tính"
+  },
+  {
+    "id": 68,
+    "question": "この商品をネット販売にしたところ、一日3000件もの<span class='underline'>アクセス</span>があった。",
+    "translation": "Sản phẩm này có 3000 lượt truy cập mỗi ngày.",
+    "options": ["見積もり", "見合わせ", "注文", "注目"],
+    "answer": 2,
+    "explanation": "アクセス = truy cập / sự chú ý.\n①見積もり: Báo giá\n②見合わせ: Tạm hoãn\n③注文: Đặt hàng\n④注目: Sự chú ý → gần nghĩa nhất"
+  },
+  {
+    "id": 69,
+    "question": "人生というのは永遠の<span class='underline'>クエスチョンマーク</span>と言えよう。",
+    "translation": "Cuộc đời là một dấu hỏi vĩnh viễn.",
+    "options": ["既知数", "未知数", "現実的", "空想的"],
+    "answer": 1,
+    "explanation": "クエスチョンマーク = điều chưa biết.\n①既知数: Điều đã biết\n②未知数: Điều chưa biết → đúng\n③現実的: Thực tế\n④空想的: Viển vông"
+  },
+  {
+    "id": 70,
+    "question": "彼女の表現は<span class='underline'>オーバー</span>で、あてにならない。",
+    "translation": "Cách nói của cô ấy rất phóng đại, không đáng tin.",
+    "options": ["おおまか", "おおかた", "おおげさ", "おおがら"],
+    "answer": 2,
+    "explanation": "オーバー = phóng đại.\n①おおまか: Đại khái\n②おおかた: Hầu hết\n③おおげさ: Phóng đại → đúng\n④おおがら: To con"
+  },
+  {
+    "id": 71,
+    "question": "彼女は就職してから、いつも<span class='underline'>シックな</span>装いをしている。",
+    "translation": "Cô ấy luôn ăn mặc thanh lịch từ khi đi làm.",
+    "options": ["地味な", "シングルな", "大柄な", "しゃれた"],
+    "answer": 3,
+    "explanation": "シック = thanh lịch.\n①地味な: Đơn giản, không nổi bật\n②シングルな: Độc thân\n③大柄な: To lớn\n④しゃれた: Sành điệu, thanh lịch → đúng"
+  },
+  {
+    "id": 72,
+    "question": "学歴が高くしかも<span class='underline'>イケメン</span>とあって今度の新人は女性社員のターゲットになっている。",
+    "translation": "Vì có học vấn cao lại còn là một anh chàng đẹp trai, người mới lần này đang trở thành mục tiêu của các nhân viên nữ.",
+    "options": ["ハンサム", "スマート", "猛烈", "貫禄"],
+    "answer": 0,
+    "explanation": "【イケメン】: Trai đẹp, người đàn ông có ngoại hình cuốn hút.\n- 0. ハンサム (Handsome): Đẹp trai. => ĐỒNG NGHĨA.\n- 1. スマート (Smart): Thanh mảnh, lịch sự hoặc thông minh.\n- 2. 猛烈 (もうれつ): Mãnh liệt, dữ dội.\n- 3. 貫禄 (かんろく): Uy nghiêm, chững chạc."
+  },
+  {
+    "id": 73,
+    "question": "この電気自動車には当社の技術の<span class='underline'>エキス</span>すべてが注ぎ込まれている。",
+    "translation": "Tất cả những gì tinh túy nhất trong kỹ thuật của công ty chúng tôi đều được đổ dồn vào chiếc xe điện này.",
+    "options": ["得", "粋", "たくみ", "ゆたか"],
+    "answer": 1,
+    "explanation": "【エキス (Extract/Essence)】: Phần tinh túy, phần cốt lõi.\n- 0. 得 (とく): Lợi ích, lãi.\n- 1. 粋 (すい): Tinh túy, điều tốt đẹp nhất. => ĐỒNG NGHĨA.\n- 2. たくみ: Sự khéo léo, kỹ xảo.\n- 3. ゆたか: Phong phú, giàu có."
+  },
+  {
+    "id": 74,
+    "question": "アフター5にOLはどこへ向かうのか。英会話スクールか、それとも<span class='underline'>エステ</span>かを知りたい。",
+    "translation": "Sau 5 giờ chiều, các nữ nhân viên văn phòng sẽ đi đâu? Tôi muốn biết họ đi học tiếng Anh hay đi thẩm mỹ viện (chăm sóc sắc đẹp).",
+    "options": ["矯正", "美容", "成形", "体操"],
+    "answer": 1,
+    "explanation": "【エステ (Esthetic)】: Dịch vụ chăm sóc sắc đẹp, thẩm mỹ viện.\n- 0. 矯正 (きょうせい): Uốn nắn, chỉnh sửa (răng, tật).\n- 1. 美容 (びよう): Mỹ dung, chăm sóc sắc đẹp. => ĐỒNG NGHĨA.\n- 2. 成形 (せいけい): Tạo hình (thường dùng trong công nghiệp hoặc phẫu thuật thẩm mỹ hình thể).\n- 3. 体操 (たいそう): Thể dục."
+  },
+  {
+    "id": 75,
+    "question": "図書館の本がみな<span class='underline'>ジャンル</span>ごとに整理されているので、とても見つけやすい。",
+    "translation": "Sách ở thư viện đều được sắp xếp theo từng thể loại nên rất dễ tìm.",
+    "options": ["科目", "種類", "書名", "番号"],
+    "answer": 1,
+    "explanation": "【ジャンル (Genre)】: Thể loại, lĩnh vực.\n- 0. 科目 (かもく): Môn học, mục.\n- 1. 種類 (しゅるい): Loại, chủng loại. => ĐỒNG NGHĨA.\n- 2. 書名 (しょめい): Tên sách.\n- 3. 番号 (ばんごう): Số thứ tự."
+  },
+  {
+    "id": 76,
+    "question": "今度の試験は大きく分けると、筆記試験と口頭試験の二つの<span class='underline'>セクション</span>からなっている。",
+    "translation": "Kỳ thi lần này nếu chia lớn ra thì gồm hai phần: thi viết và thi vấn đáp.",
+    "options": ["成果", "結果", "成分", "部分"],
+    "answer": 3,
+    "explanation": "【セクション (Section)】: Phần, mục, bộ phận.\n- 0. 成果 (せいか): Thành quả.\n- 1. 結果 (けっか): Kết quả.\n- 2. 成分 (せいぶん): Thành phần (trong hóa chất, thực phẩm).\n- 3. 部分 (ぶぶん): Bộ phận, phần. => ĐỒNG NGHĨA."
+  },
+  {
+    "id": 77,
+    "question": "彼女は<span class='underline'>スプリング</span>がよく、体操選手に向いている。",
+    "translation": "Cô ấy có độ đàn hồi (sức bật) tốt, rất phù hợp làm vận động viên thể dục dụng cụ.",
+    "options": ["気力", "強力", "弾力", "浮力"],
+    "answer": 2,
+    "explanation": "【スプリング (Spring)】: Lò xo, sức bật, độ đàn hồi.\n- 0. 気力 (きりょく): Nghị lực, khí lực.\n- 1. 強力 (きょうりょく): Mạnh mẽ.\n- 2. 弾力 (だんりょく): Lực đàn hồi, sức bật. => ĐỒNG NGHĨA.\n- 3. 浮力 (ふりょく): Lực đẩy Ácsimét, sức nổi."
+  },
+  {
+    "id": 78,
+    "question": "全10巻の長編小説を1冊にまとめた<span class='underline'>ダイジェスト</span>版が出た。",
+    "translation": "Phiên bản tóm tắt thu gọn bộ tiểu thuyết dài 10 tập vào 1 cuốn đã được xuất bản.",
+    "options": ["要約", "倹約", "節約", "規約"],
+    "answer": 0,
+    "explanation": "【ダイジェスト (Digest)】: Bản tóm tắt, bản rút gọn nội dung.\n- 0. 要約 (ようやく): Tóm tắt. => ĐỒNG NGHĨA.\n- 1. 倹約 (けんやく): Tiết kiệm (chi tiêu).\n- 2. 節約 (せつやく): Tiết kiệm (tài nguyên, thời gian).\n- 3. 規約 (きやく): Quy ước, điều khoản."
+  },
+  {
+    "id": 79,
+    "question": "彼女はついにミス東京コンテストの<span class='underline'>クイーン</span>に当選した。",
+    "translation": "Cuối cùng cô ấy đã đắc cử ngôi vị nữ hoàng của cuộc thi Hoa hậu Tokyo.",
+    "options": ["優勝者", "主催者", "責任者", "応援者"],
+    "answer": 0,
+    "explanation": "【クイーン (Queen)】: Nữ hoàng (trong cuộc thi chỉ người đứng đầu).\n- 0. 優勝者 (ゆうしょうしゃ): Người chiến thắng, người vô địch. => ĐỒNG NGHĨA.\n- 1. 主催者 (しゅさいしゃ): Người tổ chức.\n- 2. 責任者 (せきにんしゃ): Người chịu trách nhiệm.\n- 3. 応援者 (おうえんしゃ): Người cổ vũ."
+  },
+  {
+    "id": 80,
+    "question": "ここは3本の新幹線が交わる<span class='underline'>ターミナル</span>駅です。",
+    "translation": "Đây là ga cuối (ga trung chuyển lớn) nơi 3 tuyến tàu Shinkansen giao nhau.",
+    "options": ["到着", "終着", "到達", "終了"],
+    "answer": 1,
+    "explanation": "【ターミナル (Terminal)】: Điểm đầu/cuối của một tuyến đường, ga trung chuyển lớn.\n- 0. 到着 (とうちゃく): Đến nơi.\n- 1. 終着 (しゅうちゃく): Điểm dừng cuối cùng. => ĐỒNG NGHĨA.\n- 2. 到達 (とうたつ): Đạt đến (mục tiêu).\n- 3. 終了 (しゅうりょう): Kết thúc."
+  },
+  {
+    "id": 81,
+    "question": "毎日のように<span class='underline'>セールスマン</span>が来て、うるさくてたまらない。",
+    "translation": "Hầu như ngày nào cũng có nhân viên bán hàng đến, phiền phức không chịu nổi.",
+    "options": ["銀行員", "販売員", "会社員", "公務員"],
+    "answer": 1,
+    "explanation": "【セールスマン (Salesman)】: Nhân viên bán hàng, người chào hàng.\n- 0. 銀行員 (ぎんこういん): Nhân viên ngân hàng.\n- 1. 販売員 (はんばいいん): Người bán hàng. => ĐỒNG NGHĨA.\n- 2. 会社員 (かいしゃいん): Nhân viên công ty.\n- 3. 公務員 (こうむいん): Công chức."
+  },
+  {
+    "id": 82,
+    "question": "喫煙による健康への<span class='underline'>デメリット</span>は計り知れないと言われている。",
+    "translation": "Người ta nói rằng tác hại (điểm bất lợi) đối với sức khỏe do việc hút thuốc là không thể đong đếm được.",
+    "options": ["長短", "良し悪し", "短所", "近所"],
+    "answer": 2,
+    "explanation": "【デメリット (Demerit)】: Điểm yếu, bất lợi, tác hại.\n- 0. 長短 (ちょうたん): Độ dài ngắn, ưu nhược điểm.\n- 1. 良し悪し (よしあし): Tốt xấu.\n- 2. 短所 (たんしょ): Nhược điểm, điểm chưa tốt. => ĐỒNG NGHĨA.\n- 3. 近所 (きんじょ): Hàng xóm, vùng lân cận."
+  },
+  {
+    "id": 83,
+    "question": "デザイナー出身の井上君のおかげで、今年のクリスマスの<span class='underline'>デコレーション</span>は特に素敵にできていました。",
+    "translation": "Nhờ có cậu Inoue vốn là một nhà thiết kế, việc trang trí Giáng sinh năm nay đã được thực hiện rất tuyệt vời.",
+    "options": ["内装", "化粧", "装飾", "展示"],
+    "answer": 2,
+    "explanation": "【デコレーション (Decoration)】: Sự trang trí.\n- 0. 内装 (ないそう): Nội thất (bên trong công trình).\n- 1. 化粧 (けしょう): Trang điểm.\n- 2. 装飾 (そうしょく): Trang trí, tô điểm. => ĐỒNG NGHĨA.\n- 3. 展示 (てんじ): Trưng bày."
+  },
+  {
+    "id": 84,
+    "question": "貢献があると認められて賃金<span class='underline'>ベース</span>をアップしてくれた。",
+    "translation": "Sự cống hiến đã được công nhận và họ đã tăng mức lương cơ bản cho tôi.",
+    "options": ["敷地", "準拠", "基地", "基準"],
+    "answer": 3,
+    "explanation": "【ベース (Base)】: Nền tảng, mức cơ bản.\n- 0. 敷地 (しきち): Mặt bằng, khu đất xây dựng.\n- 1. 準拠 (じゅんきょ): Căn cứ vào, tiêu chuẩn dựa trên.\n- 2. 基地 (きち): Căn cứ (quân sự).\n- 3. 基準 (きじゅん): Tiêu chuẩn, định mức cơ bản. => ĐỒNG NGHĨA."
+  },
+  {
+    "id": 85,
+    "question": "空港までモノレールの<span class='underline'>レール</span>が伸びたおかげで、アクセスが格段によくなった。",
+    "translation": "Nhờ đường ray tàu điện một ray được kéo dài đến tận sân bay, việc di chuyển đã trở nên thuận tiện hơn rất nhiều.",
+    "options": ["線路", "道路", "往来", "行き来"],
+    "answer": 0,
+    "explanation": "【レール (Rail)】: Đường ray.\n- 0. 線路 (せんろ): Đường ray, tuyến đường sắt. => ĐỒNG NGHĨA.\n- 1. 道路 (どうろ): Đường lộ (cho xe cộ).\n- 2. 往来 (おうらい): Giao thông, sự đi lại.\n- 3. 行き来 (いきき): Sự đi qua đi lại."
+  },
+  {
+    "id": 86,
+    "question": "すばやく情報を<span class='underline'>キャッチ</span>して判断することが大切である。",
+    "translation": "Việc nắm bắt thông tin nhanh chóng và đưa ra phán đoán là rất quan trọng.",
+    "options": ["伝達して", "とらえて", "送信して", "ひねって"],
+    "answer": 1,
+    "explanation": "【キャッチ (Catch)】: Bắt lấy, nắm bắt.\n- 0. 伝達して (でんたつ): Truyền đạt.\n- 1. とらえて (捉えて): Nắm bắt, chộp lấy. => ĐỒNG NGHĨA.\n- 2. 送信して (そうしん): Gửi đi (tín hiệu).\n- 3. ひねって: Vặn, xoắn (hoặc vắt óc suy nghĩ)."
+  },
+  {
+    "id": 87,
+    "question": "自然環境の悪化を防止することは<span class='underline'>インターナショナル</span>な問題である。",
+    "translation": "Việc ngăn chặn sự suy thoái của môi trường tự nhiên là một vấn đề mang tính quốc tế.",
+    "options": ["国際的", "公的", "全国的", "外的"],
+    "answer": 0,
+    "explanation": "【インターナショナル (International)】: Quốc tế.\n- 0. 国際的 (こくさいてき): Mang tính quốc tế. => ĐỒNG NGHĨA.\n- 1. 公的 (こうてき): Công cộng, chính thức.\n- 2. 全国的 (ぜんこくてき): Mang tính toàn quốc.\n- 3. 外的 (がいてき): Bên ngoài."
+  },
+  {
+    "id": 88,
+    "question": "「ポロロ」というユニークな<span class='underline'>ネーミング</span>のせいで、この菓子はよく売れている。",
+    "translation": "Nhờ cái tên độc đáo là \"Pororo\" mà loại bánh kẹo này bán rất chạy.",
+    "options": ["名乗り", "名ばかり", "名づけ", "名札"],
+    "answer": 2,
+    "explanation": "【ネーミング (Naming)】: Việc đặt tên.\n- 0. 名乗り (なのり): Tự xưng tên.\n- 1. 名ばかり (なばかり): Chỉ có cái danh (không có thực chất).\n- 2. 名づけ (なづけ): Đặt tên. => ĐỒNG NGHĨA.\n- 3. 名札 (なふだ): Bảng tên, thẻ tên."
+  },
+  {
+    "id": 89,
+    "question": "手術は無事に終了した。あとは<span class='underline'>リハビリテーション</span>だけだ。",
+    "translation": "Ca phẫu thuật đã kết thúc tốt đẹp. Giờ chỉ còn việc phục hồi chức năng nữa thôi.",
+    "options": ["見当", "見地", "介入", "介抱"],
+    "answer": 3,
+    "explanation": "【リハビリテーション (Rehabilitation)】: Phục hồi chức năng (thường gọi tắt là リハビリ).\n- Trong ngữ cảnh này, câu hỏi gốc có thể bị nhầm lẫn giữa các lựa chọn. Thông thường リハビリ tương đương với **機能回復訓練 (Luyện tập hồi phục chức năng)**. Tuy nhiên, nếu xét các đáp án hiện có: \n- 0. 見当 (けんとう): Ước tính/Dự đoán (Không phù hợp).\n- 1. 見地 (けんち): Quan điểm.\n- 2. 介入 (かいにゅう): Can thiệp.\n- 3. 介抱 (かいほう): Chăm sóc, trông nom người bệnh. (Đây là từ gần nhất về mặt ý nghĩa chăm sóc sau phẫu thuật trong 4 đáp án này)."
+  },
+  {
+    "id": 90,
+    "question": "男子サッカー部の女子<span class='underline'>マネージャー</span>。希望者が多いらしい。",
+    "translation": "Vị trí quản lý nữ của câu lạc bộ bóng đá nam. Nghe nói có rất nhiều người đăng ký.",
+    "options": ["世話人", "商売人", "受取人", "差出人"],
+    "answer": 0,
+    "explanation": "【マネージャー (Manager)】: Người quản lý, người chăm sóc lo liệu công việc cho đội.\n- 0. 世話人 (せわにん): Người lo liệu, người trung gian chăm sóc. => ĐỒNG NGHĨA.\n- 1. 商売人 (しょうばいにん): Người kinh doanh.\n- 2. 受取人 (うけとりにん): Người nhận.\n- 3. 差出人 (さしだしにん): Người gửi."
+  },
+  {
+    "id": 91,
+    "question": "会議でトンネルの完工<span class='underline'>セレモニー</span>を行なうことを決めた。",
+    "translation": "Trong cuộc họp, họ đã quyết định sẽ tổ chức lễ khánh thành đường hầm.",
+    "options": ["形式", "式典", "様式", "特典"],
+    "answer": 1,
+    "explanation": "【セレモニー (Ceremony)】: Nghi lễ, buổi lễ.\n- 0. 形式 (けいしき): Hình thức.\n- 1. 式典 (しきてn): Nghi lễ, buổi lễ trang trọng. => ĐỒNG NGHĨA.\n- 2. 様式 (ようしき): Kiểu cách, phong cách.\n- 3. 特典 (とくてん): Đặc quyền, ưu đãi."
+  },
+  {
+    "id": 92,
+    "question": "<span class='underline'>スキャンダル</span>まみれの市長は今月の三日をもって辞任したそうだ。",
+    "translation": "Nghe nói ông thị trưởng đầy rẫy bê bối đã từ chức vào ngày mùng 3 tháng này.",
+    "options": ["理不尽", "無作法", "不審", "不正"],
+    "answer": 3,
+    "explanation": "【スキャンダル (Scandal)】: Vụ bê bối, việc xấu hổ.\n- 0. 理不尽 (りふじん): Phi lý, không công bằng.\n- 1. 無作法 (ぶさほう): Bất lịch sự, thô lỗ.\n- 2. 不審 (ふしん): Đáng ngờ.\n- 3. 不正 (ふせい): Bất chính, hành vi sai trái. => TƯƠNG ĐƯƠNG NGỮ CẢNH."
+  },
+  {
+    "id": 93,
+    "question": "あの人は<span class='underline'>キャリア</span>が豊かだから、いざという時頼りになる。",
+    "translation": "Người đó có kinh nghiệm nghề nghiệp phong phú nên vào lúc cần thiết sẽ rất đáng tin cậy.",
+    "options": ["経営", "営業", "経験", "受験"],
+    "answer": 2,
+    "explanation": "【キャリア (Career)】: Sự nghiệp, kinh nghiệm làm việc.\n- 0. 経営 (けいえい): Kinh doanh, quản trị.\n- 1. 営業 (えいぎょう): Kinh doanh bán hàng.\n- 2. 経験 (けいけん): Kinh nghiệm. => ĐỒNG NGHĨA.\n- 3. 受験 (じゅけん): Dự thi."
+  },
+  {
+    "id": 94,
+    "question": "テレビ<span class='underline'>タレント</span>の田中さんが俳優になって映画に登場したそうですよ。",
+    "translation": "Nghe nói anh Tanaka, một người nổi tiếng trên truyền hình, đã trở thành diễn viên và xuất hiện trong phim đấy.",
+    "options": ["ガール", "ウーマン", "アナウンサー", "ホステス"],
+    "answer": 2,
+    "explanation": "【タレント (Talent)】: Người nổi tiếng, nghệ sĩ giải trí trên truyền hình.\n- 0. ガール (Girl): Cô gái.\n- 1. ウーマン (Woman): Phụ nữ.\n- 2. アナウンサー (Announcer): Phát thanh viên. => Đây là nghề nghiệp gần gũi nhất trong giới truyền hình thường chuyển sang đóng phim.\n- 3. ホステス (Hostess): Nữ nhân viên tiếp khách (quán bar)."
+  },
+  {
+    "id": 95,
+    "question": "それは極めて<span class='underline'>ナンセンス</span>な発言で、聞くにたえない。",
+    "translation": "Đó là một phát ngôn cực kỳ vô lý (vô nghĩa), không đáng để nghe.",
+    "options": ["ばかげた", "たいした", "いきごんだ", "つつしんだ"],
+    "answer": 0,
+    "explanation": "【ナンセンス (Nonsense)】: Vô nghĩa, tầm phào, ngớ ngẩn.\n- 0. ばかげた: Ngu ngốc, vớ vẩn. => ĐỒNG NGHĨA.\n- 1. たいした: Quan trọng, to tát.\n- 2. いきごんだ (意気込んだ): Hào hứng, quyết tâm.\n- 3. つつつしんだ (慎んだ): Thận trọng, giữ kẽ."
+  },
+  {
+    "id": 96,
+    "question": "運動場の<span class='underline'>レーストラック</span>は普通400メートルとなっている。",
+    "translation": "Đường chạy (đường đua) ở sân vận động thông thường là 400 mét.",
+    "options": ["競技", "競走", "競馬", "競輪"],
+    "answer": 1,
+    "explanation": "【レーストラック (Race track)】: Đường đua, đường chạy.\n- 0. 競技 (きょうぎ): Trận đấu, cuộc thi đấu.\n- 1. 競走 (きょうそう): Cuộc chạy đua. => Ngữ cảnh chỉ đường chạy bộ.\n- 2. 競馬 (けいば): Đua ngựa.\n- 3. 競輪 (けいりん): Đua xe đạp."
+  },
+  {
+    "id": 97,
+    "question": "<span class='underline'>ヤング</span>の好みに合わせて、ファッションのデザインを考える。",
+    "translation": "Suy nghĩ thiết kế thời trang phù hợp với sở thích của giới trẻ.",
+    "options": ["おとな", "成人", "年寄り", "若者"],
+    "answer": 3,
+    "explanation": "【ヤング (Young)】: Người trẻ tuổi, giới trẻ.\n- 0. おとな: Người lớn.\n- 1. 成人 (せいじん): Người trưởng thành.\n- 2. 年寄り (としより): Người già.\n- 3. 若者 (わかもの): Người trẻ, thanh niên. => ĐỒNG NGHĨA."
+  },
+  {
+    "id": 98,
+    "question": "美術課で先生のご指導のもとに<span class='underline'>デッサン</span>の練習を一年しました。",
+    "translation": "Tại lớp mỹ thuật, tôi đã luyện tập phác thảo (vẽ chì) trong một năm dưới sự hướng dẫn của giáo viên.",
+    "options": ["写生", "描写", "落書き", "前書き"],
+    "answer": 0,
+    "explanation": "【デッサン (Dessin/Sketch)】: Bản vẽ phác thảo, họa hình.\n- 0. 写生 (しゃせい): Vẽ ký họa, vẽ lại cảnh thực tế.\n- 1. 描写 (びょうしゃ): Phác họa, miêu tả bằng hình ảnh. => ĐỒNG NGHĨA.\n- 2. 落書き (らくがき): Vẽ bậy.\n- 3. 前書き (まえがき): Lời mở đầu (trong sách)."
+  },
+  {
+    "id": 99,
+    "question": "選手たちはいっせいに新しい<span class='underline'>ユニフォーム</span>を着て列を並べて元気そうに運動場に入ってきました。",
+    "translation": "Các vận động viên đồng loạt mặc đồng phục mới, xếp hàng và tiến vào sân vận động một cách đầy khí thế.",
+    "options": ["衣装", "衣料", "制服", "洋服"],
+    "answer": 2,
+    "explanation": "【ユニフォーム (Uniform)】: Đồng phục (thường dùng cho thể thao).\n- 0. 衣装 (いしょう): Trang phục (biểu diễn).\n- 1. 衣料 (いりょう): Đồ may mặc (nói chung).\n- 2. 制服 (せいふく): Đồng phục (trường học, công ty). => ĐỒNG NGHĨA.\n- 3. 洋服 (ようふく): Quần áo kiểu Tây."
+  },
+  {
+    "id": 100,
+    "question": "<span class='underline'>エレガント</span>な女性は、服の着こなしだけでなく、話し方も素敵ですね。",
+    "translation": "Một người phụ nữ thanh lịch không chỉ ở cách ăn mặc mà cả cách nói chuyện cũng tuyệt vời nhỉ.",
+    "options": ["上品", "上達", "上級", "上位"],
+    "answer": 0,
+    "explanation": "【エレガント (Elegant)】: Thanh lịch, tao nhã, lịch thiệp.\n- 0. 上品 (じょうひん): Tao nhã, sang trọng, có học thức. => ĐỒNG NGHĨA.\n- 1. 上達 (じょうたつ): Sự tiến bộ (kỹ năng).\n- 2. 上級 (じょうきゅう): Cao cấp, trình độ cao.\n- 3. 上位 (じょうい): Vị trí cao, thứ hạng cao."
+  },
+  {
+    "id": 1,
+    "question": "リラックス",
+    "reading": "",
+    "translation": "Thư giãn, nghỉ ngơi, thả lỏng (tinh thần/cơ thể)",
+    "options": [
+      {
+        "text": "食べ過ぎたから、ベルトをリラックスした。",
+        "translation": "Vì ăn quá nhiều nên tôi đã thư giãn cái thắt lưng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Làm lỏng thắt lưng dùng <b>緩める</b> (ゆるめる)."
+      },
+      {
+        "text": "受験が終わって、リラックスしようと思って温泉地に行った。",
+        "translation": "Kỳ thi kết thúc, tôi định đi tắm suối nước nóng để thư giãn.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>リラックス</b> dùng chính xác cho việc nghỉ ngơi, giải tỏa căng thẳng sau một sự kiện áp lực."
+      },
+      {
+        "text": "勉強をリラックスすると、成績が落ちるぞ。",
+        "translation": "Nếu thư giãn việc học thì thành tích sẽ giảm đấy.",
+        "explanation": "<b style='color:red'>[Sai]</b> Lơ là, xao nhãng việc học dùng <b>怠ける</b> (なまける) hoặc <b>手を抜く</b>."
+      },
+      {
+        "text": "車のタイヤがリラックスして運転できなくなった。",
+        "translation": "Lốp xe ô tô thư giãn nên không lái xe được nữa.",
+        "explanation": "<b style='color:red'>[Sai]</b> Lốp xe bị xì hơi, xẹp dùng <b>パンクする</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "question": "ルーズ",
+    "reading": "",
+    "translation": "Cẩu thả, lỏng lẻo, không nghiêm túc (về thời gian, tiền bạc, quy tắc)",
+    "options": [
+      {
+        "text": "彼は金にルーズで、借りたお金をいつも返さない。",
+        "translation": "Anh ta rất cẩu thả trong chuyện tiền bạc, mượn rồi chẳng bao giờ trả.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ルーズ</b> dùng để chỉ người không sòng phẳng, thiếu kỷ luật trong các phương diện như tiền bạc hoặc thời gian."
+      },
+      {
+        "text": "焦らないで時間にルーズを持つように考えてください。",
+        "translation": "Đừng vội vã, hãy suy nghĩ để có sự cẩu thả về thời gian.",
+        "explanation": "<b style='color:red'>[Sai]</b> Có sự dư dả, thảnh thơi về thời gian dùng <b>ゆとり</b>."
+      },
+      {
+        "text": "靴の紐は結びすぎると、きつくてつらいから、ルーズしよう。",
+        "translation": "Dây giày buộc chặt quá đau chân nên hãy cẩu thả nó đi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nới lỏng dây giày dùng <b>緩める</b> (ゆるめる)."
+      },
+      {
+        "text": "彼はルーズな人で、決まった時間をちゃんと守る。",
+        "translation": "Anh ta là người cẩu thả, luôn tuân thủ đúng thời gian quy định.",
+        "explanation": "<b style='color:red'>[Sai]</b> Câu này mâu thuẫn về nghĩa. Người tuân thủ thời gian là <b>きちんとした人</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "question": "カムバック",
+    "reading": "",
+    "translation": "Quay trở lại, tái xuất (thường dùng cho nghệ sĩ hoặc vận động viên sau một thời gian vắng bóng)",
+    "options": [
+      {
+        "text": "腕が未熟で、車をカムバックしたら、溝の中に落ちてしまった。",
+        "translation": "Tay lái còn non nên khi quay lại xe đã bị rơi xuống rãnh.",
+        "explanation": "<b style='color:red'>[Sai]</b> Lùi xe dùng <b>バックさせる</b>."
+      },
+      {
+        "text": "ガードマンの足音がしたら、泥棒は慌てて窓からカムバックして逃げた。",
+        "translation": "Nghe tiếng bước chân bảo vệ, tên trộm hốt hoảng quay lại cửa sổ rồi chạy mất.",
+        "explanation": "<b style='color:red'>[Sai]</b> Quay ngược trở ra dùng <b>戻る</b> (もどる)."
+      },
+      {
+        "text": "基地に戻って翌朝ふたたび頂上へカムバックした。",
+        "translation": "Trở về căn cứ rồi sáng hôm sau lại quay lại đỉnh núi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đi lên lại hoặc quay lại địa điểm dùng <b>戻る</b> hoặc <b>登り直す</b>."
+      },
+      {
+        "text": "ステージにカムバックした彼女は以前よりなお活躍するようになった。",
+        "translation": "Sau khi tái xuất sân khấu, cô ấy hoạt động còn năng nổ hơn cả trước đây.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>カムバック</b> dùng chính xác cho việc một nghệ sĩ quay trở lại hoạt động nghệ thuật."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4,
+    "question": "ポーズ",
+    "reading": "",
+    "translation": "Tư thế (khi chụp ảnh/vẽ), điệu bộ, dáng bộ",
+    "options": [
+      {
+        "text": "彼女はカメラに向かってさまざまなポーズを取った。",
+        "translation": "Cô ấy tạo rất nhiều dáng về phía máy ảnh.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ポーズを取る</b> là cụm từ chuẩn để chỉ việc tạo dáng chụp hình."
+      },
+      {
+        "text": "あの投手の迫力のある投球のポーズに魅了された。",
+        "translation": "Tôi bị thu hút bởi dáng bộ ném bóng đầy uy lực của cầu thủ đó.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tư thế, chuyển động khi chơi thể thao dùng <b>フォーム</b> (Form)."
+      },
+      {
+        "text": "オリンピック体育館のポーズは鳥の巣のようだ。",
+        "translation": "Dáng bộ của nhà thi đấu Olympic trông như tổ chim.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hình dáng, kiến trúc của công trình dùng <b>外観</b> (がいかん) hoặc <b>形</b> (かたち)."
+      },
+      {
+        "text": "会社勤めらしいポーズの女性が玄関に立っていた。",
+        "translation": "Một người phụ nữ có dáng bộ như nhân viên văn phòng đang đứng ở sảnh.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diện mạo, trang phục toát lên vẻ gì đó dùng <b>格好</b> (かっこう) hoặc <b>風采</b> (ふうさい)."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "question": "ピーク",
+    "reading": "",
+    "translation": "Đỉnh cao, thời điểm cao điểm, đỉnh núi",
+    "options": [
+      {
+        "text": "山のピークまではもう一息だから、がんばってください。",
+        "translation": "Chỉ còn một chút nữa là đến đỉnh núi rồi, cố gắng lên.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ピーク</b> dùng để chỉ đỉnh núi (tương đương với 頂上)."
+      },
+      {
+        "text": "インフレがピークになって、日々の暮らしが楽になってきた。",
+        "translation": "Lạm phát đạt đỉnh nên cuộc sống hàng ngày trở nên dễ thở hơn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Lạm phát đạt đỉnh thì cuộc sống phải khó khăn hơn. Câu này sai về logic."
+      },
+      {
+        "text": "地震による避難生活が1ヶ月を超え、人々の疲労はピークに達した。",
+        "translation": "Cuộc sống sơ tán do động đất kéo dài hơn một tháng, sự mệt mỏi của mọi người đã đạt đến đỉnh điểm.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ピークに達する</b> là cách dùng rất phổ biến để chỉ sự vật/trạng thái đạt tới mức độ cao nhất."
+      },
+      {
+        "text": "この値段はピークすぎだから、買う人が少ないだろう。",
+        "translation": "Giá này quá đỉnh điểm nên chắc ít người mua.",
+        "explanation": "<b style='color:red'>[Sai]</b> Giá quá cao dùng <b>高すぎる</b>. Peak thường dùng cho xu hướng hoặc thời điểm."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6,
+    "question": "エスカレート",
+    "reading": "",
+    "translation": "Leo thang, mức độ trở nên nghiêm trọng hoặc mãnh liệt hơn",
+    "options": [
+      {
+        "text": "わが市の電話番号も7桁から8桁までエスカレートした。",
+        "translation": "Số điện thoại của thành phố tôi cũng đã leo thang từ 7 chữ số lên 8 chữ số.",
+        "explanation": "<b style='color:red'>[Sai]</b> Việc thay đổi số lượng chữ số dùng <b>増える</b> (tăng lên) hoặc <b>変わる</b> (thay đổi)."
+      },
+      {
+        "text": "エスカレータに乗って一番上の階にエスカレートしよう。",
+        "translation": "Hãy leo thang lên tầng trên cùng bằng cách đi thang cuốn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đi lên bằng thang cuốn dùng <b>上がる</b> (đi lên)."
+      },
+      {
+        "text": "航空会社の値下げ競争はますますエスカレートする一方だ。",
+        "translation": "Cuộc cạnh tranh giảm giá của các hãng hàng không ngày càng leo thang.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>エスカレート</b> dùng chính xác để chỉ mức độ cạnh tranh, xung đột hoặc tình hình trở nên gay gắt hơn."
+      },
+      {
+        "text": "社員の実績がエスカレートしたので、社長にほめられた。",
+        "translation": "Vì thành tích của nhân viên leo thang nên đã được giám đốc khen ngợi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thành tích tăng cao dùng <b>上がる</b> hoặc <b>伸びる</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 7,
+    "question": "ギャップ",
+    "reading": "",
+    "translation": "Khoảng cách, sự khác biệt, hố ngăn cách (giữa suy nghĩ, thế hệ, giá trị)",
+    "options": [
+      {
+        "text": "その溝のギャップはただ1メートルしかないから、跳んで渡ろう。",
+        "translation": "Khoảng cách của cái rãnh đó chỉ có 1 mét nên hãy nhảy qua đi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Độ rộng của cái rãnh dùng <b>幅</b> (はば)."
+      },
+      {
+        "text": "年寄りたちと若者たちでは物事に対する考え方に大きなギャップがある。",
+        "translation": "Giữa người già và người trẻ có một khoảng cách lớn trong cách suy nghĩ về mọi việc.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ギャップ</b> thường dùng để chỉ sự khác biệt trong quan điểm hoặc tư duy giữa các đối tượng khác nhau."
+      },
+      {
+        "text": "仕事がスムーズにいかなくて、ぼくの心にギャップができている。",
+        "translation": "Công việc không suôn sẻ nên trong lòng tôi đang có một khoảng cách.",
+        "explanation": "<b style='color:red'>[Sai]</b> Trạng thái tâm lý không ổn định hoặc lo lắng dùng <b>わだかまり</b> hoặc <b>葛藤</b> (かっとう)."
+      },
+      {
+        "text": "人と付き合う時、適当にギャップを置ければ気楽になる。",
+        "translation": "Khi giao tiếp với mọi người, nếu giữ được một khoảng cách thích hợp thì sẽ thấy thoải mái.",
+        "explanation": "<b style='color:red'>[Sai]</b> Khoảng cách về giao tiếp, quan hệ dùng <b>距離</b> (きょり)."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "ダビング",
+    "reading": "",
+    "translation": "Sao chép (băng đĩa, dữ liệu âm thanh/hình ảnh), lồng tiếng",
+    "options": [
+      {
+        "text": "録音したスクリプトをダビングしてMP3にする。",
+        "translation": "Sao chép kịch bản đã ghi âm để chuyển thành file MP3.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ダビング</b> dùng cho việc sao chép hoặc chuyển đổi định dạng dữ liệu âm thanh/hình ảnh."
+      },
+      {
+        "text": "複写機でこの字を2倍ほどダビングしてください。",
+        "translation": "Hãy sao chép (phóng to) chữ này lên gấp đôi bằng máy photocopy.",
+        "explanation": "<b style='color:red'>[Sai]</b> Phóng to bản sao bằng máy photo dùng <b>拡大</b> (かくだい) hoặc <b>コピー</b>."
+      },
+      {
+        "text": "西洋風の建築をダビングして家を建てることにする。",
+        "translation": "Tôi quyết định sao chép kiến trúc kiểu Tây để xây nhà.",
+        "explanation": "<b style='color:red'>[Sai]</b> Mô phỏng, bắt chước thiết kế dùng <b>模倣</b> (もほう) hoặc <b>参考にする</b>."
+      },
+      {
+        "text": "人の言った言葉をダビングして繰り返すのはオウム返しという。",
+        "translation": "Việc sao chép lại lời người khác nói rồi lặp lại gọi là nói leo.",
+        "explanation": "<b style='color:red'>[Sai]</b> Lặp lại lời nói dùng <b>真似する</b> (bắt chước) hoặc <b>繰り返す</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "question": "スト",
+    "reading": "",
+    "translation": "Đình công (viết tắt của ストライキ - Strike)",
+    "options": [
+      {
+        "text": "彼女にストされたうえに、会社をやめさせられた。",
+        "translation": "Tôi bị cô ấy đình công, hơn nữa còn bị cho nghỉ việc.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không thể dùng \"đình công\" cho cá nhân. Có thể ý người nói là bị từ chối <b>拒絶</b> (きょぜつ)."
+      },
+      {
+        "text": "迷惑メールをいかにストするかに苦しんでいる。",
+        "translation": "Tôi đang khổ sở không biết làm thế nào để đình công tin nhắn rác.",
+        "explanation": "<b style='color:red'>[Sai]</b> Chặn tin nhắn dùng <b>ブロック</b> hoặc <b>拒否</b>."
+      },
+      {
+        "text": "天気が悪いので、会議をストすることにした。",
+        "translation": "Vì thời tiết xấu nên chúng tôi quyết định đình công cuộc họp.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hủy hoặc hoãn cuộc họp dùng <b>中止</b> hoặc <b>延期</b>."
+      },
+      {
+        "text": "労使の矛盾がますます激しくなり、ストを行なう噂もある。",
+        "translation": "Mâu thuẫn giữa giới chủ và người lao động ngày càng gay gắt, có tin đồn họ sẽ tổ chức đình công.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>スト</b> dùng chính xác cho việc công nhân ngừng việc để phản đối."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 10,
+    "question": "コネ",
+    "reading": "",
+    "translation": "Mối quan hệ, sự kết nối (để nhờ vả, thường là nghĩa tiêu cực: 'con ông cháu cha')",
+    "options": [
+      {
+        "text": "役所でのコネを使って、友だちの就職を斡旋した。",
+        "translation": "Sử dụng các mối quan hệ (ô dù) ở cơ quan nhà nước để môi giới việc làm cho bạn bè.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>コネ</b> dùng để chỉ việc dùng quen biết để đạt được mục đích cá nhân."
+      },
+      {
+        "text": "外国語の学習にもコネがあるので、それをつかんでほしい。",
+        "translation": "Học ngoại ngữ cũng có các mối quan hệ, tôi muốn bạn nắm lấy nó.",
+        "explanation": "<b style='color:red'>[Sai]</b> Bí quyết hoặc mẹo học tập dùng <b>コツ</b>."
+      },
+      {
+        "text": "小遣いをもらうために父にコネをつけてみた。",
+        "translation": "Tôi đã thử dùng mối quan hệ với bố để xin tiền tiêu vặt.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nịnh nọt hoặc lấy lòng dùng <b>機嫌を取る</b> hoặc <b>甘える</b>."
+      },
+      {
+        "text": "天候と私たちの日常生活にコネがある。",
+        "translation": "Có một mối quan hệ giữa thời tiết và cuộc sống hàng ngày của chúng ta.",
+        "explanation": "<b style='color:red'>[Sai]</b> Mối liên hệ mang tính quy luật hoặc nhân quả dùng <b>関係</b> hoặc <b>つながり</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "question": "パレード",
+    "reading": "",
+    "translation": "Diễu hành (thường trong lễ hội, sự kiện công cộng)",
+    "options": [
+      {
+        "text": "小学生たちはパレードしながら、登校する。",
+        "translation": "Các em học sinh tiểu học vừa diễu hành vừa đến trường.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đi học bình thường không dùng diễu hành. Nên dùng <b>列を作って</b> (xếp hàng)."
+      },
+      {
+        "text": "ディズニーランドで華やかなパレードが見られる。",
+        "translation": "Có thể xem những buổi diễu hành rực rỡ tại Disneyland.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>パレード</b> dùng chính xác cho các hoạt động biểu diễn diễu hành tại khu vui chơi hoặc lễ hội."
+      },
+      {
+        "text": "彼女はよくきれいに着飾って繁華街でパレードする。",
+        "translation": "Cô ấy thường diện đồ đẹp rồi đi diễu hành ở khu phố sầm uất.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đi dạo, khoe đồ dùng <b>街を歩く</b> hoặc <b>披露する</b>."
+      },
+      {
+        "text": "賃上げをしないと、パレードすると社員たちは脅かした。",
+        "translation": "Các nhân viên đe dọa sẽ diễu hành nếu không được tăng lương.",
+        "explanation": "<b style='color:red'>[Sai]</b> Biểu tình phản đối trong lao động dùng <b>ストライキ</b> (đình công) hoặc <b>デモ</b> (biểu tình)."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "パワー",
+    "reading": "",
+    "translation": "Sức mạnh, năng lượng, quyền lực",
+    "options": [
+      {
+        "text": "この曲はパワー的で、怒りを和らげることができる。",
+        "translation": "Bản nhạc này có tính sức mạnh, có thể làm dịu cơn giận.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nhạc có tác dụng xoa dịu thường dùng <b>安らぎ</b> (tĩnh lặng) hoặc <b>ヒーリング</b> (chữa lành)."
+      },
+      {
+        "text": "いい実績をあげるために、もっとパワーしようじゃないか。",
+        "translation": "Để đạt thành tích tốt, chúng ta hãy sức mạnh hơn nữa nào.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cố gắng, nỗ lực dùng <b>頑張る</b> hoặc <b>努力する</b>."
+      },
+      {
+        "text": "風のパワーがだんだん強くなり、暴風になりそうだ。",
+        "translation": "Sức mạnh của gió dần mạnh lên, có vẻ sắp thành bão lớn.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>パワー</b> có thể dùng để chỉ năng lượng hoặc sức mạnh của tự nhiên."
+      },
+      {
+        "text": "地域の住民パワーによってごみ処理場の建設が阻止された。",
+        "translation": "Nhờ sức mạnh (sự đoàn kết) của cư dân địa phương mà việc xây dựng bãi rác đã bị ngăn chặn.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>住民パワー</b> là một cụm từ thường dùng để chỉ sức mạnh cộng đồng."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13,
+    "question": "ラスト",
+    "reading": "",
+    "translation": "Cuối cùng (thời gian, thứ tự), lần cuối",
+    "options": [
+      {
+        "text": "頭からラストまで全身が濡れている。",
+        "translation": "Từ đầu đến cuối (ướt hết cả người).",
+        "explanation": "<b style='color:red'>[Sai]</b> Từ đầu đến chân dùng <b>足先</b> (bàn chân) hoặc <b>つま先</b>."
+      },
+      {
+        "text": "その通りのラストにぼくの家がある。",
+        "translation": "Nhà tôi nằm ở cuối con đường đó.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cuối con đường dùng <b>突き当たり</b> (つきあたり)."
+      },
+      {
+        "text": "おじいさんは90歳でラストを遂げた。",
+        "translation": "Ông cụ đã kết thúc ở tuổi 90.",
+        "explanation": "<b style='color:red'>[Sai]</b> Qua đời dùng <b>最期</b> (さいご) hoặc <b>亡くなった</b>."
+      },
+      {
+        "text": "ラストチャンスをつかんでふたたび戦う。",
+        "translation": "Nắm lấy cơ hội cuối cùng để chiến đấu một lần nữa.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ラストチャンス</b> là cụm từ cố định rất phổ biến."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 14,
+    "question": "ルーツ",
+    "reading": "",
+    "translation": "Nguồn gốc, tổ tiên, căn nguyên (thường dùng cho con người, dòng dõi, ngôn ngữ)",
+    "options": [
+      {
+        "text": "人工衛星は地球のルーツから打ち上げる。",
+        "translation": "Vệ tinh nhân tạo được phóng lên từ nguồn gốc của Trái Đất.",
+        "explanation": "<b style='color:red'>[Sai]</b> Phóng từ bề mặt Trái Đất dùng <b>表面</b> hoặc từ căn cứ là <b>基地</b>."
+      },
+      {
+        "text": "木のルーツが浅いので、倒れやすい。",
+        "translation": "Nguồn gốc của cây nông nên dễ đổ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Rễ cây dùng <b>根</b> (ね)."
+      },
+      {
+        "text": "両親こそ、子供たちのルーツである。",
+        "translation": "Chính cha mẹ là nguồn gốc của con cái.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ルーツ</b> dùng để chỉ dòng dõi, nguồn cội gia đình."
+      },
+      {
+        "text": "日本語のルーツはまだ不明のままである。",
+        "translation": "Nguồn gốc của tiếng Nhật hiện vẫn chưa rõ ràng.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ルーツ</b> dùng chính xác khi nói về nguồn gốc của một ngôn ngữ hoặc nền văn hóa."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 15,
+    "question": "クール",
+    "reading": "",
+    "translation": "Lạnh lùng, điềm tĩnh (tính cách); mát mẻ (nhiệt độ)",
+    "options": [
+      {
+        "text": "彼はクールな人で、常に冷静に問題を考える。",
+        "translation": "Anh ấy là một người lạnh lùng (điềm tĩnh), luôn suy nghĩ vấn đề một cách bình tĩnh.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>クール</b> dùng mô tả tính cách điềm tĩnh, không bị cảm xúc chi phối."
+      },
+      {
+        "text": "この種の木はクールで、熱帯地域に適しない。",
+        "translation": "Loại cây này mát mẻ nên không hợp vùng nhiệt đới.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ưa lạnh dùng <b>寒冷な気候を好む</b>."
+      },
+      {
+        "text": "パンはクールしないうちに食べる。",
+        "translation": "Ăn bánh mì khi nó chưa lạnh.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đồ ăn bị nguội đi dùng <b>冷める</b> (さめる)."
+      },
+      {
+        "text": "クールになったスープをレンジで温める。",
+        "translation": "Hâm nóng món súp đã trở nên lạnh bằng lò vi sóng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tương tự câu trên, đồ ăn nguội dùng <b>冷めた</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 16,
+    "question": "ストライキ",
+    "reading": "",
+    "translation": "Đình công (ngừng làm việc để yêu sách)",
+    "options": [
+      {
+        "text": "悪天候もあいまって、やむをえず会議をストライキした。",
+        "translation": "Cùng với thời tiết xấu, chúng tôi buộc phải đình công cuộc họp.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hủy hoặc hoãn họp dùng <b>中止</b> (ちゅうし) hoặc <b>延期</b> (えんき)."
+      },
+      {
+        "text": "病気にかこつけて、学校をストライキする生徒もいる。",
+        "translation": "Có những học sinh lấy cớ bị bệnh để đình công trường học.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nghỉ học không phép dùng <b>サボる</b> hoặc <b>欠席する</b>."
+      },
+      {
+        "text": "学校の管理に対して不満があって、学生たちはストライキを起こした。",
+        "translation": "Bất mãn với việc quản lý của nhà trường, các sinh viên đã tổ chức bãi khóa (đình công).",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ストライキ</b> dùng để chỉ hành động tập thể ngừng hoạt động để phản đối."
+      },
+      {
+        "text": "ビールスの侵入で、学校のコンピューターはみなストライキを起こした。",
+        "translation": "Do virus xâm nhập, tất cả máy tính của trường đã đình công.",
+        "explanation": "<b style='color:red'>[Sai]</b> Máy tính bị hỏng hoặc ngừng hoạt động dùng <b>フリーズする</b> hoặc <b>故障する</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 17,
+    "question": "ポジション",
+    "reading": "",
+    "translation": "Vị trí, địa vị (trong xã hội, tổ chức, đội hình thể thao)",
+    "options": [
+      {
+        "text": "この数年来、日本の女性の社会的ポジションは向上した。",
+        "translation": "Trong vài năm trở lại đây, vị thế xã hội của phụ nữ Nhật Bản đã được nâng cao.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ポジション</b> dùng để chỉ vị thế hoặc địa vị xã hội."
+      },
+      {
+        "text": "彼は文学史上に占めるべきポジションを得た。",
+        "translation": "Ông ấy đã có được vị trí đáng có trong lịch sử văn học.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ポジション</b> cũng dùng để chỉ vị trí, tầm quan trọng trong một lĩnh vực."
+      },
+      {
+        "text": "彼はその会社で重要なポジションに就いている。",
+        "translation": "Anh ấy đang giữ một vị trí quan trọng trong công ty đó.",
+        "explanation": "<b style='color:green'>[Đúng]</b> Đây là cách dùng phổ biến nhất để chỉ chức vụ hoặc vị trí công tác."
+      },
+      {
+        "text": "隅田川を遡って、水源のポジションを探る。",
+        "translation": "Đi ngược dòng sông Sumida để tìm vị trí của nguồn nước.",
+        "explanation": "<b style='color:red'>[Sai]</b> Vị trí địa lý của một địa danh cụ thể dùng <b>位置</b> (いち) hoặc <b>場所</b> (ばしょ)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 18,
+    "question": "インフレ",
+    "reading": "",
+    "translation": "Lạm phát (giá cả tăng, giá trị tiền tệ giảm)",
+    "options": [
+      {
+        "text": "生活がインフレになり、以前にもましていっそう苦しくなった。",
+        "translation": "Cuộc sống trở nên lạm phát, trở nên khổ sở hơn trước.",
+        "explanation": "<b style='color:red'>[Sai]</b> Phải nói là vật giá tăng <b>物価が高騰する</b> dẫn đến sinh hoạt khó khăn."
+      },
+      {
+        "text": "インフレして、紙幣の値打ちが落ちてしまうのもしかたがない。",
+        "translation": "Xảy ra lạm phát thì việc giá trị tiền giấy giảm xuống là điều không tránh khỏi.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>インフレ</b> dùng chính xác để chỉ hiện tượng kinh tế làm giảm giá trị tiền tệ."
+      },
+      {
+        "text": "欲求のインフレが高まりつつあり、きりがないありさまだ。",
+        "translation": "Sự lạm phát về ham muốn đang tăng cao, dường như không có điểm dừng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ham muốn tăng cao dùng <b>膨らむ</b> (ふくらむ)."
+      },
+      {
+        "text": "インフレといえば、リュックサックに札束をつめ、買い物に出るという話を聞いたことがある。",
+        "translation": "Nói về lạm phát, tôi từng nghe chuyện người ta phải nhét đầy bao tải tiền để đi mua sắm.",
+        "explanation": "<b style='color:green'>[Đúng]</b> Đây là hình ảnh ẩn dụ điển hình cho tình trạng siêu lạm phát."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 19,
+    "question": "パンク",
+    "reading": "",
+    "translation": "Xì lốp, bánh xe bị thủng; quá tải (không gian, khả năng chứa đựng)",
+    "options": [
+      {
+        "text": "合格もせず、今度の試験はパンクだった。",
+        "translation": "Chẳng đỗ đạt gì, kỳ thi lần này thật là xì lốp.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thi hỏng dùng <b>不合格</b> hoặc <b>失敗</b>."
+      },
+      {
+        "text": "川の堤防もパンクして被害が多かった。",
+        "translation": "Đê sông cũng bị xì lốp gây nhiều thiệt hại.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đê bị vỡ dùng <b>決壊する</b> (けっかいする)."
+      },
+      {
+        "text": "バブル経済がとうとうパンクした。",
+        "translation": "Nền kinh tế bong bóng cuối cùng đã bị vỡ (xì hơi).",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>パンク</b> dùng để chỉ sự sụp đổ của một trạng thái quá căng thẳng (như bong bóng kinh tế)."
+      },
+      {
+        "text": "旅客が多すぎて、空港はパンク寸前だ。",
+        "translation": "Hành khách quá đông, sân bay gần như bị quá tải.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>パンク</b> dùng chỉ trạng thái quá tải, không còn sức chứa."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 20,
+    "question": "パトロール",
+    "reading": "",
+    "translation": "Tuần tra (nhằm giữ gìn an ninh, trật tự)",
+    "options": [
+      {
+        "text": "父は赤ちゃんのベッドをパトロールする。",
+        "translation": "Bố tuần tra giường của em bé.",
+        "explanation": "<b style='color:red'>[Sai]</b> Trông nom em bé dùng <b>見守る</b> (みまもる) hoặc <b>様子を見る</b>."
+      },
+      {
+        "text": "泥棒がパトロールする警察に捕まった。",
+        "translation": "Tên trộm đã bị cảnh sát đang đi tuần tra bắt giữ.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>パトロール</b> là hành động đi kiểm tra an ninh thường xuyên của cảnh sát."
+      },
+      {
+        "text": "おかしい男がうちの回りをパトロールしている。",
+        "translation": "Một gã đàn ông kỳ lạ đang tuần tra quanh nhà tôi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Kẻ khả nghi đi quanh nhà dùng <b>うろつく</b> (loanh quanh) hoặc <b>見張る</b> (rình rập)."
+      },
+      {
+        "text": "カンニングを防ぐために試験場でパトロールする。",
+        "translation": "Để ngăn chặn gian lận, chúng tôi tuần tra trong phòng thi.",
+        "explanation": "<b style='color:green'>[Đúng]</b> Có thể dùng <b>パトロール</b> cho việc giám sát an ninh trong khu vực thi cử."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "ペア",
+    "reading": "",
+    "translation": "Cặp, đôi (thường dùng cho 2 người hoặc vật đi cùng nhau)",
+    "options": [
+      {
+        "text": "知り合いの山田さんとペアになって、ワルツというダンスの練習をした。",
+        "translation": "Tôi đã ghép cặp với anh Yamada người quen để luyện tập điệu nhảy Waltz.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ペア</b> dùng để chỉ việc kết đôi để thực hiện một hoạt động (như nhảy, đánh cầu lông)."
+      },
+      {
+        "text": "祝日になるので、各商店の棚にはペアセット用品が置かれている。",
+        "translation": "Vì sắp đến ngày lễ nên kệ của các cửa hàng đang bày các bộ đồ đôi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thường dùng <b>ペアの〜</b> hoặc <b>セット</b>. Cụm <b>ペアセット</b> không tự nhiên bằng."
+      },
+      {
+        "text": "百貨店でとても気に入った、ひとペアの茶碗を買った。",
+        "translation": "Tôi đã mua một cặp chén trà rất ưng ý ở bách hóa.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đơn vị đếm cặp đồ vật thường dùng <b>一組</b> (ひとくみ) hoặc <b>一対</b> (いっつい)."
+      },
+      {
+        "text": "あの公園は若い恋愛のペアばかりで、わしはいかないよ。",
+        "translation": "Công viên đó toàn những cặp đôi đang yêu nhau, tôi không đi đâu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cặp đôi yêu nhau thường dùng <b>カップル</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "question": "コントラスト",
+    "reading": "",
+    "translation": "Sự tương phản (về màu sắc, ánh sáng, hoặc tính chất rõ rệt giữa hai sự vật)",
+    "options": [
+      {
+        "text": "あの学生の行いに、校則にコントラストして処分することに決めた。",
+        "translation": "Đối với hành vi của học sinh đó, chúng tôi quyết định xử phạt vì vi phạm nội quy.",
+        "explanation": "<b style='color:red'>[Sai]</b> Vi phạm/đối chiếu dùng <b>照らし合わせる</b> hoặc <b>違反する</b>."
+      },
+      {
+        "text": "今の会社の状況は3年前と比べて、著しいコントラストを示している。",
+        "translation": "Tình hình công ty hiện tại so với 3 năm trước cho thấy một sự tương phản rõ rệt.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>コントラスト</b> dùng để nhấn mạnh sự khác biệt rõ rệt giữa hai trạng thái/thời điểm."
+      },
+      {
+        "text": "わたしは自分なりにやるから、だれともコントラストしたくない。",
+        "translation": "Tôi sẽ làm theo cách của mình, không muốn so sánh với ai.",
+        "explanation": "<b style='color:red'>[Sai]</b> So sánh dùng <b>比較する</b> (ひかくする)."
+      },
+      {
+        "text": "強い光がコントラストになってきて、目が開けられないほどだった。",
+        "translation": "Ánh sáng mạnh trở nên tương phản đến mức không mở nổi mắt.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ánh sáng quá chói dùng <b>まぶしい</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 23,
+    "question": "センス",
+    "reading": "",
+    "translation": "Khiếu, gu, khả năng cảm thụ (thẩm mỹ, hài hước, thời trang...)",
+    "options": [
+      {
+        "text": "事態が悪化する気配がセンスした。",
+        "translation": "Tôi đã cảm nhận thấy dấu hiệu tình hình xấu đi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cảm nhận dấu hiệu dùng <b>感じた</b> hoặc <b>察知した</b>."
+      },
+      {
+        "text": "今年になって商売に活気が出てきたようなセンスがした。",
+        "translation": "Tôi có cảm giác như việc kinh doanh năm nay bắt đầu khởi sắc.",
+        "explanation": "<b style='color:red'>[Sai]</b> Có cảm giác dùng <b>感じ</b> (かんじ) hoặc <b>気がした</b>."
+      },
+      {
+        "text": "彼はユーモアのセンスがある人で、一緒にいるのは愉快だ。",
+        "translation": "Anh ấy là người có khiếu hài hước, ở cùng rất vui vẻ.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ユーモアのセンス</b> là cụm từ rất phổ biến để chỉ khiếu hài hước."
+      },
+      {
+        "text": "このラジオはセンスが悪いのか、音が聞きづらい。",
+        "translation": "Cái radio này thu sóng kém hay sao mà tiếng khó nghe quá.",
+        "explanation": "<b style='color:red'>[Sai]</b> Khả năng thu sóng dùng <b>感度</b> (かんど)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 24,
+    "question": "ギフト",
+    "reading": "",
+    "translation": "Quà tặng (thường mang tính trang trọng hoặc dùng trong thương mại)",
+    "options": [
+      {
+        "text": "バレンタインデーを前にして、ギフト用品売り場を拡張した。",
+        "translation": "Trước ngày Valentine, khu vực bán đồ quà tặng đã được mở rộng.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ギフト用品</b> chỉ các mặt hàng dùng làm quà tặng."
+      },
+      {
+        "text": "コンピューターはアメリカ人が世界に与えたギフトである。",
+        "translation": "Máy tính là món quà mà người Mỹ đã trao tặng cho thế giới.",
+        "explanation": "<b style='color:red'>[Sai]</b> Món quà mang tính đóng góp vĩ đại thường dùng <b>贈り物</b> (おくりもの) hoặc <b>恩恵</b> (おんけい)."
+      },
+      {
+        "text": "新潟県のギフトといえば、おいしい米が思い出されるね。",
+        "translation": "Nói đến quà của tỉnh Niigata thì nhớ ngay đến gạo ngon nhỉ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đặc sản làm quà vùng miền dùng <b>名物</b> (めいぶつ) hoặc <b>お土産</b>."
+      },
+      {
+        "text": "新年に親戚や親友の間で互いにギフトをする習慣がある。",
+        "translation": "Vào dịp năm mới, họ có thói quen tặng quà cho người thân và bạn thân.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tặng quà nói chung dùng <b>贈り物をする</b> hoặc <b>プレゼントを交換する</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "question": "リフレッシュ",
+    "reading": "",
+    "translation": "Làm mới, sảng khoái, hồi phục sức lực (sau khi mệt mỏi)",
+    "options": [
+      {
+        "text": "彼はリフレッシュがなくなるまで飲んだ。",
+        "translation": "Anh ấy đã uống cho đến khi mất hết sự sảng khoái.",
+        "explanation": "<b style='color:red'>[Sai]</b> Mất ý thức do say dùng <b>意識</b> (いしき) hoặc <b>正気</b> (しょうき)."
+      },
+      {
+        "text": "選手たちはリフレッシュを燃やし、必死に戦った。",
+        "translation": "Các tuyển thủ bùng cháy sự sảng khoái và chiến đấu hết mình.",
+        "explanation": "<b style='color:red'>[Sai]</b> Bùng cháy quyết tâm dùng <b>闘志</b> (とうし - ý chí chiến đấu)."
+      },
+      {
+        "text": "休みには田舎の空気を吸ってリフレッシュしてこよう。",
+        "translation": "Kỳ nghỉ này tôi sẽ về quê hít thở không khí và làm mới tâm hồn.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>リフレッシュ</b> dùng để chỉ việc lấy lại tinh thần, sức khỏe sau những ngày làm việc."
+      },
+      {
+        "text": "出産休暇が終わり、もとの職場にリフレッシュした。",
+        "translation": "Kỳ nghỉ sinh kết thúc, tôi đã làm mới tại chỗ làm cũ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Quay lại làm việc dùng <b>復帰する</b> (ふっきする)."
+      }
+    ],
+    "answer": 2
+  }
+
+]

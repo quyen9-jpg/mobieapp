@@ -1,0 +1,1453 @@
+[
+  {
+    "id": 51,
+    "question": "様相",
+    "reading": "ようそう",
+    "translation": "Diện mạo, vẻ bề ngoài, trạng thái, cục diện (của sự vật, sự việc)",
+    "options": [
+      {
+        "text": "うちの部長は長い顔の様相をしている。",
+        "translation": "Trưởng phòng của tôi có diện mạo khuôn mặt dài.",
+        "explanation": "<b style='color:red'>[Sai]</b> Để miêu tả đặc điểm khuôn mặt người thường dùng <b>顔立ち</b> (かおだち) hoặc đơn giản là <b>顔をしている</b>."
+      },
+      {
+        "text": "仕事の様相で東京への出張を見合わせた。",
+        "translation": "Do tình hình công việc nên tôi đã hoãn chuyến đi công tác Tokyo.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tình hình/hoàn cảnh dùng <b>都合</b> (つごう) hoặc <b>状況</b>."
+      },
+      {
+        "text": "中東紛争は長期化の様相を呈している。",
+        "translation": "Xung đột Trung Đông đang cho thấy dấu hiệu (diễn biến) của việc kéo dài.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>様相を呈する</b> là một cụm từ cố định (collocation) rất phổ biến, dùng để chỉ một tình hình bắt đầu biểu hiện ra một trạng thái nào đó."
+      },
+      {
+        "text": "DVDプレーヤーの様相がおかしいから、修理した。",
+        "translation": "Tình trạng của đầu đĩa DVD có vẻ lạ nên tôi đã đem đi sửa.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tình trạng máy móc hỏng hóc dùng <b>調子</b> (ちょうし) hoặc <b>具合</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 52,
+    "question": "映写",
+    "reading": "えいしゃ",
+    "translation": "Trình chiếu (phim, hình ảnh) lên màn hình/tường bằng máy chiếu",
+    "options": [
+      {
+        "text": "月が雨で潤った木の葉を映写している。",
+        "translation": "Mặt trăng đang chiếu sáng (phản chiếu) lên những lá cây ướt đẫm nước mưa.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ánh sáng tự nhiên phản chiếu dùng <b>照らしている</b> hoặc <b>映している</b>."
+      },
+      {
+        "text": "微笑みは彼女の清純な顔に映写している。",
+        "translation": "Nụ cười mỉm hiện rõ trên khuôn mặt thuần khiết của cô ấy.",
+        "explanation": "<b style='color:red'>[Sai]</b> Biểu cảm hiện lên mặt dùng <b>浮かんでいる</b>."
+      },
+      {
+        "text": "彼は街頭で撮影したDVをテレビに映写してみた。",
+        "translation": "Anh ấy đã thử trình chiếu đoạn video quay trên phố lên tivi.",
+        "explanation": "<b style='color:green'>[Đúng]</b> 映写 dùng cho việc chiếu hình ảnh động hoặc phim bằng thiết bị."
+      },
+      {
+        "text": "見渡す限りの草原の風景が目に映写した。",
+        "translation": "Phong cảnh thảo nguyên trải dài tận chân trời hiện ra trước mắt tôi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hình ảnh lọt vào tầm mắt dùng <b>映った</b> (うつった)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 53,
+    "question": "拡散",
+    "reading": "かくさん",
+    "translation": "Khuếch tán, lan rộng, phổ biến ra diện rộng (thông tin, vi khuẩn, chất lỏng)",
+    "options": [
+      {
+        "text": "癌細胞が全身に拡散したゆえ、もはや治しようがない。",
+        "translation": "Vì tế bào ung thư đã di căn (lan rộng) khắp cơ thể nên không còn cách nào chữa trị.",
+        "explanation": "<b style='color:green'>[Đúng]</b> 拡散 dùng để chỉ sự lan rộng của tế bào hoặc virus trong cơ thể."
+      },
+      {
+        "text": "愛社精神を全員に拡散するために、定期的に教育を行う。",
+        "translation": "Để lan tỏa tinh thần yêu công ty đến mọi người, chúng tôi tổ chức đào tạo định kỳ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Lan tỏa tinh thần/tư tưởng dùng <b>浸透させる</b> (しんとう) hoặc <b>広める</b>."
+      },
+      {
+        "text": "真珠のネックレスの紐が切れて、真珠がばらばらに拡散した。",
+        "translation": "Sợi dây chuyền ngọc trai bị đứt, các hạt ngọc trai rơi vung vãi khắp nơi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Vật thể rơi vung vãi dùng <b>散らばった</b> (ちらばった)."
+      },
+      {
+        "text": "核兵器の開発を阻止しないと、結局、拡散的になるかもしれない。",
+        "translation": "Nếu không ngăn chặn việc phát triển vũ khí hạt nhân, kết cục có thể dẫn đến việc phổ biến vũ khí hạt nhân.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không dùng dạng tính từ \"拡散的\". Nên dùng danh từ <b>核拡散</b> (phổ biến vũ khí hạt nhân)."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 54,
+    "question": "加入",
+    "reading": "かにゅう",
+    "translation": "Gia nhập, tham gia, đăng ký (bảo hiểm, dịch vụ, tổ chức)",
+    "options": [
+      {
+        "text": "味がちょっと薄いから、少々塩を加入してください。",
+        "translation": "Vị hơi nhạt nên hãy thêm một chút muối vào.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thêm gia vị dùng <b>入れる</b> hoặc <b>加える</b> (くわえる)."
+      },
+      {
+        "text": "小さな川であれ、大きな川であれ、みんな海に加入する。",
+        "translation": "Dù là sông nhỏ hay sông lớn, tất cả đều đổ ra biển.",
+        "explanation": "<b style='color:red'>[Sai]</b> Sông đổ ra biển dùng <b>注ぐ</b> (そそぐ) hoặc <b>合流する</b>."
+      },
+      {
+        "text": "車を買ったので、保険会社に保険加入を申し込んだ。",
+        "translation": "Vì đã mua xe nên tôi đã đăng ký tham gia bảo hiểm tại công ty bảo hiểm.",
+        "explanation": "<b style='color:green'>[Đúng]</b> 加入 là từ chuyên dùng cho việc tham gia các loại bảo hiểm hoặc dịch vụ mạng."
+      },
+      {
+        "text": "試験の直前、懸命に単語を暗誦して、頭に加入する。",
+        "translation": "Ngay trước kỳ thi, tôi cố gắng đọc thuộc lòng từ vựng để nạp vào đầu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tiếp thu kiến thức dùng <b>入れる</b> hoặc <b>詰め込む</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 55,
+    "question": "抑圧",
+    "reading": "よくあつ",
+    "translation": "Đàn áp, chế ngự, kìm nén (tự do, cảm xúc, đối phương bằng quyền lực)",
+    "options": [
+      {
+        "text": "風に飛ばされないように、小石を拾って、紙の上に載せて抑圧した。",
+        "translation": "Để giấy không bị gió thổi bay, tôi nhặt viên sỏi đặt lên trên để đè nó xuống.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đè vật lý lên vật gì đó dùng <b>押さえる</b> (おさえる)."
+      },
+      {
+        "text": "道路が多くの車に抑圧され、あちこちが壊れていて、運転しにくい。",
+        "translation": "Con đường bị nhiều xe cộ chèn ép (tải trọng lớn) dẫn đến hỏng hóc khắp nơi, rất khó lái xe.",
+        "explanation": "<b style='color:red'>[Sai]</b> Chịu tải trọng dùng <b>負荷</b> hoặc đơn giản là <b>ダメージを受ける</b>."
+      },
+      {
+        "text": "欲を言えばきりがないんだから、適度に抑圧する必要があるんだ。",
+        "translation": "Ham muốn thì không bao giờ có giới hạn, nên cần phải kìm nén nó ở mức độ vừa phải.",
+        "explanation": "<b style='color:green'>[Đúng]</b> 抑圧 dùng để chỉ việc kìm nén những ham muốn hoặc cảm xúc cá nhân."
+      },
+      {
+        "text": "この文章を1500字ぐらいまで抑圧すれば、簡潔で分かりやすくなるよ。",
+        "translation": "Nếu rút gọn văn bản này xuống khoảng 1500 chữ thì nó sẽ ngắn gọn và dễ hiểu hơn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Rút gọn văn bản dùng <b>要約する</b> hoặc <b>削る</b> (けずる)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 56,
+    "question": "養成",
+    "reading": "ようせい",
+    "translation": "Đào tạo, bồi dưỡng (nhân lực, năng lực, kỹ năng)",
+    "options": [
+      {
+        "text": "高価なクリームを使って、皮膚をきれいに養成する女性が多い。",
+        "translation": "Nhiều phụ nữ sử dụng kem đắt tiền để chăm sóc da đẹp.",
+        "explanation": "<b style='color:red'>[Sai]</b> Chăm sóc da dùng <b>手入れ</b> (ていれ) hoặc <b>ケア</b>."
+      },
+      {
+        "text": "父がなくなってから、一家の生活を養成するのは母の役目となった。",
+        "translation": "Sau khi cha mất, việc nuôi sống cả gia đình trở thành nhiệm vụ của mẹ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nuôi dưỡng gia đình dùng <b>養う</b> (やしなう) hoặc <b>支える</b>."
+      },
+      {
+        "text": "ぼくは、看護士を養成する専門学校を志望しているのだ。",
+        "translation": "Tôi đang có nguyện vọng vào một trường chuyên biệt đào tạo điều dưỡng viên.",
+        "explanation": "<b style='color:green'>[Đúng]</b> 養成 thường được dùng cho việc đào tạo các ngành nghề chuyên môn (giáo viên, y tá, kỹ sư)."
+      },
+      {
+        "text": "愛国心を養成するために、幼稚園から専門教育を実施する。",
+        "translation": "Để nuôi dưỡng lòng yêu nước, giáo dục chuyên sâu được thực hiện từ bậc mầm đơn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nuôi dưỡng tinh thần/ý thức dùng <b>養う</b> (やしなう) hoặc <b>育てる</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 57,
+    "question": "中断",
+    "reading": "ちゅうだん",
+    "translation": "Gián đoạn, tạm dừng (một hoạt động đang diễn ra)",
+    "options": [
+      {
+        "text": "この木は長すぎるから、中断して運ぶことにしよう。",
+        "translation": "Cái cây này dài quá, hãy cắt ngắn nó đi để vận chuyển.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cắt vật lý dùng <b>切断</b> (せつだん)."
+      },
+      {
+        "text": "日照りが続いて、川の水がとうとう中断した。",
+        "translation": "Nắng hạn kéo dài, nước sông cuối cùng đã cạn kiệt (ngừng chảy).",
+        "explanation": "<b style='color:red'>[Sai]</b> Nước ngừng chảy/cạn dùng <b>枯れる</b> (かれる) hoặc <b>途絶える</b>."
+      },
+      {
+        "text": "テレビを見ようとしたところへ、電気が中断した。",
+        "translation": "Vừa định xem tivi thì điện bị cắt.",
+        "explanation": "<b style='color:red'>[Sai]</b> Mất điện dùng <b>停電</b> (ていでん) hoặc <b>切れた</b>."
+      },
+      {
+        "text": "聞かれたくない人が来たので、話を中断した。",
+        "translation": "Vì có người mà chúng tôi không muốn cho nghe thấy đi tới nên chúng tôi đã tạm dừng câu chuyện.",
+        "explanation": "<b style='color:green'>[Đúng]</b> 中断 dùng khi một hành động (như nói chuyện, trận đấu, công việc) bị ngắt quãng giữa chừng."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 58,
+    "question": "中腹",
+    "reading": "ちゅうふく",
+    "translation": "Lưng chừng núi, sườn núi",
+    "options": [
+      {
+        "text": "おなかの中腹のところから切断することに決めた。",
+        "translation": "Tôi quyết định cắt từ phần giữa bụng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Phần giữa bụng dùng <b>腹部の中央</b>. 中腹 chỉ dùng cho núi."
+      },
+      {
+        "text": "山の中腹にトンネルを掘って列車を通せる。",
+        "translation": "Người ta có thể đào hầm ở lưng chừng núi để cho đoàn tàu chạy qua.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>山の中腹</b> là cụm từ chuẩn để chỉ vị trí ở giữa chân núi và đỉnh núi."
+      },
+      {
+        "text": "その川は中腹になると、急に広くなった。",
+        "translation": "Con sông đó khi đến đoạn giữa thì đột nhiên rộng ra.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đoạn giữa dòng sông dùng <b>中流</b> (ちゅうりゅう)."
+      },
+      {
+        "text": "日本の土地の中腹に高い山が連なっている。",
+        "translation": "Ở phần trung tâm địa hình Nhật Bản có những dãy núi cao liên tiếp.",
+        "explanation": "<b style='color:red'>[Sai]</b> Phần trung tâm vùng đất dùng <b>中央部</b> hoặc <b>真ん中</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 59,
+    "question": "調理",
+    "reading": "ちょうり",
+    "translation": "Nấu nướng, chế biến thức ăn",
+    "options": [
+      {
+        "text": "新聞は読みっぱなしにしないで、きちんと調理しなさいよ。",
+        "translation": "Đừng đọc báo xong rồi để đấy, hãy sắp xếp (xử lý) chúng gọn gàng đi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Sắp xếp/xử lý đồ đạc dùng <b>整理</b> (せいり) hoặc <b>片付け</b>."
+      },
+      {
+        "text": "いかに部下に仕事を調理するかに学問があるみたいだ。",
+        "translation": "Có vẻ như có cả một môn học về cách điều phối công việc cho cấp dưới.",
+        "explanation": "<b style='color:red'>[Sai]</b> Quản lý/điều phối công việc dùng <b>管理</b> hoặc <b>割り振り</b>."
+      },
+      {
+        "text": "魚を調理することにかけては、彼はこのレストランでは一番だ。",
+        "translation": "Nói về việc chế biến cá thì anh ấy là số một ở nhà hàng này.",
+        "explanation": "<b style='color:green'>[Đúng]</b> 調理 dùng thay cho 料理 (りょうり) trong ngữ cảnh mang tính kỹ thuật hoặc chuyên nghiệp hơn."
+      },
+      {
+        "text": "バランスの取れた料理を食べ、体を調理する。",
+        "translation": "Ăn những món ăn cân bằng dinh dưỡng để điều chỉnh cơ thể.",
+        "explanation": "<b style='color:red'>[Sai]</b> Điều tiết cơ thể dùng <b>整える</b> (ととのえる) hoặc <b>調整</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 60,
+    "question": "追及",
+    "reading": "ついきゅう",
+    "translation": "Truy cứu, thẩm vấn (trách nhiệm, tội lỗi)",
+    "options": [
+      {
+        "text": "彼は厳しく追及されたので、罪を告白した。",
+        "translation": "Vì bị truy cứu nghiêm khắc nên anh ta đã thú nhận tội lỗi.",
+        "explanation": "<b style='color:green'>[Đúng]</b> 追及 dùng để chỉ việc tra hỏi đến cùng để tìm ra trách nhiệm hoặc sự thật của một lỗi lầm."
+      },
+      {
+        "text": "難しい試験問題だが、深く追及したら、解けた。",
+        "translation": "Đó là một câu hỏi khó trong kỳ thi, nhưng sau khi nghiên cứu sâu, tôi đã giải được.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nghiên cứu sâu về kiến thức/chân lý dùng <b>追究</b> (cùng âm nhưng khác chữ Hán)."
+      },
+      {
+        "text": "警察が捕まった泥棒をあこれこ追及した。",
+        "translation": "Cảnh sát đã lục soát (tìm kiếm) tên trộm bị bắt đủ mọi chỗ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Lục soát/tìm kiếm dùng <b>捜査</b> hoặc <b>調べる</b>."
+      },
+      {
+        "text": "火事が隣の家にも追及して、大きな損害をもたらした。",
+        "translation": "Đám cháy đã lan sang cả nhà bên cạnh, gây ra thiệt hại lớn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Lửa lan rộng dùng <b>延焼</b> (えんしょう) hoặc <b>広がる</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 61,
+    "question": "墜落",
+    "reading": "ついらく",
+    "translation": "Rơi từ trên cao xuống (máy bay, thiên thạch, người từ tòa nhà)",
+    "options": [
+      {
+        "text": "地球から墜落した人工衛星が軌道を離れた。",
+        "translation": "Vệ tinh nhân tạo rơi từ Trái Đất đã rời khỏi quỹ đạo.",
+        "explanation": "<b style='color:red'>[Sai]</b> Vệ tinh từ Trái Đất phóng lên dùng <b>打ち上げられた</b>. 墜落 dùng khi vật đang ở trên cao bị rơi xuống đất."
+      },
+      {
+        "text": "有望視されていた彼が犯人に墜落したのは実に残念だ。",
+        "translation": "Thật đáng tiếc khi anh ấy, người vốn đầy triển vọng, lại sa ngã trở thành tội phạm.",
+        "explanation": "<b style='color:red'>[Sai]</b> Sa ngã về đạo đức/nhân cách dùng <b>堕落</b> (だらく)."
+      },
+      {
+        "text": "操縦ミスによる航空機の墜落事故がたまに起こる。",
+        "translation": "Thỉnh thoảng vẫn xảy ra các vụ tai nạn rơi máy bay do lỗi điều khiển.",
+        "explanation": "<b style='color:green'>[Đúng]</b> 墜落 là từ chuyên dụng cho các vụ tai nạn rơi máy bay hoặc vật thể từ trên không trung xuống mặt đất."
+      },
+      {
+        "text": "鉄棒選手は見事に墜落して、ついに優勝した。",
+        "translation": "Vận động viên xà đơn đã tiếp đất tuyệt vời và cuối cùng đã vô địch.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tiếp đất trong thể thao dùng <b>着地</b> (ちゃくち)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 62,
+    "question": "停滞",
+    "reading": "ていたい",
+    "translation": "Đình trệ, ứ đọng, không tiến triển (kinh tế, giao thông, công việc)",
+    "options": [
+      {
+        "text": "景気が停滞し、物が売れない状態が続いている。",
+        "translation": "Tình hình kinh tế đình trệ, tình trạng hàng hóa không bán được vẫn đang tiếp diễn.",
+        "explanation": "<b style='color:green'>[Đúng]</b> 停滞 dùng rất phổ biến để chỉ sự trì trệ của nền kinh tế."
+      },
+      {
+        "text": "吹雪にあったので、30分ほど車のエンジンを停滞した。",
+        "translation": "Vì gặp bão tuyết nên tôi đã dừng động cơ xe khoảng 30 phút.",
+        "explanation": "<b style='color:red'>[Sai]</b> Dừng máy móc dùng <b>停止</b> (ていし) hoặc <b>止めた</b>."
+      },
+      {
+        "text": "停滞な経済を発展の道へ導く対策を急がなければならない。",
+        "translation": "Cần phải gấp rút đưa ra các đối sách để dẫn dắt nền kinh tế đang đình trệ hướng tới con đường phát triển.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không dùng tính từ đuôi na \"停滞な\". Phải dùng danh từ bổ nghĩa: <b>停滞している経済</b>."
+      },
+      {
+        "text": "患者の心臓が停滞の兆しが見え始めたので、医者たちが慌てた。",
+        "translation": "Các bác sĩ đã hoảng hốt khi tim của bệnh nhân bắt đầu có dấu hiệu ngừng đập.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tim ngừng đập dùng <b>停止</b> (ていし)."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 63,
+    "question": "定着",
+    "reading": "ていちゃく",
+    "translation": "Định hình, bám rễ, trở nên phổ biến/quen thuộc (thói quen, văn hóa, màu sắc)",
+    "options": [
+      {
+        "text": "その習慣もすでに新しい土地に定着した。",
+        "translation": "Thói quen đó cũng đã ăn sâu bám rễ (trở nên phổ biến) ở vùng đất mới.",
+        "explanation": "<b style='color:green'>[Đúng]</b> 定着 dùng để chỉ một thói quen hoặc văn hóa đã trở nên quen thuộc tại một nơi nào đó."
+      },
+      {
+        "text": "板に釘を打ち込んで、しっかり壁に定着する。",
+        "translation": "Đóng đinh vào tấm ván để cố định nó thật chặt vào tường.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cố định vật lý dùng <b>固定</b> (こてい)."
+      },
+      {
+        "text": "午後4時に飛行機が成田空港に定着した。",
+        "translation": "Máy bay đã hạ cánh xuống sân bay Narita lúc 4 giờ chiều.",
+        "explanation": "<b style='color:red'>[Sai]</b> Máy bay hạ cánh dùng <b>着陸</b> (ちゃくりく) hoặc <b>到着</b>."
+      },
+      {
+        "text": "これは定着した服なので、体にぴったりする。",
+        "translation": "Đây là bộ quần áo vừa vặn nên rất ôm người.",
+        "explanation": "<b style='color:red'>[Sai]</b> Quần áo vừa vặn dùng <b>サイズが合った</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 64,
+    "question": "適応",
+    "reading": "てきおう",
+    "translation": "Thích nghi (với môi trường, hoàn cảnh, sự thay đổi)",
+    "options": [
+      {
+        "text": "適応な運動をすれば健康にいいが、でないと……",
+        "translation": "Nếu vận động phù hợp thì tốt cho sức khỏe, nhưng nếu không thì...",
+        "explanation": "<b style='color:red'>[Sai]</b> Phù hợp/vừa phải dùng <b>適当</b> (てきとう) hoặc <b>適度</b> (てきど)."
+      },
+      {
+        "text": "動物は人間より環境に適応する能力に優れている。",
+        "translation": "Động vật có khả năng thích nghi với môi trường ưu việt hơn con người.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>環境に適応する</b> là cách dùng cơ bản và chính xác nhất của từ này."
+      },
+      {
+        "text": "アンコールに適応して、ピアニストは再び舞台に登場した。",
+        "translation": "Đáp lại yêu cầu diễn thêm (encore), nghệ sĩ piano đã xuất hiện lại trên sân khấu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đáp lại yêu cầu/mong đợi dùng <b>応えて</b> (こたえて)."
+      },
+      {
+        "text": "二度とない適応のチャンスだから、のがさないように。",
+        "translation": "Đây là cơ hội thuận lợi hiếm có, đừng để lỡ mất.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cơ hội tuyệt vời dùng <b>絶好</b> (ぜっこう) hoặc <b>適切</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 65,
+    "question": "出来心",
+    "reading": "できごころ",
+    "translation": "Ý muốn bất chợt, nông nổi, nảy ra ý định xấu trong nhất thời",
+    "options": [
+      {
+        "text": "出来心なしには成功しないと言われている。",
+        "translation": "Người ta nói rằng không có tâm huyết thì không thể thành công.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tâm huyết/nỗ lực dùng <b>熱意</b> hoặc <b>努力</b>."
+      },
+      {
+        "text": "出来心で犯す罪に多いのは万引きだ。",
+        "translation": "Ăn cắp vặt là tội phạm thường do ý định nảy sinh nhất thời mà gây ra.",
+        "explanation": "<b style='color:green'>[Đúng]</b> 出来心 dùng để chỉ những hành động sai trái bột phát, không có kế hoạch từ trước."
+      },
+      {
+        "text": "出来心でございますが、ご協力いたします。",
+        "translation": "Tuy còn thiếu sót nhưng tôi xin được giúp đỡ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cách nói khiêm nhường khi giúp đỡ là <b>至らぬ点</b> hoặc <b>微力ながら</b>."
+      },
+      {
+        "text": "貧しい人を助けることに決めたのは彼女の出来心だ。",
+        "translation": "Việc cô ấy quyết định giúp đỡ người nghèo là do sự tốt bụng của cô ấy.",
+        "explanation": "<b style='color:red'>[Sai]</b> Lòng tốt/lòng nhân ái dùng <b>善意</b> (ぜんい) hoặc <b>優しさ</b>. 出来心 thường mang nghĩa tiêu cực."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 66,
+    "question": "出欠",
+    "reading": "しゅっけつ",
+    "translation": "Sự có mặt hay vắng mặt (điểm danh)",
+    "options": [
+      {
+        "text": "金銭の出欠、つまり貸し借りはよくあるものだ。",
+        "translation": "Việc ra vào của tiền bạc, tức là vay mượn, là chuyện thường tình.",
+        "explanation": "<b style='color:red'>[Sai]</b> Việc thu chi tiền bạc dùng <b>出し入れ</b> (だしいれ)."
+      },
+      {
+        "text": "図書室の係員は月に1回図書の出欠を調べる。",
+        "translation": "Nhân viên thư viện kiểm tra sự có mặt (số lượng) sách mỗi tháng một lần.",
+        "explanation": "<b style='color:red'>[Sai]</b> Kiểm kê hàng hóa/sách dùng <b>在庫</b> (ざいこ) hoặc <b>有無</b> (うむ)."
+      },
+      {
+        "text": "あの先生は出欠にうるさいから、遅刻できないんだ。",
+        "translation": "Thầy giáo đó rất khắt khe trong việc điểm danh (có mặt hay vắng mặt) nên không thể đi muộn được.",
+        "explanation": "<b style='color:green'>[Đúng]</b> 出欠 dùng để chỉ việc kiểm tra xem một người có tham gia hay vắng mặt tại buổi học/họp hay không."
+      },
+      {
+        "text": "このごろ、水道の水の出欠は不安定で困る。",
+        "translation": "Dạo này việc nước máy chảy ra (có hay không) rất không ổn định nên thật rắc rối.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tình trạng nước chảy dùng <b>出方</b> hoặc <b>供給</b> (きょうきゅう)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 67,
+    "question": "手口",
+    "reading": "てぐち",
+    "translation": "Thủ đoạn, phương thức (thường dùng cho các hành vi phạm tội)",
+    "options": [
+      {
+        "text": "三番目の娘が生まれたので、手口が増えた。",
+        "translation": "Vì đứa con gái thứ ba chào đời nên số miệng ăn trong nhà tăng lên.",
+        "explanation": "<b style='color:red'>[Sai]</b> Số người ăn/miệng ăn dùng <b>家族の数</b> hoặc <b>口数</b>."
+      },
+      {
+        "text": "手口の清潔をいつも保つのは衛生上注意すべき点だ。",
+        "translation": "Luôn giữ cho miệng và tay sạch sẽ là điểm cần lưu ý về vệ sinh.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tay và miệng dùng <b>手口</b> (nghĩa đen) nhưng trong tiếng Nhật không dùng từ ghép này để chỉ vệ sinh cơ thể; nên dùng <b>手や口</b>."
+      },
+      {
+        "text": "いつもは用心深いぼくも、彼の巧妙な手口に騙された。",
+        "translation": "Ngay cả một người luôn thận trọng như tôi cũng bị lừa bởi thủ đoạn tinh vi của anh ta.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>巧妙な手口</b> (thủ đoạn tinh vi) là cụm từ rất phổ biến để nói về các mánh khóe lừa đảo hoặc phạm tội."
+      },
+      {
+        "text": "どんな手口を使っても家族といっしょにいたい。",
+        "translation": "Dù có phải dùng cách gì đi nữa, tôi vẫn muốn ở bên gia đình.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cách thức/phương pháp nói chung dùng <b>手段</b> (しゅだん). 手口 mang nghĩa tiêu cực (phạm tội)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 68,
+    "question": "手数",
+    "reading": "てすう",
+    "translation": "Phiền phức, tốn công, tốn sức (thường dùng khi nhờ vả)",
+    "options": [
+      {
+        "text": "手数が入る仕事だから、喜んで引き受けた。",
+        "translation": "Vì là công việc đòi hỏi sự tỉ mỉ/tốn công nên tôi đã vui vẻ nhận lời.",
+        "explanation": "<b style='color:red'>[Sai]</b> Công việc tốn công dùng <b>手間</b> (てま) <b>がかかる</b>."
+      },
+      {
+        "text": "ロボットは手数どおりにこつこつ働いている。",
+        "translation": "Robot đang làm việc cần mẫn theo đúng các bước (thủ tục).",
+        "explanation": "<b style='color:red'>[Sai]</b> Các bước trình tự dùng <b>手順</b> (てじゅん)."
+      },
+      {
+        "text": "お忙しいところ、お手数をかけてすみません。",
+        "translation": "Xin lỗi vì đã làm phiền (gây tốn công sức) cho anh trong lúc bận rộn.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>お手数をかける</b> là một câu xin lỗi lịch sự rất thông dụng khi làm phiền ai đó."
+      },
+      {
+        "text": "せっかくの縁談だが、手数者が入って台無しになった。",
+        "translation": "Dù là một cuộc hôn nhân tốt đẹp nhưng vì có kẻ thứ ba xen vào nên đã hỏng hết.",
+        "explanation": "<b style='color:red'>[Sai]</b> Người xen vào phá đám dùng <b>邪魔者</b> (じゃまもの)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 69,
+    "question": "添削",
+    "reading": "てんさく",
+    "translation": "Sửa chữa bài viết, gọt giũa văn chương (bằng cách thêm bớt, chỉnh sửa)",
+    "options": [
+      {
+        "text": "編集者が添削した投書原稿を整理して新聞に載せる。",
+        "translation": "Biên tập viên chỉnh sửa (thêm bớt) bản thảo thư bạn đọc rồi sắp xếp để đăng lên báo.",
+        "explanation": "<b style='color:green'>[Đúng]</b> 添削 chuyên dùng cho việc giáo viên hoặc biên tập viên sửa bài viết cho người khác."
+      },
+      {
+        "text": "家計が厳しいから、支出を添削するためタバコをやめた。",
+        "translation": "Vì kinh tế gia đình eo hẹp nên tôi bỏ thuốc lá để cắt giảm chi tiêu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cắt giảm chi phí dùng <b>削減</b> (さくげん) hoặc <b>切り詰める</b>."
+      },
+      {
+        "text": "要らない部分を添削して、芯だけを使って料理する。",
+        "translation": "Gọt bỏ phần không cần thiết, chỉ dùng phần lõi để nấu ăn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Gọt/loại bỏ phần thừa của đồ vật dùng <b>取り除く</b> hoặc <b>削る</b>."
+      },
+      {
+        "text": "犯罪の要素を添削して、社会の空気を浄化しようじゃないか。",
+        "translation": "Chúng ta hãy cùng loại bỏ các yếu tố tội phạm để làm sạch bầu không khí xã hội.",
+        "explanation": "<b style='color:red'>[Sai]</b> Loại bỏ yếu tố xấu dùng <b>排除</b> (はいじょ) hoặc <b>取り除く</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 70,
+    "question": "展示",
+    "reading": "てんじ",
+    "translation": "Trưng bày, triển lãm (để mọi người cùng xem)",
+    "options": [
+      {
+        "text": "減刑を求めるため偏に、犯人が警察に自分の罪を展示した。",
+        "translation": "Để mong được giảm án, tên tội phạm đã phô bày (thú nhận) tội lỗi của mình với cảnh sát.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thú tội dùng <b>自白</b> (じはく) hoặc <b>告白</b>."
+      },
+      {
+        "text": "難しい漢字に読み方が展示しているので、分かりやすい。",
+        "translation": "Vì các chữ Hán khó đều có ghi cách đọc (phiên âm) nên rất dễ hiểu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ghi kèm cách đọc dùng <b>振ってある</b> (ふってある) hoặc <b>表示</b> (ひょうじ)."
+      },
+      {
+        "text": "結婚する直前、彼女は恋人に潜んでいた秘密を展示した。",
+        "translation": "Ngay trước khi kết hôn, cô ấy đã tiết lộ bí mật bấy lâu nay của mình với người yêu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tiết lộ bí mật dùng <b>明かした</b> (あかした) hoặc <b>打ち明けた</b>."
+      },
+      {
+        "text": "世界中の子供を撮影した写真が展示されている。",
+        "translation": "Những bức ảnh chụp trẻ em trên khắp thế giới đang được trưng bày (triển lãm).",
+        "explanation": "<b style='color:green'>[Đúng]</b> 展示 dùng cho việc bày ra các tác phẩm nghệ thuật, ảnh, hoặc hiện vật để công chúng thưởng lãm."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 71,
+    "question": "伝来",
+    "reading": "でんらい",
+    "translation": "Truyền từ đời này sang đời khác, truyền từ nước ngoài vào",
+    "options": [
+      {
+        "text": "どこからかきれいな音楽が伝来した。",
+        "translation": "Một bản nhạc hay từ đâu đó vọng lại.",
+        "explanation": "<b style='color:red'>[Sai]</b> Âm thanh truyền đến dùng <b>聞こえてくる</b> hoặc <b>流れてくる</b>."
+      },
+      {
+        "text": "うちには祖先伝来の家具がある。",
+        "translation": "Nhà tôi có những món đồ nội thất do tổ tiên truyền lại.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>祖先伝来</b> (tổ tiên truyền lại) là một cụm từ cố định sử dụng đúng nghĩa của 伝来."
+      },
+      {
+        "text": "さっきA社から荷物が伝来してきた。",
+        "translation": "Vừa nãy có hành lý được gửi đến từ công ty A.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hàng hóa/hành lý gửi đến dùng <b>届いた</b> (とどいた)."
+      },
+      {
+        "text": "強い日差しが部屋に伝来した。",
+        "translation": "Ánh nắng gay gắt chiếu vào trong phòng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ánh sáng chiếu vào dùng <b>差し込む</b> (さしこむ)."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 72,
+    "question": "投下",
+    "reading": "とうか",
+    "translation": "Ném xuống, thả xuống (bom, vốn đầu tư)",
+    "options": [
+      {
+        "text": "あの人は88階ものビルから投下して自殺した。",
+        "translation": "Người đó đã nhảy xuống từ tòa nhà 88 tầng để tự sát.",
+        "explanation": "<b style='color:red'>[Sai]</b> Người nhảy xuống dùng <b>飛び降り</b> (とびおり). 投下 dùng cho vật."
+      },
+      {
+        "text": "先生が研究活動に生涯を投下した。",
+        "translation": "Thầy giáo đã dành cả đời cho hoạt động nghiên cứu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cống hiến cuộc đời dùng <b>捧げた</b> (ささげた) hoặc <b>投じた</b> (とうじた)."
+      },
+      {
+        "text": "アメリカは広島と長崎に原爆を投下した。",
+        "translation": "Mỹ đã thả bom nguyên tử xuống Hiroshima và Nagasaki.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>原爆を投下する</b> (thả bom nguyên tử) là cách dùng tiêu biểu nhất của từ này."
+      },
+      {
+        "text": "もう少しでポケットから財布が投下されそうだった。",
+        "translation": "Chút nữa thôi là chiếc ví đã rơi ra khỏi túi rồi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Vật vô tình rơi dùng <b>落ちる</b> (おちる)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 73,
+    "question": "把握",
+    "reading": "はあく",
+    "translation": "Nắm vững, thấu hiểu (nội dung, tình hình)",
+    "options": [
+      {
+        "text": "高くても気に入った物なら把握せずにはいられない。",
+        "translation": "Nếu là thứ tôi thích thì dù đắt tôi cũng phải sở hữu nó.",
+        "explanation": "<b style='color:red'>[Sai]</b> Sở hữu/mua đồ dùng <b>手に入れる</b>."
+      },
+      {
+        "text": "状況をよく把握してから、対策を立てます。",
+        "translation": "Sau khi nắm vững tình hình, tôi sẽ lập đối sách.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>状況を把握する</b> (nắm bắt tình hình) là cách dùng chính xác của từ này."
+      },
+      {
+        "text": "八年間交際したすえ、ついに彼女をしっかり把握した。",
+        "translation": "Sau 8 năm hẹn hò, cuối cùng tôi đã nắm chặt được cô ấy (cưới được cô ấy).",
+        "explanation": "<b style='color:red'>[Sai]</b> Kết hôn dùng <b>結婚した</b> hoặc chiếm được trái tim dùng <b>射止めた</b>."
+      },
+      {
+        "text": "数人の警察がいっせいに逃げようとした犯人を把握した。",
+        "translation": "Nhiều cảnh sát đã cùng lúc tóm gọn tên tội phạm đang định bỏ trốn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Bắt giữ tội phạm dùng <b>確保</b> (かくほ) hoặc <b>逮捕</b> (たいほ)."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 74,
+    "question": "迫害",
+    "reading": "はくがい",
+    "translation": "Sự đàn áp, xua đuổi, ngược đãi (thường vì lý do tôn giáo, chủng tộc)",
+    "options": [
+      {
+        "text": "作物はしばしば山から下りてきたサルに迫害された。",
+        "translation": "Hoa màu thường xuyên bị lũ khỉ từ trên núi xuống phá hoại.",
+        "explanation": "<b style='color:red'>[Sai]</b> Động vật phá hoại dùng <b>荒らされた</b> (あらされた)."
+      },
+      {
+        "text": "いたずらっ子を軽く迫害するのも必要な教育だ。",
+        "translation": "Việc khiển trách nhẹ nhàng những đứa trẻ nghịch ngợm cũng là giáo dục cần thiết.",
+        "explanation": "<b style='color:red'>[Sai]</b> Khiển trách dùng <b>叱る</b> (しかる) hoặc <b>懲らしめる</b>."
+      },
+      {
+        "text": "肉体的にも精神的にも捕まえた捕虜を迫害した。",
+        "translation": "Bọn chúng đã ngược đãi (đàn áp) những tù binh bị bắt cả về thể xác lẫn tinh thần.",
+        "explanation": "<b style='color:green'>[Đúng]</b> 迫害 thường được dùng cho hành động ngược đãi có hệ thống đối với một nhóm người (như tù binh, người yếu thế)."
+      },
+      {
+        "text": "この地域では毎年、自然災害による迫害が大きい。",
+        "translation": "Vùng này hàng năm phải chịu những thiệt hại lớn từ thiên tai.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thiệt hại thiên tai dùng <b>被害</b> (ひがい)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 75,
+    "question": "暴露",
+    "reading": "ばくろ",
+    "translation": "Vạch trần, để lộ (bí mật, hành vi xấu), phơi ra ngoài (ánh sáng, mưa gió)",
+    "options": [
+      {
+        "text": "政治家の汚職事件が暴露された。",
+        "translation": "Vụ án tham nhũng của chính trị gia đã bị vạch trần.",
+        "explanation": "<b style='color:green'>[Đúng]</b> 暴露 dùng để chỉ việc đưa những thông tin xấu, bí mật ra ánh sáng."
+      },
+      {
+        "text": "最近の映画には暴露な扇情シーンが多い。",
+        "translation": "Phim ảnh gần đây có nhiều cảnh hở hang khêu gợi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cảnh hở hang dùng <b>露出</b> (ろしゅつ)."
+      },
+      {
+        "text": "浜辺に来て、肌を暴露して日光を浴びる。",
+        "translation": "Ra bờ biển, để lộ da thịt để tắm nắng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Để lộ da thịt dùng <b>露出</b> (ろしゅつ)."
+      },
+      {
+        "text": "ペンキが剥げたベンチが公園に暴露している。",
+        "translation": "Chiếc ghế băng bị bong tróc sơn đang nằm phơi mình trong công viên.",
+        "explanation": "<b style='color:red'>[Sai]</b> Để lộ ra bên ngoài dùng <b>露出</b> hoặc <b>さらされている</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 76,
+    "question": "布告",
+    "reading": "ふこく",
+    "translation": "Tuyên bố, bố cáo (thường mang tính chính thức, nhà nước)",
+    "options": [
+      {
+        "text": "彼女に思いを布告する機会がついにやってきた。",
+        "translation": "Cuối cùng cơ hội để thổ lộ tâm tình với cô ấy đã đến.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thổ lộ tình cảm dùng <b>告白</b> (こくはく)."
+      },
+      {
+        "text": "当時、アメリカも日本に宣戦を布告した。",
+        "translation": "Thời đó, Mỹ cũng đã tuyên chiến với Nhật Bản.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>宣戦布告</b> (tuyên chiến) là một cụm từ cố định sử dụng đúng nghĩa của 布告."
+      },
+      {
+        "text": "お父さんは家族旅行の布告を発表した。",
+        "translation": "Bố đã đưa ra thông báo về chuyến du lịch của gia đình.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thông báo trong gia đình dùng <b>お知らせ</b> hoặc <b>宣言</b> (nói đùa). 布告 quá trang trọng."
+      },
+      {
+        "text": "病院から癌の布告を受けた父は冷静だった。",
+        "translation": "Nhận được thông báo ung thư từ bệnh viện, bố tôi vẫn rất bình tĩnh.",
+        "explanation": "<b style='color:red'>[Sai]</b> Chẩn đoán/thông báo bệnh dùng <b>告知</b> (こくち)."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 77,
+    "question": "腐敗",
+    "reading": "ふはい",
+    "translation": "Thối rữa (thức ăn), mục nát/tham nhũng (chính trị, tinh thần)",
+    "options": [
+      {
+        "text": "チームは三流チームにまで腐敗した。",
+        "translation": "Đội bóng đã xuống cấp thành một đội hạng ba.",
+        "explanation": "<b style='color:red'>[Sai]</b> Sự đi xuống của năng lực dùng <b>転落</b> (てんらく) hoặc <b>低下</b>."
+      },
+      {
+        "text": "腐敗的な考えを捨ててください。",
+        "translation": "Hãy vứt bỏ những suy nghĩ mục nát đi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Suy nghĩ lạc hậu/xấu dùng <b>腐った</b> (くさった) hoặc <b>非道な</b>. 腐敗 thường không đi với 〜的な theo cách này."
+      },
+      {
+        "text": "腐敗した政治の改革を目指す。",
+        "translation": "Hướng tới việc cải cách nền chính trị tham nhũng (mục nát).",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>腐敗した政治</b> (nền chính trị mục nát) là cách dùng ẩn dụ chính xác của từ này."
+      },
+      {
+        "text": "鉄にさびが生え、腐敗し始めた。",
+        "translation": "Sắt bị gỉ và bắt đầu mục nát.",
+        "explanation": "<b style='color:red'>[Sai]</b> Kim loại bị ăn mòn dùng <b>腐食</b> (ふしょく)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 78,
+    "question": "不評",
+    "reading": "ふひょう",
+    "translation": "Đánh giá thấp, không được ưa chuộng, tai tiếng",
+    "options": [
+      {
+        "text": "今さら、不評不満を言っても始まらない。",
+        "translation": "Đến giờ này có nói lời bất mãn chê bai cũng chẳng ích gì.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cụm từ đúng phải là <b>不平不満</b> (ふへいふまん - bất bình bất mãn)."
+      },
+      {
+        "text": "そのくだらない作文を先生は不評した。",
+        "translation": "Thầy giáo đã đánh giá thấp bài văn tầm thường đó.",
+        "explanation": "<b style='color:red'>[Sai]</b> 不評 là danh từ hoặc tính từ đuôi na, không dùng như một động từ 〜した trực tiếp cho hành động đánh giá."
+      },
+      {
+        "text": "劣等品だと不評された作品が入選したとは。",
+        "translation": "Thật ngạc nhiên khi tác phẩm bị chê là hàng kém chất lượng lại trúng tuyển.",
+        "explanation": "<b style='color:red'>[Sai]</b> Bị đánh giá/chê dùng <b>酷評された</b> (こくひょう) hoặc <b>不評を買った</b>."
+      },
+      {
+        "text": "そんな文章を発表すれば、不評を買うにちがいない。",
+        "translation": "Nếu công bố bài văn như vậy, chắc chắn sẽ nhận về những đánh giá tiêu cực (chuốc lấy tai tiếng).",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>不評を買う</b> là cụm từ phổ biến nghĩa là làm điều gì đó khiến mọi người chê bai."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 79,
+    "question": "扶養",
+    "reading": "ふよう",
+    "translation": "Nuôi dưỡng, cấp dưỡng (người thân không có khả năng tự lập)",
+    "options": [
+      {
+        "text": "扶養家族が10人もいて、たいへんだ。",
+        "translation": "Thật vất vả khi có tới 10 người thân phải nuôi dưỡng.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>扶養家族</b> (người thân phụ thuộc/được cấp dưỡng) là thuật ngữ chính xác trong đời sống và pháp luật."
+      },
+      {
+        "text": "人材を扶養するのは教師の責務である。",
+        "translation": "Nuôi dưỡng nhân tài là trách nhiệm của giáo viên.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nuôi dưỡng/đào tạo nhân tài dùng <b>育成</b> (いくせい) hoặc <b>養う</b> (やしなう)."
+      },
+      {
+        "text": "古い考えを捨てて、新しい発想を扶養する。",
+        "translation": "Vứt bỏ tư duy cũ và nuôi dưỡng những ý tưởng mới.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nuôi dưỡng ý tưởng dùng <b>育む</b> (はぐくむ) hoặc <b>養う</b>."
+      },
+      {
+        "text": "農家は心をこめて作物を扶養する。",
+        "translation": "Nông dân tận tâm nuôi trồng hoa màu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Trồng trọt hoa màu dùng <b>栽培</b> (さいばい) hoặc <b>育てる</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 80,
+    "question": "触れ合い",
+    "reading": "ふれあい",
+    "translation": "Sự tiếp xúc, giao lưu, thấu hiểu lẫn nhau (về mặt tâm hồn/tình cảm)",
+    "options": [
+      {
+        "text": "在日の留学生として日本人に触れ合いする必要がある。",
+        "translation": "Là du học sinh tại Nhật, cần phải tiếp xúc với người Nhật.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tiếp xúc/giao lưu dùng <b>交流する</b> (こうりゅう) hoặc <b>接する</b>. 触れ合い thường là danh từ."
+      },
+      {
+        "text": "親子では言葉だけでなく、心の触れ合いも大切だ。",
+        "translation": "Giữa cha mẹ và con cái, không chỉ lời nói mà sự thấu hiểu tâm hồn cũng rất quan trọng.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>心の触れ合い</b> (sự giao thoa/thấu hiểu tâm hồn) là cách dùng rất hay và chính xác."
+      },
+      {
+        "text": "ケータイの信号の触れ合いが悪いのか、聞きづらい。",
+        "translation": "Có lẽ do tín hiệu điện thoại tiếp xúc kém nên khó nghe.",
+        "explanation": "<b style='color:red'>[Sai]</b> Kết nối/thu tín hiệu kém dùng <b>受信状態</b> hoặc <b>電波</b>."
+      },
+      {
+        "text": "マイナス電気とプラス電気が触れ合いになったら、火花を発した。",
+        "translation": "Khi điện âm và điện dương tiếp xúc với nhau thì phát ra tia lửa.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tiếp xúc vật lý của dòng điện dùng <b>接触</b> (せっしょく)."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 81,
+    "question": "分裂",
+    "reading": "ぶんれつ",
+    "translation": "Phân chia, rạn nứt, chia rẽ (tổ chức, tế bào)",
+    "options": [
+      {
+        "text": "一列にではなく、二列に分裂して、きちんと行進しよう。",
+        "translation": "Đừng đi một hàng, hãy chia làm hai hàng và hành quân cho tử tế.",
+        "explanation": "<b style='color:red'>[Sai]</b> Chia hàng/tách ra dùng <b>分かれて</b> (わかれて)."
+      },
+      {
+        "text": "選挙に負けたその組織はばらばらに分裂してしまった。",
+        "translation": "Tổ chức đó sau khi thua cuộc bầu cử đã bị rạn nứt và tan rã.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>組織が分裂する</b> (tổ chức chia rẽ/phân rã) là cách dùng chính xác của từ này."
+      },
+      {
+        "text": "財布が厳しいから、分裂で借金を返すと約束した。",
+        "translation": "Vì tình hình tài chính eo hẹp, tôi hứa sẽ trả nợ theo hình thức chia nhỏ (trả góp).",
+        "explanation": "<b style='color:red'>[Sai]</b> Trả góp/chia nhỏ khoản thanh toán dùng <b>分割</b> (ぶんかつ)."
+      },
+      {
+        "text": "目的地に着いてから、分裂して自由活動になる。",
+        "translation": "Sau khi đến đích, mọi người sẽ tách ra và hoạt động tự do.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nhóm người giải tán/tách ra dùng <b>解散して</b> (かいさん) hoặc <b>別れて</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 82,
+    "question": "返還",
+    "reading": "へんかん",
+    "translation": "Hoàn trả, trả lại (những thứ có giá trị, lãnh thổ, quyền lợi)",
+    "options": [
+      {
+        "text": "日本は北方領土の返還を叫んで久しい。",
+        "translation": "Đã từ lâu Nhật Bản luôn kêu gọi việc hoàn trả lãnh thổ phương Bắc.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>領土を返還する</b> (hoàn trả lãnh thổ) là một cụm từ rất phổ biến."
+      },
+      {
+        "text": "借金の返還期限は今週だけど、どうしよう。",
+        "translation": "Thời hạn trả nợ là tuần này rồi, phải làm sao đây.",
+        "explanation": "<b style='color:red'>[Sai]</b> Trả nợ dùng <b>返済</b> (へんさい)."
+      },
+      {
+        "text": "不良品をメーカーに返還したうえ、賠償を要求した。",
+        "translation": "Sau khi trả lại hàng lỗi cho nhà sản xuất, tôi đã yêu cầu bồi thường.",
+        "explanation": "<b style='color:red'>[Sai]</b> Trả lại hàng hóa đã mua dùng <b>返品</b> (へんぴん)."
+      },
+      {
+        "text": "ぼくは、図書館から借りた本を昨日返還した。",
+        "translation": "Tôi đã trả lại cuốn sách mượn từ thư viện vào ngày hôm qua.",
+        "explanation": "<b style='color:red'>[Sai]</b> Trả lại sách/đồ mượn dùng <b>返却</b> (へんきゃく)."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 83,
+    "question": "返上",
+    "reading": "へんじょう",
+    "translation": "Trả lại (danh hiệu, quà tặng), từ bỏ (kỳ nghỉ) để làm việc khác",
+    "options": [
+      {
+        "text": "本を読み終わったら、本棚に返上しなさい。",
+        "translation": "Đọc xong sách thì hãy cất trả lại lên giá sách.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cất đồ về chỗ cũ dùng <b>戻しなさい</b> (もどしなさい)."
+      },
+      {
+        "text": "企業の利益を文化事業で社会に返上する。",
+        "translation": "Đóng góp lợi nhuận doanh nghiệp cho xã hội thông qua các hoạt động văn hóa.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đóng góp/đền đáp cho xã hội dùng <b>還元</b> (かんげん) hoặc <b>寄付</b>."
+      },
+      {
+        "text": "財布を忘れたので、途中から家へ返上した。",
+        "translation": "Vì quên ví nên tôi đã quay trở về nhà giữa chừng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Quay về dùng <b>引き返した</b> (ひきかえした)."
+      },
+      {
+        "text": "納期が迫っていたので、休日返上で働いた。",
+        "translation": "Vì hạn chót giao hàng đã cận kề nên tôi đã làm việc xuyên ngày nghỉ (từ bỏ ngày nghỉ).",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>休日返上</b> (làm việc không nghỉ) là cụm từ rất đặc trưng khi muốn nói về việc hy sinh thời gian nghỉ ngơi để làm việc."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 84,
+    "question": "変容",
+    "reading": "へんよう",
+    "translation": "Thay đổi diện mạo, biến đổi hình thái/tính chất",
+    "options": [
+      {
+        "text": "市場経済を導入したおかげで、ロシアは変容を遂げた。",
+        "translation": "Nhờ đưa vào nền kinh tế thị trường, nước Nga đã đạt được sự biến đổi (về diện mạo đất nước).",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>変容を遂げる</b> (đạt được sự biến đổi) dùng để chỉ sự thay đổi lớn về hình thái hoặc bộ mặt của một xã hội/quốc gia."
+      },
+      {
+        "text": "その話を聞いて、彼女は急に顔が変容した。",
+        "translation": "Nghe câu chuyện đó, sắc mặt cô ấy đột ngột thay đổi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Sắc mặt thay đổi dùng <b>変わった</b> hoặc <b>強張った</b> (こわばった). 変容 mang tính quy mô lớn hơn."
+      },
+      {
+        "text": "220ボルトを110ボルトに変容すれば使える。",
+        "translation": "Nếu biến đổi điện áp từ 220V sang 110V thì có thể dùng được.",
+        "explanation": "<b style='color:red'>[Sai]</b> Biến đổi thông số kỹ thuật/điện áp dùng <b>変圧</b> (へんあつ) hoặc <b>変換</b> (へんかん)."
+      },
+      {
+        "text": "小雨が大雨に変容になって、水害が起こりそうだ。",
+        "translation": "Mưa nhỏ chuyển biến thành mưa lớn, có vẻ sắp có lụt lội.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tình trạng thời tiết thay đổi dùng <b>変わって</b> hoặc <b>激化した</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 85,
+    "question": "偏重",
+    "reading": "へんちょう",
+    "translation": "Coi trọng quá mức một phía, coi trọng lệch lạc",
+    "options": [
+      {
+        "text": "肉料理を食べ過ぎたせいか、体が偏重してしまった。",
+        "translation": "Có lẽ do ăn quá nhiều thịt nên cơ thể tôi đã trở nên mất cân bằng (béo phì/bệnh).",
+        "explanation": "<b style='color:red'>[Sai]</b> Cơ thể không khỏe dùng <b>不調</b> (ふちょう) hoặc <b>バランスを崩した</b>."
+      },
+      {
+        "text": "上司として部下を偏重するのは当たり前のことだろう。",
+        "translation": "Là cấp trên thì việc thiên vị cấp dưới là chuyện đương nhiên nhỉ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thiên vị người cụ thể dùng <b>偏愛</b> (へんあい) hoặc <b>ひいき</b>. 偏重 thường dùng cho quan điểm/giá trị."
+      },
+      {
+        "text": "いかに学歴偏重の社会から脱皮するかを考えよう。",
+        "translation": "Hãy cùng suy nghĩ làm thế nào để thoát khỏi một xã hội quá coi trọng bằng cấp.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>学歴偏重</b> (quá coi trọng bằng cấp) là một hiện tượng xã hội sử dụng từ này rất chính xác."
+      },
+      {
+        "text": "死刑は偏重の嫌いがあるから、無期刑にされたとかいう。",
+        "translation": "Vì án tử hình có xu hướng quá nặng (nghiêm trọng) nên nghe nói đã được giảm xuống chung thân.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hình phạt quá nặng dùng <b>厳しすぎる</b> hoặc <b>重すぎる</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 86,
+    "question": "放置",
+    "reading": "ほうち",
+    "translation": "Bỏ mặc, để mặc, để lung tung (không quan tâm, không xử lý)",
+    "options": [
+      {
+        "text": "おかあさんは、きれいに洗った食器を食器戸棚に放置しておいた。",
+        "translation": "Mẹ đã để mặc (vứt) bát đĩa vừa rửa sạch vào tủ bát.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cất đồ vào đúng chỗ dùng <b>しまっておいた</b>. 放置 thường dùng cho việc vứt đồ bừa bãi hoặc bỏ mặc vấn đề."
+      },
+      {
+        "text": "完成を目の前にして工事は資金不足のため、放置されたままである。",
+        "translation": "Dù sắp hoàn thành nhưng công trình vẫn đang bị bỏ dở (để mặc) do thiếu kinh phí.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>放置されたまま</b> (bị bỏ mặc/bỏ dở) dùng rất chính xác cho một tình trạng không được tiếp tục xử lý."
+      },
+      {
+        "text": "隣の家の子供をうちに一日放置してもらえて嬉しかった。",
+        "translation": "Tôi rất vui khi được để mặc đứa trẻ nhà hàng xóm ở nhà mình cả ngày.",
+        "explanation": "<b style='color:red'>[Sai]</b> Trông nom/để trẻ ở lại dùng <b>預かって</b> (あずかって). 放置 mang nghĩa bỏ rơi, rất tiêu cực với trẻ em."
+      },
+      {
+        "text": "舞台の周りに鮮やかな花が放置されているので、いっそう映えた。",
+        "translation": "Xung quanh sân khấu những bông hoa rực rỡ được để mặc nên trông càng nổi bật hơn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hoa được trang trí dùng <b>置かれている</b> hoặc <b>飾られている</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 87,
+    "question": "冒頭",
+    "reading": "ぼうとう",
+    "translation": "Phần đầu, đoạn đầu (phát biểu, bài viết, cuộc họp)",
+    "options": [
+      {
+        "text": "会議は、冒頭から活発な意見が飛びかう。",
+        "translation": "Ngay từ đầu cuộc họp, các ý kiến sôi nổi đã được đưa ra liên tục.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>冒頭から</b> (ngay từ đầu) là cách dùng phổ biến nhất cho từ này trong các sự kiện."
+      },
+      {
+        "text": "竿の冒頭に白くて四角い布が結び付けてある。",
+        "translation": "Ở phần đầu của cây sào có buộc một mảnh vải trắng hình vuông.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đầu của vật thể hình dài dùng <b>先端</b> (せんたん) hoặc <b>先</b>."
+      },
+      {
+        "text": "NHKは「日本放送協会」の冒頭文字である。",
+        "translation": "NHK là các chữ cái đầu của 'Hiệp hội truyền thông Nhật Bản'.",
+        "explanation": "<b style='color:red'>[Sai]</b> Chữ cái đầu trong từ viết tắt dùng <b>頭文字</b> (かしらもじ)."
+      },
+      {
+        "text": "大根の冒頭の部分を切って捨てる。",
+        "translation": "Cắt bỏ phần đầu của củ cải.",
+        "explanation": "<b style='color:red'>[Sai]</b> Phần cuống/đầu rau củ dùng <b>根元</b> (ねもと) hoặc <b>上</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 88,
+    "question": "補給",
+    "reading": "ほきゅう",
+    "translation": "Bổ sung, cung cấp thêm (những thứ bị tiêu hao như năng lượng, nhiên liệu, quân nhu)",
+    "options": [
+      {
+        "text": "足りない資金は親から補給してもらいたい。",
+        "translation": "Tôi muốn được bố mẹ bổ sung cho khoản vốn còn thiếu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Bổ sung tiền bạc thường dùng <b>援助</b> (えんじょ) hoặc <b>補填</b> (ほてん)."
+      },
+      {
+        "text": "ガソリンの補給をしないと、一気に目的地に着かない。",
+        "translation": "Nếu không bổ sung (nạp) thêm xăng thì không thể một mạch đến đích được.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ガソリンの補給</b> (nạp thêm xăng) là cách dùng chính xác cho vật tư tiêu hao."
+      },
+      {
+        "text": "人手を三人補給してくれれば足りると思う。",
+        "translation": "Nếu bổ sung thêm 3 người nữa thì tôi nghĩ là đủ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Bổ sung nhân lực dùng <b>補充</b> (ほじゅう)."
+      },
+      {
+        "text": "入学願書に写真を補給して提出すること。",
+        "translation": "Bổ sung ảnh vào đơn nhập học rồi nộp.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đính kèm thêm giấy tờ/ảnh dùng <b>添付</b> (てんぷ) hoặc <b>貼付</b> (ちょうふ)."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 89,
+    "question": "補足",
+    "reading": "ほそく",
+    "translation": "Bổ sung, giải thích thêm (vào phần còn thiếu sót cho đầy đủ)",
+    "options": [
+      {
+        "text": "販路を拡大して、赤字を補足する。",
+        "translation": "Mở rộng kênh bán hàng để bù đắp khoản lỗ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Bù đắp thâm hụt/lỗ dùng <b>補填</b> (ほてん) hoặc <b>埋める</b>."
+      },
+      {
+        "text": "欠員を補足するために募集を決めた。",
+        "translation": "Quyết định tuyển dụng để bổ sung cho vị trí còn trống.",
+        "explanation": "<b style='color:red'>[Sai]</b> Bổ sung người vào chỗ trống dùng <b>補充</b> (ほじゅう)."
+      },
+      {
+        "text": "さっきの説明についてちょっと補足します。",
+        "translation": "Tôi xin được bổ sung (giải thích thêm) một chút về phần thuyết minh vừa rồi.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>補足説明</b> (giải thích bổ sung) là cách dùng phổ biến nhất, dùng cho thông tin, lời nói."
+      },
+      {
+        "text": "彼は書き物をして収入を補足に増やした。",
+        "translation": "Anh ấy viết lách để tăng thêm thu nhập bổ sung.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tăng thêm thu nhập dùng <b>補う</b> (おぎなう) làm động từ hoặc dùng <b>副収入</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 90,
+    "question": "密集",
+    "reading": "みっしゅう",
+    "translation": "Tập trung dày đặc, đông đúc (trong không gian hẹp)",
+    "options": [
+      {
+        "text": "時間を試験勉強に密集する。",
+        "translation": "Tập trung thời gian vào việc học thi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tập trung tinh thần/thời gian dùng <b>集中</b> (しゅうちゅう)."
+      },
+      {
+        "text": "力を密集してボランティア活動に参加する。",
+        "translation": "Tập trung sức lực tham gia hoạt động tình nguyện.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hợp sức dùng <b>結集</b> (けっしゅう) hoặc <b>合わせる</b>."
+      },
+      {
+        "text": "密集豪雨が降り続いたあげく、洪水が出た。",
+        "translation": "Sau một trận mưa xối xả kéo dài, lũ lụt đã xảy ra.",
+        "explanation": "<b style='color:red'>[Sai]</b> Mưa lớn cục bộ dùng <b>集中豪雨</b> (しゅうちゅうごうう)."
+      },
+      {
+        "text": "家屋密集地帯に火災が発生したらたいへんだ。",
+        "translation": "Sẽ thật kinh khủng nếu hỏa hoạn xảy ra ở khu vực nhà cửa san sát (dày đặc).",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>家屋密集地帯</b> (khu vực nhà cửa dày đặc) là cách dùng chính xác mô tả mật độ xây dựng."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 91,
+    "question": "魅了",
+    "reading": "みりょう",
+    "translation": "Mê hoặc, cuốn hút, làm say đắm",
+    "options": [
+      {
+        "text": "うちに帰ると、ゲームを魅了でやる。",
+        "translation": "Hễ về đến nhà là tôi chơi game một cách say mê.",
+        "explanation": "<b style='color:red'>[Sai]</b> Làm việc gì đó một cách say mê dùng trạng từ <b>夢中で</b> (むちゅうで)."
+      },
+      {
+        "text": "彼女の魅了は、何といっても明るいことだ。",
+        "translation": "Sức cuốn hút của cô ấy, nói gì thì nói, chính là sự tươi sáng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Danh từ chỉ sức hút/điểm lôi cuốn dùng <b>魅力</b> (みりょく)."
+      },
+      {
+        "text": "少女の魅了的な瞳に心を引かれた。",
+        "translation": "Tôi bị thu hút bởi đôi mắt đầy cuốn hút của thiếu nữ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tính từ đuôi な để bổ nghĩa cho danh từ dùng <b>魅力的な</b>."
+      },
+      {
+        "text": "彼女の美しい歌声は、私たちを魅了した。",
+        "translation": "Giọng hát tuyệt vời của cô ấy đã làm say đắm tất cả chúng tôi.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>～を魅了する</b> (làm ai đó say đắm) là cách dùng động từ chính xác."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 92,
+    "question": "滅亡",
+    "reading": "めつぼう",
+    "translation": "Diệt vong, tan thành mây khói (quốc gia, nhân loại, dòng dõi)",
+    "options": [
+      {
+        "text": "こんなに環境を破壊するのでは、人類滅亡の日はもう近い。",
+        "translation": "Cứ phá hoại môi trường thế này thì ngày nhân loại diệt vong không còn xa nữa.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>人類滅亡</b> (nhân loại diệt vong) là cụm từ sử dụng rất phổ biến và đúng ngữ cảnh."
+      },
+      {
+        "text": "隣のおじいさんは103歳でとうとう滅亡した。",
+        "translation": "Ông cụ hàng xóm cuối cùng đã qua đời ở tuổi 103.",
+        "explanation": "<b style='color:red'>[Sai]</b> Người chết dùng <b>亡くなった</b> (なくなった) hoặc <b>他界した</b>. 滅亡 không dùng cho cá nhân."
+      },
+      {
+        "text": "幻想や希望が次々と滅亡した。",
+        "translation": "Những ảo tưởng và hy vọng cứ lần lượt tan biến.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hy vọng tan biến dùng <b>消えた</b> (きえた) hoặc <b>打ち砕かれた</b>."
+      },
+      {
+        "text": "W杯ではアジアチームは滅亡した。",
+        "translation": "Tại World Cup, các đội bóng châu Á đã bị quét sạch (thất bại hoàn toàn).",
+        "explanation": "<b style='color:red'>[Sai]</b> Thua cuộc/bị loại dùng <b>敗退した</b> (はいたい) hoặc <b>全滅した</b> (trong ngữ cảnh bóng đá)."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 93,
+    "question": "山積み",
+    "reading": "やまづみ",
+    "translation": "Chồng chất như núi (công việc, vấn đề, hàng hóa)",
+    "options": [
+      {
+        "text": "大都会には山積みの高層ビルが立ち並んでいる。",
+        "translation": "Ở các thành phố lớn, các tòa nhà cao tầng mọc lên san sát.",
+        "explanation": "<b style='color:red'>[Sai]</b> Các tòa nhà mọc lên dùng <b>数多くの</b> hoặc <b>びっしりと</b>. 山積み dùng cho những thứ chồng lên nhau."
+      },
+      {
+        "text": "山積みした書類を前にしてほっと溜め息をついた。",
+        "translation": "Đứng trước đống hồ sơ chồng chất như núi, tôi thở phào nhẹ nhõm.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>書類が山積み</b> (hồ sơ chồng chất) là cách dùng rất tự nhiên để chỉ số lượng công việc nhiều."
+      },
+      {
+        "text": "ストレスが山積みになって、もう精も根も尽き果てた。",
+        "translation": "Áp lực chồng chất khiến tôi đã kiệt sức cả về thể chất lẫn tinh thần.",
+        "explanation": "<b style='color:red'>[Sai]</b> Áp lực/stress tích tụ dùng <b>溜まって</b> (たまって)."
+      },
+      {
+        "text": "溢れた水が山積みのごとく村へ流れ込んだ。",
+        "translation": "Nước tràn bờ chảy vào làng giống như một ngọn núi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nước chảy mạnh dùng <b>濁流のように</b> hoặc <b>一気に</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 94,
+    "question": "誘導",
+    "reading": "ゆうどう",
+    "translation": "Dẫn dắt, điều hướng, hướng dẫn (đưa đến một vị trí hoặc hành động cụ thể)",
+    "options": [
+      {
+        "text": "安易に入会の誘導を受けてはいけない。",
+        "translation": "Không được để bị dẫn dắt vào việc gia nhập hội một cách dễ dàng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Bị rủ rê/lôi kéo dùng <b>勧誘</b> (かんゆう)."
+      },
+      {
+        "text": "彼女のつぶらな瞳に誘導されて酔っ払った。",
+        "translation": "Tôi bị đôi mắt tròn xoe của cô ấy dẫn dắt làm cho say đắm.",
+        "explanation": "<b style='color:red'>[Sai]</b> Bị mê hoặc dùng <b>見とれて</b> hoặc <b>魅了されて</b>."
+      },
+      {
+        "text": "非常時には、お客を安全な場所に誘導する。",
+        "translation": "Trong trường hợp khẩn cấp, hãy dẫn dắt khách hàng đến nơi an toàn.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>避難誘導</b> (dẫn dắt lánh nạn) là ngữ cảnh cực kỳ phổ biến của từ này."
+      },
+      {
+        "text": "友人の誘導のおかげで、株を買って儲けた。",
+        "translation": "Nhờ sự dẫn dắt của người bạn mà tôi đã mua cổ phiếu và kiếm lời.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nhờ lời khuyên/giới thiệu dùng <b>勧め</b> (すすめ) hoặc <b>助言</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 95,
+    "question": "養護",
+    "reading": "ようご",
+    "translation": "Chăm sóc, bảo trợ (dành cho người cần sự giúp đỡ đặc biệt như trẻ em, người khuyết tật)",
+    "options": [
+      {
+        "text": "線路の養護に資金を投入する。",
+        "translation": "Đổ vốn vào việc bảo trì đường ray.",
+        "explanation": "<b style='color:red'>[Sai]</b> Bảo trì công trình dùng <b>保全</b> (ほぜん) hoặc <b>整備</b>."
+      },
+      {
+        "text": "幼児を養護施設に預ける。",
+        "translation": "Gửi trẻ nhỏ vào cơ sở bảo trợ (trại trẻ mồ côi).",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>養護施設</b> (cơ sở bảo trợ) là cụm từ ghép đúng chuyên môn."
+      },
+      {
+        "text": "プールへ行ったら、目の養護になる。",
+        "translation": "Đi bơi sẽ tốt cho việc chăm sóc mắt.",
+        "explanation": "<b style='color:red'>[Sai]</b> Bảo vệ/giữ gìn sức khỏe bộ phận cơ thể dùng <b>養生</b> (ようじょう) hoặc <b>保護</b>."
+      },
+      {
+        "text": "けがをした足を医者に養護してもらう。",
+        "translation": "Nhờ bác sĩ chăm sóc cho cái chân bị thương.",
+        "explanation": "<b style='color:red'>[Sai]</b> Điều trị vết thương dùng <b>手当て</b> (てあて) hoặc <b>治療</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 96,
+    "question": "落下",
+    "reading": "らっか",
+    "translation": "Rơi xuống, ngã xuống (vật lý), sụt giảm (con số)",
+    "options": [
+      {
+        "text": "経営不振で、とうとう赤字に落下した。",
+        "translation": "Do kinh doanh trì trệ, cuối cùng đã rơi vào tình trạng thâm hụt.",
+        "explanation": "<b style='color:red'>[Sai]</b> Rơi vào tình trạng xấu (như nợ nần, thâm hụt) dùng <b>陥る</b> (おちいる)."
+      },
+      {
+        "text": "前を走っていた人に追いつかず、100メートルも落下した。",
+        "translation": "Không đuổi kịp người chạy trước nên đã bị tụt lại tới 100 mét.",
+        "explanation": "<b style='color:red'>[Sai]</b> Bị tụt lại phía sau dùng <b>遅れる</b> (おくれる) hoặc <b>引き離される</b>."
+      },
+      {
+        "text": "他人を落下させ、その椅子を奪うような政治家がよく見られる。",
+        "translation": "Thường thấy những chính trị gia làm người khác mất chức để cướp lấy vị trí đó.",
+        "explanation": "<b style='color:red'>[Sai]</b> Làm ai đó mất chức/vị trí dùng <b>失脚させる</b> (しっきゃくさせる)."
+      },
+      {
+        "text": "地震のため棚から落下した花瓶が粉々に砕けてしまった。",
+        "translation": "Vì động đất nên chiếc bình hoa rơi từ trên kệ xuống đã vỡ tan tành.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>落下</b> dùng chính xác cho trường hợp vật thể rơi từ trên cao xuống do trọng lực."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 97,
+    "question": "両立",
+    "reading": "りょうりつ",
+    "translation": "Song hành, cùng tồn tại, thực hiện tốt cả hai việc một lúc",
+    "options": [
+      {
+        "text": "彼女は仕事と主婦業を両立させている。",
+        "translation": "Cô ấy đang làm tốt cả công việc lẫn việc nội trợ.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>両立</b> thường dùng cho việc cân bằng giữa hai lĩnh vực như công việc và gia đình."
+      },
+      {
+        "text": "昨日、宿題とスポーツをうまく両立させた。",
+        "translation": "Hôm qua tôi đã hoàn thành tốt cả bài tập lẫn thể thao.",
+        "explanation": "<b style='color:red'>[Sai]</b> Những việc mang tính ngắn hạn, nhất thời dùng <b>こなす</b> hoặc <b>済ませる</b>. 両立 mang tính duy trì lâu dài."
+      },
+      {
+        "text": "父の意見と母の意見を両立で考える。",
+        "translation": "Tôi suy nghĩ để dung hòa ý kiến của bố và mẹ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Xem xét nhiều khía cạnh dùng <b>あわせて考える</b> hoặc <b>折衷する</b> (せっちゅう)."
+      },
+      {
+        "text": "庭に二本の木が高く両立している。",
+        "translation": "Trong vườn có hai cái cây cao mọc song song.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hai vật đứng cạnh nhau dùng <b>並んで立っている</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 98,
+    "question": "連帯",
+    "reading": "れんたい",
+    "translation": "Liên đới, đoàn kết, cùng chịu trách nhiệm",
+    "options": [
+      {
+        "text": "子供とペットを連帯して散歩する。",
+        "translation": "Dắt cả trẻ con và thú cưng đi dạo.",
+        "explanation": "<b style='color:red'>[Sai]</b> Dắt đi cùng dùng <b>連れて</b> (つれて)."
+      },
+      {
+        "text": "いくつかの仕事を連帯にしてやるのは無理だ。",
+        "translation": "Thật vô lý khi kết hợp mấy công việc lại để làm cùng lúc.",
+        "explanation": "<b style='color:red'>[Sai]</b> Kết hợp công việc dùng <b>まとめて</b> hoặc <b>並行して</b>."
+      },
+      {
+        "text": "酸素と水素は連帯感を持っている。",
+        "translation": "Oxy và Hidro có cảm giác liên kết (trong hóa học).",
+        "explanation": "<b style='color:red'>[Sai]</b> Liên kết hóa học dùng <b>結合</b> (けつごう)."
+      },
+      {
+        "text": "両社は経済的連帯関係を確立した。",
+        "translation": "Hai công ty đã thiết lập mối quan hệ liên đới về kinh tế.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>連帯</b> dùng cho quan hệ hợp tác cùng chịu trách nhiệm giữa các tổ chức/cá nhân."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 99,
+    "question": "老衰",
+    "reading": "ろうすい",
+    "translation": "Lão suy, già yếu (suy giảm chức năng do tuổi già)",
+    "options": [
+      {
+        "text": "年をとると、皮膚が老衰して、しわだらけになっちゃう。",
+        "translation": "Khi có tuổi, da dẻ bị lão hóa và trở nên đầy nếp nhăn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Da dẻ bị lão hóa dùng <b>老化</b> (ろうか) hoặc <b>衰えて</b> (おとろえて)."
+      },
+      {
+        "text": "心臓が老衰になって、鼓動がいっそう激しくなる。",
+        "translation": "Trái tim bị lão suy và nhịp tim trở nên dữ dội hơn.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>老衰</b> dùng để chỉ sự suy yếu của các cơ quan nội tạng do tuổi già."
+      },
+      {
+        "text": "息子を失ってから父は急に老衰して数年後、その後を追った。",
+        "translation": "Sau khi mất con, người cha đột ngột suy yếu và vài năm sau cũng qua đời.",
+        "explanation": "<b style='color:red'>[Sai]</b> Suy yếu do cú sốc tinh thần dùng <b>衰弱</b> (すいじゃく)."
+      },
+      {
+        "text": "そんなデザインのファッションはもう老衰で下火になった。",
+        "translation": "Thời trang thiết kế kiểu đó đã già cỗi và lỗi thời rồi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thời trang lỗi thời dùng <b>廃れて</b> (すたれて) hoặc <b>古くなって</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 100,
+    "question": "両極",
+    "reading": "りょうきょく",
+    "translation": "Hai cực (Nam cực - Bắc cực), hai đầu đối lập",
+    "options": [
+      {
+        "text": "南北両極を探検する人が次第に増えてきた。",
+        "translation": "Số người thám hiểm hai cực Nam Bắc đang dần tăng lên.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>両極</b> chỉ chính xác hai đầu của trục Trái Đất."
+      },
+      {
+        "text": "鉄棒の両極をしっかり握ってください。",
+        "translation": "Hãy nắm chắc hai đầu của thanh xà.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hai đầu của một vật hình thanh/que dùng <b>両端</b> (りょうたん)."
+      },
+      {
+        "text": "都市の両極は人口が少なく過疎地帯だ。",
+        "translation": "Hai đầu của thành phố dân cư thưa thớt là vùng hẻo lánh.",
+        "explanation": "<b style='color:red'>[Sai]</b> Vùng rìa thành phố dùng <b>周辺</b> hoặc <b>外れ</b> (はずれ)."
+      },
+      {
+        "text": "二人の考え方は左右両極している。",
+        "translation": "Cách suy nghĩ của hai người đang ở hai cực tả hữu đối lập.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đối lập hoàn toàn dùng <b>正反対</b> (せいはんたい) hoặc <b>両極端</b> (りょうきょくたん)."
+      }
+    ],
+    "answer": 0
+  }
+
+]

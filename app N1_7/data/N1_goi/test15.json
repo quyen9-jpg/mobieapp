@@ -1,0 +1,1366 @@
+[
+  {
+    "id": 1,
+    "question": "数学なら自信を持っているが、英語ではとても田中さんに<span class='underline'>かなわない</span>。",
+    "translation": "Nếu là toán thì tôi tự tin, nhưng tiếng Anh thì tôi không thể sánh bằng Tanaka.",
+    "options": ["さわらない", "おとらない", "はまらない", "およびない"],
+    "answer": 3,
+    "explanation": "【敵わない（かなわない）】: Không thể thắng / không thể sánh bằng。\n→ 及ばない（およばない）: Không đạt tới mức đó。\n\n- 触らない（さわらない）: Không chạm.\n- 劣らない（おとらない）: Không thua kém (ngược nghĩa).\n- はまらない: Không khớp."
+  },
+  {
+    "id": 2,
+    "question": "君には礼儀に<span class='underline'>かなう</span>行動をしてほしい。",
+    "translation": "Tôi muốn bạn có hành động phù hợp với lễ nghi.",
+    "options": ["ふさわしい", "のぞましい", "このましい", "ふるめかしい"],
+    "answer": 0,
+    "explanation": "【適う（かなう）】: Phù hợp, hợp với tiêu chuẩn。\n→ 相応しい（ふさわしい）: Thích hợp。\n\n- 望ましい（のぞましい）: Đáng mong đợi.\n- 好ましい（このましい）: Đáng ưa.\n- 古めかしい（ふるめかしい）: Cổ xưa."
+  },
+  {
+    "id": 3,
+    "question": "牛は角で人を<span class='underline'>ついて</span>負傷させることがある。",
+    "translation": "Bò có thể dùng sừng húc người.",
+    "options": ["たおして", "さして", "こわして", "けして"],
+    "answer": 1,
+    "explanation": "【突く（つく）】: Đâm, húc。\n→ 刺す（さす）: Đâm。\n\n- 倒す（たおす）: Làm ngã.\n- 壊す（こわす）: Làm hỏng.\n- 消す（けす）: Xóa."
+  },
+  {
+    "id": 4,
+    "question": "顔を相手に<span class='underline'>引っかかれ</span>、血だらけになった。",
+    "translation": "Bị cào vào mặt nên đầy máu.",
+    "options": ["はたかれて", "けられて", "なぐられて", "きずつけられて"],
+    "answer": 3,
+    "explanation": "【引っかかれる】: Bị cào。\n→ 傷つけられる（きずつけられる）: Bị làm bị thương。\n\n- はたかれる: Bị tát.\n- 蹴られる（けられる）: Bị đá.\n- 殴られる（なぐられる）: Bị đấm."
+  },
+  {
+    "id": 5,
+    "question": "カバンから取り出してみたら、土産のケースがもう<span class='underline'>ひずんでいた</span>。",
+    "translation": "Khi lấy ra thì hộp quà đã bị méo.",
+    "options": ["やぶれた", "われた", "ゆがんだ", "からんだ"],
+    "answer": 2,
+    "explanation": "【歪む（ひずむ）】: Méo, biến dạng。\n→ 歪む（ゆがむ）: Cong, méo。\n\n- 破れる（やぶれる）: Rách.\n- 割れる（われる）: Vỡ.\n- 絡む（からむ）: Rối."
+  },
+  {
+    "id": 6,
+    "question": "医者は優しい言葉で患者の緊張を<span class='underline'>和らげた</span>。",
+    "translation": "Bác sĩ làm dịu sự căng thẳng.",
+    "options": ["ゆるめた", "うずめた", "みだした", "ゆるがした"],
+    "answer": 0,
+    "explanation": "【和らげる（やわらげる）】: Làm dịu。\n→ 緩める（ゆるめる）: Làm nhẹ, nới lỏng。\n\n- 埋める（うずめる）: Chôn.\n- 乱す（みだす）: Làm rối.\n- 揺るがす（ゆるがす）: Làm lung lay."
+  },
+  {
+    "id": 7,
+    "question": "彼女が来るかどうかは<span class='underline'>請け合えない</span>。",
+    "translation": "Không thể đảm bảo cô ấy sẽ đến.",
+    "options": ["応対できない", "対応できない", "保障できない", "保証できない"],
+    "answer": 3,
+    "explanation": "【請け合う（うけあう）】: Đảm bảo。\n→ 保証する（ほしょうする）: Bảo đảm。\n\n- 応対（おうたい）: Tiếp khách.\n- 対応（たいおう）: Đối ứng.\n- 保障（ほしょう）: Bảo đảm (quyền lợi)."
+  },
+  {
+    "id": 8,
+    "question": "人生は重荷を<span class='underline'>負い</span>、長い坂を上がるようなものだ。",
+    "translation": "Cuộc đời như vác gánh nặng leo dốc.",
+    "options": ["ひきずって", "かかえて", "せおって", "おしつけて"],
+    "answer": 2,
+    "explanation": "【負う（おう）】: Gánh vác。\n→ 背負う（せおう）: Mang trên lưng。\n\n- 引きずる（ひきずる）: Kéo lê.\n- 抱える（かかえる）: Ôm.\n- 押し付ける（おしつける）: Áp đặt."
+  },
+  {
+    "id": 9,
+    "question": "息子のことを<span class='underline'>気遣って</span>たまらない。",
+    "translation": "Tôi vô cùng lo lắng cho con trai.",
+    "options": ["信じて", "案じて", "察して", "達して"],
+    "answer": 1,
+    "explanation": "【気遣う（きづかう）】: Lo lắng, quan tâm。\n→ 案じる（あんじる）: Lo âu。\n\n- 信じる（しんじる）: Tin.\n- 察する（さっする）: Suy đoán.\n- 達する（たっする）: Đạt tới."
+  },
+  {
+    "id": 10,
+    "question": "子供が三歳の時、何者かに<span class='underline'>さらわれて</span>しまった。",
+    "translation": "Đứa trẻ bị bắt cóc.",
+    "options": ["ひきとられて", "うばわれて", "やしなわれて", "いじめられて"],
+    "answer": 1,
+    "explanation": "【攫われる（さらわれる）】: Bị bắt cóc。\n→ 奪う（うばう）: Cướp đi。\n\n- 引き取る（ひきとる）: Nhận nuôi.\n- 養う（やしなう）: Nuôi dưỡng.\n- いじめる: Bắt nạt."
+  },
+  {
+    "id": 11,
+    "question": "誕生日に大統領は給仕に珍しい杯を一組<span class='underline'>たまわった</span>。",
+    "translation": "Vào ngày sinh nhật, Tổng thống đã ban tặng cho người phục vụ một bộ chén quý hiếm.",
+    "options": ["くださった", "いただいた", "承った", "預かった"],
+    "answer": 0,
+    "explanation": "【賜る（たまわる）】: Ban tặng (kính ngữ của くれる／くださる)。\n→ くださる: Cho (kính ngữ).\n\n- いただく: Nhận.\n- 承る（うけたまわる）: Nhận (khiêm nhường), nghe.\n- 預かる（あずかる）: Giữ hộ."
+  },
+  {
+    "id": 12,
+    "question": "彼はおれの秘書に<span class='underline'>しつこく</span>付きまとっているようで、いつか片付けてやろう。",
+    "translation": "Hắn ta có vẻ đang đeo bám thư ký của tôi một cách dai dẳng.",
+    "options": ["なついて", "したしんだ", "からんで", "そえて"],
+    "answer": 2,
+    "explanation": "【しつこい】: Dai dẳng, bám riết, gây phiền.\n→ 絡む（からむ）: Quấy rầy, dây dưa.\n\n- なつく: Quấn quýt.\n- 親しむ（したしむ）: Thân thiết.\n- 添える（そえる）: Đính kèm."
+  },
+  {
+    "id": 13,
+    "question": "予想だにしなかった、するどい質問をされて<span class='underline'>とまどった</span>。",
+    "translation": "Bị hỏi một câu sắc bén không ngờ tới khiến tôi lúng túng.",
+    "options": ["調子づいた", "活気付いた", "たどりついた", "まごついた"],
+    "answer": 3,
+    "explanation": "【戸惑う（とまどう）】: Bối rối, lúng túng。\n→ まごつく: Lúng túng.\n\n- 調子づく: Lên mặt.\n- 活気付く（かっきづく）: Trở nên sôi nổi.\n- たどりつく: Đến nơi."
+  },
+  {
+    "id": 14,
+    "question": "一匹のモンシロチョウが、菜の花畑で、花から花へと<span class='underline'>舞っている</span>。",
+    "translation": "Một con bướm trắng đang bay lượn giữa các bông hoa.",
+    "options": ["飛んで", "漂って", "膨らんで", "散って"],
+    "answer": 0,
+    "explanation": "【舞う（まう）】: Bay lượn。\n→ 飛ぶ（とぶ）: Bay.\n\n- 漂う（ただよう）: Trôi nổi.\n- 膨らむ（ふくらむ）: Phồng lên.\n- 散る（ちる）: Rơi."
+  },
+  {
+    "id": 15,
+    "question": "問題を分析する能力を<span class='underline'>養う</span>。",
+    "translation": "Trau dồi năng lực phân tích vấn đề.",
+    "options": ["身にあまる", "身につける", "頭を抱える", "頭を使う"],
+    "answer": 1,
+    "explanation": "【養う（やしなう）】: Nuôi dưỡng, bồi dưỡng。\n→ 身につける: Trang bị kỹ năng.\n\n- 身に余る（みにあまる）: Quá sức.\n- 頭を抱える（あたまをかかえる）: Đau đầu.\n- 頭を使う（あたまをつかう）: Suy nghĩ."
+  },
+  {
+    "id": 16,
+    "question": "彼女は、はでに<span class='underline'>装って</span>今晩のパーティーに来ている。",
+    "translation": "Cô ấy ăn diện lộng lẫy đến buổi tiệc tối.",
+    "options": ["ばけて", "ぬりつけて", "着目して", "着飾って"],
+    "answer": 3,
+    "explanation": "【装う（よそおう）】: Trang điểm, ăn diện。\n→ 着飾る（きかざる）: Diện đẹp.\n\n- 化ける（ばける）: Biến hóa.\n- 塗りつける（ぬりつける）: Bôi.\n- 着目する（ちゃくもくする）: Chú ý."
+  },
+  {
+    "id": 17,
+    "question": "政治家の資金集めの実態を<span class='underline'>暴く</span>。",
+    "translation": "Vạch trần thực trạng gây quỹ của chính trị gia.",
+    "options": ["公募する", "公表する", "そらす", "こらす"],
+    "answer": 1,
+    "explanation": "【暴く（あばく）】: Vạch trần, phơi bày。\n→ 公表する（こうひょうする）: Công bố.\n\n- 公募する: Tuyển công khai.\n- そらす: Lảng tránh.\n- こらす: Trừng phạt / tập trung."
+  },
+  {
+    "id": 18,
+    "question": "若い人たちは未来を<span class='underline'>切り開く</span>使命を担う。",
+    "translation": "Người trẻ gánh vác sứ mệnh khai phá tương lai.",
+    "options": ["開拓する", "展示する", "迎える", "訪ねる"],
+    "answer": 0,
+    "explanation": "【切り開く（きりひらく）】: Mở lối, khai phá。\n→ 開拓する（かいたくする）: Khai phá.\n\n- 展示する: Trưng bày.\n- 迎える（むかえる）: Đón.\n- 訪ねる（たずねる）: Thăm."
+  },
+  {
+    "id": 19,
+    "question": "足くびを<span class='underline'>くじいて</span>痛くてたまらなかった。",
+    "translation": "Tôi bị bong gân cổ chân, đau không chịu nổi.",
+    "options": ["転がして", "回して", "おんぶして", "ねんざして"],
+    "answer": 3,
+    "explanation": "【挫く（くじく）】: Bong gân, trật khớp。\n→ ねんざする: Bong gân.\n\n- 転がす（ころがす）: Làm lăn.\n- 回す（まわす）: Xoay.\n- おんぶする: Cõng."
+  },
+  {
+    "id": 20,
+    "question": "彼の痛いところを<span class='underline'>つついた</span>のか、顔色が急に変わった。",
+    "translation": "Có lẽ tôi đã chạm đúng điểm yếu nên sắc mặt anh ta thay đổi.",
+    "options": ["取り入れて", "取り上げて", "治めて", "抑えて"],
+    "answer": 1,
+    "explanation": "【突く（つく）】: Chọc vào (điểm yếu)。\n→ 取り上げる（とりあげる）: Đề cập.\n\n- 取り入れる: Tiếp thu.\n- 治める（おさめる）: Giải quyết.\n- 抑える（おさえる）: Kiềm chế."
+  },
+  {
+    "id": 21,
+    "question": "急にいいアイデアが<span class='underline'>思い浮かんだ</span>。",
+    "translation": "Đột nhiên một ý tưởng hay nảy ra.",
+    "options": ["ただよった", "まいあがった", "ひらめいた", "かがやいた"],
+    "answer": 2,
+    "explanation": "【思い浮かぶ（おもいうかぶ）】: Nảy ra.\n→ ひらめく: Nảy ra ý tưởng.\n\n- 漂う（ただよう）: Trôi.\n- 舞い上がる（まいあがる）: Bay lên.\n- 輝く（かがやく）: Tỏa sáng."
+  },
+  {
+    "id": 22,
+    "question": "彼女と肩を並べてネオン<span class='underline'>またたく</span>繁華街をぶらぶらする。",
+    "translation": "Tôi cùng cô ấy vai kề vai đi dạo thong dong qua khu phố sầm uất nơi ánh đèn neon đang nhấp nháy.",
+    "options": ["ちらちらする", "ふらふらする", "はらはらする", "ぱらぱらする"],
+    "answer": 0,
+    "explanation": "【瞬く（またたく）】: Nhấp nháy, lấp lánh (ánh sáng). Đồng nghĩa với 「ちらちらする」(Chirachira suru - lấp lánh/nhấp nháy). \n- ふらふらする: Đi loạng choạng/vô định.\n- はらはらする: Lo lắng/nghẹt thở.\n- ぱらぱらする: Rải rác/lộp độp (mưa)."
+  },
+  {
+    "id": 23,
+    "question": "あの店の客の取り扱いは<span class='underline'>行き届いている</span>。",
+    "translation": "Cách phục vụ khách hàng của cửa hàng đó rất chu đáo.",
+    "options": ["円滑だ", "無遠慮だ", "完璧だ", "巧みだ"],
+    "answer": 2,
+    "explanation": "【行き届く（いきとどく）】: Chu đáo, tỉ mỉ, không có sai sót. Đồng nghĩa với 「完璧だ（かんぺきだ）」: hoàn hảo.\n- 円滑だ（えんかつだ）: Trôi chảy, thuận lợi.\n- 無遠慮だ（ぶえんりょだ）: Láo xược, không nể nang.\n- 巧みだ（たくみだ）: Khéo léo, tinh xảo."
+  },
+  {
+    "id": 24,
+    "question": "資源に乏しいので、ほとんどの原料を外国に<span class='underline'>仰いでいる</span>。",
+    "translation": "Vì nghèo tài nguyên nên hầu hết nguyên liệu đều phải dựa vào nước ngoài.",
+    "options": ["まもって", "たのんで", "おもむいて", "かたむいて"],
+    "answer": 1,
+    "explanation": "【仰ぐ（あおぐ）】: Lệ thuộc, dựa dẫm hoặc thỉnh cầu. Đồng nghĩa với 「頼んで（たのんで）」: nhờ vả, cậy nhờ.\n- 守って（まもって）: Bảo vệ.\n- 赴いて（おもむいて）: Đi đến.\n- 傾いて（かたむいて）: Nghiêng về."
+  },
+  {
+    "id": 25,
+    "question": "書斎で<span class='underline'>くつろぎ</span>、ゆっくりコーヒーをすすむ。至福の時だ。",
+    "translation": "Thư giãn trong phòng đọc sách và thong thả nhấp cà phê. Đó là khoảnh khắc hạnh phúc nhất.",
+    "options": ["気分で", "気配で", "気軽で", "気楽で"],
+    "answer": 3,
+    "explanation": "【くつろぐ】: Nghỉ ngơi, thư giãn. Đồng nghĩa với 「気楽で（きらくで）」: thoải mái, nhẹ nhõm.\n- 気分で（きぶんで）: Tâm trạng.\n- 気配で（けはいで）: Có dấu hiệu, cảm giác.\n- 気軽で（きがるで）: Cởi mở, đừng ngại."
+  },
+  {
+    "id": 26,
+    "question": "いろんな困難を<span class='underline'>しのいだ</span>すえ、ついに実験を成功させました。",
+    "translation": "Sau khi vượt qua nhiều khó khăn, cuối cùng thí nghiệm đã thành công.",
+    "options": ["へて", "ふまえて", "ぶつけて", "のりこえた"],
+    "answer": 3,
+    "explanation": "【凌ぐ（しのぐ）】: Vượt qua, chống chọi được khó khăn. Đồng nghĩa với 「乗り越えた（のりこえた）」: vượt qua.\n- 経て（へて）: Trải qua (thời gian).\n- 踏まえて（ふまえて）: Dựa trên.\n- ぶつけて（ぶつけて）: Va chạm."
+  },
+  {
+    "id": 27,
+    "question": "シルク製の服はやっぱり手で<span class='underline'>すすいだ</span>ほうがいい。",
+    "translation": "Quần áo làm từ lụa thì quả nhiên nên giặt nhẹ (xả) bằng tay thì hơn.",
+    "options": ["あらった", "こすった", "みがいた", "ほした"],
+    "answer": 0,
+    "explanation": "【濯ぐ（すすぐ）】: Súc, rửa, xả. Ở đây đồng nghĩa với 「洗った（あらった）」: giặt, rửa.\n- 擦った（こすった）: Chà xát.\n- 磨いた（みがいた）: Đánh bóng, chải.\n- 干した（ほした）: Phơi."
+  },
+  {
+    "id": 28,
+    "question": "転任で本社へ行く部長から仕事を無事に<span class='underline'>引き継いで</span>ほっとした。",
+    "translation": "Tôi thấy nhẹ nhõm vì đã tiếp nhận bàn giao công việc suôn sẻ từ trưởng phòng người sắp chuyển công tác về trụ sở chính.",
+    "options": ["しあげて", "うけて", "とばして", "みあわせて"],
+    "answer": 1,
+    "explanation": "【引き継ぐ（ひきつぐ）】: Tiếp quản, kế thừa công việc. Đồng nghĩa với 「受けて（うけて）」: nhận.\n- 仕上げて（しあげて）: Hoàn thành.\n- 飛ばして（とばして）: Bỏ qua/ Làm bay.\n- 見合わせて（みあわせて）: Trì hoãn/ Nhìn nhau."
+  },
+  {
+    "id": 29,
+    "question": "政治家に金品をばら蒔いた秘密を<span class='underline'>あかす</span>ように追及した。",
+    "translation": "Họ đã truy cứu để làm sáng tỏ bí mật về việc rải tiền cho các chính trị gia.",
+    "options": ["筆記する", "開放する", "説明する", "布告する"],
+    "answer": 2,
+    "explanation": "【明かす（あかす）】: Làm sáng tỏ, tiết lộ bí mật. Ở đây gần nghĩa nhất với 「説明する（せつめいする）」: giải thích/ trình bày rõ.\n- 筆記する（ひっきする）: Ghi chép.\n- 開放する（かいほうする）: Mở cửa/ Giải phóng.\n- 布告する（ふこくする）: Tuyên bố, sắc lệnh."
+  },
+  {
+    "id": 30,
+    "question": "三日間の安静を<span class='underline'>言い渡され</span>、ベッドから動けない。",
+    "translation": "Bị yêu cầu phải tĩnh dưỡng trong 3 ngày nên tôi không thể rời khỏi giường.",
+    "options": ["掲げられ", "載せられ", "告げられ", "処させられ"],
+    "answer": 2,
+    "explanation": "【言い渡す（いいわたす）】: Tuyên bố, ra lệnh, truyền đạt. Đồng nghĩa với 「告げられ（つげられ）」: được thông báo.\n- 掲げられ（かかげられ）: Được treo lên/ Nêu lên.\n- 載せられ（のせられ）: Được đăng tải.\n- 処させられ（しょさせられ）: Bị xử lý."
+  },
+  {
+    "id": 31,
+    "question": "のんびりと旧跡を辿った。心が<span class='underline'>癒される</span>旅だった。",
+    "translation": "Tôi thong thả lần theo các di tích cũ. Đó là một chuyến đi khiến tâm hồn được xoa dịu.",
+    "options": ["なおされる", "たおされる", "まかされる", "ふかされる"],
+    "answer": 0,
+    "explanation": "【癒す（いやす）】: Chữa lành, xoa dịu. Đồng nghĩa với 「直される／治される（なおされる）」: được chữa khỏi.\n- 倒される（たおされる）: Bị đánh ngã.\n- 任される（まかされる）: Được giao phó.\n- 蒸される（ふかされる）: Bị hấp."
+  },
+  {
+    "id": 32,
+    "question": "会に出席するように何度も彼を<span class='underline'>促した</span>が、来なかった。",
+    "translation": "Tôi đã nhiều lần thúc giục anh ấy đi họp nhưng anh ấy đã không đến.",
+    "options": ["そらした", "おろした", "かえした", "せかした"],
+    "answer": 3,
+    "explanation": "【促す（うながす）】: Thúc giục, khuyến khích. Đồng nghĩa với 「急かした（せかした）」: hối thúc.\n- 逸らした（そらした）: Lảng tránh.\n- 下ろした（おろした）: Cho xuống.\n- 返した（かえした）: Trả lại."
+  },
+  {
+    "id": 33,
+    "question": "通りかかった女を刃物で<span class='underline'>脅して</span>鞄を取った。",
+    "translation": "Hắn đã dùng dao đe dọa người phụ nữ đi ngang qua để cướp túi xách.",
+    "options": ["おどして", "おとして", "さがして", "さかして"],
+    "answer": 0,
+    "explanation": "【脅す（おどす）】: Đe dọa, hù dọa. Đồng nghĩa với 「脅して（おどして - cách viết khác của 脅す）」.\n- 落として（おとして）: Làm rơi.\n- 探して（さがして）: Tìm kiếm.\n- 咲かして（さかして）: Làm cho nở hoa."
+  },
+  {
+    "id": 34,
+    "question": "彼は過密なスケジュールにも文句一つ言わずに黙々と<span class='underline'>こなした</span>。",
+    "translation": "Dù lịch trình dày đặc nhưng anh ấy vẫn lẳng lặng hoàn thành tốt mà không một lời than vãn.",
+    "options": ["認めた", "成し遂げた", "許した", "立て替えた"],
+    "answer": 1,
+    "explanation": "【こなす】: Hoàn thành, thành thạo, xử lý gọn gàng. Đồng nghĩa với 「成し遂げた（なしとげた）」: hoàn thành tới cùng.\n- 認めた（みとめた）: Thừa nhận.\n- 許した（ゆるした）: Cho phép.\n- 立て替えた（たてかえた）: Trả thay, thanh toán hộ."
+  },
+  {
+    "id": 35,
+    "question": "社会に役立つ人間になるように、教え子をこんこんと<span class='underline'>論ず</span>。",
+    "translation": "Để học trò trở thành người có ích cho xã hội, tôi đã kiên trì khuyên bảo.",
+    "options": ["伝える", "教える", "つげる", "ことづける"],
+    "answer": 1,
+    "explanation": "【論ずる（ろんずる）】: Thuyết giáo, tranh luận, dạy bảo. Ở đây đồng nghĩa với 「教える（おしえる）」: dạy dỗ/ chỉ bảo.\n- 伝える（つたえる）: Truyền đạt.\n- 告げる（つげる）: Thông báo.\n- 言付ける（ことづける）: Nhắn tin/ Gửi gắm lời nói."
+  },
+  {
+    "id": 36,
+    "question": "あいつは今度どんなとんでもないことを<span class='underline'>しでかす</span>か分からない。",
+    "translation": "Chẳng biết lần tới tên đó lại gây ra chuyện tồi tệ gì nữa đây.",
+    "options": ["やりそこなう", "やりそびれる", "やってのける", "やってくる"],
+    "answer": 2,
+    "explanation": "【仕でかす（しでかす）】: Gây ra (chuyện xấu), làm xong việc gì đó khó khăn. Đồng nghĩa với 「やってのける」: hoàn thành/ làm được việc gì đó (thường là việc gây ngạc nhiên).\n- やり損なう（やりそこなう）: Làm hỏng/ Thất bại.\n- やりそびれる: Bỏ lỡ cơ hội làm gì đó.\n- やってくる: Đến."
+  },
+  {
+    "id": 37,
+    "question": "彼は裏門からこっそりと<span class='underline'>抜け出した</span>。",
+    "translation": "Anh ta đã lén lút trốn ra từ cổng sau.",
+    "options": ["にげた", "かくした", "きえた", "くぐった"],
+    "answer": 0,
+    "explanation": "【抜け出す（ぬけだす）】: Lẻn ra ngoài, thoát khỏi. Đồng nghĩa với 「逃げた（にげた）」: chạy trốn.\n- 隠した（かくした）: Giấu đi.\n- 消えた（きえた）: Biến mất.\n- 潜った（くぐった）: Chui qua."
+  },
+  {
+    "id": 38,
+    "question": "両国の利害が対立している時は、第三国が仲裁に<span class='underline'>乗り出す</span>。",
+    "translation": "Khi lợi ích của hai nước đối lập, nước thứ ba sẽ đứng ra làm trung gian hòa giải.",
+    "options": ["わたる", "あたる", "めぐる", "さぐる"],
+    "answer": 1,
+    "explanation": "【乗り出す（のりだす）】: Bắt tay vào làm, bắt đầu hành động. Đồng nghĩa với 「当たる（あたる）」: đảm nhận/ đối mặt với nhiệm vụ.\n- 渡る（わたる）: Băng qua.\n- 巡る（めぐる）: Đi quanh/ Xoay quanh.\n- 探る（さぐる）: Thăm dò."
+  },
+  {
+    "id": 39,
+    "question": "同僚の不正を上司に<span class='underline'>ばらした</span>せいか、彼は係長補佐に取り立てられた。",
+    "translation": "Có lẽ vì đã tiết lộ sự gian lận của đồng nghiệp cho cấp trên mà anh ta đã được đề bạt lên làm trợ lý tổ trưởng.",
+    "options": ["さばいた", "かばった", "まかなった", "あばいた"],
+    "answer": 3,
+    "explanation": "【ばらす】: Tiết lộ, để lộ bí mật. Đồng nghĩa với 「暴いた（あばいた）」: vạch trần/ phơi bày bí mật.\n- 裁いた（さばいた）: Xét xử.\n- 庇った（かばった）: Bao che/ Bảo vệ.\n- 賄った（まかなった）: Trang trải/ Cung cấp."
+  },
+  {
+    "id": 40,
+    "question": "美しい風景に恵まれたこの村にも、生活する人々にとっては、<span class='underline'>見逃す</span>ことのできない厳しい問題があります。",
+    "translation": "Ngay cả ngôi làng được thiên nhiên ưu đãi với cảnh đẹp này cũng có những vấn đề khắc nghiệt mà người dân sinh sống ở đây không thể làm ngơ.",
+    "options": ["無駄にする", "無視する", "追放する", "免除する"],
+    "answer": 1,
+    "explanation": "【見逃す（みのがす）】: Bỏ qua, làm ngơ. Đồng nghĩa với 「無視する（むしする）」: phớt lờ/ không quan tâm.\n- 無駄にする（むだにする）: Lãng phí.\n- 追放する（ついほうする）: Trục xuất.\n- 免除する（めんじょする）: Miễn trừ."
+  },
+  {
+    "id": 41,
+    "question": "この細工を作るために、いろいろ工夫を<span class='underline'>巡らした</span>。",
+    "translation": "Để làm ra món đồ thủ công này, tôi đã vận dụng nhiều công phu (suy nghĩ thấu đáo).",
+    "options": ["こがした", "もやした", "そらした", "こらした"],
+    "answer": 3,
+    "explanation": "【巡らす（めぐらす）】: Xoay quanh, vận dụng (trí óc). Đồng nghĩa với 「凝らした（こらした）」: tập trung/ vận dụng hết mức (sáng tạo).\n- 焦がした（こがした）: Làm cháy.\n- 燃やした（もやした）: Đốt cháy.\n- 逸らした（そらした）: Lảng tránh."
+  },
+  {
+    "id": 42,
+    "question": "一行目を書き<span class='underline'>漏らして</span>しまったせいで、自分でも読んで分からなくなった。",
+    "translation": "Vì viết thiếu (bỏ sót) dòng đầu tiên nên chính tôi đọc lại cũng không hiểu gì luôn.",
+    "options": ["おちて", "おとして", "なおって", "なおして"],
+    "answer": 1,
+    "explanation": "【漏らす（もらす）】: Làm lộ, bỏ sót. Đồng nghĩa với 「落として（おとして）」: đánh rơi/ bỏ sót.\n- 落ちて（おちて）: Bị rơi/ rớt.\n- 治って（なおって）: Được chữa khỏi.\n- 直して（なおして）: Sửa chữa."
+  },
+  {
+    "id": 43,
+    "question": "数学なら、自信があるが、化学は彼に<span class='underline'>およばない</span>。",
+    "translation": "Nếu là toán thì tôi tự tin, nhưng hóa học thì tôi không thể sánh bằng anh ta.",
+    "options": ["まける", "ぬける", "よける", "わける"],
+    "answer": 0,
+    "explanation": "【及ばない（およばない）】: Không đạt tới, không sánh được. Gần nghĩa với 「負ける（まける）」: thua/ không bằng.\n- 抜ける（ぬける）: Rút ra/ Sót.\n- 避ける（よける）: Tránh né.\n- 分ける（わける）: Chia ra."
+  },
+  {
+    "id": 44,
+    "question": "泣きたい気持ちを<span class='underline'>しのんで</span>笑顔を作る。",
+    "translation": "Kìm nén nỗi đau muốn khóc để tạo ra một nụ cười.",
+    "options": ["よわめて", "まるめて", "こらえて", "くわえて"],
+    "answer": 2,
+    "explanation": "【忍ぶ（しのぶ）】: Chịu đựng, kìm nén. Đồng nghĩa với 「堪えて（こらえて）」: cam chịu/ nhẫn nhịn.\n- 弱めて（よわめて）: Làm yếu đi.\n- 丸めて（まるめて）: Cuộn tròn.\n- 加えて（くわえて）: Thêm vào."
+  },
+  {
+    "id": 45,
+    "question": "友人の葬式に参列して、彼の死を<span class='underline'>悼む</span>。",
+    "translation": "Tham dự đám tang của người bạn để chia buồn về cái chết của anh ấy.",
+    "options": ["くやむ", "おしむ", "はさむ", "かさむ"],
+    "answer": 0,
+    "explanation": "【悼む（いたむ）】: Đau buồn, chia buồn. Đồng nghĩa với 「悔やむ（くやむ）」: hối tiếc/ chia buồn.\n- 惜しむ（おしむ）: Nuối tiếc.\n- 挟む（はさむ）: Kẹp vào.\n- 嵩む（かさむ）: Tăng vọt (chi phí)."
+  },
+  {
+    "id": 46,
+    "question": "三つの問題を<span class='underline'>掲げて</span>責任者に迫る。",
+    "translation": "Nêu ra (đưa ra) ba vấn đề để gây áp lực với người chịu trách nhiệm.",
+    "options": ["打ち消して", "打ち出して", "吹き消して", "吹き出して"],
+    "answer": 1,
+    "explanation": "【掲げる（かかげる）】: Nêu lên, treo lên, đưa ra. Đồng nghĩa với 「打ち出して（うちだして）」: đưa ra/ đề xuất.\n- 打ち消して（うちけして）: Phủ nhận.\n- 吹き消して（ふきけして）: Thổi tắt.\n- 吹き出して（ふきだして）: Phun ra/ Cười bò."
+  },
+  {
+    "id": 47,
+    "question": "その仕事を彼に<span class='underline'>委ねた</span>ほうがいい。",
+    "translation": "Nên giao phó công việc đó cho anh ấy thì hơn.",
+    "options": ["たすけた", "てつだった", "かまえた", "まかせた"],
+    "answer": 3,
+    "explanation": "【委ねる（ゆだねる）】: Giao phó, ủy thác. Đồng nghĩa với 「任せた（まかせた）」: giao phó.\n- 助けた（たすけた）: Giúp đỡ (cứu).\n- 手伝った（てつだった）: Phụ giúp.\n- 構えた（かまえた）: Lập nên/ Vào tư thế."
+  },
+  {
+    "id": 48,
+    "question": "みんなができない問題を彼女はやすやすと<span class='underline'>やってのけた</span>。",
+    "translation": "Cô ấy đã hoàn thành một cách dễ dàng vấn đề mà mọi người đều không làm được.",
+    "options": ["やりすぎた", "やりなおした", "やりちがえた", "やりとげた"],
+    "answer": 3,
+    "explanation": "【やってのける】: Hoàn thành một cách tốt đẹp (thường là việc khó). Đồng nghĩa với 「やり遂げた（やりとげた）」: làm đến cùng/ hoàn thành.\n- やりすぎた: Làm quá tay.\n- やり直した（やりなおした）: Làm lại.\n- やり違えた（やりちがえた）: Làm nhầm/ sai."
+  },
+  {
+    "id": 49,
+    "question": "一年中働いてくれたのだから、正月は工場の機械を<span class='underline'>休めます</span>。",
+    "translation": "Vì đã hoạt động suốt cả năm rồi nên dịp Tết sẽ cho máy móc trong nhà máy nghỉ ngơi.",
+    "options": ["やめる", "とめる", "うめる", "そめる"],
+    "answer": 1,
+    "explanation": "【休める（やすめる）】: Cho nghỉ ngơi. Ở đây gần nghĩa nhất với 「止める（とめる）」: dừng lại/ cho nghỉ hoạt động.\n- やめる: Từ bỏ/ Thôi.\n- 埋める（うめる）: Lấp đầy.\n- 染める（そめる）: Nhuộm."
+  },
+  {
+    "id": 50,
+    "question": "風船の空気が<span class='underline'>漏れた</span>から、もう一度膨らましました。",
+    "translation": "Vì không khí trong bóng bay bị rò rỉ ra ngoài nên tôi đã thổi phồng nó lại lần nữa.",
+    "options": ["はげた", "われた", "ぬけた", "にげた"],
+    "answer": 2,
+    "explanation": "【漏れる（もれる）】: Rò rỉ, thoát ra ngoài. Đồng nghĩa với 「抜けた（ぬけた）」: thoát ra/ tuột ra.\n- 剥げた（はげた）: Bị bong tróc.\n- 割れた（われた）: Bị vỡ.\n- 逃げた（にげた）: Chạy trốn."
+  },
+  {
+    "id": 51,
+    "question": "<span class='underline'>もつれた</span>糸をほどくのは、気の長い人でないとだめだ。",
+    "translation": "Để gỡ những sợi chỉ bị rối thì phải là người cực kỳ kiên nhẫn mới làm được.",
+    "options": ["からんだ", "つないだ", "ひずんだ", "ひきついだ"],
+    "answer": 0,
+    "explanation": "【縺れる（もつれる）】: Rối, rối rắm. Đồng nghĩa với 「絡んだ（からんだ）」: bị rối/ vướng vào nhau.\n- 繋いだ（つないだ）: Kết nối.\n- 歪んだ（ひずんだ）: Bị bóp méo.\n- 引き継いだ（ひきついだ）: Bàn giao/ kế thừa."
+  },
+  {
+    "id": 52,
+    "question": "これから機会を<span class='underline'>もうけて</span>また会いましょう。",
+    "translation": "Từ giờ chúng ta hãy tạo (thiết lập) cơ hội để gặp lại nhau nhé.",
+    "options": ["つくって", "つくろって", "あずけて", "とらえて"],
+    "answer": 0,
+    "explanation": "【設ける（もうける）】: Thiết lập, tạo ra. Đồng nghĩa với 「作って（つくって）」: tạo ra.\n- 繕って（つくろって）: Chăm chút/ Sửa chữa.\n- 預けて（あずけて）: Gửi gắm.\n- 捉えて（とらえて）: Nắm bắt."
+  },
+  {
+    "id": 53,
+    "question": "願い出により、現在の職を<span class='underline'>免じられる</span>。",
+    "translation": "Theo nguyện vọng cá nhân, người đó đã được miễn (cho thôi) chức vụ hiện tại.",
+    "options": ["かなえさせる", "のがされる", "とばされる", "やめさせる"],
+    "answer": 3,
+    "explanation": "【免じる（めんじる）】: Miễn chức, cho thôi việc. Gần nghĩa với 「辞めさせる（やめさせる）」: cho nghỉ việc.\n- 叶えさせる（かなえさせる）: Khiến cho đạt được nguyện vọng.\n- 逃がされる（のがされる）: Bị để cho thoát.\n- 飛ばされる（とばされる）: Bị điều đi xa/ Bị bỏ qua."
+  },
+  {
+    "id": 54,
+    "question": "1級試験に合格した。努力が<span class='underline'>むくいられた</span>。",
+    "translation": "Tôi đã đỗ kỳ thi N1. Những nỗ lực đã được đền đáp.",
+    "options": ["むすんだ", "いどんだ", "みのった", "さとった"],
+    "answer": 2,
+    "explanation": "【報いる（むくいる）】: Đền đáp, báo đáp. Đồng nghĩa với 「実った（みのった）」: kết trái/ đạt được thành quả.\n- 結んだ（むすんだ）: Kết nối/ Thắt.\n- 挑んだ（いどんだ）: Thử thách.\n- 悟った（さとった）: Giác ngộ/ Hiểu rõ."
+  },
+  {
+    "id": 55,
+    "question": "前田社長はさすがに読みが深い。競争相手の会社の計画を<span class='underline'>見破った</span>。",
+    "translation": "Giám đốc Maeda quả nhiên nhìn xa trông rộng. Ông ấy đã thấu hiểu (nhìn thấu) được kế hoạch của công ty đối thủ.",
+    "options": ["みぬいた", "みつめた", "みのがした", "みならった"],
+    "answer": 0,
+    "explanation": "【見破る（みやぶる）】: Nhìn thấu, nhìn ra (âm mưu/bí mật). Đồng nghĩa với 「見抜いた（みぬいた）」: nhìn thấu.\n- 見つめた（みつめた）: Nhìn chằm chằm.\n- 見逃した（みのがした）: Bỏ qua/ Bỏ lỡ.\n- 見習った（みならった）: Học tập theo."
+  },
+  {
+    "id": 56,
+    "question": "今度の事件の真相を<span class='underline'>見極める</span>のはこれからだ。",
+    "translation": "Việc xác nhận (nhìn rõ) chân tướng của vụ án lần này giờ mới bắt đầu.",
+    "options": ["認可する", "確認する", "可決する", "承認する"],
+    "answer": 1,
+    "explanation": "【見極める（みきわめる）】: Nhìn rõ, xác nhận chắc chắn. Đồng nghĩa với 「確認する（かくにんする）」: xác nhận.\n- 認可する（にんかする）: Phê duyệt.\n- 可決する（かけつする）: Thông qua (nghị quyết).\n- 承認する（しょうにんする）: Thừa nhận/ Chấp thuận."
+  },
+  {
+    "id": 57,
+    "question": "二人は会うと、旧友のように言葉を<span class='underline'>交え</span>始めた。",
+    "translation": "Hai người họ khi gặp nhau đã bắt đầu trò chuyện (trao đổi lời nói) như những người bạn cũ.",
+    "options": ["まし", "たし", "わかし", "かわし"],
+    "answer": 3,
+    "explanation": "【交える（まじえる）】: Trao đổi, lồng ghép. Đồng nghĩa với 「交わし（かわし）」: trao đổi (lời nói/ánh mắt).\n- 増し（まし）: Tăng thêm.\n- 足し（たし）: Thêm vào.\n- 沸かし（わかし）: Đun sôi."
+  },
+  {
+    "id": 58,
+    "question": "夢中になって勉強すれば、失恋の悲しみも<span class='underline'>まぎれる</span>かもしれません。",
+    "translaton": "Nếu tập trung hết sức vào học tập, có lẽ nỗi buồn thất tình cũng sẽ vơi đi (bị quên lãng).",
+    "options": ["倒れる", "割れる", "忘れる", "取れる"],
+    "answer": 2,
+    "explanation": "【紛れる（まぎれる）】: Bị lẫn vào, bị phân tán/quên đi. Ở đây gần nghĩa với 「忘れる（わすれる）」: quên đi.\n- 倒れる（たおれる）: Ngã xuống.\n- 割れる（われる）: Bị vỡ.\n- 取れる（とれる）: Bị rơi ra/ Lấy được."
+  },
+  {
+    "id": 59,
+    "question": "どうして声かけないで私の年齢を<span class='underline'>伏せた</span>のですか。",
+    "translation": "Tại sao bạn lại giấu tuổi của tôi mà không nói tiếng nào vậy?",
+    "options": ["かくした", "はらした", "おさえた", "ささえた"],
+    "answer": 0,
+    "explanation": "【伏せる（ふせる）】: giấu kín, che đậy → 同義語：隠す（かくす）\n- 隠した（かくした）: đã giấu ✔\n- 腫らした（はらした）: làm sưng\n- 抑えた（おさえた）: kiềm chế\n- 支えた（ささえた）: chống đỡ"
+  },
+  {
+    "id": 60,
+    "question": "委員などの指名があるまで、彼は発言を<span class='underline'>控え</span>、書類に目を通していた。",
+    "translation": "Cho đến khi có chỉ định ủy viên, anh ấy đã hạn chế phát ngôn và chỉ xem qua tài liệu.",
+    "options": ["はずみ", "はばみ", "つつしみ", "しずみ"],
+    "answer": 2,
+    "explanation": "【控える（ひかえる）】: kiềm chế, hạn chế → 同義語：慎む（つつしむ）\n- 弾み（はずみ）: đà, lực bật\n- 阻み（はばみ）: cản trở\n- 慎み（つつしみ）: tiết chế ✔\n- 沈み（しずみ）: sự chìm xuống"
+  },
+  {
+    "id": 61,
+    "question": "会社の名に<span class='underline'>恥じない</span>製品を作ってほしい。",
+    "translation": "Tôi muốn bạn làm ra những sản phẩm không làm hổ danh tên tuổi công ty.",
+    "options": ["はずかしくない", "あつかましくない", "ずうずうしくない", "くすぐったくない"],
+    "answer": 0,
+    "explanation": "【恥じない（はじない）】: không làm hổ thẹn, xứng đáng → 同義語：恥ずかしくない（はずかしくない）\n- 恥ずかしくない（はずかしくない） ✔\n- 厚かましくない（あつかましくない）: không trơ trẽn\n- 図々しくない（ずうずうしくない）: không vô liêm sỉ\n- 擽ったくない（くすぐったくない）: không nhột"
+  },
+  {
+    "id": 62,
+    "question": "<span class='underline'>映えない</span>仕事ながら、一生懸命やっている。",
+    "translation": "Dù là một công việc không nổi bật nhưng tôi vẫn đang làm hết sức mình.",
+    "options": ["役立たない", "目立たない", "やり切れない", "やり遂げない"],
+    "answer": 1,
+    "explanation": "【映える（はえる）→ 映えない】: không nổi bật → 同義語：目立たない（めだたない）\n- 役立たない（やくだたない）: không có ích\n- 目立たない（めだたない） ✔\n- やり切れない（やりきれない）: không chịu nổi\n- やり遂げない（やりとげない）: không hoàn thành"
+  },
+  {
+    "id": 63,
+    "question": "暑さでチョコレートが<span class='underline'>とろけて</span>しまった。",
+    "translation": "Vì nóng nên socola đã tan chảy ra.",
+    "options": ["ばてて", "はてて", "とけて", "ぼけて"],
+    "answer": 2,
+    "explanation": "【蕩ける（とろける）】: tan chảy → 同義語：溶ける（とける）\n- ばてて（ばてる）: mệt lả\n- はてて（果てる）: kết thúc\n- とけて（溶けて） ✔\n- ぼけて（惚ける）: lẩn thẩn"
+  },
+  {
+    "id": 64,
+    "question": "売掛金を<span class='underline'>取り立てる</span>のはなかなか難しい。",
+    "translation": "Việc thu hồi nợ bán hàng là khá khó khăn.",
+    "options": ["おさめさせる", "ささげさせる", "つかえさせる", "つたえさせる"],
+    "answer": 0,
+    "explanation": "【取り立てる（とりたてる）】: đòi nợ, thu tiền → 近い意味：納めさせる（おさめさせる）\n- 納めさせる（おさめさせる） ✔\n- 捧げさせる（ささげさせる）: bắt dâng hiến\n- 仕えさせる（つかえさせる）: bắt phục vụ\n- 伝えさせる（つたえさせる）: bắt truyền đạt"
+  },
+  {
+    "id": 65,
+    "question": "すばらしい風景に魅了され、<span class='underline'>足を止めて</span>見入った。",
+    "translation": "Bị cuốn hút bởi phong cảnh tuyệt vời, tôi đã dừng lại và nhìn say sưa.",
+    "options": ["たちどまって", "たちよって", "たちあがって", "たちいって"],
+    "answer": 3,
+    "explanation": "【見入る（みいる）】: nhìn chăm chú, bị cuốn hút\n- 立ち止まって（たちどまって）: dừng lại\n- 立ち寄って（たちよって）: ghé qua\n- 立ち上がって（たちあがって）: đứng dậy\n- 立ち入って（たちいって）: đi sâu vào / chăm chú ✔"
+  },
+  {
+    "id": 66,
+    "question": "もう何十年も<span class='underline'>とだえて</span>いたその国との貿易が、やっと復活した。",
+    "translation": "Việc giao thương với quốc gia đó đã bị gián đoạn mấy chục năm, cuối cùng cũng được khôi phục.",
+    "options": ["垂れて", "腫れて", "切れて", "触れて"],
+    "answer": 2,
+    "explanation": "【途絶える（とだえる）】: gián đoạn → 同義語：切れる（きれる）\n- 垂れる（たれる）: rủ xuống\n- 腫れる（はれる）: sưng\n- 切れて（きれて） ✔\n- 触れて（ふれて）: chạm"
+  },
+  {
+    "id": 67,
+    "question": "道を歩いていると、急に警官に<span class='underline'>とがめられる</span>ことがある。",
+    "translation": "Đang đi trên đường, đôi khi đột nhiên bị cảnh sát tra hỏi hoặc nghi ngờ.",
+    "options": ["しかられる", "うかがわれる", "たずねられる", "ほうもんされる"],
+    "answer": 0,
+    "explanation": "【咎める（とがめる）】: tra hỏi, bắt lỗi, khiển trách → 近い意味：叱られる（しかられる）\n- 叱られる（しかられる） ✔\n- 伺われる（うかがわれる）: được hỏi thăm (lịch sự)\n- 尋ねられる（たずねられる）: được hỏi\n- 訪問される（ほうもんされる）: được viếng thăm"
+  },
+  {
+    "id": 68,
+    "question": "甘言に<span class='underline'>つられて</span>、悪い仲間に入った。",
+    "translation": "Bị dụ dỗ bởi lời ngọt ngào, tôi đã tham gia vào nhóm xấu.",
+    "options": ["かこつけて", "かまえて", "なげられて", "のせられて"],
+    "answer": 3,
+    "explanation": "【釣られる（つられる）】: bị dụ dỗ, bị lôi kéo → 同義語：乗せられる（のせられる）\n- 託つけて（かこつけて）: lấy cớ\n- 構えて（かまえて）: chuẩn bị\n- 投げられて（なげられて）: bị ném\n- 乗せられて（のせられて） ✔"
+  },
+  {
+    "id": 69,
+    "question": "盗難を防ぐため、置かれている学生たちの自転車に鎖を<span class='underline'>連ねた</span>。",
+    "translation": "Để phòng chống trộm cắp, tôi đã nối xích vào những chiếc xe đạp đang đỗ của sinh viên.",
+    "options": ["つないだ", "たばねた", "のばした", "ひろげた"],
+    "answer": 0,
+    "explanation": "【連ねる（つらねる）】: nối lại, xếp thành dãy → 同義語：繋ぐ（つなぐ）\n- 繋いだ（つないだ） ✔\n- 束ねた（たばねた）: buộc thành bó\n- 伸ばした（のばした）: kéo dài\n- 広げた（ひろげた）: mở rộng"
+  },
+  {
+    "id": 70,
+    "question": "電話が<span class='underline'>つかえている</span>から、あとでかける。",
+    "translation": "Vì điện thoại đang bận nên tôi sẽ gọi lại sau.",
+    "options": ["すいていない", "あいていない", "ふえていない", "こえていない"],
+    "answer": 1,
+    "explanation": "【つかえる（支える／閊える）】: bị nghẽn, bị tắc → 同義語：空いていない（あいていない）\n- 空いていない（あいていない） ✔\n- 空いていない（すいていない）: không vắng\n- 増えていない（ふえていない）: không tăng\n- 超えていない（こえていない）: không vượt"
+  },
+  {
+    "id": 71,
+    "question": "母の旅行に妹を<span class='underline'>そえた</span>ので、心配はないだろう。",
+    "translation": "Tôi đã cho em gái đi cùng mẹ nên chắc không có gì đáng lo.",
+    "options": ["かけた", "あてた", "つれた", "かぎった"],
+    "answer": 2,
+    "explanation": "【添える（そえる）】: thêm vào, cho đi kèm → 同義語：連れる（つれる）\n- 掛けた（かけた）: treo, gọi\n- 宛てた（あてた）: gửi đến\n- 連れた（つれた） ✔\n- 限った（かぎった）: giới hạn"
+  },
+  {
+    "id": 72,
+    "question": "この本の表紙は少し<span class='underline'>すり切れている</span>ね。",
+    "translation": "Bìa cuốn sách này hơi bị sờn rồi nhỉ.",
+    "options": ["反って", "曲がって", "取れて", "傷ついて"],
+    "answer": 3,
+    "explanation": "【擦り切れる（すりきれる）】: bị mòn, sờn → 近い意味：傷つく（きずつく）\n- 反って（そって）: cong vênh\n- 曲がって（まがって）: cong\n- 取れて（とれて）: rơi ra\n- 傷ついて（きずついて） ✔"
+  },
+  {
+    "id": 73,
+    "question": "あの子は小さい時から、万引きなどの悪習に<span class='underline'>しみていた</span>。",
+    "translation": "Đứa trẻ đó từ nhỏ đã nhiễm thói xấu như ăn cắp vặt.",
+    "options": ["そまって", "はたらいて", "はしって", "なじんで"],
+    "answer": 0,
+    "explanation": "【染みる（しみる）】: thấm, nhiễm → 同義語：染まる（そまる）\n- 染まって（そまって） ✔\n- 働いて（はたらいて）: làm việc\n- 走って（はしって）: chạy\n- 馴染んで（なじんで）: quen thuộc"
+  },
+  {
+    "id": 74,
+    "question": "観光シーズンにあたり、観光バスを<span class='underline'>仕立てて</span>いる。",
+    "translation": "Vào mùa du lịch, người ta đang bố trí/chuẩn bị xe buýt du lịch riêng.",
+    "options": ["乗り合って", "乗り越して", "そなえて", "ささえて"],
+    "answer": 2,
+    "explanation": "【仕立てる（したてる）】: chuẩn bị, bố trí riêng (xe, tàu) → 近い意味：備える（そなえる）\n- 乗り合って（のりあって）: đi chung\n- 乗り越して（のりこして）: đi quá\n- 備えて（そなえて） ✔\n- 支えて（ささえて）: chống đỡ"
+  },
+  {
+    "id": 75,
+    "question": "久しぶりに雨がたっぷり降ったので、<span class='underline'>しおれて</span>いた庭の木が元気を取り戻した。",
+    "translation": "Vì lâu rồi mới có mưa lớn nên cây trong vườn đang héo đã hồi phục.",
+    "options": ["しぼんで", "たるんで", "死んで", "果てて"],
+    "answer": 0,
+    "explanation": "【萎れる（しおれる）】: héo → 同義語：萎む（しぼむ）\n- 萎んで（しぼんで） ✔\n- 弛んで（たるんで）: chùng xuống\n- 死んで（しんで）: chết\n- 果てて（はてて）: kết thúc"
+  },
+  {
+    "id": 76,
+    "question": "彼らは患者に愛情を<span class='underline'>捧げた</span>。",
+    "translation": "Họ đã dành trọn tình cảm cho bệnh nhân.",
+    "options": ["たてまつった", "つかさどった", "さしひかえた", "とりもどした"],
+    "answer": 0,
+    "explanation": "【捧げる（ささげる）】: dâng hiến → 同義語：奉る（たてまつる）\n- 奉った（たてまつった） ✔\n- 司った（つかさどった）: quản lý\n- 差し控えた（さしひかえた）: kiềm chế\n- 取り戻した（とりもどした）: lấy lại"
+  },
+  {
+    "id": 77,
+    "question": "君、<span class='underline'>さえない</span>顔をして、どうしたんだ。",
+    "translation": "Mặt cậu trông ủ rũ vậy, có chuyện gì à?",
+    "options": ["がっちりした", "さっぱりした", "がっくりした", "あっさりした"],
+    "answer": 2,
+    "explanation": "【冴えない（さえない）】: ủ rũ → 近い意味：がっくりする\n- がっちりした: chắc chắn\n- さっぱりした: sảng khoái\n- がっくりした ✔\n- あっさりした: đơn giản"
+  },
+  {
+    "id": 78,
+    "question": "病気が<span class='underline'>悪化した</span>ので、入院させられた。",
+    "translation": "Vì bệnh trở nặng nên phải nhập viện.",
+    "options": ["ねじれた", "こじれた", "ひねった", "つねった"],
+    "answer": 1,
+    "explanation": "【悪化する（あっかする）】: xấu đi → 近い意味：拗れる（こじれる）\n- 捻れた（ねじれた）: xoắn\n- 拗れた（こじれた） ✔\n- 捻った（ひねった）: trẹo\n- 抓った（つねった）: véo"
+  },
+  {
+    "id": 79,
+    "question": "捕まった犯人は逃走を<span class='underline'>企てよう</span>とした。",
+    "translation": "Tên tội phạm đã định âm mưu bỏ trốn.",
+    "options": ["まねよう", "みならおう", "なめよう", "こころみよう"],
+    "answer": 3,
+    "explanation": "【企てる（くわだてる）】: âm mưu, dự định → 近い意味：試みる（こころみる）\n- 真似よう（まねよう）: bắt chước\n- 見習おう（みならおう）: học theo\n- 舐めよう（なめよう）: coi thường/liếm\n- 試みよう（こころみよう） ✔"
+  },
+  {
+    "id": 80,
+    "question": "両方の村を結ぶ道は荒れ放題で、木の橋も<span class='underline'>朽ちて</span>きた。",
+    "translation": "Con đường nối hai làng bị bỏ hoang, cây cầu gỗ cũng mục nát dần.",
+    "options": ["ゆらいで", "くさって", "しずんで", "おとろえて"],
+    "answer": 1,
+    "explanation": "【朽ちる（くちる）】: mục nát → 同義語：腐る（くさる）\n- 揺らいで（ゆらいで）: dao động\n- 腐って（くさって） ✔\n- 沈んで（しずんで）: chìm\n- 衰えて（おとろえて）: suy yếu"
+  },
+  {
+    "id": 81,
+    "question": "金持ちになった彼は贅沢を<span class='underline'>きわめて</span>豪華な別荘を建てた。",
+    "translation": "Sau khi trở nên giàu có, anh ta đã xây một căn biệt thự cực kỳ xa hoa, tận cùng của sự xa xỉ.",
+    "options": ["もやして", "ばらして", "まかして", "つくして"],
+    "answer": 3,
+    "explanation": "【極める（きわめる）】: Đạt đến cực điểm, cực kỳ. Đồng nghĩa với 「尽くして（つくして）」: hết mức/ tận cùng.\n- 燃やして（もやして）: Đốt cháy.\n- ばらして: Làm lộ ra/ Tháo rời.\n- 任して（まかして）: Giao phó."
+  },
+  {
+    "id": 82,
+    "question": "社長の適確な判断のおかげで、無事に危機を<span class='underline'>切り抜けた</span>。",
+    "translation": "Nhờ vào quyết định chính xác của giám đốc mà chúng tôi đã vượt qua được cuộc khủng hoảng một cách an toàn.",
+    "options": ["解放した", "公開した", "のがれた", "ゆるがした"],
+    "answer": 2,
+    "explanation": "【切り抜ける（きりぬける）】: Vượt qua (khó khăn, nguy hiểm). Đồng nghĩa với 「逃れた（のがれた）」: thoát khỏi.\n- 解放した（かいほうした）: Giải phóng.\n- 公開した（こうかいした）: Công khai.\n- 揺るがした（ゆるがした）: Làm rung chuyển."
+  },
+  {
+    "id": 83,
+    "question": "人を<span class='underline'>ばかにしたら</span>、かえって自分が損することがある。",
+    "translation": "Nếu coi thường người khác, có khi ngược lại chính mình mới là người chịu thiệt.",
+    "options": ["軽んじたら", "論じたら", "察したら", "演じたら"],
+    "answer": 0,
+    "explanation": "【馬鹿にする（ばかにする）】: Coi thường, xem nhẹ. Đồng nghĩa với 「軽んじたら（かろんじたら）」: khinh thường/ xem nhẹ.\n- 論じたら（ろんじたら）: Tranh luận.\n- 察したら（さっしたら）: Cảm nhận/ Đoán ra.\n- 演じたら（えんじたら）: Diễn xuất."
+  },
+  {
+    "id": 84,
+    "question": "彼は会社を辞めてから、繁華街に貿易関係の事務所を<span class='underline'>かまえた</span>。",
+    "translation": "Sau khi nghỉ việc ở công ty, anh ấy đã lập một văn phòng liên quan đến ngoại thương ở khu phố sầm uất.",
+    "options": ["もてあました", "めぐらした", "さずけた", "もうけた"],
+    "answer": 3,
+    "explanation": "【構える（かまえる）】: Lập ra, mở (văn phòng, cửa hàng). Đồng nghĩa với 「設けた（もうけた）」: thiết lập/ lập ra.\n- 持て余した（もてあました）: Không biết làm gì với (thời gian/tiền bạc thừa).\n- 巡らした（めぐらした）: Vây quanh/ Suy nghĩ xoay quanh.\n- 授けた（さずけた）: Ban tặng/ Truyền thụ."
+  },
+  {
+    "id": 85,
+    "question": "わが国の若い人の中で、西洋文化に<span class='underline'>被れている</span>人が少なくないようだ。",
+    "translation": "Trong giới trẻ nước ta, dường như có không ít người đang bị ảnh hưởng mạnh (sính) văn hóa phương Tây.",
+    "options": ["きれて", "はまって", "しみて", "そえて"],
+    "answer": 1,
+    "explanation": "【被れる（かぶれる）】: Bị ảnh hưởng mạnh mẽ/ Theo đuổi một cách mù quáng. Đồng nghĩa với 「はまって」: bị nghiện/ mải mê.\n- 切れて（きれて）: Đứt/ Hết hạn.\n- 染みて（しみて）: Thấm đẫm/ Nhiễm.\n- 添えて（そえて）: Đính kèm."
+  },
+  {
+    "id": 86,
+    "question": "道端に落とした物を<span class='underline'>かがめて</span>取る。",
+    "translation": "Cúi người xuống để nhặt đồ đánh rơi bên lề đường.",
+    "options": ["よこたわって", "またがって", "しゃがんで", "たちすくんで"],
+    "answer": 2,
+    "explanation": "【屈める（かがめる）】: Cúi xuống, gập người. Đồng nghĩa với 「しゃがんで」: ngồi xổm/ cúi xuống.\n- 横たわって（よこたわって）: Nằm dài ra.\n- 跨がって（またがって）: Cưỡi lên/ Trải dài qua.\n- 立ちすくんんで（たちすくんんで）: Đứng chôn chân tại chỗ."
+  },
+  {
+    "id": 87,
+    "question": "責任を人に<span class='underline'>おしつける</span>のは最低だ。",
+    "translation": "Đổ lỗi (áp đặt trách nhiệm) cho người khác là hành động tồi tệ nhất.",
+    "options": ["おわせる", "そわせる", "かまわせて", "かなわせて"],
+    "answer": 0,
+    "explanation": "【押し付ける（おしつける）】: Áp đặt, đùn đẩy. Đồng nghĩa với 「負わせる（おわせる）」: bắt gánh vác (trách nhiệm).\n- 沿わせる（そわせる）: Men theo.\n- 構わせて（かまわせて）: Để cho quan tâm.\n- 叶わせて（かなわせて）: Để cho thực hiện được ý nguyện."
+  },
+  {
+    "id": 88,
+    "question": "業績が大きいと認められ、彼は営業部長に<span class='underline'>おしあげられた</span>。",
+    "translation": "Vì thành tích lớn được công nhận nên anh ấy đã được đôn lên (thăng chức) làm trưởng phòng kinh doanh.",
+    "options": ["追い出された", "取り立てられた", "ほめたたえられた", "ゆきとどかれた"],
+    "answer": 1,
+    "explanation": "【押し上げる（おしあげる）】: Đẩy lên, thăng cấp. Đồng nghĩa với 「取り立てられた（とりたてられた）」: được đề bạt/ bổ nhiệm.\n- 追い出された（おいだされた）: Bị đuổi đi.\n- 褒め称えられた（ほめたたえられた）: Được tán dương hết lời.\n- 行き届かれた（ゆきとどかれた）: Được chăm sóc chu đáo."
+  },
+  {
+    "id": 89,
+    "question": "自分の前途を<span class='underline'>うれえている</span>若い人が増えているようだ。",
+    "translation": "Dường như số lượng người trẻ lo lắng về tương lai của chính mình đang tăng lên.",
+    "options": ["配慮して", "望んで", "心配して", "慎んで"],
+    "answer": 2,
+    "explanation": "【憂える（うれえる）】: Lo lắng, buồn phiền về cái gì đó. Đồng nghĩa với 「心配して（しんぱいして）」: lo lắng.\n- 配慮して（はいりょして）: Cân nhắc/ Quan tâm.\n- 望んで（のぞんで）: Hy vọng.\n- 慎んで（つつしんで）: Cẩn trọng/ Tiết chế."
+  },
+  {
+    "id": 90,
+    "question": "自分の才能にある程度<span class='underline'>うぬぼれる</span>のは悪いことではないと思う。",
+    "translation": "Tôi nghĩ việc tự mãn (tự tin quá mức) vào tài năng của mình ở một mức độ nào đó không phải là điều xấu.",
+    "options": ["自慢する", "自立する", "ねたむ", "にらむ"],
+    "answer": 0,
+    "explanation": "【自惚れる（うぬぼれる）】: Tự mãn, kiêu ngạo. Đồng nghĩa với 「自慢する（じまんする）」: tự hào/ khoe khoang.\n- 自立する（じりつする）: Tự lập.\n- 妬む（ねたむ）: Đố kỵ.\n- 睨む（にらむ）: Lườm/ Để mắt tới."
+  },
+  {
+    "id": 91,
+    "question": "三人は<span class='underline'>うちとけて</span>いろいろ話し合った。",
+    "translation": "Ba người họ đã mở lòng (thoải mái) và trò chuyện với nhau về nhiều thứ.",
+    "options": ["和らげて", "親しんで", "おだやかに", "おごそかに"],
+    "answer": 1,
+    "explanation": "【打ち解ける（うちとける）】: Mở lòng, trở nên thân thiết. Đồng nghĩa với 「親しんで（したしんで）」: thân mật/ gần gũi.\n- 和らげて（やわらげて）: Làm dịu đi.\n- 穏やかに（おだやかに）: Một cách ôn hòa.\n- 厳かに（おごそかに）: Một cách trang trọng."
+  },
+  {
+    "id": 92,
+    "question": "穴を掘ってゴミを<span class='underline'>うずめる</span>。",
+    "translation": "Đào lỗ và chôn rác xuống.",
+    "options": ["そめる", "とめる", "しめる", "うめる"],
+    "answer": 3,
+    "explanation": "【埋める（うずめる）】: Chôn lấp, vùi xuống. Đồng nghĩa với 「埋める（うめる）」: chôn.\n- 染める（そめる）: Nhuộm.\n- 止める（とめる）: Dừng lại.\n- 閉める（しめる）: Đóng."
+  },
+  {
+    "id": 93,
+    "question": "相手チームの激しい攻撃を<span class='underline'>受け止めた</span>。",
+    "translation": "Chúng tôi đã chống đỡ (ngăn chặn) được cuộc tấn công dữ dội của đội đối phương.",
+    "options": ["与えた", "もらった", "阻止した", "損失した"],
+    "answer": 2,
+    "explanation": "【受け止める（うけとめる）】: Chống đỡ, ngăn chặn. Đồng nghĩa với 「阻止した（そしした）」: cản trở/ ngăn chặn.\n- 与えた（あたえた）: Trao cho.\n- もらった: Nhận được.\n- 損失した（そんしつした）: Làm mất mát/ Thiệt hại."
+  },
+  {
+    "id": 94,
+    "question": "子供のいたずらを<span class='underline'>いましめる</span>のも教育の一つである。",
+    "translation": "Răn đe (quở mắng) những trò nghịch ngợm của trẻ con cũng là một phần của giáo dục.",
+    "options": ["しかる", "なぐる", "ける", "やっつける"],
+    "answer": 0,
+    "explanation": "【戒める（いましめる）】: Cảnh báo, răn đe, quở trách. Đồng nghĩa với 「叱る（しかる）」: mắng mỏ.\n- 殴る（なぐる）: Đấm.\n- 蹴る（ける）: Đá.\n- やっつける: Tiêu diệt/ Đánh bại."
+  },
+  {
+    "id": 95,
+    "question": "今回、あなたのご好意に<span class='underline'>甘えて</span>、ゆっくり休みを取らせていただきます。",
+    "translation": "Lần này, tôi xin phép tận dụng (dựa vào) lòng tốt của bạn để nghỉ ngơi thư thả.",
+    "options": ["こたえて", "たのんで", "たよって", "なめて"],
+    "answer": 2,
+    "explanation": "【甘える（あまえる）】: Dựa dẫm, nhận lòng tốt của ai đó một cách thoải mái. Gần nghĩa với 「頼って（たよって）」: nhờ vả/ dựa vào.\n- 応えて（こたえて）: Đáp lại.\n- 頼んで（たのんで）: Nhờ vả.\n- 舐めて（なめて）: Liếm/ Coi thường."
+  },
+  {
+    "id": 96,
+    "question": "その時、不意ににぎやかな声が私たちの近くで<span class='underline'>沸き上がった</span>。",
+    "translation": "Vào lúc đó, đột nhiên những tiếng hò reo náo nhiệt vang lên (nổi lên) ở gần chúng tôi.",
+    "options": ["加わった", "添えた", "起こった", "登った"],
+    "answer": 2,
+    "explanation": "【沸き上がる（わきあがる）】: Nổi lên, vang lên (âm thanh/cảm xúc). Đồng nghĩa với 「起こった（おこった）」: xảy ra/ phát ra.\n- 加わった（くわわった）: Thêm vào.\n- 添えた（そえた）: Đính kèm.\n- 登った（のぼった）: Leo lên."
+  },
+  {
+    "id": 97,
+    "question": "年を取ったせいか、視力がだんだん<span class='underline'>弱ってきた</span>。",
+    "translation": "Có lẽ do tuổi tác nên thị lực của tôi đang dần yếu đi (suy giảm).",
+    "options": ["荒廃して", "廃棄して", "しおれて", "おとろえて"],
+    "answer": 3,
+    "explanation": "【弱る（よわる）】: Yếu đi. Đồng nghĩa với 「衰えて（おとろえて）」: suy giảm/ sa sút.\n- 荒廃して（こうはいして）: Hoang phế/ Phá hủy.\n- 廃棄して（はいきして）: Vứt bỏ.\n- 萎れて（しおれて）: Héo rũ."
+  },
+  {
+    "id": 98,
+    "question": "彼女のように男に<span class='underline'>寄りかからなければ</span>生きていけないようではだめだ。",
+    "translation": "Nếu không dựa dẫm vào đàn ông mà không sống nổi như cô ta thì thật là không được.",
+    "options": ["滞在しなければ", "依存しなければ", "整えられなければ", "操られなければ"],
+    "answer": 1,
+    "explanation": "【寄りかかる（よりかかる）】: Dựa dẫm, phụ thuộc vào ai đó. Đồng nghĩa với 「依存しなければ（いぞんしなければ）」: nếu không phụ thuộc.\n- 滞在しなければ（たいざいしなければ）: Nếu không lưu trú.\n- 整えられなければ（ととのえられなければ）: Nếu không được sắp xếp.\n- 操られなければ（あやつられなければ）: Nếu không bị điều khiển."
+  },
+  {
+    "id": 99,
+    "question": "前途に<span class='underline'>横たわって</span>いる困難がたくさんあると想像できる。",
+    "translation": "Có thể tưởng tượng được rằng có rất nhiều khó khăn đang nằm chắn (hiện hữu) ở phía trước.",
+    "options": ["控えて", "眠って", "沈んで", "支えて"],
+    "answer": 0,
+    "explanation": "【横たわる（よこたわる）】: Nằm trải dài/ Đang chờ đợi phía trước. Gần nghĩa với 「控えて（ひかえて）」: đang chờ đợi/ cận kề.\n- 眠って（ねむって）: Ngủ.\n- 沈んで（しずんで）: Chìm xuống.\n- 支えて（ささえて）: Chống đỡ."
+  },
+  {
+    "id": 100,
+    "question": "リンゴの幹を<span class='underline'>揺さぶって</span>実を落とす。",
+    "translation": "Rung mạnh thân cây táo để làm quả rụng xuống.",
+    "options": ["振って", "動いて", "にぎって", "つまって"],
+    "answer": 0,
+    "explanation": "【揺さぶる（ゆさぶる）】: Rung lắc mạnh. Đồng nghĩa với 「振って（ふって）」: lắc/ vẫy.\n- 動いて（うごいて）: Chuyển động.\n- 握って（にぎって）: Nắm lấy.\n- 詰まって（つまって）: Bị nghẹt/ bít."
+  },
+  {
+    "id": 101,
+    "question": "交渉が<span class='underline'>ゆきづまって</span>進まない状態となった。",
+    "translation": "Cuộc đàm phán đã rơi vào tình trạng bế tắc (trình trệ) không thể tiến triển thêm.",
+    "options": ["はかどって", "とどこおって", "うるおって", "つきまとって"],
+    "answer": 1,
+    "explanation": "【行き詰まる（ゆきづまる）】: Bế tắc, đình trệ. Đồng nghĩa với 「滞って（とどこおって）」: ứ đọng/ đình trệ.\n- 捗って（はかどって）: Tiến triển thuận lợi.\n- 潤って（うるおって）: Ẩm ướt/ Dồi dào.\n- 付きまとって（つきまとって）: Bám theo/ Theo đuổi."
+  },
+  {
+    "id": 102,
+    "question": "昔の人は木の皮を<span class='underline'>めくった</span>後、それを干して紙にしたという。",
+    "translation": "Người xưa nói rằng sau khi lột (bóc) vỏ cây, họ đem phơi khô rồi làm thành giấy.",
+    "options": ["けずった", "はいだ", "やぶった", "つぶした"],
+    "answer": 1,
+    "explanation": "【めくる（剥くる）】: Lột, bóc, lật lên. Đồng nghĩa với 「剥いだ（はいだ）」: lột vỏ/ bóc.\n- 削った（けずった）: Gọt/ Bào.\n- 破った（やぶった）: Làm rách.\n- 潰した（つぶした）: Nghiền nát."
+  },
+  {
+    "id": 103,
+    "question": "とても重要な書類が<span class='underline'>見当たらなく</span>て困るなあ。",
+    "translation": "Thật rắc rối quá, tài liệu rất quan trọng mà tôi lại không tìm thấy đâu cả.",
+    "options": ["見守らなくて", "見習わなくて", "見計らわなくて", "見つからなくて"],
+    "answer": 3,
+    "explanation": "【見当たらない（みあたらない）】: Không thấy đâu, không tìm thấy. Đồng nghĩa với 「見つからなくて（みつからなくて）」: không tìm thấy.\n- 見守らなくて（みまもらなくて）: Không dõi theo.\n- 見習わなくて（みならわなくて）: Không học theo.\n- 見計らわなくて（みはからわなくて）: Không ước lượng."
+  },
+  {
+    "id": 104,
+    "question": "若い男は女のハンドバッグを取ったかと思うと、オートバイに<span class='underline'>乗って</span>飛ぶように逃げた。",
+    "translation": "Gã thanh niên trẻ vừa giật lấy chiếc túi xách của người phụ nữ đã leo lên mô tô phóng đi như bay.",
+    "options": ["つらなって", "ふまえて", "またいで", "よりかかって"],
+    "answer": 2,
+    "explanation": "【乗る（のる）】: Lên xe/ Cưỡi lên. Trong trường hợp xe máy, đồng nghĩa với 「またいで（跨いで）」: cưỡi lên/ bước qua.\n- 連なって（つらなって）: Nối tiếp nhau thành hàng.\n- 踏まえて（ふまえて）: Dựa trên/ Xem xét đến.\n- 寄りかかって（よりかかって）: Dựa dẫm/ Tựa vào."
+  },
+  {
+    "id": 105,
+    "question": "平行線はどこまで行っても<span class='underline'>まじわらない</span>。",
+    "translation": "Hai đường song song dù có kéo dài đến đâu cũng không bao giờ giao nhau.",
+    "options": ["交差しない", "差別しない", "交替しない", "区別しない"],
+    "answer": 0,
+    "explanation": "【交わる（まじわる）】: Giao nhau/ Cắt nhau. Đồng nghĩa với 「交差しない（こうさしない）」: không giao nhau.\n- 差別しない（さべつしない）: Không phân biệt đối xử.\n- 交替しない（こうたいしない）: Không thay phiên.\n- 区別しない（くべつしない）: Không phân biệt (loại)."
+  },
+  {
+    "id": 106,
+    "question": "人類の20世紀の歩みを<span class='underline'>振り返って</span>みれば、感慨無量だ。",
+    "translation": "Nhìn lại những bước tiến của nhân loại trong thế kỷ 20, lòng tôi tràn đầy cảm xúc.",
+    "options": ["よみがえって", "かえりみて", "たどりついて", "おりかえして"],
+    "answer": 1,
+    "explanation": "【振り返る（ふりかえる）】: Nhìn lại (quá khứ). Đồng nghĩa với 「顧みて（かえりみて）」: hồi tưởng/ nhìn lại.\n- 蘇って（よみがえって）: Sống lại/ Phục hồi.\n- 辿り着いて（たどりついて）: Cuối cùng cũng đến được.\n- 折り返して（おりかえして）: Gập lại/ Quay trở lại."
+  },
+  {
+    "id": 107,
+    "question": "男は私の首につけてあるネックレスを<span class='underline'>ひったくって</span>逃げた。",
+    "translation": "Gã đàn ông đã giật phắt chiếc dây chuyền trên cổ tôi rồi bỏ chạy.",
+    "options": ["うばいとって", "うけとって", "かいとって", "かちとって"],
+    "answer": 0,
+    "explanation": "【ひったくる】: Giật lấy/ Cướp giật. Đồng nghĩa với 「奪い取って（うばいとって）」: cướp lấy/ đoạt lấy.\n- 受け取って（うけとって）: Nhận lấy.\n- 買い取って（かいとって）: Mua lại.\n- 勝ち取って（かちとって）: Giành chiến thắng/ Đạt được."
+  },
+  {
+    "id": 108,
+    "question": "もし用がなければ、会議室を<span class='underline'>引き取って</span>いいよ。",
+    "translation": "Nếu không có việc gì nữa thì cậu có thể rời khỏi phòng họp được rồi.",
+    "options": ["どいて", "用いて", "とどめて", "去って"],
+    "answer": 3,
+    "explanation": "【引き取る（ひきとる）】: Rời khỏi/ Lui về. Trong ngữ cảnh này đồng nghĩa với 「去って（さって）」: rời đi.\n- 退いて（どいて）: Tránh ra/ Dẹp qua một bên.\n- 用いて（もちいて）: Sử dụng.\n- 留めて（とどめて）: Giữ lại/ Dừng lại."
+  },
+  {
+    "id": 109,
+    "question": "兄は赤く<span class='underline'>はれ上がった</span>右手を冷たいタオルで冷やす。",
+    "translation": "Anh trai tôi chườm cái khăn lạnh lên bàn tay phải đang bị sưng tấy đỏ.",
+    "options": ["うかび上がった", "かち上がった", "ふくれ上がった", "もり上がった"],
+    "answer": 2,
+    "explanation": "【腫れ上がる（はれあがる）】: Sưng tấy lên. Đồng nghĩa với 「膨れ上がった（ふくれあがった）」: sưng phồng lên.\n- 浮かび上がった（うかびあがった）: Nổi lên bề mặt.\n- 勝ち上がった（かちあがった）: Thắng và tiến vào vòng trong.\n- 盛り上がった（もりあがった）: Hưng phấn/ Nhô lên."
+  },
+  {
+    "id": 110,
+    "question": "あいつの計略に<span class='underline'>はまって</span>大損した。",
+    "translation": "Tôi đã mắc bẫy kế sách của gã đó và bị thiệt hại nặng nề.",
+    "options": ["なめて", "ねじれて", "おちいって", "なついて"],
+    "answer": 2,
+    "explanation": "【嵌まる（はまる）】: Mắc bẫy/ Rơi vào (tình cảnh). Đồng nghĩa với 「陥って（おちいって）」: rơi vào (bẫy/khó khăn).\n- 舐めて（なめて）: Liếm/ Coi thường.\n- 捻れて（ねじれて）: Bị xoắn/ Cong queo.\n- 懐いて（なついて）: Theo (người)/ Quấn quýt."
+  },
+  {
+    "id": 111,
+    "question": "悪いことをするわけではないから、人目を<span class='underline'>はばかる</span>必要がない。",
+    "translation": "Mình không làm chuyện gì xấu nên không cần phải để ý (né tránh) ánh mắt của người đời.",
+    "options": ["かまえる", "ひかえる", "ふける", "さける"],
+    "answer": 3,
+    "explanation": "【憚る（はばかる）】: Ngần ngại/ Né tránh (vì sợ người khác thấy). Đồng nghĩa với 「避ける（さける）」: né tránh.\n- 構える（かまえる）: Lập ra/ Vào tư thế.\n- 控える（ひかえる）: Kiềm chế/ Chờ đợi.\n- 耽る（ふける）: Mải mê/ Chìm đắm."
+  },
+  {
+    "id": 112,
+    "question": "セメントは速く<span class='underline'>練らないと</span>、硬くなる。",
+    "translation": "Xi măng nếu không nhào trộn nhanh thì sẽ bị đông cứng lại.",
+    "options": ["かきまぜないと", "ふみこまないと", "たたきおとさないと", "くつがえさないと"],
+    "answer": 0,
+    "explanation": "【練る（ねる）】: Nhào trộn/ Trau chuốt. Đồng nghĩa với 「かき混ぜないと（かきまぜないと）」: nếu không khuấy trộn.\n- 踏み込まないと（ふみこまないと）: Nếu không bước vào/ can thiệp.\n- 叩き落とさないと（たたきおとさないと）: Nếu không đánh rơi xuống.\n- 覆さないと（くつがえさないと）: Nếu không lật ngược lại."
+  },
+  {
+    "id": 113,
+    "question": "学校を出て実社会に出ると、学問から<span class='underline'>遠ざかる</span>人が多い。",
+    "translation": "Sau khi rời khỏi ghế nhà trường và bước vào xã hội, nhiều người dần xa rời việc học thuật.",
+    "options": ["それる", "そむく", "はなれる", "くだく"],
+    "answer": 2,
+    "explanation": "【遠ざかる（とおざかる）】: Rời xa/ Cách xa. Đồng nghĩa với 「離れる（はなれる）」: rời xa/ chia cách.\n- 逸れる（それる）: Lệch lạc/ Chệch hướng.\n- 背く（そむく）: Phản bội/ Quay lưng lại.\n- 砕く（くだく）: Đập tan/ Giải quyết."
+  },
+  {
+    "id": 114,
+    "question": "これは人権問題に<span class='underline'>連なる</span>重大事件である。",
+    "translation": "Đây là một sự việc trọng đại có liên quan trực tiếp đến vấn đề nhân quyền.",
+    "options": ["わたる", "かわる", "われる", "かかわる"],
+    "answer": 3,
+    "explanation": "【連なる（つらなる）】: Liên quan đến/ Kéo dài thành chuỗi. Đồng nghĩa với 「関わる（かかわる）」: liên quan đến.\n- 渡る（わたる）: Băng qua.\n- 代わる（かわる）: Thay thế.\n- 割れる（われる）: Bị vỡ/ Chia tách."
+  },
+  {
+    "id": 115,
+    "question": "交通安全の標語を、広く一般から<span class='underline'>募集する</span>ことにした。",
+    "translation": "Chúng tôi quyết định chiêu mộ (tuyển chọn) rộng rãi các khẩu hiệu an toàn giao thông từ công chúng.",
+    "options": ["しのぐ", "つのる", "のぞむ", "さらおう"],
+    "answer": 1,
+    "explanation": "【募集する（ぼしゅうする）】: Chiêu mộ, tuyển dụng. Đồng nghĩa với 「募る（つのる）」: chiêu mộ/ thu thập.\n- 凌ぐ（しのぐ）: Vượt qua/ Áp đảo.\n- 望む（のぞむ）: Nguyện vọng/ Trông chờ.\n- 攫おう（さらおう）: Định bắt cóc/ Cuốn trôi."
+  },
+  {
+    "id": 116,
+    "question": "記憶を<span class='underline'>辿って</span>みたが、なぜあんな大けがをしたのか思い出せなかった。",
+    "translation": "Tôi đã cố gắng tìm lại (lần theo) ký ức nhưng vẫn không thể nhớ nổi tại sao mình lại bị thương nặng đến thế.",
+    "options": ["たよりにして", "かわりにして", "かねて", "めぐって"],
+    "answer": 0,
+    "explanation": "【辿る（たどる）】: Lần theo, tìm lại (con đường/ký ức). Gần nghĩa với 「頼りにして（たよりにして）」: dựa vào/ nhờ vào (dấu vết để tìm).\n- 代わりにして（かわりにして）: Thay thế cho.\n- 兼ねて（かねて）: Kết hợp/ Trước đây.\n- 巡って（めぐって）: Xoay quanh (vấn đề)."
+  },
+  {
+    "id": 117,
+    "question": "もうけるどころではなく、元さえ<span class='underline'>擦って</span>しまった。",
+    "translation": "Chẳng những không có lãi mà ngay cả vốn liếng cũng bị tiêu tán hết sạch.",
+    "options": ["禁じて", "略して", "損して", "免じえ"],
+    "answer": 2,
+    "explanation": "【擦る（する）】: Làm tiêu tan/ Phung phí (tiền bạc). Đồng nghĩa với 「損して（そんして）」: thua lỗ/ mất mát.\n- 禁じて（きんじて）: Cấm đoán.\n- 略して（りゃくして）: Lược bỏ/ Viết tắt.\n- 免じえ（めんじえ）: Miễn cho/ Xá tội."
+  },
+  {
+    "id": 118,
+    "question": "家の中は<span class='underline'>静まり返って</span>物音ひとつしない。",
+    "translation": "Trong nhà im phăng phắc, không một tiếng động nhỏ.",
+    "options": ["しんとして", "しゅとして", "なんとかして", "ひょっとして"],
+    "answer": 0,
+    "explanation": "【静まり返る（しずまりかえる）】: Im phăng phắc. Đồng nghĩa với 「しんとして」: yên tĩnh/ lặng ngắt.\n- しゅとして: Chủ yếu là.\n- なんとかして: Bằng cách nào đó.\n- ひょっとして: Có lẽ nào/ Chẳng may."
+  },
+  {
+    "id": 119,
+    "question": "人に<span class='underline'>悟られる</span>と大変だから、油断をするな。",
+    "translation": "Nếu để người khác nhận ra (biết được bí mật) thì sẽ rắc rối lắm, nên đừng có lơ là.",
+    "options": ["見つめられる", "見つけられる", "見あげられる", "見なおされる"],
+    "answer": 1,
+    "explanation": "【悟る（さとる）】: Nhận ra, thấu hiểu (bí mật/chân lý). Trong ngữ cảnh này bị động là bị người khác phát hiện, đồng nghĩa với 「見つけられる（みつけられる）」: bị tìm thấy/ phát hiện.\n- 見つめられる（みつめられる）: Bị nhìn chằm chằm.\n- 見上げられる（みあげられる）: Được ngước nhìn.\n- 見直される（みなおされる）: Được đánh giá lại."
+  },
+  {
+    "id": 120,
+    "question": "お天気が<span class='underline'>定まらない</span>ので、出発できない。",
+    "translation": "Vì thời tiết không ổn định (thất thường) nên chúng tôi không thể xuất phát.",
+    "options": ["ふりむかない", "ちかづかない", "かがやかない", "おちつかない"],
+    "answer": 3,
+    "explanation": "【定まる（さだまる）】: Ổn định, được quyết định. Đồng nghĩa với 「落ち着かない（おちつかない）」: không ổn định/ không yên.\n- 振り向かない（ふりむかない）: Không ngoảnh lại.\n- 近づかない（ちかづかない）: Không lại gần.\n- 輝かない（かがやかない）: Không tỏa sáng."
+  },
+  {
+    "id": 121,
+    "question": "木の枝が茂って塀に<span class='underline'>差し掛かって</span>いる。",
+    "translation": "Cành cây mọc um tùm và vươn tới (phủ lên) bức tường.",
+    "options": ["引き下がって", "垂れ下がって", "跨って", "横たわって"],
+    "answer": 1,
+    "explanation": "【差し掛かる（さしかかる）】: Tới gần/ Phủ lên trên. Gần nghĩa với 「垂れ下がって（たれさがって）」: rủ xuống/ treo lơ lửng phía trên.\n- 引き下がって（ひきさがって）: Lui lại/ Rút lui.\n- 跨って（またがって）: Cưỡi lên/ Trải dài qua.\n- 横たわって（よこたわって）: Nằm dài ra."
+  },
+  {
+    "id": 122,
+    "question": "毎日ずっと机に向かっているから、<span class='underline'>肩がこる</span>でしょう。",
+    "translation": "Vì ngày nào cũng ngồi vào bàn suốt nên chắc là vai bị mỏi (căng cứng) nhỉ.",
+    "options": ["肩が痛い", "肩を並べる", "肩にかかる", "肩で息をする"],
+    "answer": 0,
+    "explanation": "【肩が凝る（かたがこる）】: Mỏi vai, cứng vai. Đồng nghĩa với 「肩が痛い（かたがいたい）」: đau vai.\n- 肩を並べる（かたをならべる）: Sánh vai/ Ngang hàng.\n- 肩にかかる（かたにかかる）: Gánh vác trên vai.\n- 肩で息をする（かたでいきをする）: Thở dốc/ Thở hổn hển."
+  },
+  {
+    "id": 123,
+    "question": "大地震で莫大な損害を<span class='underline'>こうむった</span>。",
+    "translation": "Chúng tôi đã phải chịu (gánh chịu) những thiệt hại khổng lồ do trận động đất lớn.",
+    "options": ["ぬけた", "ふけた", "やけた", "うけた"],
+    "answer": 3,
+    "explanation": "【被る（こうむる）】: Chịu, gánh chịu (thiệt hại/ơn huệ). Đồng nghĩa với 「受けた（うけた）」: nhận/ chịu.\n- 抜けた（ぬけた）: Rút ra/ Sót.\n- 耽けた（ふけた）: Chìm đắm/ Già đi (老けた).\n- 焼けた（やけた）: Bị cháy."
+  },
+  {
+    "id": 124,
+    "question": "古新聞を紐で<span class='underline'>くくって</span>まとめてごみ置き場に捨てる。",
+    "translation": "Buộc báo cũ bằng dây thừng, gom lại rồi vứt ra bãi rác.",
+    "options": ["張り付けて", "塗り付けて", "たばねて", "はたいて"],
+    "answer": 2,
+    "explanation": "【括る（くくる）】: Buộc, cột lại. Đồng nghĩa với 「束ねて（たばねて）」: buộc thành bó.\n- 張り付けて（はりつけて）: Dán vào.\n- 塗り付けて（ぬりつけて）: Bôi vào/ Đổ lỗi.\n- 叩いて（はたいて）: Phủi bụi/ Đánh."
+  },
+  {
+    "id": 125,
+    "question": "子供のころの体験が人の性格を<span class='underline'>形作る</span>。",
+    "translation": "Những trải nghiệm thời thơ ấu tạo nên tính cách của một con người.",
+    "options": ["整形する", "整備する", "成功する", "形成する"],
+    "answer": 3,
+    "explanation": "【形作る（かたちづくる）】: Tạo nên, hình thành. Đồng nghĩa với 「形成する（けいせいする）」: hình thành.\n- 整形する（せいけいする）: Phẫu thuật thẩm mỹ/ Chỉnh hình.\n- 整備する（せいびする）: Bảo dưỡng/ Hoàn thiện.\n- 成功する（せいこうする）: Thành công."
+  },
+  {
+    "id": 126,
+    "question": "一度勝ったぐらいで、<span class='underline'>おごる</span>なよ。",
+    "translation": "Đừng có kiêu ngạo chỉ vì mới thắng có một lần.",
+    "options": ["いばる", "はりきる", "こばる", "へりくだる"],
+    "answer": 0,
+    "explanation": "【奢る（おごる）】: Kiêu ngạo, tự mãn (ngoài nghĩa là khao/đãi). Đồng nghĩa với 「威張る（いばる）」: kiêu ngạo/ hống hách.\n- 張り切る（はりきる）: Hăng hái.\n- 媚びる（こびる）: Nịnh bợ.\n- 謙る（へりくだる）: Khiêm tốn."
+  },
+  {
+    "id": 127,
+    "question": "看護士は優しい言葉で病人を<span class='underline'>いたわって</span>いる。",
+    "translation": "Người điều dưỡng đang chăm sóc bệnh nhân bằng những lời lẽ dịu dàng.",
+    "options": ["看病して", "面会して", "見舞って", "慰めて"],
+    "answer": 3,
+    "explanation": "【労わる（いたわる）】: Đối xử tử tế, an ủi, chăm sóc. Gần nghĩa với 「慰めて（なぐさめて）」: an ủi/ động viên.\n- 看病して（かんびょうして）: Chăm sóc bệnh nhân.\n- 面会して（めんかいして）: Gặp mặt/ Thăm hỏi.\n- 見舞って（みまって）: Thăm bệnh."
+  },
+  {
+    "id": 128,
+    "question": "共通語はもちろん、二つの方言も十分に<span class='underline'>あやつる</span>ことができる。",
+    "translation": "Không chỉ ngôn ngữ chung, anh ấy còn có thể sử dụng thành thạo cả hai loại phương ngữ.",
+    "options": ["使う", "仕える", "操作する", "工作する"],
+    "answer": 0,
+    "explanation": "【操る（あやつる）】: Điều khiển, sử dụng thành thạo. Đồng nghĩa với 「使う（つかう）」: sử dụng.\n- 仕える（つかえる）: Phụng sự/ Phục vụ.\n- 操作する（そうさする）: Thao tác/ Điều khiển máy móc.\n- 工作する（こうさくする）: Chế tác/ Thủ đoạn."
+  },
+  {
+    "id": 129,
+    "question": "クジラを<span class='underline'>とる</span>捕鯨船が以前より少なくなった。",
+    "translation": "Số lượng tàu đánh bắt cá voi đã ít hơn so với trước đây.",
+    "options": ["こがす", "あさる", "おろす", "さぐる"],
+    "answer": 1,
+    "explanation": "【漁る（あさる）】: Đánh bắt cá/ Tìm kiếm thức ăn. Đồng nghĩa với 「とる」 (đánh bắt).\n- 焦がす（こがす）: Làm cháy/ khét.\n- 下ろす（おろす）: Cho xuống/ Rút tiền.\n- 探る（さぐる）: Thăm dò/ Tìm kiếm."
+  },
+  {
+    "id": 130,
+    "question": "<span class='underline'>ゆるんだ</span>ベルトをしっかり締めてください。",
+    "translation": "Hãy thắt chặt chiếc thắt lưng bị lỏng lại.",
+    "options": ["ほどいた", "あばいた", "たるんだ", "ひずんだ"],
+    "answer": 2,
+    "explanation": "【緩む（ゆるむ）】: Lỏng lẻo. Đồng nghĩa với 「弛んだ（たるんだ）」: lỏng/ chùng xuống.\n- 解いた（ほどいた）: Cởi bỏ/ Giải quyết.\n- 暴いた（あばいた）: Vạch trần.\n- 歪んだ（ひずんだ）: Bị méo mó/ Biến dạng."
+  },
+  {
+    "id": 131,
+    "question": "太郎はみんなからいじめられて、性格が<span class='underline'>ゆがんで</span>しまった。",
+    "translation": "Taro bị mọi người bắt nạt nên tính cách đã trở nên lệch lạc.",
+    "options": ["ねじれて", "まるめて", "つよまって", "いじって"],
+    "answer": 0,
+    "explanation": "【歪む（ゆがむ）】: Lệch lạc, méo mó. Đồng nghĩa với 「捻れて（ねじれて）」: bị xoắn/ lệch lạc (tính cách).\n- 丸めて（まるめて）: Vo tròn.\n- 強まって（つよまって）: Mạnh lên.\n- 弄って（いじって）: Nghịch/ Chọc ngoáy."
+  },
+  {
+    "id": 132,
+    "question": "家賃を大家さんの銀行口座に<span class='underline'>振り込む</span>。",
+    "translation": "Chuyển khoản tiền thuê nhà vào tài khoản ngân hàng của chủ nhà.",
+    "options": ["下ろす", "入れる", "なげる", "すてる"],
+    "answer": 1,
+    "explanation": "【振り込む（ふりこむ）】: Chuyển khoản. Đồng nghĩa với 「入れる（いれる）」: bỏ tiền vào/ chuyển tiền vào.\n- 下ろす（おろす）: Rút tiền.\n- 投げる（なげる）: Ném.\n- 捨てる（すてる）: Vứt bỏ."
+  },
+  {
+    "id": 133,
+    "question": "警察に<span class='underline'>踏み込まれた</span>ので、彼は慌てていた。",
+    "translation": "Vì bị cảnh sát đột kích nên anh ta đã rất hoảng loạn.",
+    "options": ["突入された", "襲撃された", "侵入された", "打撃された"],
+    "answer": 0,
+    "explanation": "【踏み込む（ふみこむ）】: Đột kích, xông vào. Đồng nghĩa với 「突入された（とつにゅうされた）」: bị đột nhập/ xông vào.\n- 襲撃された（しゅうげきされた）: Bị tấn công.\n- 侵入された（しんにゅうされた）: Bị xâm nhập.\n- 打撃された（だげきされた）: Bị đánh/ Công kích."
+  },
+  {
+    "id": 134,
+    "question": "今度の成功は皆さんの協力に<span class='underline'>負う</span>ところが大きい。",
+    "translation": "Thành công lần này phần lớn là nhờ vào sự hợp tác của mọi người.",
+    "options": ["そる", "もる", "よる", "ほる"],
+    "answer": 2,
+    "explanation": "【負う（おう）】: Nhờ vào, dựa vào (thành quả). Đồng nghĩa với 「よる（依る）」: nhờ có/ dựa vào.\n- 反る（そる）: Cong/ Vênh.\n- 盛る（もる）: Đổ đầy/ Phục vụ thức ăn.\n- 掘る（ほる）: Đào."
+  },
+  {
+    "id": 135,
+    "question": "われわれの体には普段気がつかないような工夫がたくさん<span class='underline'>ひそんでいる</span>。",
+    "translation": "Trong cơ thể chúng ta ẩn chứa rất nhiều cơ chế tinh vi mà bình thường ta không nhận ra.",
+    "options": ["葬って", "埋めて", "眠って", "隠れて"],
+    "answer": 3,
+    "explanation": "【潜む（ひそむ）】: Ẩn giấu, tiềm tàng. Đồng nghĩa với 「隠れて（かくれた）」: ẩn giấu/ che khuất.\n- 葬って（ほうむって）: Mai táng/ Chôn vùi.\n- 埋めて（うめて）: Chôn lấp.\n- 眠って（ねむって）: Ngủ."
+  },
+  {
+    "id": 136,
+    "question": "<span class='underline'>妊娠した</span>妻は定期的に検査を受ける。",
+    "translation": "Người vợ đang mang thai đi khám định kỳ.",
+    "options": ["はらんだ", "からんだ", "うらんだ", "にらんだ"],
+    "answer": 0,
+    "explanation": "【妊娠する（にんしんする）】: Mang thai. Đồng nghĩa với 「孕んだ（はらんだ）」: mang thai/ chứa đựng.\n- 絡んだ（からんだ）: Liên quan/ Rắc rối.\n- 恨んだ（うらんだ）: Hận/ Thù ghét.\n- 睨んだ（にらんだ）: Lườm/ Để mắt tới."
+  },
+  {
+    "id": 137,
+    "question": "陽子さんに<span class='underline'>はずんだ</span>声で、「おはよう」とあいさつをした。",
+    "translation": "Tôi đã chào 'Chào buổi sáng' với cô Yoko bằng một giọng nói vui vẻ (phấn chấn).",
+    "options": ["陰気な", "陽気な", "無力な", "有力な"],
+    "answer": 1,
+    "explanation": "【弾む（はずむ）】: Phấn chấn, vui vẻ (giọng nói). Đồng nghĩa với 「陽気な（ようきな）」: vui vẻ/ náo nhiệt.\n- 陰気な（いんきな）: U ám/ Buồn bã.\n- 無力な（むりょくな）: Không có sức lực/ Vô dụng.\n- 有力な（ゆうりょくな）: Có thế lực/ Có sức ảnh hưởng."
+  },
+  {
+    "id": 138,
+    "question": "その男は山間の湖に<span class='underline'>面する</span>小さな町からやってきた。",
+    "translation": "Người đàn ông đó đến từ một thị trấn nhỏ hướng ra (nhìn ra) hồ nước giữa vùng núi.",
+    "options": ["はまる", "はさむ", "こもる", "のぞむ"],
+    "answer": 3,
+    "explanation": "【面する（めんする）】: Hướng ra, nhìn ra. Đồng nghĩa với 「臨む（のぞむ）」: nhìn ra/ hướng về phía.\n- 嵌まる（はまる）: Vừa vặn/ Mắc bẫy.\n- 挟む（はさむ）: Kẹp vào.\n- 籠もる（こもる）: Tách biệt/ Chứa đựng."
+  },
+  {
+    "id": 139,
+    "question": "時間がないから、彼は要点を<span class='underline'>つまんで</span>話した。",
+    "translation": "Vì không có thời gian nên anh ấy đã nói tóm lược (chắt lọc) các điểm chính.",
+    "options": ["とらえて", "いじって", "かまえて", "ねじって"],
+    "answer": 0,
+    "explanation": "【摘む（つまむ）】: Gắp, nhặt/ Tóm lược. Đồng nghĩa với 「捉えて（とらえて）」: nắm bắt/ tóm lấy (ý chính).\n- 弄って（いじって）: Nghịch/ Chọc ngoáy.\n- 構えて（かまえて）: Lập ra/ Vào tư thế.\n- 捻って（ねじって）: Vặn/ Xoắn."
+  },
+  {
+    "id": 140,
+    "question": "屋根を<span class='underline'>繕う</span>仕事は毎年父が<span class='underline'>請け負って</span>いる。",
+    "translation": "Công việc sửa chữa mái nhà hàng năm đều do bố tôi đảm nhận (thầu).",
+    "options": ["いだいて", "はさんで", "引き受けて", "付き合って"],
+    "answer": 2,
+    "explanation": "【請け負う（うけおう）】: Đảm nhận, nhận thầu. Đồng nghĩa với 「引き受けて（ひきうけて）」: nhận làm/ đảm nhận.\n- 抱いて（いだいて）: Ôm ấp/ Nuôi dưỡng (ý chí).\n- 挟んで（はさんで）: Kẹp vào giữa.\n- 付き合って（つきあって）: Giao tiếp/ Hẹn hò."
+  },
+  {
+    "id": 141,
+    "question": "政府では増税を<span class='underline'>たくらんで</span>いるといううわさがある。",
+    "translation": "Có tin đồn rằng chính phủ đang âm mưu (dự tính) tăng thuế.",
+    "options": ["意図して", "意味して", "機能して", "発揮して"],
+    "answer": 0,
+    "explanation": "【企む（たくらむ）】: Âm mưu, dự tính (thường là việc xấu). Đồng nghĩa với 「意図して（いとする）」: có ý đồ/ dự định.\n- 意味して（いみして）: Có nghĩa là.\n- 機能して（きのうして）: Hoạt động/ Tính năng.\n- 発揮して（はっきして）: Phát huy."
+  },
+  {
+    "id": 142,
+    "question": "巧みに<span class='underline'>しくまれた</span>トリックに騙された。",
+    "translation": "Tôi đã bị lừa bởi một cái bẫy (mẹo) được dàn dựng tinh vi.",
+    "options": ["製作した", "作成した", "くわえた", "くわだてた"],
+    "answer": 3,
+    "explanation": "【仕組む（しこむ）】: Dàn dựng, lên kế hoạch. Đồng nghĩa với 「企てた（くわだてた）」: dự tính/ lên kế hoạch.\n- 製作した（せいさくした）: Chế tác/ Sản xuất.\n- 作成した（さくせいした）: Tạo ra/ Lập bản văn.\n- 加えた（くわえた）: Thêm vào."
+  },
+  {
+    "id": 143,
+    "question": "花壇に四季を<span class='underline'>いろどる</span>草花を植え、楽しんでいる。",
+    "translation": "Tôi tận hưởng việc trồng những loài hoa cỏ tô điểm (làm rực rỡ) cho bồn hoa suốt bốn mùa.",
+    "options": ["通じる", "飾る", "整える", "備える"],
+    "answer": 1,
+    "explanation": "【彩る（いろどる）】: Tô điểm, nhuộm màu. Đồng nghĩa với 「飾る（かざる）」: trang trí/ tô điểm.\n- 通じる（つうじる）: Hiểu/ Thông qua.\n- 整える（ととのえる）: Chuẩn bị/ Sắp xếp.\n- 備える（そなえる）: Chuẩn bị/ Trang bị."
+  },
+  {
+    "id": 144,
+    "question": "苦難の道を<span class='underline'>あゆんで</span>きた彼は一層たくましくなってきた。",
+    "translation": "Sau khi đi qua (trải qua) con đường đầy gian khổ, anh ấy đã trở nên mạnh mẽ hơn một bậc.",
+    "options": ["徒歩で", "歩行して", "駆けて", "たどって"],
+    "answer": 3,
+    "explanation": "【歩む（あゆむ）】: Đi, bước đi (thường nói về cuộc đời/con đường). Đồng nghĩa với 「辿って（たどって）」: trải qua/ lần theo.\n- 徒歩で（とほで）: Đi bộ.\n- 歩行して（ほこうして）: Đi bộ (thuật ngữ y tế/kỹ thuật).\n- 駆けて（かけて）: Chạy."
+  },
+  {
+    "id": 145,
+    "question": "植民地からの独立運動がその国を<span class='underline'>ゆるがした</span>。",
+    "translation": "Phong trào độc lập từ thuộc địa đã làm chấn động (lung lay) quốc gia đó.",
+    "options": ["覆した", "滅ぼした", "動かした", "荒らした"],
+    "answer": 2,
+    "explanation": "【揺るがす（ゆるがす）】: Làm lung lay, chấn động. Đồng nghĩa với 「動かした（うごかした）」: làm lay động/ di chuyển.\n- 覆した（くつがえした）: Lật ngược.\n- 滅ぼした（ほろぼした）: Tiêu diệt/ Hủy diệt.\n- 荒らした（あらした）: Làm loạn/ Phá hoại."
+  },
+  {
+    "id": 146,
+    "question": "難事をりっぱに<span class='underline'>やりこなした</span>新人の一郎君に頭を下げた。",
+    "translation": "Tôi ngả mũ thán phục (cúi đầu) trước cậu tân binh Ichiro vì đã hoàn thành xuất sắc công việc khó khăn.",
+    "options": ["処理した", "処分した", "こばんだ", "はばんた"],
+    "answer": 0,
+    "explanation": "【やりこなす】: Hoàn thành, xử lý tốt. Đồng nghĩa với 「処理した（しょりした）」: xử lý/ giải quyết.\n- 処分した（しょぶんした）: Vứt bỏ/ Xử phạt.\n- 拒んだ（こばんだ）: Từ chối.\n- 阻んだ（はばんだ）: Ngăn cản."
+  },
+  {
+    "id": 147,
+    "question": "親に不満を<span class='underline'>漏らして</span>も、どうしようもない。",
+    "translation": "Dù có than vãn (tiết lộ) sự bất mãn với cha mẹ thì cũng chẳng giải quyết được gì.",
+    "options": ["もやしても", "こぼしても", "そらしても", "こらしても"],
+    "answer": 1,
+    "explanation": "【漏らす（もらす）】: Tiết lộ, làm lộ/ Than vãn. Đồng nghĩa với 「溢しても（こぼしても）」: phàn nàn/ than vãn.\n- 燃やしても（もやしても）: Dù có đốt.\n- 逸らしても（そらしても）: Dù có lảng tránh.\n- 凝らしても（こらしても）: Dù có tập trung (ánh nhìn)."
+  },
+  {
+    "id": 148,
+    "question": "約束の時間より、あんまりはやく来たので、時間を<span class='underline'>もてあます</span>。",
+    "translation": "Vì đến sớm hơn giờ hẹn rất nhiều nên tôi có quá nhiều thời gian dư thừa (không biết làm gì cho hết).",
+    "options": ["計りにくい", "扱いにくい", "設けにくい", "稼ぎにくい"],
+    "answer": 1,
+    "explanation": "【持て余す（もてあます）】: Có quá nhiều (thời gian/sức lực) dẫn đến khó xử lý/ dư thừa. Gần nghĩa với 「扱いにくい（あつかいにくい）」: khó giải quyết/ khó xử lý.\n- 計りにくい（はかりにくい）: Khó đo lường.\n- 設けにくい（もうけにくい）: Khó thiết lập.\n- 稼ぎにくい（かせぎにくい）: Khó kiếm (tiền)."
+  },
+  {
+    "id": 149,
+    "question": "新婚の彼を回りの女子社員がいつも<span class='underline'>冷やかして</span>いる。",
+    "translation": "Các nữ nhân viên xung quanh lúc nào cũng trêu chọc (chế giễu) anh chàng mới cưới đó.",
+    "options": ["からかって", "みならって", "かまって", "にぎわって"],
+    "answer": 0,
+    "explanation": "【冷やかす（ひやかす）】: Trêu chọc, chế giễu. Đồng nghĩa với 「からかって」: trêu ghẹo.\n- 見習って（みならって）: Học tập theo.\n- 構って（かまって）: Quan tâm/ Chăm sóc.\n- 賑わって（にぎわって）: Náo nhiệt."
+  },
+  {
+    "id": 150,
+    "question": "命を<span class='underline'>投げ出して</span>、国のために尽くす。",
+    "translation": "Sẵn lòng hy sinh (dâng hiến) mạng sống để cống hiến cho đất nước.",
+    "options": ["つけて", "かけて", "ぬけて", "むけて"],
+    "answer": 1,
+    "explanation": "【投げ出す（なげだす）】: Từ bỏ/ Hi sinh (mạng sống). Đồng nghĩa với 「懸けて（かけて）」: đặt cược/ hi sinh (tính mạng).\n- つけて: Đính kèm/ Bật.\n- 抜けて（ぬけて）: Sót/ Thoát ra.\n- 向けて（むけて）: Hướng về phía."
+  },
+  {
+    "id": 151,
+    "question": "兄が故国を<span class='underline'>したう</span>気持ちは、誰よりも強かったに違いない。",
+    "translation": "Tình cảm nhớ thương quê hương của anh trai tôi chắc chắn là mạnh mẽ hơn bất cứ ai.",
+    "options": ["思う", "描く", "歌う", "褒める"],
+    "answer": 0,
+    "explanation": "【慕う（したう）】: Nhớ thương, ái mộ. Đồng nghĩa với 「思う（おもう）」: nhớ về/ suy nghĩ về.\n- 描く（えがく）: Vẽ/ Miêu tả.\n- 歌う（うたう）: Hát.\n- 褒める（ほめる）: Khen ngợi."
+  },
+  {
+    "id": 152,
+    "question": "彼の発言は会議におごそかな空気を<span class='underline'>かもし出した</span>。",
+    "translation": "Phát ngôn của anh ấy đã tạo ra một bầu không khí trang nghiêm cho cuộc họp.",
+    "options": ["売り上げた", "買い上げた", "つくり出す", "差し出した"],
+    "answer": 2,
+    "explanation": "【醸し出す（かもしだす）】: Tạo ra (bầu không khí/cảm giác). Đồng nghĩa với 「つくり出す（つくりだす）」: tạo ra.\n- 売り上げた（うりあげた）: Đạt doanh thu.\n- 買い上げた（かいあげた）: Thu mua.\n- 差し出した（さしだした）: Đưa ra/ Nộp."
+  },
+  {
+    "id": 153,
+    "question": "市場秩序を<span class='underline'>かき回す</span>行為は許されない。",
+    "translation": "Hành vi làm xáo trộn (lũng đoạn) trật tự thị trường là không thể tha thứ.",
+    "options": ["もらす", "けなす", "みだす", "みなす"],
+    "answer": 2,
+    "explanation": "【かき回す（かきまわす）】: Khuấy động, làm xáo trộn. Đồng nghĩa với 「乱す（みだす）」: làm rối loạn.\n- 漏らす（もらす）: Làm lộ/ Rò rỉ.\n- 貶す（けなす）: Chê bai/ Bôi nhọ.\n- 見なす（みなす）: Coi như là."
+  },
+  {
+    "id": 154,
+    "question": "権力者の迫害に耐えて、自分の正しい意見を<span class='underline'>押し通した</span>。",
+    "translation": "Anh ấy đã chịu đựng sự đàn áp của kẻ có quyền thế để bảo vệ đến cùng (thực thi) ý kiến đúng đắn của mình.",
+    "options": ["つらぬいた", "みちびいた", "ひきいた", "ねじれた"],
+    "answer": 0,
+    "explanation": "【押し通す（おしとおす）】: Giữ vững lập trường, thực hiện đến cùng. Đồng nghĩa với 「貫いた（つらぬいた）」: quán triệt/ giữ vững đến cùng.\n- 導いた（みちびいた）: Dẫn dắt.\n- 率いた（ひきいた）: Dẫn đầu/ Chỉ huy.\n- 捻れた（ねじれた）: Bị xoắn/ Lệch lạc."
+  },
+  {
+    "id": 155,
+    "question": "独自の製品、それに独自の販売対策を<span class='underline'>押し出す</span>。",
+    "translation": "Chúng tôi đẩy mạnh sản phẩm độc đáo cùng với các đối sách bán hàng riêng biệt.",
+    "options": ["交わす", "晴らす", "記す", "示す"],
+    "answer": 3,
+    "explanation": "【押し出す（おしだす）】: Đẩy mạnh, đưa ra (để quảng bá). Gần nghĩa với 「示す（しめす）」: xuất trình/ cho thấy/ đưa ra.\n- 交わす（かわす）: Trao đổi.\n- 晴らす（はらす）: Làm xua tan (nỗi buồn/nghi ngờ).\n- 記す（しるす）: Ghi chép."
+  },
+  {
+    "id": 156,
+    "question": "彼はもう何回も死の危険を<span class='underline'>おかして</span>太平洋の横断を試みた。",
+    "translation": "Anh ấy đã nhiều lần bất chấp nguy hiểm đến tính mạng để thử thách việc băng qua Thái Bình Dương.",
+    "options": ["かみきって", "おしきって", "ふまえて", "ひかえて"],
+    "answer": 1,
+    "explanation": "【冒す（おかす）】: Bất chấp, đương đầu (nguy hiểm). Đồng nghĩa với 「押し切って（おしきって）」: bất chấp (phản đối/nguy hiểm) để làm.\n- 噛み切って（かみきって）: Cắn đứt.\n- 踏まえて（ふまえて）: Dựa trên.\n- 控えて（ひかえて）: Chờ đợi/ Kiềm chế."
+  },
+  {
+    "id": 157,
+    "question": "釣った鯉を水の中に入れて<span class='underline'>いかして</span>いく。",
+    "translation": "Tôi thả con cá chép vừa câu được vào nước để giữ cho nó sống.",
+    "options": ["飼わせて", "養わせて", "起きさせて", "生きさせて"],
+    "answer": 3,
+    "explanation": "【生かす（いかす）】: Giữ cho sống/ Phát huy. Đồng nghĩa với 「生きさせて（いきさせて）」: để cho sống.\n- 飼わせて（かわせて）: Cho phép nuôi (thú cưng).\n- 養わせて（やしなわせて）: Cho phép nuôi dưỡng.\n- 起きさせて（おきさせて）: Làm cho thức dậy."
+  },
+  {
+    "id": 158,
+    "question": "その虫は1分ほど<span class='underline'>もがいた</span>あげく、息を引き取った。",
+    "translation": "Con côn trùng đó sau khoảng 1 phút vùng vẫy đã trút hơi thở cuối cùng.",
+    "options": ["動いた", "飛んだ", "踊った", "弾んだ"],
+    "answer": 0,
+    "explanation": "【悶く（もがく）】: Vùng vẫy, quằn quại. Gần nghĩa nhất là 「動いた（うごいた）」: cử động/ di chuyển.\n- 飛んだ（とんだ）: Bay.\n- 踊った（おどった）: Nhảy múa.\n- 弾んだ（はずんだ）: Nảy lên/ Phấn chấn."
+  },
+  {
+    "id": 159,
+    "question": "昨日はガイドさんに<span class='underline'>みちびかれて</span>市内を一日見物しました。",
+    "translation": "Hôm qua tôi đã được hướng dẫn viên dẫn dắt đi tham quan thành phố cả ngày.",
+    "options": ["見学されて", "見物されて", "案内されて", "案じられて"],
+    "answer": 2,
+    "explanation": "【導く（みちびく）】: Dẫn dắt, chỉ dẫn. Đồng nghĩa với 「案内されて（あんないされて）」: được hướng dẫn/ dẫn đường.\n- 見学されて（けんがくされて）: Được tham quan học tập.\n- 見物されて（けんぶつされて）: Được tham quan.\n- 案じられて（あんじられて）: Được lo lắng/ suy tính."
+  },
+  {
+    "id": 160,
+    "question": "道を歩く人にバーゲンセールのビラを<span class='underline'>ばらまく</span>。",
+    "translation": "Phát tán (rải) tờ rơi giảm giá cho những người đang đi bộ trên đường.",
+    "options": ["ちらす", "ふかす", "交付する", "寄付する"],
+    "answer": 0,
+    "explanation": "【ばらまく】: Rải, phân phát rộng rãi. Đồng nghĩa với 「散らす（ちらす）」: làm vương vãi/ rải rác.\n- ふかす: Hấp/ Nhấn ga.\n- 交付する（こうふする）: Cấp phát (giấy tờ chính thức).\n- 寄付する（きふする）: Quyên góp."
+  },
+  {
+    "id": 161,
+    "question": "怒った父は弟の顔を思い切り<span class='underline'>はたいた</span>。",
+    "translation": "Người cha tức giận đã tát (đánh) mạnh vào mặt em trai tôi.",
+    "options": ["けった", "打った", "かすった", "踏んだ"],
+    "answer": 1,
+    "explanation": "【叩く（はたく/たたく）】: Đánh, vỗ, tát. Đồng nghĩa với 「打った（うった）」: đánh.\n- 蹴った（けった）: Đá.\n- 掠った（かすった）: Sượt qua.\n- 踏んだ（ふんだ）: Giẫm lên."
+  },
+  {
+    "id": 162,
+    "question": "スターになった彼女を<span class='underline'>取り巻く</span>男が急に多くなった。",
+    "translation": "Kể từ khi cô ấy trở thành ngôi sao, số đàn ông vây quanh cô ấy bỗng nhiên tăng lên.",
+    "options": ["かこう", "かこむ", "むかう", "むかえる"],
+    "answer": 1,
+    "explanation": "【取り巻く（とりまく）】: Vây quanh, bao quanh. Đồng nghĩa với 「囲む（かこむ）」: bao quanh.\n- かこう: Bao quanh (cách đọc khác của 囲う).\n- 向かう（むかう）: Hướng về phía.\n- 迎える（むかえる）: Đón tiếp."
+  },
+  {
+    "id": 163,
+    "question": "彼は職を<span class='underline'>しりぞいて</span>、故郷へ帰って農業を営んでいるそうだ。",
+    "translation": "Nghe nói anh ấy đã từ chức (nghỉ việc) rồi về quê làm nông nghiệp.",
+    "options": ["ほうりなげて", "みあわせて", "とりのぞいて", "ゆずりあって"],
+    "answer": 0,
+    "explanation": "【退く（しりぞく）】: Rút lui, từ chức. Trong ngữ cảnh nghỉ việc đột ngột hoặc từ bỏ, nó gần nghĩa với 「放り投げて（ほうりなげて）」: vứt bỏ/ bỏ dở giữa chừng.\n- 見合わせて（みあわせて）: Trì hoãn/ Nhìn nhau.\n- 取り除いて（とりのぞいて）: Loại bỏ.\n- 譲り合って（ゆずりあって）: Nhường nhịn nhau."
+  },
+  {
+    "id": 164,
+    "question": "有能な彼は在庫品をうまく<span class='underline'>さばいた</span>。",
+    "translation": "Là một người có năng lực, anh ấy đã giải quyết (bán sạch) hàng tồn kho một cách khéo léo.",
+    "options": ["仕入れて", "注文した", "売り切った", "取り調べた"],
+    "answer": 2,
+    "explanation": "【捌く（さばく）】: Giải quyết, bán hàng, phân loại. Trong ngữ cảnh hàng hóa, nó đồng nghĩa với 「売り切った（うりきった）」: bán hết sạch.\n- 仕入れて（しいれて）: Nhập hàng.\n- 注文した（ちゅうもんした）: Đặt hàng.\n- 取り調べた（とりしらべた）: Điều tra/ Thẩm vấn."
+  },
+  {
+    "id": 165,
+    "question": "彼女の話には知性と才気が<span class='underline'>きらめいて</span>いた。",
+    "translation": "Trong câu chuyện của cô ấy lấp lánh (tỏa sáng) trí tuệ và sự nhạy bén.",
+    "options": ["捧げて", "預けて", "膨れて", "現れて"],
+    "answer": 3,
+    "explanation": "【煌めく（きらめく）】: Lấp lánh, tỏa sáng. Trong ngữ cảnh này, nó có nghĩa là những phẩm chất đó được thể hiện ra một cách ấn tượng, gần nghĩa với 「現れて（あらわれて）」: xuất hiện/ lộ ra.\n- 捧げて（ささげて）: Cống hiến/ Dâng tặng.\n- 預けて（あずけて）: Gửi gắm.\n- 膨れて（ふくれて）: Phồng lên/ Sưng lên."
+  },
+  {
+    "id": 166,
+    "question": "機械を据え付ける前に、土台を<span class='underline'>きずく</span>作業がある。",
+    "translation": "Trước khi lắp đặt máy móc, có công đoạn xây dựng (xây đắp) nền móng.",
+    "options": ["みがく", "けずる", "ひらく", "つくる"],
+    "answer": 3,
+    "explanation": "【築く（きずく）】: Xây dựng, đắp nên. Đồng nghĩa với 「つくる（作る）」: tạo ra/ xây dựng.\n- みがく（磨く）: Đánh bóng/ Mài giũa.\n- けずる（削る）: Gọt/ Đẽo.\n- ひらく（開く）: Mở ra."
+  },
+  {
+    "id": 167,
+    "question": "水を<span class='underline'>担って</span>きて、植木を潤す。",
+    "translation": "Gánh nước về để tưới ẩm cho cây trồng.",
+    "options": ["かついで", "さげて", "くんで", "すくって"],
+    "answer": 0,
+    "explanation": "【担う（になう/かつぐ）】: Gánh vác, khiêng trên vai. Đồng nghĩa với 「担いで（かついで）」: mang/ vác trên vai.\n- 下げて（さげて）: Hạ xuống/ Cầm trên tay treo xuống.\n- 汲んで（くんで）: Múc (nước).\n- 掬って（すくって）: Múc/ Vớt (bằng lòng bàn tay/vợt)."
+  },
+  {
+    "id": 168,
+    "question": "息子のズボンが綻びたから,<span class='underline'>つくろって</span>つくろってやった。",
+    "translation": "Vì chiếc quần của con trai bị bục chỉ (rách) nên tôi đã vá lại cho nó.",
+    "options": ["縫って", "織って", "組んで", "編んで"],
+    "answer": 0,
+    "explanation": "【繕う（つくろう）】: Sửa chữa, vá lại. Đồng nghĩa với 「縫って（ぬって）」: khâu/ vá.\n- 織って（おって）: Dệt.\n- 組んで（くんで）: Khoác (tay)/ Hợp tác.\n- 編んで（あんで）: Đan."
+  },
+  {
+    "id": 169,
+    "question": "昨日、わたしも選挙の開票に<span class='underline'>立ち会った</span>。",
+    "translation": "Hôm qua, tôi cũng đã có mặt (chứng kiến) buổi kiểm phiếu bầu cử.",
+    "options": ["面した", "属した", "臨んだ", "凌いだ"],
+    "answer": 2,
+    "explanation": "【立ち会う（たちあう）】: Có mặt, chứng kiến. Gần nghĩa với 「臨んだ（のぞんだ）」: có mặt/ tham dự vào một sự kiện.\n- 面した（めんした）: Hướng ra.\n- 属した（ぞくした）: Thuộc về.\n- 凌いだ（しのいだ）: Vượt qua/ Áp đảo."
+  },
+  {
+    "id": 170,
+    "question": "約束の時間を間違えたため、彼に会い<span class='underline'>損なった</span>。",
+    "translation": "Vì nhầm giờ hẹn nên tôi đã lỡ mất (không gặp được) anh ấy.",
+    "options": ["うしなった", "そびれた", "おとした", "なくした"],
+    "answer": 1,
+    "explanation": "【～損なう（～そこなう）】: Lỡ mất cơ hội làm gì đó. Đồng nghĩa với 「～そびれた」: lỡ mất/ không kịp làm gì.\n- 失った（うしなった）: Đánh mất (vật hữu hình/vô hình).\n- 落とした（おとした）: Làm rơi.\n- なくした: Làm mất."
+  }
+
+]
+
+
+

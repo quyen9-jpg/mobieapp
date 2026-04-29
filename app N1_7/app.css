@@ -1,0 +1,176 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+  
+  display: flex;
+  flex-direction: column;   /* 👉 thêm */
+  align-items: center;      /* 👉 thêm */
+  
+  min-height: 100vh;        /* 👉 thêm */
+  padding-top: 50px;
+}
+.quiz-container {
+  background: white;
+  width: 90%;
+  max-width: 600px;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+}
+
+.score {
+  text-align: right;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+#question {
+  margin: 20px 0;
+  font-size: 18px;
+}
+
+.question-item {
+  background: white;
+  padding: 20px;
+  margin-bottom: 25px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.question-item h3 {
+  margin-bottom: 10px;
+  color: #2c3e50;
+}
+
+.option-btn {
+  display: block;
+  width: 100%;
+  padding: 15px;           /* 👉 tăng padding */
+  margin: 10px 0;          /* 👉 giãn khoảng cách */
+  border: 1px solid #ddd;  /* 👉 viền rõ hơn */
+  border-radius: 10px;
+  cursor: pointer;
+  background: white;
+  font-size: 16px;         /* 👉 chữ to hơn */
+  line-height: 1.5;  
+  text-align: left;  
+  transition: background 0.3s;    /* 👉 dễ đọc */
+}
+
+.option-btn:hover {
+  background: #f0f8ff;
+  border-color: #3498db;
+  transform: scale(1.02);
+  transition: 0.2s;
+}
+
+.options-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* 2 cột */
+  gap: 10px;
+  margin-top: 10px;
+}
+
+#options {
+  display: flex;
+ flex-direction: column; 
+  gap:20px;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+.correct {
+  background-color: #2ecc71 !important;
+  color: white;
+}
+
+.wrong {
+  background-color: #e74c3c !important;
+  color: white;
+}
+
+.hidden {
+  display: none;
+}
+
+#next-btn {
+  margin-top: 15px;
+  padding: 10px;
+  width: 100%;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+#explain-content {
+    white-space: pre-wrap; /* Giúp hiển thị đúng dấu xuống dòng từ JSON */
+    text-align: left;
+    font-size: 14px;
+}
+
+
+#pagination button {
+  margin: 5px;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#pagination button:hover {
+  background: #ddd;
+}
+
+/* 👉 Khung chứa nút test */
+.test-selector {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* 👉 Nút test */
+.test-btn {
+  padding: 10px 18px;
+  margin: 5px;
+  border: none;
+  border-radius: 20px;
+  background: #ecf0f1;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.3s;
+}
+
+/* Hover */
+.test-btn:hover {
+  background: #d0e6ff;
+  border-radius: 0;
+  border-bottom: 2px solid transparent;
+}
+
+/* 👉 Nút đang chọn */
+.test-btn.active {
+  background: #3498db;
+  color: white;
+  font-weight: bold;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+}
+
+.underline {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  font-weight: bold;
+}
+
+.explanation {
+  white-space: pre-line;
+}
+
+@media (max-width: 600px) {
+  .options-grid {
+    grid-template-columns: 1fr;
+  }
+}

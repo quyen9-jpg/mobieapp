@@ -1,0 +1,1154 @@
+[
+  {
+    "id": 135,
+    "question": "バーゲンセールを実行する間、値段を安くするのはもちろん、<span class='underline'>景品</span>もつける。",
+    "translation": "Trong khi thực hiện đợt bán hàng giảm giá, ngoài việc hạ giá thành thì đương nhiên còn kèm theo cả quà tặng.",
+    "options": ["贈り物", "特産物", "預かり物", "土産物"],
+    "answer": 1,
+    "explanation": "【景品（けいひん）】: Quà tặng kèm, phần thưởng khuyến mãi.\n→ 贈り物（おくりもの）: Quà tặng."
+  },
+  {
+    "id": 136,
+    "question": "中国の映画が見直され、<span class='underline'>興行</span>成績はうなぎ登りだ。",
+    "translation": "Phim Trung Quốc đang được đánh giá cao trở lại, doanh thu phòng vé đang tăng vọt.",
+    "options": ["映写", "上映", "スクリーン", "ディスプレー"],
+    "answer": 2,
+    "explanation": "【興行（こうぎょう）】: Buổi biểu diễn, sự trình chiếu phục vụ công chúng (có thu phí).\n→ 上映（じょうえい）: Trình chiếu (phim)."
+  },
+  {
+    "id": 137,
+    "question": "<span class='underline'>固定客</span>がけっこういるので、店は持ち堪えている。",
+    "translation": "Vì có khá nhiều khách quen nên cửa hàng vẫn đang trụ vững.",
+    "options": ["殿様", "客間", "世話役", "得意先"],
+    "answer": 4,
+    "explanation": "【固定客（こていきゃく）】: Khách hàng cố định, khách quen.\n→ 得意先（とくいさき）: Khách hàng thân thiết, mối hàng quen."
+  },
+  {
+    "id": 138,
+    "question": "オリンピックで金メダルを取った選手は英雄のごとく<span class='underline'>賛美される</span>。",
+    "translation": "Vận động viên giành huy chương vàng Olympic được tán dương như một vị anh hùng.",
+    "options": ["ほめたたえられる", "とりたてられる", "おだてられる", "ちやほやされる"],
+    "answer": 1,
+    "explanation": "【賛美される（さんびされる）】: Được tán dương, ca tụng.\n→ ほめたたえられる: Được khen ngợi, ca ngợi hết lời."
+  },
+  {
+    "id": 139,
+    "question": "スカートに付いている<span class='underline'>しみ</span>がなかなか落とせない。",
+    "translation": "Vết bẩn dính trên váy mãi mà không giặt sạch được.",
+    "options": ["そめ", "よごれ", "むら", "いたみ"],
+    "answer": 2,
+    "explanation": "【しみ】: Vết ố, vết bẩn thấm vào vải.\n→ よごれ（汚れ）: Vết bẩn."
+  },
+  {
+    "id": 140,
+    "question": "体の<span class='underline'>重心</span>を失って転んだ。",
+    "translation": "Tôi bị mất thăng bằng cơ thể và ngã nhào.",
+    "options": ["ハート", "バランス", "ポジション", "センター"],
+    "answer": 2,
+    "explanation": "【重心（じゅうしん）】: Trọng tâm (nghĩa bóng trong ngữ cảnh này là sự thăng bằng).\n→ バランス: Sự thăng bằng, cân bằng (Balance)."
+  },
+  {
+    "id": 141,
+    "question": "父の死を聞いて、彼は大いに<span class='underline'>衝撃</span>を受けた。",
+    "translation": "Nghe tin cha qua đời, anh ấy đã phải chịu một cú sốc lớn.",
+    "options": ["ジャンプ", "ジャンル", "ショック", "ショップ"],
+    "answer": 3,
+    "explanation": "【衝撃（しょうげき）】: Sự va đập mạnh, cú sốc tinh thần.\n→ ショック: Cú sốc (Shock)."
+  },
+  {
+    "id": 142,
+    "question": "伝統産業を<span class='underline'>振興しよう</span>と政府側が呼びかけている。",
+    "translation": "Phía chính phủ đang kêu gọi thúc đẩy phát triển các ngành công nghiệp truyền thống.",
+    "options": ["おこそう", "はらそう", "しるそう", "いかそう"],
+    "answer": 1,
+    "explanation": "【振興（しんこう）】: Thúc đẩy, làm cho hưng thịnh lên.\n→ おこそう（興そう）: Làm cho hưng thịnh, khôi phục, phát triển."
+  },
+  {
+    "id": 143,
+    "question": "上映中、隣の観客のおしゃべりを<span class='underline'>制止する</span>。",
+    "translation": "Trong lúc chiếu phim, tôi ngăn chặn việc nói chuyện của vị khách ngồi bên cạnh.",
+    "options": ["せっする", "たっする", "せいする", "しょする"],
+    "answer": 3,
+    "explanation": "【制止する（せいしする）】: Ngăn chặn, kiềm chế hành động của ai đó.\n→ せいする（制する）: Kiềm chế, ngăn chặn."
+  },
+  {
+    "id": 144,
+    "question": "<span class='underline'>先入観</span>が邪魔をして、正しい見方ができない。",
+    "translation": "Định kiến gây cản trở khiến tôi không thể có cái nhìn đúng đắn.",
+    "options": ["見地", "異見", "普遍", "偏見"],
+    "answer": 4,
+    "explanation": "【先入観（せんにゅうかん）】: Định kiến, ý niệm có sẵn từ trước.\n→ 偏見（へんけん）: Thành kiến, cái nhìn phiến diện."
+  },
+  {
+    "id": 145,
+    "question": "T氏は武力をもって、あまり苦労もなしに学生<span class='underline'>騒動</span>を治めた。",
+    "translation": "Ông T đã dùng vũ lực để dẹp yên cuộc náo loạn của sinh viên mà không tốn quá nhiều công sức.",
+    "options": ["さわり", "さわぎ", "うごき", "うわぎ"],
+    "answer": 2,
+    "explanation": "【騒動（そうどう）】: Cuộc náo loạn, bạo động, lộn xộn.\n→ さわぎ（騒ぎ）: Sự ồn ào, náo nhiệt, vụ lộn xộn."
+  },
+  {
+    "id": 146,
+    "question": "ぼくは休日は家でじっとしていられない<span class='underline'>たち</span>だ。",
+    "translation": "Tôi là kiểu người không thể ngồi yên ở nhà vào ngày nghỉ.",
+    "options": ["実質", "性質", "特徴", "象徴"],
+    "answer": 2,
+    "explanation": "【～たち（～質）】: Bản tính, bản chất con người.\n→ 性質（せいしつ）: Tính chất, bản chất."
+  },
+  {
+    "id": 147,
+    "question": "あの方は真理を<span class='underline'>探求する</span>ために、一生を捧げた。",
+    "translation": "Vị đó đã cống hiến cả đời mình để theo đuổi/tìm kiếm chân lý.",
+    "options": ["もとめる", "みとめる", "みちびく", "ながびく"],
+    "answer": 1,
+    "explanation": "【探求（たんきゅう）】: Tìm kiếm, theo đuổi (chân lý, kiến thức).\n→ もとめる（求める）: Tìm kiếm, yêu cầu, mong muốn."
+  },
+  {
+    "id": 148,
+    "question": "1ヶ月ほど<span class='underline'>追跡した</span>かいがあって、逃げた容疑者を捕らえた。",
+    "translation": "Bõ công theo dấu suốt 1 tháng trời, cuối cùng đã bắt được nghi phạm bỏ trốn.",
+    "options": ["はしりかけた", "おいかけた", "ふみこんだ", "うちこんだ"],
+    "answer": 2,
+    "explanation": "【追跡（ついせき）】: Truy đuổi, theo dấu.\n→ おいかけた（追いかけた）: Đuổi theo."
+  },
+  {
+    "id": 149,
+    "question": "君の提案は<span class='underline'>満場一致</span>で可決されたそうだね。",
+    "translation": "Nghe nói đề án của cậu đã được thông qua với sự nhất trí của tất cả mọi người có mặt.",
+    "options": ["満員", "入場", "全体", "全力"],
+    "answer": 3,
+    "explanation": "【満場一致（まんじょういっち）】: Toàn bộ hội trường/mọi người nhất trí.\n→ 全体（ぜんたい）: Toàn thể, tất cả."
+  },
+  {
+    "id": 150,
+    "question": "それは彼女に関係なく、<span class='underline'>当方</span>の責任です。",
+    "translation": "Việc đó không liên quan đến cô ấy, đó là trách nhiệm của phía chúng tôi.",
+    "options": ["そこら", "あちら", "これら", "こちら"],
+    "answer": 4,
+    "explanation": "【当方（とうほう）】: Phía chúng tôi, chúng tôi.\n→ こちら: Phía này, chúng tôi."
+  },
+  {
+    "id": 151,
+    "question": "交渉の<span class='underline'>成り行き</span>いかんによって、契約を結ぶか結ばないかを決める。",
+    "translation": "Tùy thuộc vào diễn biến của cuộc đàm phán mà quyết định có ký hợp đồng hay không.",
+    "options": ["変わり", "動き", "回り", "届き"],
+    "answer": 2,
+    "explanation": "【成り行き（なりゆき）】: Diễn biến, tiến triển của sự việc.\n→ 動き（うごき）: Sự chuyển động, diễn biến, động thái."
+  },
+  {
+    "id": 152,
+    "question": "導入したコンピューターが<span class='underline'>威力</span>を発揮して、売り上げがぐんと伸びた。",
+    "translation": "Máy tính mới đưa vào đã phát huy sức mạnh (hiệu quả), giúp doanh số tăng vọt.",
+    "options": ["気品", "上品", "おこない", "はたらき"],
+    "answer": 4,
+    "explanation": "【威力（いりょく）】: Uy lực, sức mạnh, sức ảnh hưởng.\n→ はたらき（働き）: Chức năng, hiệu quả hoạt động."
+  },
+  {
+    "id": 153,
+    "question": "この国では、海賊版の図書やDVDが<span class='underline'>氾濫して</span>いる。",
+    "translation": "Ở quốc gia này, sách và DVD lậu đang tràn lan.",
+    "options": ["あふれて", "こぼれて", "ふくれて", "かぶれて"],
+    "answer": 1,
+    "explanation": "【氾濫（はんらん）】: Ngập lụt, (nghĩa bóng) tràn lan.\n→ あふれて（溢れて）: Tràn ra, đầy rẫy."
+  },
+  {
+    "id": 154,
+    "question": "容疑者に対して、預金<span class='underline'>封鎖</span>の処置をとる。",
+    "translation": "Thực hiện biện pháp phong tỏa tiền gửi đối với nghi phạm.",
+    "options": ["遮断", "横断", "中断", "油断"],
+    "answer": 1,
+    "explanation": "【封鎖（ふうさ）】: Phong tỏa, bao vây.\n→ 遮断（しゃだん）: Ngắt, làm gián đoạn, ngăn chặn."
+  },
+  {
+    "id": 155,
+    "question": "カーテンの<span class='underline'>へり</span>は別の色の布で縫ったほうがいいと思う。",
+    "translation": "Tôi nghĩ phần mép rèm cửa nên may bằng vải màu khác thì tốt hơn.",
+    "options": ["はし", "わき", "ふち", "がけ"],
+    "answer": 3,
+    "explanation": "【へり（縁）】: Mép, rìa, viền.\n→ ふち（縁）: Lề, viền, mép."
+  },
+  {
+    "id": 156,
+    "question": "あの方はい日本語の起源を尋ねることに<span class='underline'>没頭して</span>いる。",
+    "translation": "Vị đó đang say sưa/mải mê với việc tìm hiểu nguồn gốc của tiếng Nhật.",
+    "options": ["熱意", "熱中", "心中", "心身"],
+    "answer": 2,
+    "explanation": "【没頭（ぼっとう）】: Vùi đầu vào, say sưa làm việc gì đó.\n→ 熱中（ねっちゅう）: Nhiệt huyết, say mê."
+  },
+  {
+    "id": 157,
+    "question": "新しい旅行地の開発とともに、<span class='underline'>民宿</span>のような施設もどんどん出てきた。",
+    "translation": "Cùng với việc phát triển các điểm du lịch mới, các cơ sở lưu trú kiểu nhà dân (homestay) cũng dần xuất hiện nhiều.",
+    "options": ["たみ", "やど", "みやこ", "さと"],
+    "answer": 2,
+    "explanation": "【民宿（みんしゅく）】: Nhà trọ bình dân, homestay.\n→ やど（宿）: Chỗ trọ, nơi nghỉ lại."
+  },
+  {
+    "id": 158,
+    "question": "不況の今では、家計の<span class='underline'>やりくり</span>に苦しんでいる。",
+    "translation": "Trong thời kỳ suy thoái hiện nay, nhiều người đang vất vả với việc quản lý/xoay xở chi tiêu trong gia đình.",
+    "options": ["工夫", "配分", "分業", "手順"],
+    "answer": 1,
+    "explanation": "【やりくり（遣り繰り）】: Xoay xở, quản lý (tài chính).\n→ 工夫（くふう）: Tìm tòi, bỏ công sức xoay xở/cải tiến phương pháp."
+  },
+  {
+    "id": 159,
+    "question": "あの女子学生は学生の<span class='underline'>枠</span>を越えた生活をしている。",
+    "translation": "Nữ sinh đó đang có một lối sống vượt ra ngoài khuôn khổ của một sinh viên.",
+    "options": ["慣用", "常用", "倹約", "制約"],
+    "answer": 4,
+    "explanation": "【枠（わく）】: Khung, giới hạn, phạm vi.\n→ 制約（せいやく）: Định mức, hạn chế, sự ràng buộc/giới hạn."
+  },
+  {
+    "id": 160,
+    "question": "重税で家計が<span class='underline'>圧迫される</span>。",
+    "translation": "Thuế nặng đang gây áp lực lên chi tiêu gia đình.",
+    "options": ["悩む", "苦しむ", "憎む", "悲しむ"],
+    "answer": 2,
+    "explanation": "【圧迫される（あっぱくされる）】: Bị áp bức, bị đè nặng.\n→ 苦しむ（くるしむ）: Đau khổ, bị làm cho khốn đốn/vất vả."
+  },
+  {
+    "id": 161,
+    "question": "<span class='underline'>いちもくして</span>それが私のものだと分かる。",
+    "translation": "Chỉ cần nhìn thoáng qua là biết ngay đó là đồ của tôi.",
+    "options": ["ひとめで", "ふためで", "明白で", "明瞭で"],
+    "answer": 1,
+    "explanation": "【一目して（いちもくして）】: Nhìn một cái, nhìn thoáng qua.\n→ ひとめで（一目で）: Bằng một cái nhìn/Trong nháy mắt."
+  },
+  {
+    "id": 162,
+    "question": "念のため、書類の<span class='underline'>写し</span>を取った。",
+    "translation": "Để cho chắc chắn, tôi đã lấy một bản sao của tài liệu.",
+    "options": ["写真", "録画", "コピー", "シート"],
+    "answer": 3,
+    "explanation": "【写し（うつし）】: Bản sao, bản chép lại.\n→ コピー: Bản photocopy/Bản sao (Copy)."
+  },
+  {
+    "id": 163,
+    "question": "政治家の<span class='underline'>汚職</span>事件がたびたび起こっているから、もはやニュースではない。",
+    "translation": "Những vụ tham nhũng của chính trị gia xảy ra thường xuyên đến mức nó chẳng còn là tin tức (giật gân) nữa.",
+    "options": ["不平", "不正", "不満", "不順"],
+    "answer": 2,
+    "explanation": "【汚職（おしょく）】: Tham ô, tham nhũng.\n→ 不正（ふせい）: Bất chính, việc làm sai trái."
+  },
+  {
+    "id": 164,
+    "question": "赤ちゃんを抱いて<span class='underline'>お宮</span>参りに出かけた。",
+    "translation": "Tôi bế em bé đi lễ đền thờ (nghi thức cầu an cho trẻ sơ sinh).",
+    "options": ["寺院", "神社", "宮殿", "殿様"],
+    "answer": 2,
+    "explanation": "【お宮（おみや）】: Ngôi đền (Thần đạo).\n→ 神社（じんじゃ）: Đền thờ Thần đạo."
+  },
+  {
+    "id": 165,
+    "question": "部長がその二人の縁談の<span class='underline'>架け橋</span>となったそうだ。",
+    "translation": "Nghe nói trưởng phòng đã trở thành cầu nối cho chuyện hôn nhân của hai người đó.",
+    "options": ["素人", "玄人", "役人", "仲人"],
+    "answer": 4,
+    "explanation": "【架け橋（かけはし）】: Cây cầu (nghĩa bóng là người môi giới, cầu nối).\n→ 仲人（なこうど）: Người mai mối."
+  },
+  {
+    "id": 166,
+    "question": "国政に<span class='underline'>関与する</span>婦人の数が全体的に見れば、まだ少ない。",
+    "translation": "Số lượng phụ nữ tham gia vào chính sự quốc gia nếu nhìn tổng thể thì vẫn còn ít.",
+    "options": ["携わる", "挟まる", "仕える", "控える"],
+    "answer": 1,
+    "explanation": "【関与する（かんよする）】: Liên quan đến, tham gia vào.\n→ 携わる（たずさわる）: Tham gia vào việc, làm việc liên quan đến."
+  },
+  {
+    "id": 167,
+    "question": "このごろ、なんだか<span class='underline'>郷愁</span>を催してならない。",
+    "translation": "Dạo gần đây, không hiểu sao tôi cứ thấy nhớ quê hương da diết.",
+    "options": ["カムバック", "シンポジウム", "ホームシック", "マイホーム"],
+    "answer": 3,
+    "explanation": "【郷愁（きょうしゅう）】: Lòng nhớ quê hương.\n→ ホームシック: Nhớ nhà (Homesick)."
+  },
+  {
+    "id": 168,
+    "question": "都市部と農村部の間で、<span class='underline'>均衡</span>の取れた発展が望まれます。",
+    "translation": "Người ta kỳ vọng vào một sự phát triển cân bằng giữa khu vực thành thị và nông thôn.",
+    "options": ["付き合い", "触れ合い", "乗り合い", "釣り合い"],
+    "answer": 4,
+    "explanation": "【均衡（きんこう）】: Sự cân bằng, cán cân.\n→ 釣り合い（つりあい）: Sự cân đối, sự thăng bằng."
+  },
+  {
+    "id": 169,
+    "question": "あの政治家は<span class='underline'>見識</span>もあり、人柄も温厚だが、行動力が不足している。",
+    "translation": "Vị chính trị gia đó có tầm hiểu biết rộng, tính cách cũng đôn hậu nhưng lại thiếu khả năng hành động.",
+    "options": ["経験", "実践", "見方", "内容"],
+    "answer": 3,
+    "explanation": "【見識（けんしき）】: Khả năng nhìn nhận, kiến thức, tầm hiểu biết.\n→ 見方（みかた）: Cách nhìn, quan điểm."
+  },
+  {
+    "id": 170,
+    "question": "彼は、5歳から<span class='underline'>小銭</span>を溜めてきたそうだ。",
+    "translation": "Nghe nói anh ấy đã tích cóp tiền lẻ từ khi mới 5 tuổi.",
+    "options": ["おつり", "おかえし", "こづかい", "むだづかい"],
+    "answer": 3,
+    "explanation": "【小銭（こぜに）】: Tiền lẻ, tiền xu (trong ngữ cảnh tích cóp thường chỉ tiền tiêu vặt).\n→ こづかい（小遣い）: Tiền tiêu vặt."
+  },
+  {
+    "id": 171,
+    "question": "彼の発言は政治的<span class='underline'>色彩</span>が濃いように思える。",
+    "translation": "Tôi có cảm giác phát ngôn của anh ấy mang đậm màu sắc chính trị.",
+    "options": ["傾向", "方角", "偏見", "良識"],
+    "answer": 1,
+    "explanation": "【色彩（しきさい）】: Màu sắc (nghĩa bóng là khuynh hướng, tính chất).\n→ 傾向（けいこう）: Khuynh hướng, xu hướng."
+  },
+  {
+    "id": 172,
+    "question": "下半期の<span class='underline'>収益</span>は上半期を50%上回った。",
+    "translation": "Lợi nhuận của nửa cuối năm đã vượt quá nửa đầu năm là 50%.",
+    "options": ["利息", "利点", "利潤", "利口"],
+    "answer": 3,
+    "explanation": "【収益（しゅうえき）】: Thu nhập, lợi nhuận.\n→ 利潤（りじゅん）: Lợi nhuận, tiền lãi."
+  },
+  {
+    "id": 173,
+    "question": "世界記録を<span class='underline'>樹立した</span>彼は、拍手と花輪の中、英雄として歓迎された。",
+    "translation": "Anh ấy, người đã thiết lập kỷ lục thế giới, được chào đón như một anh hùng trong tiếng vỗ tay và những vòng hoa.",
+    "options": ["作った", "用いた", "取り入れた", "持ち込んだ"],
+    "answer": 1,
+    "explanation": "【樹立（じゅりつ）】: Thiết lập, tạo nên (kỷ lục, thành tích).\n→ 作った（つくった）: Tạo ra, làm ra."
+  },
+  {
+    "id": 174,
+    "question": "今後、その国の政治改革はどう<span class='underline'>進展して</span>いくだろう。",
+    "translation": "Từ nay về sau, cuộc cải cách chính trị của đất nước đó sẽ tiến triển như thế nào đây?",
+    "options": ["もよおして", "すすめて", "みちびいて", "つらねて"],
+    "answer": 2,
+    "explanation": "【進展（しんてん）】: Tiến triển, tiến triển tốt đẹp.\n→ すすめて（進めて）: Thúc đẩy, làm cho tiến triển."
+  },
+  {
+    "id": 175,
+    "question": "所得格差を<span class='underline'>是正する</span>べく、減税を検討中です。",
+    "translation": "Để điều chỉnh/khắc phục sự chênh lệch thu nhập, chúng tôi đang xem xét việc giảm thuế.",
+    "options": ["確かめる", "改める", "強める", "高める"],
+    "answer": 2,
+    "explanation": "【是正（ぜせい）】: Chỉnh đốn, khắc phục sai sót.\n→ 改める（あらためめる）: Sửa đổi, cải thiện."
+  },
+  {
+    "id": 176,
+    "question": "職員たちは<span class='underline'>増給</span>の希望を出した。",
+    "translation": "Các nhân viên đã đưa ra nguyện vọng được tăng lương.",
+    "options": ["まかない", "つくろい", "仕上げ", "賃上げ"],
+    "answer": 4,
+    "explanation": "【増給（ぞうきゅう）】: Sự tăng lương.\n→ 賃上げ（ちんあげ）: Sự tăng lương/thu nhập."
+  },
+  {
+    "id": 177,
+    "question": "社長は<span class='underline'>先頭に立って</span>その計画の実行に取り掛かる。",
+    "translation": "Giám đốc đứng đầu hàng ngũ (tiên phong) bắt tay vào thực hiện kế hoạch đó.",
+    "options": ["率先して", "先送りにして", "先だって", "先払いにして"],
+    "answer": 1,
+    "explanation": "【先頭に立つ（せんとうにたつ）】: Dẫn đầu, tiên phong.\n→ 率先して（そっせんして）: Chủ động dẫn đầu, tiên phong."
+  },
+  {
+    "id": 178,
+    "question": "大水で一部の線路が壊れたということで、電車が<span class='underline'>立ち往生した</span>。",
+    "translation": "Vì một phần đường ray bị hỏng do nước lũ nên tàu điện đã bị đình trệ (không thể tiến hay lùi).",
+    "options": ["しびれた", "くたびれた", "麻酔した", "麻痺した"],
+    "answer": 4,
+    "explanation": "【立ち往生（たちおうじょう）】: Sự đình trệ, kẹt cứng không di chuyển được.\n→ 麻痺した（まひした）: Bị tê liệt, bị đình trệ hoạt động."
+  },
+  {
+    "id": 179,
+    "question": "だれでも<span class='underline'>長寿</span>を願っているだろう。",
+    "translation": "Có lẽ bất cứ ai cũng mong muốn được trường thọ.",
+    "options": ["ながいき", "ながびき", "ながぐつ", "ながそで"],
+    "answer": 1,
+    "explanation": "【長寿（ちょうじゅ）】: Trường thọ.\n→ ながいき（長生き）: Sống thọ/Sống lâu."
+  },
+  {
+    "id": 180,
+    "question": "文字のないこの民族では、口から口へと文学を<span class='underline'>言い伝えて</span>きたのだ。",
+    "translation": "Dân tộc không có chữ viết này đã truyền miệng các tác phẩm văn học từ đời này sang đời khác.",
+    "options": ["申し出て", "伝言にして", "語り継いで", "うわさとして"],
+    "answer": 3,
+    "explanation": "【言い伝える（いいつたえる）】: Truyền miệng, truyền lại.\n→ 語り継いで（かたりついで）: Kể lại cho đời sau, truyền tụng lại."
+  },
+  {
+    "id": 181,
+    "question": "家族一同の写真を<span class='underline'>同封して</span>出す。",
+    "translation": "Tôi gửi đi kèm (trong phong bì) bức ảnh của cả gia đình.",
+    "options": ["添えて", "とじて", "貼って", "たばねて"],
+    "answer": 1,
+    "explanation": "【同封（どうふう）】: Gửi kèm theo trong phong bì.\n→ 添えて（そえて）: Đính kèm, kèm theo."
+  },
+  {
+    "id": 182,
+    "question": "損害賠償の交渉は<span class='underline'>難航している</span>。",
+    "translation": "Cuộc đàm phán về bồi thường thiệt hại đang gặp nhiều khó khăn/trở ngại.",
+    "options": ["たずさわらないで", "はかどらないで", "つかさどらないで", "ととのわないで"],
+    "answer": 2,
+    "explanation": "【難航（なんこう）】: Sự khó khăn, đình trệ (trong đàm phán).\n→ はかどらないで: Không tiến triển thuận lợi/Trì trệ."
+  },
+  {
+    "id": 183,
+    "question": "台風で屋根が<span class='underline'>破損して</span>、合間から月が顔を出している。",
+    "translation": "Mái nhà bị hư hại do bão, và mặt trăng đang ló dạng qua những khe hở.",
+    "options": ["たおれて", "こわれて", "さびて", "はげて"],
+    "answer": 2,
+    "explanation": "【破損（はそん）】: Hư hỏng, phá vỡ.\n→ こわれて（壊れて）: Bị hỏng, bị vỡ."
+  },
+  {
+    "id": 184,
+    "question": "用事があるとか言って、旅行の<span class='underline'>日取り</span>が延び延びになってしまった。",
+    "translation": "Cứ nói là có việc bận này nọ, nên ngày giờ thực hiện chuyến đi cứ bị trì hoãn mãi.",
+    "options": ["スケジュール", "コース", "カリキュラム", "レール"],
+    "answer": 1,
+    "explanation": "【日取り（ひどり）】: Ngày đã định, ngày giờ tổ chức.\n→ スケジュール: Lịch trình, thời gian biểu (Schedule)."
+  },
+  {
+    "id": 185,
+    "question": "ソーラン節という<span class='underline'>舞踊</span>を教えてくれる先生がいなくて困った。",
+    "translation": "Tôi đang gặp khó khăn vì không có giáo viên dạy điệu múa Soran Bushi.",
+    "options": ["ソング", "ミュージック", "ワルツ", "ダンス"],
+    "answer": 4,
+    "explanation": "【舞踊（ぶよう）】: Nhảy múa, vũ đạo.\n→ ダンス: Nhảy, khiêu vũ (Dance)."
+  },
+  {
+    "id": 186,
+    "question": "意見の違いから二人の間に<span class='underline'>溝</span>ができてしまった。",
+    "translation": "Do sự khác biệt về ý kiến mà giữa hai người đã xuất hiện khoảng cách (rạn nứt).",
+    "options": ["空き", "隔たり", "架け橋", "落とし穴"],
+    "answer": 2,
+    "explanation": "【溝（みぞ）】: Rãnh, hào (nghĩa bóng là khoảng cách, sự khác biệt).\n→ 隔たり（へだたり）: Khoảng cách, sự khác nhau."
+  },
+  {
+    "id": 187,
+    "question": "弾はほとんど的（まと）に<span class='underline'>命中しなかった</span>。",
+    "translation": "Đạn hầu như không trúng vào mục tiêu.",
+    "options": ["構わなかった", "懐かなかった", "迫らなかった", "当たらなかった"],
+    "answer": 4,
+    "explanation": "【命中（めいちゅう）】: Trúng mục tiêu.\n→ 当たらなかった（あたらなかった）: Đã không trúng."
+  },
+  {
+    "id": 188,
+    "question": "近隣諸国に<span class='underline'>優越した</span>経済力を誇る。",
+    "translation": "Tự hào về năng lực kinh tế vượt trội so với các nước láng giềng.",
+    "options": ["まさった", "おごった", "またがった", "めくった"],
+    "answer": 1,
+    "explanation": "【優越（ゆうえつ）】: Ưu việt, vượt trội.\n→ まさった（勝った/優った）: Vượt trội hơn, giỏi hơn."
+  },
+  {
+    "id": 189,
+    "question": "村の人を殺したうえ、財貨を<span class='underline'>略奪した</span>。",
+    "translation": "Sau khi sát hại dân làng, chúng còn cướp phá tài sản.",
+    "options": ["し入れた", "さえぎった", "はばった", "うばった"],
+    "answer": 4,
+    "explanation": "【略奪（りゃくだつ）】: Cướp bóc, tước đoạt.\n→ うばった（奪った）: Đã cướp đi, đoạt lấy."
+  },
+  {
+    "id": 190,
+    "question": "こうやったのは、<span class='underline'>めんぼく</span>を立てようと思っていたのだ。",
+    "translation": "Tôi làm như vậy là vì muốn giữ thể diện.",
+    "options": ["名称", "名誉", "有名", "有利"],
+    "answer": 2,
+    "explanation": "【面目（めんぼく/めんもく）】: Thể diện, khuôn mặt.\n→ 名誉（めいよ）: Danh dự, uy tín."
+  },
+  {
+    "id": 191,
+    "question": "その人の気の毒な<span class='underline'>身の上</span>に同情を禁じ得ない。",
+    "translation": "Tôi không thể ngừng đồng cảm với số phận đáng thương của người đó.",
+    "options": ["待遇", "境遇", "応対", "応接"],
+    "answer": 2,
+    "explanation": "【身の上（みのうえ）】: Số phận, hoàn cảnh cá nhân.\n→ 境遇（きょうぐう）: Cảnh ngộ, hoàn cảnh."
+  },
+  {
+    "id": 192,
+    "question": "北極大陸を調査するため、観測隊を<span class='underline'>編成した</span>。",
+    "translation": "Để điều tra lục địa Bắc Cực, chúng tôi đã thành lập một đội quan sát.",
+    "options": ["のんだ", "よんだ", "とんだ", "くんだ"],
+    "answer": 4,
+    "explanation": "【編成（へんせい）】: Tổ chức, thiết lập, kết thành.\n→ くんだ（組んだ）: Lập thành, tổ chức thành (đội, nhóm)."
+  },
+  {
+    "id": 193,
+    "question": "彼は成績優秀でスポーツ万能、みんなの<span class='underline'>模範</span>となる学生である。",
+    "translation": "Anh ấy là một sinh viên có thành tích ưu tú, giỏi thể thao và là tấm gương cho mọi người.",
+    "options": ["手本", "手元", "絵本", "絵の具"],
+    "answer": 1,
+    "explanation": "【模範（もはん）】: Mô phạm, mẫu mực, tấm gương.\n→ 手本（てほん）: Khuôn mẫu, tấm gương để noi theo."
+  },
+  {
+    "id": 194,
+    "question": "内閣で、かつてない政治<span class='underline'>不祥事</span>が発見された。",
+    "translation": "Một vụ bê bối chính trị chưa từng có đã bị phát hiện trong nội các.",
+    "options": ["悪魔", "悪事", "不吉", "不審"],
+    "answer": 2,
+    "explanation": "【不祥事（ふしょうじ）】: Vụ việc không tốt, bê bối.\n→ 悪事（あくじ）: Việc xấu, hành vi bất chính."
+  },
+  {
+    "id": 195,
+    "question": "フラッシュをたかれると、<span class='underline'>反射的に</span>目をつぶるね。",
+    "translation": "Khi bị nháy đèn flash, tôi thường nhắm mắt theo phản xạ.",
+    "options": ["意識的", "無意識的", "規律的", "無規律的"],
+    "answer": 2,
+    "explanation": "【反射的（はんしゃてき）】: Theo phản xạ.\n→ 無意識的（むいしきてき）: Một cách vô thức, không chủ định."
+  },
+  {
+    "id": 196,
+    "question": "娘が入院したという電話が来て、不安の<span class='underline'>念</span>を禁じえなかった。",
+    "translation": "Nhận được điện thoại báo con gái nhập viện, tôi không khỏi cảm thấy bất an.",
+    "options": ["思考", "考慮", "思い", "考え"],
+    "answer": 3,
+    "explanation": "【念（ねん）】: Tâm niệm, cảm giác, suy nghĩ.\n→ 思い（おもい）: Suy nghĩ, cảm xúc."
+  },
+  {
+    "id": 197,
+    "question": "彼は十数年の努力で、一千万円の<span class='underline'>とみ</span>を築き上げたそうだ。",
+    "translation": "Nghe nói anh ấy đã gây dựng được khối tài sản 10 triệu yên sau hơn mười năm nỗ lực.",
+    "options": ["資材", "物資", "財務", "財産"],
+    "answer": 4,
+    "explanation": "【富（とみ）】: Sự giàu có, của cải.\n→ 財産（ざいさん）: Tài sản."
+  },
+  {
+    "id": 198,
+    "question": "警官は<span class='underline'>当人</span>を呼び出して調査を展開した。",
+    "translation": "Cảnh sát đã triệu tập chính chủ (người có liên quan trực tiếp) để mở rộng điều tra.",
+    "options": ["名人", "本人", "役人", "主人"],
+    "answer": 2,
+    "explanation": "【当人（とうにん）】: Người đó, đương sự.\n→ 本人（ほんにん）: Chính người đó, bản thân người đó."
+  },
+  {
+    "id": 199,
+    "question": "製品を<span class='underline'>等級</span>別に並べて販売する。",
+    "translation": "Sắp xếp sản phẩm theo cấp độ (hạng) để bán.",
+    "options": ["クラス", "ポジション", "ポスト", "キャリア"],
+    "answer": 1,
+    "explanation": "【等級（とうきゅう）】: Đẳng cấp, thứ hạng, loại.\n→ クラス: Hạng, loại, lớp (Class)."
+  },
+  {
+    "id": 200,
+    "question": "社員を<span class='underline'>動員</span>して、地震被災地へ救援に行く。",
+    "translation": "Huy động nhân viên để đi cứu trợ vùng bị động đất.",
+    "options": ["集計", "編集", "集中", "密集"],
+    "answer": 3,
+    "explanation": "【動員（どういん）】: Huy động, tập trung lực lượng.\n→ 集中（しゅうちゅう）: Tập trung."
+  },
+  {
+    "id": 201,
+    "question": "この<span class='underline'>通達</span>を回覧に出してください。",
+    "translation": "Hãy gửi thông báo này đi để mọi người cùng xem.",
+    "options": ["びら", "ちらし", "はりがみ", "しらせ"],
+    "answer": 4,
+    "explanation": "【通達（つうたつ）】: Thông đạt, thông báo chính thức.\n→ しらせ（知らせ）: Thông báo, tin tức."
+  },
+  {
+    "id": 202,
+    "question": "数多くの経験を経て、<span class='underline'>蓄積された</span>知識を生かして事業を始めた。",
+    "translation": "Sau nhiều trải nghiệm, tôi đã tận dụng kiến thức tích lũy được để bắt đầu kinh doanh.",
+    "options": ["くわえた", "たくわえた", "かえた", "かかえた"],
+    "answer": 2,
+    "explanation": "【蓄積される（ちくせきされる）】: Được tích lũy.\n→ たくわえた（蓄えた）: Đã tích trữ, tích lũy."
+  },
+  {
+    "id": 203,
+    "question": "病気を<span class='underline'>盾</span>にして会社をサボる社員もいる。",
+    "translation": "Có những nhân viên lấy bệnh tật làm cái cớ để trốn việc.",
+    "options": ["手元", "足元", "口実", "口調"],
+    "answer": 3,
+    "explanation": "【盾（たて）】: Cái khiên (nghĩa bóng là cái cớ, vật che chắn).\n→ 口実（こうじつ）: Lời xin lỗi, cái cớ."
+  },
+  {
+    "id": 204,
+    "question": "友人と提携して、東京に日本語言語学校を<span class='underline'>設立した</span>。",
+    "translation": "Tôi đã hợp tác với một người bạn để thành lập trường ngôn ngữ tiếng Nhật ở Tokyo.",
+    "options": ["もうけた", "かせいだ", "かざった", "からねた"],
+    "answer": 1,
+    "explanation": "【設立（せつりつ）】: Thiết lập, thành lập.\n→ もうけた（設けた）: Đã thiết lập, lập ra."
+  },
+  {
+    "id": 205,
+    "question": "刑事は<span class='underline'>捜査</span>の根本的なところで間違いを犯した。",
+    "translation": "Cảnh sát hình sự đã mắc sai lầm ở phần cơ bản của cuộc điều tra.",
+    "options": ["とりしらべ", "したしらべ", "とりい", "したび"],
+    "answer": 1,
+    "explanation": "【捜査（そうさ）】: Điều tra tội phạm.\n→ とりしらべ（取り調べ）: Thẩm vấn, điều tra."
+  },
+  {
+    "id": 206,
+    "question": "妻の意見を取り入れたら、<span class='underline'>和洋折衷</span>の家になった。",
+    "translation": "Sau khi tiếp thu ý kiến của vợ, ngôi nhà đã trở thành kiểu kết hợp giữa Nhật và Âu.",
+    "options": ["調理", "調和", "同調", "緩和"],
+    "answer": 2,
+    "explanation": "【折衷（せっちゅう）】: Sự giao thoa, kết hợp hài hòa.\n→ 調和（ちょうわ）: Sự điều hòa, hài hòa."
+  },
+  {
+    "id": 207,
+    "question": "日米両国は共同<span class='underline'>声明</span>を発表した。",
+    "translation": "Cả hai nước Nhật Bản và Hoa Kỳ đã đưa ra một tuyên bố chung.",
+    "options": ["コメント", "メッセージ", "スピーチ", "レポート"],
+    "answer": 2,
+    "explanation": "【声明（せいめい）】: Tuyên bố, thông điệp chính thức.\n→ メッセージ: Thông điệp (Message)."
+  },
+  {
+    "id": 208,
+    "question": "当法律は公布した日から有効になる。ただし、未成年者はこの法の適用から<span class='underline'>除外する</span>。",
+    "translation": "Luật này có hiệu lực từ ngày công bố. Tuy nhiên, trẻ vị thành niên sẽ bị loại trừ khỏi việc áp dụng luật này.",
+    "options": ["とりのこす", "とりもどす", "とりしまる", "とりのける"],
+    "answer": 4,
+    "explanation": "【除外する（じょがいする）】: Loại trừ, ngoại trừ.\n→ とりのける（取り除ける）: Loại bỏ, lấy ra khỏi."
+  },
+  {
+    "id": 209,
+    "question": "彼はサッカーチームで<span class='underline'>守備</span>の役目を果たしている。",
+    "translation": "Anh ấy đang đảm nhận vai trò phòng thủ trong đội bóng đá.",
+    "options": ["たより", "かかり", "まもり", "さわり"],
+    "answer": 3,
+    "explanation": "【守備（しゅび）】: Phòng thủ, bảo vệ.\n→ まもり（守り）: Sự bảo vệ, phòng vệ."
+  },
+  {
+    "id": 210,
+    "question": "アメリカ政府のイラク政策は今、<span class='underline'>十字路</span>に立たされているという説もある。",
+    "translation": "Có thuyết cho rằng chính sách Iraq của chính phủ Mỹ hiện đang đứng trước một ngã rẽ (quyết định quan trọng).",
+    "options": ["三日月", "四つ角", "真っ二つ", "三つ折り"],
+    "answer": 2,
+    "explanation": "【十字路（じゅうじろ）】: Ngã tư (nghĩa bóng là bước ngoặt).\n→ 四つ角（よつかど）: Ngã tư đường."
+  },
+  {
+    "id": 211,
+    "question": "この新規従業員規則はまだ<span class='underline'>試行</span>期間で、修正する可能性がある。",
+    "translation": "Quy định mới dành cho nhân viên này vẫn đang trong giai đoạn thử nghiệm, nên có khả năng sẽ được sửa đổi.",
+    "options": ["テスト", "ヒント", "レベル", "ランク"],
+    "answer": 1,
+    "explanation": "【試行（しこう）】: Thử nghiệm.\n→ テスト: Kiểm tra, thử nghiệm (Test)."
+  },
+  {
+    "id": 212,
+    "question": "石炭を<span class='underline'>採掘する</span>作業には過酷な肉体労働が伴う。",
+    "translation": "Công việc khai thác than đá luôn đi kèm với lao động chân tay cực nhọc.",
+    "options": ["つくりだす", "うみだす", "ふきだす", "ほりだす"],
+    "answer": 4,
+    "explanation": "【採掘する（さいくつする）】: Khai thác (khoáng sản).\n→ ほりだす（掘り出す）: Đào lên, khai quật."
+  },
+  {
+    "id": 213,
+    "question": "勧めてくれた薬を<span class='underline'>試みに</span>飲んでみたら、効いた。",
+    "translation": "Tôi uống thử loại thuốc mà bạn đã giới thiệu, và nó đã có hiệu quả.",
+    "options": ["やたらに", "ためしに", "わざと", "ぐんと"],
+    "answer": 2,
+    "explanation": "【試みに（こころみに）】: Thử (làm gì đó).\n→ ためしに（試しに）: Thử làm."
+  },
+  {
+    "id": 214,
+    "question": "お父さんが入院したので、姉さんと僕とは午後から<span class='underline'>交代で</span>病室につめることになった。",
+    "translation": "Vì bố nhập viện nên chị gái và tôi sẽ thay phiên nhau túc trực ở phòng bệnh từ buổi chiều.",
+    "options": ["ひとすじに", "しょっちゅう", "かわるがわる", "なんだかんだ"],
+    "answer": 3,
+    "explanation": "【交代で（こうたいで）】: Thay phiên, luân phiên.\n→ かわるがわる（代わる代わる）: Lần lượt, thay nhau."
+  },
+  {
+    "id": 215,
+    "question": "履歴書の<span class='underline'>経歴</span>を見ただけでは、どんな人物か分からない。",
+    "translation": "Chỉ nhìn vào lý lịch trong sơ yếu lý lịch thì không thể biết được đó là người như thế nào.",
+    "options": ["ポスト", "カレンダー", "キャリア", "メリット"],
+    "answer": 3,
+    "explanation": "【経歴（けいれき）】: Kinh nghiệm, quá trình làm việc.\n→ キャリア: Sự nghiệp, kinh nghiệm làm việc (Career)."
+  },
+  {
+    "id": 216,
+    "question": "<span class='underline'>群集して</span>一緒に助け合って生きていく動物が多い。",
+    "translation": "Có nhiều loài động vật sống tập trung thành đàn và giúp đỡ lẫn nhau.",
+    "options": ["ほしがって", "ひかえて", "むらがって", "つめて"],
+    "answer": 3,
+    "explanation": "【群集して（ぐんしゅうして）】: Tập trung đông đúc, tụ tập.\n→ むらがって（群がって）: Tụ tập thành bầy đàn."
+  },
+  {
+    "id": 217,
+    "question": "結局、証人の証言に<span class='underline'>食い違い</span>が生じた。",
+    "translation": "Kết cục là đã nảy sinh sự mâu thuẫn trong lời khai của các nhân chứng.",
+    "options": ["相違", "交互", "相続", "交差"],
+    "answer": 1,
+    "explanation": "【食い違い（くいちがい）】: Sự khác biệt, mâu thuẫn, không khớp.\n→ 相違（そうい）: Sự khác nhau."
+  },
+  {
+    "id": 218,
+    "question": "あの学生はやや身体の<span class='underline'>協調性</span>に欠けている。",
+    "translation": "Cậu sinh viên đó hơi thiếu khả năng phối hợp (sự linh hoạt) của cơ thể.",
+    "options": ["レベル", "ポイント", "エレメント", "バランス"],
+    "answer": 4,
+    "explanation": "【協調性（きょうちょうせい）】: Tính phối hợp, sự hài hòa.\n→ バランス: Sự cân bằng, sự phối hợp hài hòa (Balance)."
+  },
+  {
+    "id": 219,
+    "question": "亡父の蔵書を全部図書館に<span class='underline'>寄贈した</span>。",
+    "translation": "Tôi đã tặng lại toàn bộ kho sách của người cha quá cố cho thư viện.",
+    "options": ["さしのべた", "あたえた", "とりもどした", "はらいこんだ"],
+    "answer": 2,
+    "explanation": "【寄贈（きぞう）】: Biếu, tặng (cho các tổ chức, công cộng).\n→ あたえた（与えた）: Cho, tặng, ban cho."
+  },
+  {
+    "id": 220,
+    "question": "じゃ、これからしなれば、<span class='underline'>勘弁して</span>やろう。",
+    "translation": "Vậy thì, nếu từ giờ không làm thế nữa, ta sẽ tha thứ cho.",
+    "options": ["許して", "認めて", "責めて", "渡して"],
+    "answer": 1,
+    "explanation": "【勘弁（かんべん）】: Khoan dung, tha thứ.\n→ 許して（ゆるして）: Tha thứ, cho phép."
+  },
+  {
+    "id": 221,
+    "question": "新しく据え付けた機械を<span class='underline'>稼働する</span>準備が出来ていますか。",
+    "translation": "Bạn đã chuẩn bị sẵn sàng để vận hành máy móc mới lắp đặt chưa?",
+    "options": ["うごかす", "けとばす", "かせぐ", "とりつぐ"],
+    "answer": 1,
+    "explanation": "【稼働（かどう）】: Hoạt động, vận hành (máy móc).\n→ うごかす（動かす）: Làm cho chuyển động, vận hành."
+  },
+  {
+    "id": 222,
+    "question": "彼には病気で寝ている年取った母親の入院費が<span class='underline'>重荷</span>になっていた。",
+    "translation": "Viện phí của người mẹ già đang nằm bệnh là một gánh nặng đối với anh ấy.",
+    "options": ["責任", "責務", "負債", "負担"],
+    "answer": 4,
+    "explanation": "【重荷（おもに）】: Gánh nặng (nghĩa đen và nghĩa bóng).\n→ 負担（ふたん）: Gánh nặng, trách nhiệm chi trả."
+  },
+  {
+    "id": 223,
+    "question": "「はい。50円の<span class='underline'>お返し</span>です。ありがとうございました。」",
+    "translation": "「Vâng, xin gửi lại tiền thừa 50 yên ạ. Xin cảm ơn quý khách.」",
+    "options": ["おまけ", "おやつ", "おつり", "おじぎ"],
+    "answer": 3,
+    "explanation": "【お返し（おかえし）】: Tiền trả lại, tiền thừa (trong ngữ cảnh mua bán).\n→ おつり（お釣り）: Tiền lẻ trả lại, tiền thừa."
+  },
+  {
+    "id": 224,
+    "question": "会社の<span class='underline'>上役</span>のお世話で、姉の縁談が整いました。",
+    "translation": "Nhờ sự giúp đỡ của cấp trên ở công ty mà việc hôn nhân của chị gái tôi đã diễn ra tốt đẹp.",
+    "options": ["役目", "役割", "真上", "目上"],
+    "answer": 4,
+    "explanation": "【上役（うわやく）】: Cấp trên, người bề trên.\n→ 目上（めうえ）: Người bề trên, cấp trên."
+  },
+  {
+    "id": 225,
+    "question": "書斎はわたしの<span class='underline'>癒し</span>の最適な場所である。",
+    "translation": "Phòng đọc sách là nơi tốt nhất để tôi thư giãn và hồi phục tinh thần.",
+    "options": ["栄養", "静養", "手当て", "目当て"],
+    "answer": 2,
+    "explanation": "【癒し（いやし）】: Sự xoa dịu, chữa lành, thư giãn.\n→ 静養（せいよう）: Tĩnh dưỡng, nghỉ ngơi hồi phục."
+  },
+  {
+    "id": 226,
+    "question": "ナスの苗を畑に<span class='underline'>移植して</span>育てる。",
+    "translation": "Tôi chuyển cây cà tím giống ra đồng để trồng và chăm sóc.",
+    "options": ["うえて", "そえて", "すえて", "こえて"],
+    "answer": 1,
+    "explanation": "【移植（いしょく）】: Trồng chuyển chỗ, cấy ghép.\n→ うえて（植えて）: Trồng cây."
+  },
+  {
+    "id": 227,
+    "question": "宝くじをずっと買ってきたが、<span class='underline'>当たり</span>が悪かった。",
+    "translation": "Tôi đã mua vé số suốt nhưng vận may trúng số thật tệ.",
+    "options": ["指図", "命中", "意図", "途中"],
+    "answer": 2,
+    "explanation": "【当たり（あたり）】: Trúng (số, đích).\n→ 命中（めいちゅう）: Trúng đích."
+  },
+  {
+    "id": 228,
+    "question": "一日畑で働いて、<span class='underline'>垢</span>だらけの体になった。",
+    "translation": "Làm việc ngoài đồng cả ngày, người tôi đầy bụi bẩn (ghét).",
+    "options": ["どろ", "あせ", "しみ", "よごれ"],
+    "answer": 4,
+    "explanation": "【垢（あか）】: Ghét, bẩn bám trên da.\n→ よごれ（汚れ）: Vết bẩn, sự dơ bẩn."
+  },
+  {
+    "id": 229,
+    "question": "新人だが、彼の仕事の<span class='underline'>上がり</span>が実にすてきだ。",
+    "translation": "Dù là người mới, nhưng kết quả công việc (thành phẩm) của anh ấy thực sự rất tuyệt vời.",
+    "options": ["終わり", "しまい", "結果", "結束"],
+    "answer": 3,
+    "explanation": "【上がり（あがり）】: Sự hoàn thành, kết quả thành phẩm.\n→ 結果（けっか）: Kết quả."
+  },
+  {
+    "id": 230,
+    "question": "雹（ひょう）が降って農作物は<span class='underline'>痛手</span>を受けた。",
+    "translation": "Mưa đá rơi đã gây ra thiệt hại nặng nề cho nông sản.",
+    "options": ["けが", "きず", "損害", "欠乏"],
+    "answer": 3,
+    "explanation": "【痛手（いたで）】: Cú đánh mạnh, thiệt hại nặng nề.\n→ 損害（そんがい）: Tổn thất, thiệt hại."
+  },
+  {
+    "id": 231,
+    "question": "晴れた夜空で、彗星の<span class='underline'>尾</span>が見えた。",
+    "translation": "Trên bầu trời đêm trong xanh, có thể nhìn thấy cái đuôi của sao chổi.",
+    "options": ["しっぽ", "かかと", "ひじ", "ひざ"],
+    "answer": 1,
+    "explanation": "【尾（お）】: Cái đuôi.\n→ しっぽ: Cái đuôi (thường dùng cho động vật hoặc vật có hình dáng tương tự)."
+  },
+  {
+    "id": 232,
+    "question": "田中さんは温かい家庭に育った娘さんで、人には<span class='underline'>思いやり</span>がある。",
+    "translation": "Cô Tanaka là cô gái lớn lên trong một gia đình ấm áp nên rất biết quan tâm đến người khác.",
+    "options": ["向上心", "好奇心", "信仰心", "同情心"],
+    "answer": 4,
+    "explanation": "【思いやり（おもいやり）】: Sự quan tâm, cảm thông.\n→ 同情心（どうじょうしん）: Lòng trắc ẩn, sự đồng cảm."
+  },
+  {
+    "id": 233,
+    "question": "花見の場所を<span class='underline'>確保する</span>ため、昨日から公園に寝泊まりしている。",
+    "translation": "Để giữ chỗ ngắm hoa, tôi đã ngủ lại công viên từ hôm qua.",
+    "options": ["確かめる", "保つ", "確認する", "保全する"],
+    "answer": 2,
+    "explanation": "【確保（かくほ）】: Duy trì, bảo đảm, giữ chỗ.\n→ 保つ（たもつ）: Duy trì, giữ."
+  },
+  {
+    "id": 234,
+    "question": "3ヶ月の<span class='underline'>仮採用</span>が満了して認められたら、正式の社員に本採用をします。",
+    "translation": "Nếu sau khi kết thúc 3 tháng tuyển dụng tạm thời mà được công nhận, bạn sẽ được tuyển dụng chính thức thành nhân viên chính thức.",
+    "options": ["短気", "短縮", "同時", "臨時"],
+    "answer": 4,
+    "explanation": "【仮採用（かりさいよう）】: Tuyển dụng tạm thời, thử việc.\n→ 臨時（りんじ）: Tạm thời, lâm thời."
+  },
+  {
+    "id": 235,
+    "question": "働くには学力だけでなく、何らかの<span class='underline'>技能</span>を身につけなければならない。",
+    "translation": "Để làm việc, không chỉ cần học lực mà còn phải trang bị cho mình kỹ năng nào đó.",
+    "options": ["腕前", "手足", "腕次第", "手首"],
+    "answer": 1,
+    "explanation": "【技能（ぎのう）】: Kỹ năng, kỹ thuật.\n→ 腕前（うでまえ）: Khả năng, tay nghề, trình độ."
+  },
+  {
+    "id": 236,
+    "question": "調査を社内に<span class='underline'>局限して</span>調べる。",
+    "translation": "Giới hạn phạm vi điều tra trong nội bộ công ty để tìm hiểu.",
+    "options": ["かぎって", "なじって", "ひねて", "かさねて"],
+    "answer": 1,
+    "explanation": "【局限（きょくげん）】: Giới hạn trong một phạm vi nhỏ.\n→ かぎって（限って）: Giới hạn, chỉ trong phạm vi..."
+  },
+  {
+    "id": 237,
+    "question": "息子が塾に通っているので、<span class='underline'>月謝</span>だけでも月に5万円かかる。",
+    "translation": "Vì con trai đi học thêm nên chỉ riêng học phí hàng tháng đã tốn 5 vạn yên rồi.",
+    "options": ["手数料", "授業料", "入学金", "保証金"],
+    "answer": 2,
+    "explanation": "【月謝（げっしゃ）】: Học phí hàng tháng.\n→ 授業料（じゅぎょうりょう）: Tiền học phí."
+  },
+  {
+    "id": 238,
+    "question": "どの国でもパスポートの<span class='underline'>検閲</span>はやかましい。",
+    "translation": "Ở bất kỳ quốc gia nào, việc kiểm duyệt hộ chiếu cũng rất khắt khe.",
+    "options": ["裁判", "採決", "審議", "審査"],
+    "answer": 4,
+    "explanation": "【検閲（けんえつ）】: Kiểm duyệt, kiểm tra.\n→ 審査（しんさ）: Thẩm định, kiểm tra, xét duyệt."
+  },
+  {
+    "id": 239,
+    "question": "不良品が出ないように、製造<span class='underline'>工程</span>を厳しく検査する。",
+    "translation": "Để không có hàng lỗi, cần kiểm tra nghiêm ngặt công đoạn sản xuất.",
+    "options": ["手ぎわ", "手回し", "手はず", "手触り"],
+    "answer": 3,
+    "explanation": "【工程（こうてい）】: Công đoạn, quy trình.\n→ 手はず（てはず）: Các bước chuẩn bị, kế hoạch thực hiện."
+  },
+  {
+    "id": 240,
+    "question": "新製品はとても人気があり、たちまち<span class='underline'>在庫品</span>もなくなった。",
+    "translation": "Sản phẩm mới rất được ưa chuộng, hàng tồn kho cũng hết sạch ngay lập tức.",
+    "options": ["ストック", "ストップ", "トラック", "クラシック"],
+    "answer": 1,
+    "explanation": "【在庫品（ざいこひん）】: Hàng tồn kho.\n→ ストック: Hàng dự trữ, hàng trong kho (Stock)."
+  },
+  {
+    "id": 241,
+    "question": "法律の<span class='underline'>執行</span>は制定よりもっと難しいことだ。",
+    "translation": "Việc thực thi pháp luật còn khó khăn hơn nhiều so với việc ban hành nó.",
+    "options": ["実現", "再現", "出現", "表現"],
+    "answer": 1,
+    "explanation": "【執行（しっこう）】: Chấp hành, thực thi.\n→ 実現（じつげん）: Thực hiện, hiện thực hóa."
+  },
+  {
+    "id": 242,
+    "question": "大統領に<span class='underline'>就任する</span>際に、テレビを通して国民にあいさつをした。",
+    "translation": "Khi nhậm chức Tổng thống, ông ấy đã chào hỏi quốc dân thông qua tivi.",
+    "options": ["つく", "つつく", "つっつく", "くっつく"],
+    "answer": 1,
+    "explanation": "【就任（しゅうにん）】: Nhậm chức.\n→ つく（就く）: Đảm nhiệm, giữ chức vụ."
+  },
+  {
+    "id": 243,
+    "question": "いらないメールを<span class='underline'>消去</span>しました。",
+    "translation": "Tôi đã xóa những email không cần thiết.",
+    "options": ["メモリー", "アクセス", "クリアー", "オンライン"],
+    "answer": 3,
+    "explanation": "【消去（しょうきょ）】: Xóa bỏ hoàn toàn.\n→ クリアー: Xóa sạch, làm trống (Clear)."
+  },
+  {
+    "id": 244,
+    "question": "毎朝、<span class='underline'>押し詰め</span>電車に乗って出勤する。",
+    "translation": "Mỗi sáng, tôi đều đi làm trên những chuyến tàu điện chật ních người.",
+    "options": ["すいた", "こんだ", "あいた", "とんだ"],
+    "answer": 2,
+    "explanation": "【押し詰め（おしつめ）】: Bị dồn ép, chật cứng.\n→ こんだ（混んだ）: Đông đúc, chật chội."
+  },
+  {
+    "id": 245,
+    "question": "納期が<span class='underline'>切迫</span>したが、完成まではまだ数日かかりそうだ。",
+    "translation": "Hạn giao hàng đã cận kề nhưng có vẻ vẫn cần thêm vài ngày nữa mới hoàn thành.",
+    "options": ["おしつけた", "おしつぶした", "さしのべた", "さしかかった"],
+    "answer": 4,
+    "explanation": "【切迫（せっぱく）】: Cấp bách, sắp đến gần (về thời gian).\n→ さしかかった（差し掛かった）: Đã đến gần, tiến tới gần."
+  },
+  {
+    "id": 246,
+    "question": "研究グループ一同は<span class='underline'>精力的に</span>仕事に取り組み始めた。",
+    "translation": "Toàn bộ nhóm nghiên cứu đã bắt đầu bắt tay vào công việc một cách đầy năng lượng.",
+    "options": ["張り切って", "張り合って", "食い切って", "食い合って"],
+    "answer": 1,
+    "explanation": "【精力的に（せいりょくてきに）】: Một cách mạnh mẽ, đầy sinh lực.\n→ 張り切って（はりきって）: Hăng hái, quyết tâm làm việc."
+  },
+  {
+    "id": 247,
+    "question": "厳しい訓練を経て、兄はついに<span class='underline'>操縦士</span>になった。",
+    "translation": "Sau quá trình huấn luyện nghiêm khắc, anh trai tôi cuối cùng đã trở thành phi công.",
+    "options": ["飛行士", "運転手", "技術者", "管理人"],
+    "answer": 1,
+    "explanation": "【操縦士（そうじゅうし）】: Người điều khiển, phi công.\n→ 飛行士（ひこうし）: Phi công (người bay)."
+  },
+  {
+    "id": 248,
+    "question": "すべてがわれわれ人間の責任だ。金<span class='underline'>そのもの</span>が悪いのではない。",
+    "translation": "Tất cả là trách nhiệm của con người chúng ta. Không phải bản thân đồng tiền là xấu.",
+    "options": ["自行", "自主", "自体", "自我"],
+    "answer": 3,
+    "explanation": "【そのもの】: Chính nó, bản thân cái đó.\n→ 自体（じたい）: Tự thân, bản thể."
+  },
+  {
+    "id": 249,
+    "question": "市民の生活ぶりをもとにして映画の<span class='underline'>台本</span>を書いた。",
+    "translation": "Tôi đã viết kịch bản phim dựa trên lối sống của người dân thành phố.",
+    "options": ["スタジオ", "シナリオ", "ステレオ", "プログラム"],
+    "answer": 2,
+    "explanation": "【台本（だいほん）】: Kịch bản.\n→ シナリオ: Kịch bản phim/kịch (Scenario)."
+  },
+  {
+    "id": 250,
+    "question": "医療ミスを起こしたあの大学病院の古い<span class='underline'>体質</span>は依然として変わっていない。",
+    "translation": "Cơ chế (đặc điểm) cũ kỹ của bệnh viện đại học nơi xảy ra sai sót y tế vẫn không hề thay đổi.",
+    "options": ["性質", "品質", "実質", "材質"],
+    "answer": 1,
+    "explanation": "【体質（たいしつ）】: Thể chất, đặc điểm (của một tổ chức).\n→ 性質（せいしつ）: Tính chất, đặc tính."
+  },
+  {
+    "id": 251,
+    "question": "根も葉もないことで、人を<span class='underline'>中傷する</span>のは卑劣だ。",
+    "translation": "Thật là đê tiện khi vu khống (nói xấu) người khác bằng những việc không có căn cứ.",
+    "options": ["かみつく", "くいつく", "うけつける", "きずつける"],
+    "answer": 4,
+    "explanation": "【中傷する（ちゅうしょうする）】: Vu khống, phỉ báng.\n→ きずつける（傷つける）: Làm tổn thương (về danh dự/tinh thần)."
+  },
+  {
+    "id": 252,
+    "question": "解決策がないので、やむをえず、その問題は<span class='underline'>棚上げにした</span>。",
+    "translation": "Vì không có cách giải quyết nên cực chẳng đã chúng tôi đã phải gác lại vấn đề đó.",
+    "options": ["任せておいた", "放っておいた", "飲み込んだ", "食い込んだ"],
+    "answer": 2,
+    "explanation": "【棚上げにする（たなあげにする）】: Gác lại, tạm hoãn giải quyết.\n→ 放っておいた（ほうっておいた）: Để mặc đó, không động tới."
+  },
+  {
+    "id": 253,
+    "question": "子供だましの<span class='underline'>たくらみ</span>にひっかからないように気をつける。",
+    "translation": "Hãy cẩn thận để không mắc bẫy bởi những âm mưu lừa trẻ con.",
+    "options": ["政策", "良識", "陰謀", "無謀"],
+    "answer": 3,
+    "explanation": "【たくらみ（企み）】: Âm mưu, kế hoạch xấu.\n→ 陰謀（いんぼう）: Âm mưu thâm hiểm."
+  },
+  {
+    "id": 254,
+    "question": "生徒に対して、暴力を振るった教師が学校から<span class='underline'>追放</span>された。",
+    "translation": "Giáo viên dùng bạo lực với học sinh đã bị đuổi khỏi trường.",
+    "options": ["処分", "処罰", "解雇", "解放"],
+    "answer": 3,
+    "explanation": "【追放（ついほう）】: Trục xuất, đuổi đi.\n→ 解雇（かいこ）: Sa thải, cho nghỉ việc."
+  },
+  {
+    "id": 255,
+    "question": "高波を防ぐために、海岸に<span class='underline'>堤防</span>をしっかり築いた。",
+    "translation": "Để ngăn chặn sóng cao, một con đê đã được xây dựng kiên cố dọc theo bờ biển.",
+    "options": ["つつみ", "つづみ", "つきき", "つづき"],
+    "answer": 1,
+    "explanation": "【堤防（ていぼう）】: Đê điều, bờ đê.\n→ つつみ（堤）: Đê, đập ngăn nước."
+  },
+  {
+    "id": 256,
+    "question": "身なりの<span class='underline'>体裁</span>をいくら繕っても、内容がなければ安っぽく見える。",
+    "translation": "Dù có chăm chút cho diện mạo bên ngoài đến thế nào đi nữa, nếu không có nội dung bên trong thì trông vẫn thật rẻ tiền.",
+    "options": ["見つけ", "見つめ", "見あげ", "見かけ"],
+    "answer": 4,
+    "explanation": "【体裁（ていさい）】: Hình thức, diện mạo, vẻ bề ngoài.\n→ 見かけ（みかけ）: Vẻ ngoài, ngoại hình."
+  },
+  {
+    "id": 257,
+    "question": "どの時代にも<span class='underline'>庶民</span>が少数の支配者に<span class='underline'>統治される</span>。",
+    "translation": "Trong bất kỳ thời đại nào, dân chúng cũng bị cai trị bởi một số ít người nắm quyền.",
+    "options": ["しつけられる", "おさめられる", "あおがれる", "したわれる"],
+    "answer": 2,
+    "explanation": "【統治される（とうちされる）】: Bị cai trị, bị quản lý.\n→ おさめられる（治められる）: Được cai trị, được quản lý."
+  },
+  {
+    "id": 258,
+    "question": "<span class='underline'>討議</span>を凝らした末、計画の実現可能性が認められた。",
+    "translation": "Sau khi thảo luận kỹ lưỡng, tính khả thi của kế hoạch đã được công nhận.",
+    "options": ["理論", "弁論", "議会", "議題"],
+    "answer": 3,
+    "explanation": "【討議（とうぎ）】: Thảo luận, bàn luận.\n→ 議会（ぎかい）: Ở đây hiểu theo nghĩa là buổi thảo luận/hội nghị bàn bạc."
+  },
+  {
+    "id": 259,
+    "question": "学生の工場見学は<span class='underline'>統制</span>の取れたものにしてほしい。",
+    "translation": "Tôi muốn buổi tham quan nhà máy của sinh viên phải được tổ chức một cách có kỷ luật (thống nhất).",
+    "options": ["つなぎ", "つながり", "まとまり", "あつまり"],
+    "answer": 3,
+    "explanation": "【統制（とうせい）】: Sự điều khiển, sự thống nhất, kiểm soát.\n→ まとまり: Sự thống nhất, sự tập hợp có tổ chức."
+  },
+  {
+    "id": 260,
+    "question": "作品が1等賞に<span class='underline'>入賞</span>したことを電話で親に知らせた。",
+    "translation": "Tôi đã gọi điện thông báo cho bố mẹ về việc tác phẩm của mình đã đoạt giải nhất.",
+    "options": ["励まされた", "ほめられた", "選ばれた", "そえられる"],
+    "answer": 3,
+    "explanation": "【入賞（にゅうしょう）】: Được nhận giải, đoạt giải.\n→ 選ばれた（えらばれた）: Được chọn (trong cuộc thi)."
+  },
+  {
+    "id": 261,
+    "question": "自分の田舎言葉が、まさか北の<span class='underline'>はずれ</span>の人にすんなり通じるとは思わなかった。",
+    "translation": "Tôi đã không ngờ rằng tiếng địa phương của mình lại có thể được những người ở vùng hẻo lánh (vùng biên) phía Bắc hiểu một cách dễ dàng như vậy.",
+    "options": ["かしら", "まんなか", "よこ", "はし"],
+    "answer": 4,
+    "explanation": "【はずれ（外れ）】: Rìa, mép, vùng xa xôi.\n→ はし（端）: Phía rìa, đầu mút."
+  },
+  {
+    "id": 262,
+    "question": "痩せるには、まず<span class='underline'>熱量</span>が多い食べ物を<span class='underline'>控える</span>ことである。",
+    "translation": "Để giảm cân, trước hết cần hạn chế các loại thực phẩm có hàm lượng calo cao.",
+    "options": ["エネルギー", "カロリー", "ビタミン", "アルコール"],
+    "answer": 2,
+    "explanation": "【熱量（ねつりょう）】: Nhiệt lượng, năng lượng.\n→ カロリー: Calo (Calorie)."
+  },
+  {
+    "id": 263,
+    "question": "町で、人々に<span class='underline'>びら</span>を配るバイトをしていた。",
+    "translation": "Tôi đã làm công việc bán thời gian là phát tờ rơi cho mọi người trên phố.",
+    "options": ["ちらし", "かみくず", "きれ", "ぼろ"],
+    "answer": 1,
+    "explanation": "【びら】: Tờ bướm, tờ rơi quảng cáo.\n→ ちらし: Tờ rơi quảng cáo."
+  },
+  {
+    "id": 264,
+    "question": "食費に比べ、娯楽費の<span class='underline'>比重</span>がずいぶん大きい。",
+    "translation": "So với chi phí ăn uống, tỷ trọng chi phí giải trí lớn hơn đáng kể.",
+    "options": ["割り勘", "割り当て", "割りばし", "割合"],
+    "answer": 4,
+    "explanation": "【比重（ひじゅう）】: Tỷ trọng, tầm quan trọng tương đối.\n→ 割合（わりあい）: Tỷ lệ."
+  },
+  {
+    "id": 265,
+    "question": "欲望と言えば、<span class='underline'>はて</span>がないものだ。",
+    "translation": "Nói về ham muốn của con người thì nó là thứ không có điểm dừng.",
+    "options": ["びり", "そり", "おり", "きり"],
+    "answer": 4,
+    "explanation": "【はて（果て）】: Tận cùng, điểm cuối.\n→ きり（限り）: Giới hạn, điểm dừng (はてがない = きりがない: không có điểm dừng)."
+  },
+  {
+    "id": 266,
+    "question": "東京はすでに人口が<span class='underline'>飽和</span>状態だという説がある。",
+    "translation": "Có thuyết cho rằng dân số ở Tokyo đã ở trạng thái bão hòa.",
+    "options": ["至極", "限度", "極限", "至急"],
+    "answer": 2,
+    "explanation": "【飽和（ほうわ）】: Bão hòa.\n→ 限度（げんど）: Hạn mức, giới hạn tối đa."
+  },
+  {
+    "id": 267,
+    "question": "みんなはチームの<span class='underline'>名簿</span>からA君の名前をけずってしまった。",
+    "translation": "Mọi người đã xóa tên của cậu A khỏi danh sách tên của đội.",
+    "options": ["リスト", "プログラム", "アルバム", "メモリー"],
+    "answer": 1,
+    "explanation": "【名簿（めいぼ）】: Danh sách tên.\n→ リスト: Danh sách (List)."
+  },
+  {
+    "id": 268,
+    "question": "私の活力の<span class='underline'>源</span>はほかでもなく、読書から生まれたのである。",
+    "translation": "Nguồn sinh lực của tôi không gì khác chính là được sinh ra từ việc đọc sách.",
+    "options": ["徹底", "根本", "手元", "天井"],
+    "answer": 2,
+    "explanation": "【源（みなもと）】: Nguồn gốc, căn nguyên.\n→ 根本（こんぽん）: Gốc rễ, căn bản."
+  },
+  {
+    "id": 269,
+    "question": "人間が地球上で生き続けるためには、自然の<span class='underline'>めぐみ</span>に頼らなければならない。",
+    "translation": "Để con người có thể tiếp tục sinh tồn trên trái đất, chúng ta phải dựa vào ân huệ của tự nhiên.",
+    "options": ["法則", "規則", "恩恵", "知恵"],
+    "answer": 3,
+    "explanation": "【めぐみ（恵み）】: Ân huệ, sự ban ơn của tự nhiên.\n→ 恩恵（おんけい）: Ân huệ, lợi ích."
+  },
+  {
+    "id": 270,
+    "question": "彼女の、愁いを含んだ<span class='underline'>眼差し</span>を見て、同情の念を禁じえなかった。",
+    "translation": "Nhìn ánh mắt đượm buồn của cô ấy, tôi không thể kìm lòng trắc ẩn.",
+    "options": ["めまい", "めうえ", "目じるし", "目つき"],
+    "answer": 4,
+    "explanation": "【眼差し（まなざし）】: Ánh mắt, cách nhìn.\n→ 目つき（めつき）: Cái nhìn, ánh mắt."
+  },
+  {
+    "id": 271,
+    "question": "村全体が眠ったように静かな<span class='underline'>夜更け</span>です。",
+    "translation": "Đêm đã về khuya, yên tĩnh như thể cả ngôi làng đang chìm trong giấc ngủ.",
+    "options": ["夜中", "夜ふかし", "夜空", "夜あけ"],
+    "answer": 1,
+    "explanation": "【夜更け（よふけ）】: Đêm khuya.\n→ 夜中（よなか）: Nửa đêm, đêm khuya."
+  },
+  {
+    "id": 272,
+    "question": "ここの泉は生で<span class='underline'>飲用する</span>ことができる。",
+    "translation": "Nước suối ở đây có thể uống trực tiếp được.",
+    "options": ["こす", "めす", "いかす", "すます"],
+    "answer": 2,
+    "explanation": "【飲用する（いんようする）】: Uống (dùng để uống).\n→ めす（召す）: Từ kính ngữ của uống/ăn (ở đây dùng với nghĩa thưởng thức/uống)."
+  },
+  {
+    "id": 273,
+    "question": "友人の<span class='underline'>斡旋</span>で気に入った手伝いを雇った。",
+    "translation": "Nhờ sự môi giới của người bạn, tôi đã thuê được một người giúp việc ưng ý.",
+    "options": ["世話", "迷惑", "手数", "手配"],
+    "answer": 1,
+    "explanation": "【斡旋（あっせん）】: Môi giới, trung gian, giúp đỡ để kết nối.\n→ 世話（せわ）: Sự giúp đỡ, chăm sóc, hỗ trợ."
+  },
+  {
+    "id": 274,
+    "question": "昨日の事について、どうしても<span class='underline'>諦め</span>が付きません。",
+    "translation": "Về chuyện ngày hôm qua, dù thế nào tôi cũng không thể từ bỏ (thôi nghĩ về nó).",
+    "options": ["断定", "断念", "決断", "決意"],
+    "answer": 2,
+    "explanation": "【諦め（あきらめ）】: Sự từ bỏ, cam chịu.\n→ 断念（だんねん）: Từ bỏ, đoạn tuyệt ý định."
+  },
+  {
+    "id": 275,
+    "question": "もうこんな年のわしは<span class='underline'>肩書き</span>になんか、まったく興味がない。",
+    "translation": "Ở cái tuổi này rồi, tôi hoàn toàn không còn hứng thú gì với chức danh (vị trí xã hội) nữa.",
+    "options": ["成分", "身分", "成績", "身元"],
+    "answer": 2,
+    "explanation": "【肩書き（かたがき）】: Chức danh, vị trí.\n→ 身分（みぶん）: Vị thế, thân phận xã hội."
+  },
+  {
+    "id": 276,
+    "question": "学校の<span class='underline'>規定</span>により、カンニングをした者を処分する。",
+    "translation": "Theo quy định của nhà trường, sẽ xử phạt những người gian lận trong thi cử.",
+    "options": ["気風", "気分", "校庭", "校則"],
+    "answer": 4,
+    "explanation": "【規定（きてい）】: Quy định.\n→ 校則（こうそく）: Nội quy nhà trường."
+  },
+  {
+    "id": 277,
+    "question": "事故現場は<span class='underline'>検証</span>中につき、立ち入り禁止。",
+    "translation": "Hiện trường vụ tai nạn đang trong quá trình điều tra hiện trường, cấm vào.",
+    "options": ["取り締まり", "取り調べ", "取り扱い", "取り入れ"],
+    "answer": 2,
+    "explanation": "【検証（けんしょう）】: Kiểm chứng, điều tra thực tế.\n→ 取り調べ（とりしらべ）: Điều tra, thẩm vấn."
+  },
+  {
+    "id": 278,
+    "question": "まず国内で外国語の<span class='underline'>根底</span>を築いて、それから留学に行こうと考えている。",
+    "translation": "Tôi đang dự định sẽ xây dựng nền tảng ngoại ngữ ở trong nước trước, sau đó mới đi du học.",
+    "options": ["土台", "土地", "台本", "本来"],
+    "answer": 1,
+    "explanation": "【根底（こんてい）】: Nền tảng, gốc rễ.\n→ 土台（どだい）: Nền móng, cơ sở."
+  }
+]

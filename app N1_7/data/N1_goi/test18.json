@@ -1,0 +1,1449 @@
+[
+  {
+    "id": 1,
+    "question": "いかにも",
+    "reading": "",
+    "translation": "Quả nhiên là, thực sự là, rất (thể hiện sự đồng ý hoặc nhận xét đặc trưng)",
+    "options": [
+      {
+        "text": "この製品はいかにも日本製に違いない。",
+        "translation": "Sản phẩm này quả nhiên đúng là đồ Nhật Bản không sai vào đâu được.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>いかにも</b> dùng để khẳng định một đặc điểm điển hình, thường đi kèm với <b>～に違いない</b> hoặc <b>～らしい</b>."
+      },
+      {
+        "text": "難しそうだが、よく考えてやれば、いかにもなるだろう。",
+        "translation": "Có vẻ khó đấy nhưng nếu suy nghĩ kỹ thì rồi cũng ra sao đó thôi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diễn đạt ý 'rồi sẽ ổn/xoay xở được' dùng <b>何とかなる</b> (なんとかなる)."
+      },
+      {
+        "text": "もう年だから、いくら習ってもうまくいかにもならない。",
+        "translation": "Đã có tuổi rồi nên dù có học bao nhiêu cũng không trở nên giỏi được.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cấu trúc 'dù thế nào cũng không...' dùng <b>どうにも（ならない）</b>."
+      },
+      {
+        "text": "田中先生の話はいつも論理的で、いかにも学者らしい。",
+        "translation": "Câu chuyện của thầy Tanaka lúc nào cũng logic, đúng phong thái của một học giả.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>いかにも</b> kết hợp với <b>～らしい</b> để chỉ một sự việc rất giống với đặc trưng vốn có của nó."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 2,
+    "question": "てっきり",
+    "reading": "",
+    "translation": "Cứ ngỡ là, cứ đinh ninh là (thường dùng khi kết quả thực tế trái ngược với dự đoán)",
+    "options": [
+      {
+        "text": "実業家だと聞いて、てっきり男性だと思ったら、28歳の女性だった。",
+        "translation": "Nghe nói là nhà kinh doanh, tôi cứ đinh ninh là nam giới, hóa ra lại là một phụ nữ 28 tuổi.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>てっきり</b> dùng chính xác khi diễn tả một phán đoán chắc chắn của bản thân nhưng thực tế lại khác."
+      },
+      {
+        "text": "正解はほかでもなく、てっきり1番だと思う。",
+        "translation": "Đáp án đúng không phải cái nào khác, tôi nghĩ chắc chắn là số 1.",
+        "explanation": "<b style='color:red'>[Sai]</b> Khẳng định niềm tin chắc chắn vào một sự thật dùng <b>間違いなく</b> hoặc <b>きっと</b>."
+      },
+      {
+        "text": "日本ではアルバイトが容易に見つかるとはてっきり思わないでください。",
+        "translation": "Đừng có đinh ninh rằng ở Nhật có thể tìm việc làm thêm dễ dàng.",
+        "explanation": "<b style='color:red'>[Sai]</b> 'Đừng nghĩ rằng...' dùng <b>決して～ない</b> hoặc <b>必ずしも～ない</b>."
+      },
+      {
+        "text": "夫がてっきり家に帰ったかと思うと、また出かけた。",
+        "translation": "Chồng tôi cứ ngỡ là đã về nhà rồi lại đi ngay.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diễn tả hai hành động xảy ra gần như đồng thời dùng <b>～かと思うと</b> mà không cần 'てっきり'."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "question": "かねて",
+    "reading": "",
+    "translation": "Từ trước, vốn đã (xảy ra trong quá khứ và kéo dài đến nay)",
+    "options": [
+      {
+        "text": "お客さんが見える前、かねて待合室を片付けてください。",
+        "translation": "Trước khi khách đến, hãy dọn dẹp phòng chờ từ trước.",
+        "explanation": "<b style='color:red'>[Sai]</b> Chuẩn bị trước một việc cho tương lai gần dùng <b>あらかじめ</b> hoặc <b>前もって</b>."
+      },
+      {
+        "text": "かねてから希望していた弁護士になることができた。",
+        "translation": "Tôi đã có thể trở thành luật sư như nguyện vọng từ bấy lâu nay.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>かねて</b> (thường đi với <b>～から</b>) dùng để chỉ một trạng thái, mong muốn đã có từ lâu."
+      },
+      {
+        "text": "用事があるので、今日はかねて早退させてもらいたいです。",
+        "translation": "Vì có việc bận nên hôm nay tôi muốn xin phép về sớm từ trước.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ý muốn xin phép trước dùng <b>事前に</b> hoặc <b>前もって</b>."
+      },
+      {
+        "text": "彼は学校で教鞭を取るかたわら、またかねて小説を書いているそうだ。",
+        "translation": "Nghe nói anh ấy vừa giảng dạy ở trường, vừa đồng thời viết tiểu thuyết.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diễn tả hai hành động song song dùng <b>同時に</b> hoặc <b>また</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "question": "いやに",
+    "reading": "",
+    "translation": "Khác thường, lạ lùng (theo nghĩa tiêu cực hoặc gây ngạc nhiên)",
+    "options": [
+      {
+        "text": "彼女は家事がいやにしてお手伝いさんを雇った。",
+        "translation": "Cô ấy ghét việc nhà nên đã thuê người giúp việc.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ghét một việc gì đó dùng <b>嫌（いや）になって</b>."
+      },
+      {
+        "text": "自分の選んだことをいやにするとは何のつもりですか。",
+        "translation": "Bạn định làm hỏng/làm tệ đi việc mình đã chọn là có ý gì?",
+        "explanation": "<b style='color:red'>[Sai]</b> Làm cho tệ đi dùng <b>台無しに</b> (だいなしに)."
+      },
+      {
+        "text": "ねえ、次郎は今日に限って、いやにおとなしいね。",
+        "translation": "Này, riêng ngày hôm nay Jiro im lặng một cách lạ thường nhỉ.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>いやに</b> dùng để nhấn mạnh một trạng thái khác với bình thường, gây cảm giác hơi kỳ quặc."
+      },
+      {
+        "text": "皿にとってくれたんだから、いやにも食べ始めた。",
+        "translation": "Vì đã được gắp vào đĩa nên dù không muốn cũng bắt đầu ăn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Miễn cưỡng làm gì đó dùng <b>いやいや</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "question": "きっちり",
+    "reading": "",
+    "translation": "Vừa vặn, chính xác, không sai lệch (về thời gian, số lượng, kích thước)",
+    "options": [
+      {
+        "text": "メロンは今きっちり食べ頃だ。一つ買おうか。",
+        "translation": "Dưa lưới bây giờ chính xác là lúc chín vừa tới. Mua một quả nhé.",
+        "explanation": "<b style='color:red'>[Sai]</b> Trạng thái vừa đúng lúc tốt nhất dùng <b>ちょうど</b>."
+      },
+      {
+        "text": "私が着いた時、きっちり田中さんが来ました。",
+        "translation": "Đúng lúc tôi đến thì anh Tanaka cũng tới.",
+        "explanation": "<b style='color:red'>[Sai]</b> Sự việc xảy ra cùng lúc dùng <b>ちょうど</b> hoặc <b>タイミングよく</b>."
+      },
+      {
+        "text": "電車はきっちり時間どおりにプラットホームに入ってきた。",
+        "translation": "Tàu hỏa đã vào sân ga chính xác đúng giờ giấc.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>きっちり</b> dùng rất phổ biến với thời gian (<b>時間どおり</b>) để chỉ sự chuẩn xác."
+      },
+      {
+        "text": "「もう一杯どうですか。」「いいえ、もうきっちりです。」",
+        "translation": "「Làm thêm ly nữa nhé?」「Không, tôi đủ rồi.」",
+        "explanation": "<b style='color:red'>[Sai]</b> Đã đủ, đã no dùng <b>結構</b> (けっこう) hoặc <b>十分</b> (じゅうぶん)."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6,
+    "question": "ぼつぼつ",
+    "reading": "",
+    "translation": "Sắp sửa, chuẩn bị, dần dần (bắt đầu một hành động)",
+    "options": [
+      {
+        "text": "これは故郷の蜜柑です。ぼつぼつしかないですが、ご笑納ください。",
+        "translation": "Đây là quýt ở quê tôi. Chỉ có một ít thôi, xin hãy nhận cho.",
+        "explanation": "<b style='color:red'>[Sai]</b> Chỉ có một chút dùng <b>わずか</b> hoặc <b>少し</b>."
+      },
+      {
+        "text": "もう時間ですね。それでは会場へぼつぼつ出かけましょう。",
+        "translation": "Đến giờ rồi nhỉ. Vậy thì chúng ta chuẩn bị xuất phát đến hội trường thôi.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ぼつぼつ</b> dùng để chỉ việc sắp sửa bắt đầu thực hiện một hành động nào đó."
+      },
+      {
+        "text": "妻は一人でぼつぼつと文句を言っているが、何を言っているか分からない。",
+        "translation": "Vợ tôi cứ lẩm bẩm phàn nàn một mình, chẳng biết đang nói cái gì.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nói lẩm bẩm một mình dùng <b>つぶやき</b> hoặc <b>ぶつぶつ</b>."
+      },
+      {
+        "text": "大雨がぼつぼつに降れば、洪水になるおそれがないだろう。",
+        "translation": "Nếu mưa lớn rơi lất phất thì chắc không lo bị lũ lụt.",
+        "explanation": "<b style='color:red'>[Sai]</b> Mưa rơi lất phất dùng <b>ぽつぽつ</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "question": "かろうじて",
+    "reading": "",
+    "translation": "Vừa đủ, suýt soát, khó khăn lắm mới (đạt được kết quả tốt)",
+    "options": [
+      {
+        "text": "子供の学資をためるため、かろうじて仕事を探さなければならない。",
+        "translation": "Để tiết kiệm tiền học cho con, tôi buộc phải tìm việc làm.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diễn tả sự bắt buộc dùng <b>なんとしても</b> hoặc <b>どうしても</b>."
+      },
+      {
+        "text": "ぼんやり運転してかろうじて子供をひくところだった。",
+        "translation": "Lơ đễnh lái xe nên suýt chút nữa là đâm vào đứa trẻ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Suýt chút nữa (việc xấu xảy ra) dùng <b>あやうく</b>."
+      },
+      {
+        "text": "高い点数が取れたから、かろうじて合格できるに違いない。",
+        "translation": "Vì đạt điểm cao nên chắc chắn là sẽ đỗ suýt soát.",
+        "explanation": "<b style='color:red'>[Sai]</b> Điểm cao thì sẽ đỗ dễ dàng, không dùng suýt soát (かろうじて)."
+      },
+      {
+        "text": "二日間徹夜をしてかろうじて締め切りには間に合った。",
+        "translation": "Thức trắng đêm hai ngày trời, cuối cùng tôi cũng vừa kịp thời hạn.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>かろうじて</b> dùng cho trường hợp khó khăn lắm mới đạt được mục tiêu (kịp giờ, đỗ...)."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 8,
+    "question": "なんなりと",
+    "reading": "",
+    "translation": "Bất cứ thứ gì, bất cứ việc gì (thường dùng trong lời mời, đề nghị)",
+    "options": [
+      {
+        "text": "おなかがとても空いている。なんなりといいから、食べる物をください。",
+        "translation": "Bụng đói quá rồi. Bất cứ thứ gì cũng được, cho tôi đồ ăn đi.",
+        "explanation": "<b style='color:red'>[Sai]</b> 'Cái gì cũng được' trong văn nói thông thường dùng <b>何でも</b>."
+      },
+      {
+        "text": "昨日のこと、なんなりと私が悪かったので、お詫びを申し上げます。",
+        "translation": "Việc ngày hôm qua, dù là chuyện gì thì cũng là do tôi sai, cho tôi xin lỗi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Dùng để nhấn mạnh lỗi lầm dùng <b>すべて</b> hoặc <b>全面的に</b>."
+      },
+      {
+        "text": "お金が万能のものではないが、お金が無ければ、なんなりともならない。",
+        "translation": "Tiền không phải vạn năng, nhưng không có tiền thì chẳng làm được gì.",
+        "explanation": "<b style='color:red'>[Sai]</b> 'Chẳng làm được gì' dùng <b>どうにも（ならない）</b>."
+      },
+      {
+        "text": "この番組に対して、何かお気づきのところがありましたら、なんなりとおっしゃってください。",
+        "translation": "Nếu quý vị có bất cứ góp ý nào cho chương trình, xin hãy cứ nói bất cứ điều gì.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>なんなりと</b> thường dùng trong kính ngữ, mời mọc đối phương cứ thoải mái làm điều gì đó."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 9,
+    "question": "どうにか",
+    "reading": "",
+    "translation": "Bằng cách nào đó, cuối cùng cũng (thường đi với kết quả khả quan)",
+    "options": [
+      {
+        "text": "この漢字がどうにか読むか迷った。",
+        "translation": "Tôi đã phân vân không biết chữ Kanji này đọc bằng cách nào đó như thế nào.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cách đọc dùng <b>どう（読むか）</b> hoặc <b>どのように</b>."
+      },
+      {
+        "text": "どうにかしてやろうという話を聞いて、私は少し安心した。",
+        "translation": "Nghe nói rằng họ sẽ bằng mọi cách giải quyết giúp, tôi đã yên tâm phần nào.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>どうにかして</b> thể hiện nỗ lực muốn làm điều gì đó để giải quyết vấn đề."
+      },
+      {
+        "text": "この辺は夜になると、どうにか静かだろうか分かるまい。",
+        "translation": "Khu này hễ đêm xuống thì chẳng biết có yên tĩnh bằng cách nào đó không.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hỏi về mức độ dùng <b>どのくらい</b> hoặc <b>どれほど</b>."
+      },
+      {
+        "text": "彼はどうにかというと、失敗をごまかすのがうまい。",
+        "translation": "Anh ta hễ bằng cách nào đó là lại giỏi lấp liếm thất bại.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cấu trúc 'hễ có chuyện gì là...' dùng <b>とかく</b> hoặc <b>何かというと</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "question": "なおさら",
+    "reading": "",
+    "translation": "Càng... thêm, hơn nữa (nhấn mạnh mức độ tăng lên)",
+    "options": [
+      {
+        "text": "明日ご注文の品をお届けします。なおさら、その時詳しくご説明します。",
+        "translation": "Ngày mai tôi sẽ giao hàng. Hơn nữa, lúc đó tôi sẽ giải thích chi tiết.",
+        "explanation": "<b style='color:red'>[Sai]</b> Dùng để bổ sung thông tin dùng <b>そのうえ</b> hoặc <b>さらに</b>."
+      },
+      {
+        "text": "子供ならなおさら、もう大人なのに、あいさつもしないなんてひどいね。",
+        "translation": "Nếu là trẻ con thì đã đành, đằng này là người lớn mà không chào hỏi thì thật tệ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cấu trúc 'nếu là... thì còn đỡ' dùng <b>～ならいざしらず</b>."
+      },
+      {
+        "text": "手に入らないとなると、なおさらほしくなるのは普遍的な心理である。",
+        "translation": "Càng không có được thì lại càng muốn có, đó là tâm lý chung của con người.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>なおさら</b> dùng để nhấn mạnh một trạng thái trở nên mạnh mẽ hơn do có thêm một điều kiện nào đó."
+      },
+      {
+        "text": "今までよりなおさら努力したら、成功する見込みがないとは限らない。",
+        "translation": "Nếu nỗ lực hơn nữa so với từ trước đến nay, không hẳn là không có hy vọng thành công.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nhấn mạnh nỗ lực thêm nữa dùng <b>いっそう</b> hoặc <b>さらに</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 11,
+    "question": "さも",
+    "reading": "",
+    "translation": "Cứ như thể là, cứ như thật (thường dùng trong cấu trúc さも～そう / さも～よう)",
+    "options": [
+      {
+        "text": "その話を聞いて彼はさも家を飛び出していった。",
+        "translation": "Nghe xong câu chuyện đó, anh ta liền lao ra khỏi nhà.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diễn tả hành động xảy ra ngay lập tức dùng <b>今にも</b> hoặc <b>すぐさま</b>."
+      },
+      {
+        "text": "田中さんは何も知らないのに、さも知っているように話している。",
+        "translation": "Anh Tanaka dù chẳng biết gì nhưng lại nói chuyện cứ như thể là biết tường tận lắm.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>さも</b> kết hợp với <b>～ように</b> dùng để diễn tả một vẻ mặt hoặc thái độ cực kỳ giống với một trạng thái nào đó dù thực tế không phải."
+      },
+      {
+        "text": "忙しいので明日はさも来られないかも知れない。",
+        "translation": "Vì bận nên ngày mai có lẽ tôi không thể đến được.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diễn tả khả năng dùng <b>もしかすると</b> hoặc <b>おそらく</b>."
+      },
+      {
+        "text": "それはさも詐欺だろうと思うけど、気を付けたほうがいいよ。",
+        "translation": "Tôi nghĩ đó chắc chắn là một vụ lừa đảo, bạn nên cẩn thận thì hơn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Khẳng định dự đoán chắc chắn dùng <b>きっと</b> hoặc <b>どうも</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "いやいや",
+    "reading": "",
+    "translation": "Miễn cưỡng, không tình nguyện, làm cho có",
+    "options": [
+      {
+        "text": "上司の強引な意見で計画を変えるので、みんなはいやいやになった。",
+        "translation": "Vì thay đổi kế hoạch do ý kiến áp đặt của cấp trên nên mọi người trở nên chán nản.",
+        "explanation": "<b style='color:red'>[Sai]</b> Trở nên chán nản, mất hứng dùng <b>嫌（いや）になった</b>."
+      },
+      {
+        "text": "いやいやをしながら、お母さんが差し出したお金をポケットに入れて買い物に行った。",
+        "translation": "Dù tỏ vẻ không bằng lòng nhưng tôi vẫn đút tiền mẹ đưa vào túi rồi đi mua đồ.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>いやいや</b> dùng để chỉ trạng thái thực hiện hành động một cách miễn cưỡng, không thực lòng muốn làm."
+      },
+      {
+        "text": "いやいややっていても、いい成果はあがらないから、最初からやらないほうがいい。",
+        "translation": "Nếu làm một cách miễn cưỡng thì cũng không có kết quả tốt đâu, tốt nhất là đừng làm ngay từ đầu.",
+        "explanation": "<b style='color:green'>[Đúng]</b> Cách dùng này chính xác vì chỉ việc làm việc không có sự tự nguyện."
+      },
+      {
+        "text": "試験の結果の発表は予定よりだいぶ遅れていて、私はもういやいやしてたまらない。",
+        "translation": "Kết quả thi công bố muộn hơn dự kiến làm tôi nôn nóng không chịu nổi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nôn nóng, sốt ruột dùng <b>いらいら</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13,
+    "question": "ふらふら",
+    "reading": "",
+    "translation": "Lảo đảo, choáng váng, đi không vững (do mệt hoặc say)",
+    "options": [
+      {
+        "text": "長い間入院していたので体がふらふらして立つこともできない。",
+        "translation": "Vì nằm viện thời gian dài nên người tôi cứ lảo đảo, đến đứng cũng không vững.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ふらふら</b> diễn tả trạng thái cơ thể yếu, không giữ được thăng bằng."
+      },
+      {
+        "text": "鈴が風でふらふらしながら、きれいな音を出している。",
+        "translation": "Cái chuông đung đưa trong gió và phát ra âm thanh thanh khiết.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đồ vật đung đưa nhẹ nhàng dùng <b>ゆらゆら</b>."
+      },
+      {
+        "text": "このいすはしっかりできていないのか、座るとふらふら揺れる。",
+        "translation": "Cái ghế này chắc không được làm chắc chắn, ngồi vào là cứ lung lay.",
+        "explanation": "<b style='color:red'>[Sai]</b> Vật thể lung lay, không ổn định dùng <b>ぐらぐら</b>."
+      },
+      {
+        "text": "あの選手はがっちりとした体をしていて、押してもふらふらしない。",
+        "translation": "Vận động viên đó có cơ thể rắn chắc, dù có đẩy cũng không hề lay chuyển.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không hề lay chuyển, vững vàng dùng <b>びくとも（しない）</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 14,
+    "question": "げっそり",
+    "reading": "",
+    "translation": "Gầy sọp đi, hốc hác (thường do bệnh tật, lo lắng); hoặc chán ngấy",
+    "options": [
+      {
+        "text": "虫歯のせいで何も食べられず、げっそりやせてしまった。",
+        "translation": "Vì đau răng không ăn được gì nên tôi đã bị gầy sọp hẳn đi.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>げっそり</b> thường đi kèm với <b>やせる</b> để chỉ việc sụt cân nhanh chóng khiến khuôn mặt hốc hác."
+      },
+      {
+        "text": "ファッションモデルのスマートでげっそりした体つきが羨ましい。",
+        "translation": "Tôi ghen tị với vóc dáng mảnh mai hốc hác của người mẫu thời trang.",
+        "explanation": "<b style='color:red'>[Sai]</b> Dáng người mảnh mai một cách đẹp đẽ dùng <b>すらりと</b> hoặc <b>ほっそり</b>."
+      },
+      {
+        "text": "股肉がそんなに余っているのに、げっそりのズボンを穿くなんて。",
+        "translation": "Thịt đùi thừa ra nhiều thế kia mà lại mặc cái quần chật ních như vậy.",
+        "explanation": "<b style='color:red'>[Sai]</b> Quần áo chật chội dùng <b>きつめの</b> hoặc <b>ぴちぴち</b>."
+      },
+      {
+        "text": "げっそりした指をしているからといって、ピアニストに向くというわけでもない。",
+        "translation": "Không phải cứ có ngón tay gầy guộc là sẽ phù hợp làm nghệ sĩ piano.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ngón tay thon dài dùng <b>ひょろ長い</b> hoặc <b>細長い</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 15,
+    "question": "さほど",
+    "reading": "",
+    "translation": "Không đến mức đó, không mấy (thường đi với phủ định)",
+    "options": [
+      {
+        "text": "あのおとなしい彼が怒るなんて、さほどのことあったに違いない。",
+        "translation": "Một người hiền lành như anh ấy mà lại nổi giận thì chắc chắn là phải có chuyện gì đó kinh khủng lắm.",
+        "explanation": "<b style='color:red'>[Sai]</b> Câu này cần một từ mang nghĩa khẳng định mức độ lớn như <b>相当（そうとう）な</b>."
+      },
+      {
+        "text": "このマラソンコースはさほど難しくないから、わたしも参加したい。",
+        "translation": "Cung đường marathon này không khó đến mức đó nên tôi cũng muốn tham gia.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>さほど</b> đi với dạng phủ định (～ない) để chỉ mức độ không cao như mong đợi hoặc lo lắng."
+      },
+      {
+        "text": "たくさんの星が輝いているんだから、あすはさほど雨が降らないだろう。",
+        "translation": "Vì có rất nhiều sao đang tỏa sáng nên ngày mai có lẽ sẽ không mưa nhiều đâu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Để dự đoán thời tiết không mưa dùng <b>おそらく</b> hoặc <b>めったに</b>."
+      },
+      {
+        "text": "これぐらいの収入はさほどの数ではありませんよ。",
+        "translation": "Khoản thu nhập cỡ này thì không phải là con số lớn lao gì đâu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Với số đếm cụ thể, người ta thường dùng <b>たいした（数）</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "question": "とうてい",
+    "reading": "",
+    "translation": "Hoàn toàn không thể, tuyệt đối không (đi với phủ định)",
+    "options": [
+      {
+        "text": "みんなの助けがあるんだから、彼はとうてい成功するにちがいない。",
+        "translation": "Vì có sự giúp đỡ của mọi người, anh ấy chắc chắn sẽ thành công.",
+        "explanation": "<b style='color:red'>[Sai]</b> <b>とうてい</b> không đi với khẳng định (～にちがいない)."
+      },
+      {
+        "text": "われわれ自分で作った規則をだれでもとうてい守らなければならない。",
+        "translation": "Bất cứ ai cũng tuyệt đối phải tuân thủ quy tắc do chính chúng ta tạo ra.",
+        "explanation": "<b style='color:red'>[Sai]</b> Mang nghĩa bắt buộc dùng <b>必ず</b> hoặc <b>絶対に</b>."
+      },
+      {
+        "text": "歴史の長さにおいて日本の大学は西洋の古い大学にはとうてい及ばない。",
+        "translation": "Về bề dày lịch sử, các trường đại học Nhật Bản hoàn toàn không thể sánh kịp với các trường đại học cổ của phương Tây.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>とうてい</b> nhấn mạnh việc dù cố gắng đến đâu cũng không thể đạt được kết quả (ở đây là <b>及ばない - không thể tới/không thể bằng</b>)."
+      },
+      {
+        "text": "指示が社員にとうていしなかったので、ミスを起こしたのだ。",
+        "translation": "Vì chỉ thị hoàn toàn không đến được với nhân viên nên đã xảy ra sai sót.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diễn tả việc truyền đạt không tới dùng <b>徹底（てってい）</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 17,
+    "question": "どうやら",
+    "reading": "",
+    "translation": "Có vẻ như là, hèn chi (dựa trên quan sát hiện tại)",
+    "options": [
+      {
+        "text": "どうやら雨も上がったようだから、そろそろ出かけましょう。",
+        "translation": "Có vẻ như mưa đã tạnh rồi, chúng ta chuẩn bị đi thôi.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>どうやら</b> thường đi cùng với <b>～ようだ</b> hoặc <b>～らしい</b> để đưa ra suy đoán dựa trên tình hình thực tế."
+      },
+      {
+        "text": "はっきり判断できないが、それはどうやら彼がやったに違いない。",
+        "translation": "Dù không thể phán đoán rõ ràng nhưng việc đó chắc chắn là do anh ta làm.",
+        "explanation": "<b style='color:red'>[Sai]</b> <b>～に違いない</b> thể hiện sự chắc chắn, mâu thuẫn với ý nghĩa suy đoán của <b>どうやら</b>."
+      },
+      {
+        "text": "どうやら一言で彼女の心を傷つけてしまって、悔やんでたまらなかった。",
+        "translation": "Chỉ vì lỡ lời mà tôi đã làm tổn thương cô ấy, hối hận không để đâu cho hết.",
+        "explanation": "<b style='color:red'>[Sai]</b> Trong ngữ cảnh này thường dùng <b>不注意にも</b> hoặc <b>ついうっかり</b>."
+      },
+      {
+        "text": "みなさん、どうやら今年もよろしくお願いします。",
+        "translation": "Mọi người ơi, có vẻ như năm nay cũng mong được giúp đỡ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đây là câu chào hỏi lịch sự, không dùng từ mang tính suy đoán như <b>どうやら</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 18,
+    "question": "はなはだ",
+    "reading": "",
+    "translation": "Rất, cực kỳ (thường dùng trong văn viết, trang trọng hoặc mang nghĩa tiêu cực)",
+    "options": [
+      {
+        "text": "あのチームが負けたのは、はなはだ残念だ。",
+        "translation": "Việc đội đó thua cuộc là điều cực kỳ đáng tiếc.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>はなはだ</b> dùng để nhấn mạnh mức độ của cảm xúc hoặc trạng thái (thường là phiền toái, đáng tiếc)."
+      },
+      {
+        "text": "今日ははなはだきれいに着ていますね。何かあったのだろう。",
+        "translation": "Hôm nay bạn mặc đẹp cực kỳ luôn nhỉ. Có chuyện gì thế?",
+        "explanation": "<b style='color:red'>[Sai]</b> Khen ngợi diện mạo dùng từ nhẹ nhàng hơn như <b>ずいぶん</b> hoặc <b>とても</b>."
+      },
+      {
+        "text": "この種類のリンゴははなはだおいしいから、どうぞ味わってみてください。",
+        "translation": "Loại táo này cực kỳ ngon, mời bạn nếm thử.",
+        "explanation": "<b style='color:red'>[Sai]</b> Với ý nghĩa tích cực như \"ngon\", dùng <b>非常に</b> hoặc <b>とても</b> thì tự nhiên hơn."
+      },
+      {
+        "text": "彼女は日本語学にかけてははなはだの実力を持っている。",
+        "translation": "Về ngành Nhật Bản học, cô ấy có thực lực cực kỳ lớn.",
+        "explanation": "<b style='color:red'>[Sai]</b> <b>はなはだ</b> thường là phó từ, không dùng dạng <b>～の実力</b> như một danh từ bổ nghĩa."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 19,
+    "question": "ひたすら",
+    "reading": "",
+    "translation": "Chuyên tâm, mải miết, hết lòng (làm một việc duy nhất)",
+    "options": [
+      {
+        "text": "30人の中で、みんなできたのはひたすら田中君一人だった。",
+        "translation": "Trong 30 người, chỉ duy nhất mình cậu Tanaka là làm được.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nghĩa \"duy nhất\" dùng <b>ただ</b> hoặc <b>わずか</b>."
+      },
+      {
+        "text": "親としてひたすら試験中の息子の合格を心から祈っている。",
+        "translation": "Là cha mẹ, tôi chỉ biết thành tâm cầu nguyện cho con trai đang trong kỳ thi sẽ đỗ.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ひたすら</b> diễn tả việc tập trung toàn bộ tâm trí vào một hành động (ở đây là cầu nguyện)."
+      },
+      {
+        "text": "研究員になって以来、彼は文学の研究ひたすらにして没頭している。",
+        "translation": "Kể từ khi trở thành nghiên cứu viên, anh ấy mải miết chìm đắm vào nghiên cứu văn học.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cấu trúc <b>ひたすらにして</b> không tự nhiên, nên dùng phó từ <b>ひたすら</b> trực tiếp trước động từ."
+      },
+      {
+        "text": "やっと大学に入った彼女は勉強にひたすらなっている。",
+        "translation": "Sau khi cuối cùng cũng vào được đại học, cô ấy trở nên chuyên tâm học hành.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thường dùng <b>専念（せんねん）している</b> hoặc <b>打ち込んでいる</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "question": "ひとすじ",
+    "reading": "",
+    "translation": "Một lòng một dạ, thuần túy, chỉ một hướng (thường dùng cho sự chuyên tâm, cống hiến)",
+    "options": [
+      {
+        "text": "仕事をひとすじしていて、家を顧みる暇もない。",
+        "translation": "Vì quá mải mê chỉ biết đến công việc nên tôi chẳng có thời gian chăm lo cho gia đình.",
+        "explanation": "<b style='color:red'>[Sai]</b> Để diễn tả trạng thái mải mê làm việc, thường dùng <b>ひたすら</b> hoặc <b>一心に</b>."
+      },
+      {
+        "text": "A教授は日本語教育学の研究ひとすじの人生を送ってきた。",
+        "translation": "Giáo sư A đã sống một cuộc đời cống hiến hết mình (một lòng một dạ) cho việc nghiên cứu giáo dục tiếng Nhật.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ひとすじ</b> dùng để chỉ việc dành toàn bộ tâm huyết, cuộc đời cho một mục tiêu duy nhất."
+      },
+      {
+        "text": "その計画は実行に移すことができるかどうか、君たちの決心ひとすじだ。",
+        "translation": "Kế hoạch đó có thực hiện được hay không hoàn toàn phụ thuộc vào quyết tâm của các cậu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ý nghĩa \"phụ thuộc vào/tùy thuộc vào\" dùng <b>～次第（しだい）だ</b>."
+      },
+      {
+        "text": "ちらっと耳にしたのだから、覚えているのはひとすじしかない。",
+        "translation": "Vì chỉ nghe thoáng qua nên tôi chỉ nhớ được một chút xíu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nhớ một phần nhỏ dùng <b>わずか</b> hoặc <b>ほんの一部分</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "いまだ",
+    "reading": "",
+    "translation": "Vẫn chưa (dùng trong văn viết hoặc cách nói trang trọng, đi kèm phủ định)",
+    "options": [
+      {
+        "text": "昨夜から続いている賃上げ交渉はいまだ結論が出ないままだ。",
+        "translation": "Cuộc đàm phán tăng lương kéo dài từ tối qua đến nay vẫn chưa đưa ra được kết luận.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>いまだ</b> nhấn mạnh trạng thái sự việc vẫn đang tiếp diễn hoặc chưa kết thúc (thường đi với <b>～ない</b>)."
+      },
+      {
+        "text": "いろいろ悩んだあげく、いまだ定年後故郷へ帰ることにした。",
+        "translation": "Sau nhiều trăn trở, cuối cùng tôi đã quyết định sẽ về quê sau khi nghỉ hưu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Quyết định sau một thời gian dài dùng <b>いよいよ</b> hoặc <b>ようやく</b>."
+      },
+      {
+        "text": "向こうは大丈夫といっていたが、いまだ成功できるのだろうか。",
+        "translation": "Phía bên kia nói là ổn nhưng liệu thực sự có thể thành công được không?",
+        "explanation": "<b style='color:red'>[Sai]</b> Thể hiện sự nghi ngờ/lo lắng về tương lai dùng <b>はたして</b>."
+      },
+      {
+        "text": "いまだすぐ行けば、セールの時間に間に合うかもしれない。",
+        "translation": "Nếu đi ngay bây giờ thì vẫn có thể kịp giờ giảm giá.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nghĩa \"ngay bây giờ/vẫn còn kịp\" dùng <b>今なら</b> hoặc <b>まだ</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "question": "ずばり",
+    "reading": "",
+    "translation": "Nói thẳng, nói đúng tim đen, trúng phóc",
+    "options": [
+      {
+        "text": "使っているうちに、日本語の会話はずばり上手になれる。",
+        "translation": "Trong quá trình sử dụng, hội thoại tiếng Nhật sẽ trở nên giỏi một cách nhanh chóng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tiến bộ rõ rệt dùng <b>めっきり</b> hoặc <b>ぐんぐん</b>."
+      },
+      {
+        "text": "君のことを考えればこそ、痛いことをずばりしたのだと彼は言った。",
+        "translation": "Anh ấy nói rằng chính vì nghĩ cho cậu nên mới làm một việc đau đớn như vậy.",
+        "explanation": "<b style='color:red'>[Sai]</b> Câu này không rõ nghĩa, nếu là nói thẳng điều khó nghe thì dùng <b>ずばり言った</b>."
+      },
+      {
+        "text": "彼女は気の強い人で、言いにくいことでも、ずばりと言う。",
+        "translation": "Cô ấy là người mạnh mẽ, dù là chuyện khó nói cũng sẽ nói thẳng thừng.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ずばり</b> diễn tả việc nói thẳng vào vấn đề mà không kiêng dè."
+      },
+      {
+        "text": "あの人は円満な人物で、人のいいことも悪いこともずばりと口にしない。",
+        "translation": "Người đó là người ôn hòa, chuyện tốt hay xấu của người khác đều không nói thẳng ra.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không bao giờ nói ra dùng <b>めったに（口にしない）</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 23,
+    "question": "とっさに",
+    "reading": "",
+    "translation": "Ngay lập tức, tức khắc (phản xạ tức thời)",
+    "options": [
+      {
+        "text": "分からないところがあるので、先生に聞いたら、とっさに分かった。",
+        "translation": "Vì có chỗ không hiểu nên tôi hỏi giáo viên, và ngay lập tức hiểu ra.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hiểu ra ngay lúc đó dùng <b>すぐ（分かった）</b> hoặc <b>たちまち</b>."
+      },
+      {
+        "text": "9・11テロ事件で「世界貿易センター」というビルがとっさに廃墟になった。",
+        "translation": "Trong vụ khủng bố 11/9, tòa nhà Trung tâm Thương mại Thế giới ngay lập tức trở thành đống đổ nát.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diễn tả sự biến đổi trong chớp mắt dùng <b>一瞬にして</b>."
+      },
+      {
+        "text": "地震が起こった時、わたしはとっさにガスの火を消した。",
+        "translation": "Khi động đất xảy ra, tôi đã ngay lập tức tắt bếp ga.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>とっさに</b> dùng cho những hành động mang tính phản xạ, xử lý tình huống khẩn cấp."
+      },
+      {
+        "text": "時間がないので、新聞はいつもとっさに目を通すだけだ。",
+        "translation": "Vì không có thời gian nên tôi luôn chỉ đọc lướt qua báo.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đọc lướt qua dùng <b>ざっと</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 24,
+    "question": "ずるずる",
+    "reading": "",
+    "translation": "Lê thê, kéo dài mãi không dứt; hoặc tiếng húp xì xụp",
+    "options": [
+      {
+        "text": "猿は動物の中でずるずるのほうだと言われている。",
+        "translation": "Khỉ được nói là loài vật lôi thôi trong số các động vật.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tính cách/vẻ ngoài lôi thôi dùng <b>だらしがない</b>."
+      },
+      {
+        "text": "たんすだの、机だの、大水に流されて川の上をずるずる浮いている。",
+        "translation": "Tủ, bàn bị nước lũ cuốn trôi và đang nổi lềnh bềnh trên sông.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nổi lềnh bềnh dùng <b>ぷかぷか</b>."
+      },
+      {
+        "text": "ご飯を食べるとき、ずるずる音を立てるのは失礼だと言われている。",
+        "translation": "Người ta nói rằng khi ăn mà phát ra tiếng húp xì xụp là bất lịch sự.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ずるずる</b> mô tả âm thanh húp nước (như húp mì)."
+      },
+      {
+        "text": "結論をずるずる引き延ばすなんて、何のつもりなの？",
+        "translation": "Cứ kéo dài lê thê việc đưa ra kết luận, rốt cuộc là định làm gì thế?",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ずるずる</b> dùng để chỉ một trạng thái kéo dài, trì trệ không dứt khoát."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 25,
+    "question": "いかに",
+    "reading": "",
+    "translation": "Như thế nào, biết bao, đến mức nào",
+    "options": [
+      {
+        "text": "カバンを忘れて帰るなんて、いかにもそそかしい弟のやりそうなことだ。",
+        "translation": "Việc quên cả túi xách mà đi về thì đúng là kiểu mà đứa em trai hậu đậu của tôi hay làm.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ở đây phải dùng <b>いかにも</b> (đúng là/quả nhiên là) để nhấn mạnh đặc điểm tính cách."
+      },
+      {
+        "text": "我々はいかにして自然災害から生活を守るのか真剣に考えるべきだ。",
+        "translation": "Chúng ta nên suy nghĩ một cách nghiêm túc xem làm thế nào (bằng cách nào) để bảo vệ cuộc sống khỏi thiên tai.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>いかにして</b> là trạng từ dùng để hỏi về cách thức hoặc phương pháp một cách trang trọng."
+      },
+      {
+        "text": "彼女に許してもらえるかどうか、君の態度のいかんにかかっている。",
+        "translation": "Việc cô ấy có tha thứ cho cậu hay không phụ thuộc vào thái độ của cậu như thế nào.",
+        "explanation": "<b style='color:green'>[Đúng]</b> Cấu trúc <b>～のいかんにかかっている</b> nghĩa là tùy thuộc vào/dựa trên tình trạng của cái gì đó."
+      },
+      {
+        "text": "失業したし、妻にも逃げられた田中君をいかにしてあげましょう。",
+        "translation": "Anh Tanaka vừa thất nghiệp lại vừa bị vợ bỏ, chúng ta phải làm gì cho anh ấy đây.",
+        "explanation": "<b style='color:red'>[Sai]</b> Trong ngữ cảnh muốn giúp đỡ/an ủi, thường dùng <b>どうにか（してあげたい）</b> hoặc <b>なぐさめて</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 26,
+    "question": "うんざり",
+    "reading": "",
+    "translation": "Chán ngấy, phát ngán, ngán ngẩm",
+    "options": [
+      {
+        "text": "子どものころ、食糧不足で、サツマイモをうんざりに食べさせられた。",
+        "translation": "Hồi nhỏ do thiếu lương thực nên tôi đã bị bắt ăn khoai lang đến phát ngán.",
+        "explanation": "<b style='color:red'>[Sai]</b> <b>うんざり</b> thường dùng như một phó từ hoặc động từ nhóm 3 (うんざりする), không đi kèm trợ từ <b>に</b> theo cách này. Nên dùng <b>飽きるほど</b>."
+      },
+      {
+        "text": "その仕事がうんざりなら、ほかの仕事を選んでやってもかまわないよ。",
+        "translation": "Nếu công việc đó khiến bạn phát ngán thì bạn có thể chọn làm việc khác cũng không sao.",
+        "explanation": "<b style='color:red'>[Sai]</b> <b>うんざり</b> không phải là tính từ đuôi na để đi với <b>なら</b> trực tiếp như vậy, thường dùng <b>いやなら</b> hoặc <b>うんざりしているのなら</b>."
+      },
+      {
+        "text": "うんざりながら、薬を飲まざるをえない経験がだれにもあるだろう。",
+        "translation": "Dù chán ngấy nhưng có lẽ ai cũng từng trải qua cảm giác buộc phải uống thuốc.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cấu trúc <b>～ながら</b> không kết hợp trực tiếp với <b>うんざり</b>. Nên dùng <b>嫌（いや）な思いをしながら</b>."
+      },
+      {
+        "text": "彼女のわがままな態度には、みなうんざりしている。",
+        "translation": "Mọi người đều đang phát ngán với thái độ ích kỷ của cô ấy.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>うんざりしている</b> diễn tả trạng thái chán ngán vì một việc gì đó lặp đi lặp lại hoặc quá mức."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 27,
+    "question": "きっかり",
+    "reading": "",
+    "translation": "Chính xác, đúng (thường dùng cho thời gian, số lượng)",
+    "options": [
+      {
+        "text": "この問題は選択肢の3がきっかり合うと思う。",
+        "translation": "Tôi nghĩ câu hỏi này thì phương án 3 là khớp chính xác.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đáp án đúng/phù hợp dùng <b>ぴったり</b>."
+      },
+      {
+        "text": "二人は家柄も性格もきっかりしていると言われる。",
+        "translation": "Hai người đó được nói là cả gia thế lẫn tính cách đều rạch ròi/nghiêm chỉnh.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tính cách đoan trang, nghiêm chỉnh dùng <b>しっかりしている</b>."
+      },
+      {
+        "text": "電車はきっかり時間どおりにホームに到着した。",
+        "translation": "Tàu điện đã vào ga đúng chuẩn (chính xác) theo thời gian.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>きっかり</b> nhấn mạnh vào sự chính xác tuyệt đối của thời gian hoặc con số."
+      },
+      {
+        "text": "勇気があるだけでは足りず、きっかりな判断が要求される。",
+        "translation": "Chỉ có dũng khí thôi là chưa đủ, mà còn yêu cầu sự phán đoán chính xác.",
+        "explanation": "<b style='color:red'>[Sai]</b> Phán đoán xác đáng, dứt khoát dùng <b>的確（てきかく）な</b> hoặc <b>はっきりした</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 28,
+    "question": "かわるがわる",
+    "reading": "",
+    "translation": "Lần lượt, thay phiên nhau",
+    "options": [
+      {
+        "text": "気象観測所の風力計がかわるがわる勢いよく回っている。",
+        "translation": "Máy đo gió của trạm khí tượng đang quay mạnh mẽ lần lượt.",
+        "explanation": "<b style='color:red'>[Sai]</b> Máy đo gió quay liên tục, không phải thay phiên nhau. Nên dùng <b>ぐるぐる</b>."
+      },
+      {
+        "text": "あの人はなにをやっても飽きっぽくて、かわるがわるの性質だ。",
+        "translation": "Người đó làm gì cũng mau chán, đó là bản tính thay đổi liên tục.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tính cách hay thay đổi dùng <b>変わりやすい</b> hoặc <b>移り気な</b>."
+      },
+      {
+        "text": "途中、三人に割り込まれて、列がかわるがわるになってしまった。",
+        "translation": "Giữa chừng bị 3 người xen ngang làm hàng lối bị xáo trộn lần lượt.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hàng lối bị xáo trộn, lộn xộn dùng <b>めちゃくちゃ</b>."
+      },
+      {
+        "text": "お父さんとお母さんはかわるがわる息子に暴力を振るったという。",
+        "translation": "Người ta nói rằng bố và mẹ đã thay phiên nhau bạo hành đứa con trai.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>かわるがわる</b> dùng để chỉ hai hay nhiều người luân phiên thực hiện một hành động."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 29,
+    "question": "ことごとく",
+    "reading": "",
+    "translation": "Tất cả, toàn bộ, không sót cái nào (thường dùng trong văn viết, sắc thái mạnh)",
+    "options": [
+      {
+        "text": "今度旅行に参加する社員はことごとくで30人に及んだ。",
+        "translation": "Số nhân viên tham gia chuyến du lịch lần này tổng cộng lên tới 30 người.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tổng cộng dùng <b>合わせて</b> hoặc <b>全部で</b>."
+      },
+      {
+        "text": "彼に頼んだ以上、信じてください。結果はことごとくだ。",
+        "translation": "Đã nhờ anh ấy rồi thì hãy tin tưởng đi. Kết quả là tất cả.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ý này không rõ ràng trong tiếng Nhật, nếu là mọi việc ổn thỏa dùng <b>万事（ばんじ）OKだ</b>."
+      },
+      {
+        "text": "思春期にあるこの子は親の言うことにことごとく逆らう。",
+        "translation": "Đứa trẻ đang ở tuổi dậy thì này hoàn toàn (mọi thứ) đều chống đối lại lời cha mẹ.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ことごとく</b> dùng để nhấn mạnh việc toàn bộ mọi trường hợp, mọi lời nói đều bị phản kháng."
+      },
+      {
+        "text": "あの人はことごとくを祖国に捧げようと思って帰国したそうだ。",
+        "translation": "Nghe nói người đó về nước với ý định cống hiến tất cả cho tổ quốc.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cống hiến tất cả mọi thứ của bản thân dùng <b>私財（しざい）を投げ打つ</b> hoặc <b>すべてを捧げる</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 30,
+    "question": "もはや",
+    "reading": "",
+    "translation": "Đã, rồi (nhấn mạnh một trạng thái đã thay đổi hoàn toàn, không còn như trước nữa)",
+    "options": [
+      {
+        "text": "この問題に関してはもはや議論の余地はない。",
+        "translation": "Về vấn đề này thì đã không còn chỗ cho sự tranh luận nữa rồi.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>もはや</b> dùng để nhấn mạnh một tình thế đã đi đến điểm kết thúc hoặc không thể thay đổi."
+      },
+      {
+        "text": "彼が来ないだろうと思ったら、もはや来ている。",
+        "translation": "Tôi cứ ngỡ là anh ấy sẽ không đến, hóa ra anh ấy đã đến rồi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diễn tả sự việc xảy ra sớm hơn mong đợi dùng <b>もう</b> hoặc <b>すでに</b>."
+      },
+      {
+        "text": "お子さんが昇進したことはもはやご存知と思います。",
+        "translation": "Tôi nghĩ là có lẽ bạn đã biết việc con mình được thăng chức rồi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Trong lời nói thông thường mang tính dự đoán sự việc đã biết, dùng <b>すでにご存知</b>."
+      },
+      {
+        "text": "病気が悪化する一方で、もはやになっては手遅れだ。",
+        "translation": "Bệnh tình ngày càng xấu đi, đến mức này rồi thì đã quá muộn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cụm từ đúng phải là <b>今となっては</b> (đến bây giờ thì)."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 31,
+    "question": "もっぱら",
+    "reading": "",
+    "translation": "Hầu hết, chủ yếu, chuyên tâm vào một việc",
+    "options": [
+      {
+        "text": "救助をもっぱら求めたが、助けようとする人がいなかった。",
+        "translation": "Tôi đã hết sức cầu cứu nhưng không có ai định giúp đỡ cả.",
+        "explanation": "<b style='color:red'>[Sai]</b> Dốc hết sức làm gì đó dùng <b>ひたすら</b>."
+      },
+      {
+        "text": "自己の責任はもっぱら私にあるから、辞任を覚悟している。",
+        "translation": "Trách nhiệm này hoàn toàn thuộc về tôi, nên tôi đã chuẩn bị tinh thần từ chức.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>もっぱら</b> dùng để nhấn mạnh sự tập trung toàn bộ vào một đối tượng hoặc nguyên nhân duy nhất."
+      },
+      {
+        "text": "会社では、もっぱらな人物はもちろん社長である。",
+        "translation": "Ở công ty, nhân vật quan trọng nhất đương nhiên là giám đốc.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nhân vật trung tâm/chủ chốt dùng <b>中心（ちゅうしん）的</b>."
+      },
+      {
+        "text": "大学にはいろいろな科目があるが、日本語がもっぱらだ。",
+        "translation": "Ở đại học có nhiều môn học, nhưng tiếng Nhật là môn học chính của tôi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Môn học chuyên ngành dùng <b>専攻（せんこう）</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 32,
+    "question": "まさしく",
+    "reading": "",
+    "translation": "Đúng là, đích thực là, không sai vào đâu được",
+    "options": [
+      {
+        "text": "彼女と話してみたら、彼女の英語はまさしく評判どおりだと分かった。",
+        "translation": "Sau khi nói chuyện với cô ấy, tôi nhận ra tiếng Anh của cô ấy đúng là như lời đồn.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>まさしく</b> dùng để khẳng định một sự thật hoàn toàn khớp với những gì đã nghe hoặc nghĩ."
+      },
+      {
+        "text": "調べてみたら、君の言うことはまったくまさしくだった。",
+        "translation": "Sau khi tìm hiểu, những gì cậu nói hoàn toàn chính xác.",
+        "explanation": "<b style='color:red'>[Sai]</b> <b>まさしく</b> không dùng làm tính từ kết thúc câu như vậy. Nên dùng <b>その通りだ</b> hoặc <b>正しい</b>."
+      },
+      {
+        "text": "これはまさしく彼女が書いた字かもしれない。",
+        "translation": "Đây có lẽ đích thị là chữ cô ấy viết.",
+        "explanation": "<b style='color:red'>[Sai]</b> <b>まさしく</b> (khẳng định mạnh) không đi cùng với <b>かもしれない</b> (phân vân)."
+      },
+      {
+        "text": "彼女はかわいがってきたペットに死なれて、まさしく悲しそうだった。",
+        "translation": "Thú cưng yêu quý chết nên cô ấy trông có vẻ rất buồn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nhấn mạnh mức độ cảm xúc dùng <b>いかにも</b> hoặc <b>とても</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 33,
+    "question": "のきなみ",
+    "reading": "",
+    "translation": "Đồng loạt, toàn bộ (như kiểu các ngôi nhà sát vách nhau đều bị ảnh hưởng)",
+    "options": [
+      {
+        "text": "あの女の人の人生にとっては、お金こそそのきなみだ。",
+        "translation": "Đối với cuộc đời người phụ nữ đó, tiền bạc chính là tất cả.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ý muốn nói là tất cả dùng <b>すべて</b>."
+      },
+      {
+        "text": "作ってくれた料理はのきなみぼくの好きなものばかりだった。",
+        "translation": "Những món ăn bạn nấu đồng loạt toàn là món tôi thích.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>のきなみ</b> diễn tả việc nhiều thứ cùng chung một trạng thái."
+      },
+      {
+        "text": "期末テストは全科目のきなみ平均点以下だった。",
+        "translation": "Bài kiểm tra cuối kỳ của tất cả các môn đều đồng loạt dưới điểm trung bình.",
+        "explanation": "<b style='color:green'>[Đúng]</b> Cách dùng này rất phổ biến để chỉ việc hàng loạt đối tượng có cùng kết quả."
+      },
+      {
+        "text": "あなたの部下はのきなみ立派な人物だね。",
+        "translation": "Cấp dưới của anh toàn là những người tuyệt vời nhỉ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Khen ngợi từng người trong một nhóm dùng <b>みな</b> hoặc <b>だれもが</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 34,
+    "question": "てんで",
+    "reading": "",
+    "translation": "Hoàn toàn (thường đi với phủ định), hoặc nhấn mạnh mức độ",
+    "options": [
+      {
+        "text": "ちゃんと勉強してきたから、今年の試験はてんで心配しない。",
+        "translation": "Vì đã học hành tử tế nên kỳ thi năm nay tôi hoàn toàn không lo lắng.",
+        "explanation": "<b style='color:red'>[Sai]</b> <b>てんで</b> đi với phủ định thường mang nghĩa tiêu cực (không hiểu gì cả, không thể làm gì). Ở đây dùng <b>少しも（心配ない）</b>."
+      },
+      {
+        "text": "彼は何が起きてもてんで慌てず落ち着いた人です。",
+        "translation": "Anh ấy là người dù có chuyện gì xảy ra cũng hoàn toàn không hoảng loạn mà rất bình tĩnh.",
+        "explanation": "<b style='color:red'>[Sai]</b> Dùng <b>ちっとも</b> hoặc <b>全く</b> phù hợp hơn."
+      },
+      {
+        "text": "ママはぼくの気持ちなんててんで分かっていなくて困る。",
+        "translation": "Mẹ chẳng hiểu một chút gì về cảm xúc của tôi cả, thật là khổ.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>てんで（～ない）</b> dùng để nhấn mạnh việc hoàn toàn không có một chút gì đó."
+      },
+      {
+        "text": "君が言ったのは彼女の言ったのとはてんで同じだ。",
+        "translation": "Những gì cậu nói hoàn toàn giống với những gì cô ấy nói.",
+        "explanation": "<b style='color:red'>[Sai]</b> <b>てんで</b> không đi với câu khẳng định \"giống nhau\" theo cách này, phải dùng <b>全く同じ</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 35,
+    "question": "いまに",
+    "reading": "",
+    "translation": "Chẳng mấy chốc, sớm muộn gì cũng (thường dùng cho dự đoán tương lai gần)",
+    "options": [
+      {
+        "text": "彼もいまに世間の厳しさと険しさが分かるようになるさ。",
+        "translation": "Rồi sớm muộn gì anh ta cũng sẽ hiểu được sự khắc nghiệt và hiểm trở của dòng đời thôi.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>いまに</b> dùng để dự báo một sự việc chắc chắn sẽ xảy ra trong tương lai."
+      },
+      {
+        "text": "じゃ、いまにまたこちらへ遊びにいらっしゃってくださいよ。",
+        "translation": "Vậy thì, lát nữa hãy lại ghé qua đây chơi nhé.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diễn tả sự việc lặp lại trong tương lai gần dùng <b>また近いうちに</b>."
+      },
+      {
+        "text": "バス停で一服していると、いまにバスがやってきた。",
+        "translation": "Đang hút dở điếu thuốc ở trạm xe buýt thì xe buýt vừa vặn đi tới.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diễn tả sự việc vừa xảy ra dùng <b>ちょうど</b> hoặc <b>まもなく</b>."
+      },
+      {
+        "text": "迷子はいまに泣き出さんばかりの顔をしていた。",
+        "translation": "Đứa trẻ lạc có khuôn mặt như thể sắp khóc đến nơi rồi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diễn tả trạng thái sắp sửa dùng <b>今にも</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 36,
+    "question": "あらかじめ",
+    "reading": "",
+    "translation": "Sẵn, trước (làm việc gì đó sẵn để chuẩn bị)",
+    "options": [
+      {
+        "text": "あらかじめご昇進のうわさはうかがっておりました。",
+        "translation": "Tôi đã nghe phong phanh tin đồn về việc thăng chức của ngài từ trước rồi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nghe tin từ trước dùng <b>かねがね</b> hoặc <b>以前から</b>."
+      },
+      {
+        "text": "あらかじめ一度お伺いしたことがある田中一郎と申します。",
+        "translation": "Tôi là Tanaka Ichiro, người đã từng đến thăm ngài một lần trước đây.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diễn tả việc đã làm trong quá khứ dùng <b>以前</b>."
+      },
+      {
+        "text": "総理はあらかじめ用意された車で官邸を出た。",
+        "translation": "Thủ tướng rời dinh thự bằng chiếc xe đã được chuẩn bị sẵn.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>あらかじめ</b> dùng cho việc chuẩn bị trước một thứ gì đó cho một mục đích cụ thể."
+      },
+      {
+        "text": "総理がA国を訪問するにあらかじめ、外相会談が行われた。",
+        "translation": "Trước khi Thủ tướng thăm nước A, một cuộc hội đàm cấp bộ trưởng ngoại giao đã được tổ chức.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cấu trúc đúng là <b>～に先立って（さきだって）</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 37,
+    "question": "しいて",
+    "reading": "",
+    "translation": "Khăng khăng, nhấn mạnh, hoặc ép buộc làm gì đó",
+    "options": [
+      {
+        "text": "そんなに学校がいやなら、しいて行けとは言わないよ。",
+        "translation": "Nếu con ghét trường học đến thế thì cha không ép con phải đi đâu.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>しいて</b> mang nghĩa ép buộc làm một việc mà đối phương không muốn."
+      },
+      {
+        "text": "故障や修理のことを考えて、少ししいてをして高級車を買う。",
+        "translation": "Suy nghĩ về hỏng hóc và sửa chữa, tôi cố quá sức một chút để mua xe sang.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cố gắng quá sức về tài chính/thể lực dùng <b>無理（むり）をして</b>."
+      },
+      {
+        "text": "相手に自分の意見を受け入れてもらうのをしいてするなんて。",
+        "translation": "Cứ khăng khăng bắt người khác phải chấp nhận ý kiến của mình thì thật là...",
+        "explanation": "<b style='color:red'>[Sai]</b> Hành động ép buộc dùng động từ <b>強いる（しいる）</b> hoặc <b>強制する</b>."
+      },
+      {
+        "text": "自分の皿に取ってくれたんだから、好きではないが、しいて食べた。",
+        "translation": "Vì họ đã lấy vào đĩa cho mình nên dù không thích tôi cũng đã cố ăn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cố gắng làm việc mình không thích dùng <b>無理に</b> hoặc <b>我慢して</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 38,
+    "question": "かつて",
+    "reading": "",
+    "translation": "Đã từng, trước kia (một thời điểm xác định trong quá khứ xa)",
+    "options": [
+      {
+        "text": "おととい、ぼくはかつて日本料理を食べた。",
+        "translation": "Hôm kia, tôi đã từng ăn món Nhật.",
+        "explanation": "<b style='color:red'>[Sai]</b> <b>かつて</b> không dùng cho quá khứ gần như \"hôm kia\"."
+      },
+      {
+        "text": "落とした財布はかつてに戻るのは難しい。",
+        "translation": "Ví đã mất thì khó mà quay lại như trước.",
+        "explanation": "<b style='color:red'>[Sai]</b> Trạng thái ban đầu dùng <b>元（もと）</b>."
+      },
+      {
+        "text": "かつてだったことは後悔しても始まらない。",
+        "translation": "Những việc đã qua thì có hối hận cũng chẳng ích gì.",
+        "explanation": "<b style='color:red'>[Sai]</b> Việc đã kết thúc dùng <b>済んだこと</b> hoặc <b>過去のこと</b>."
+      },
+      {
+        "text": "被災地にはかつての面影はまったくなかった。",
+        "translation": "Ở vùng bị thiên tai, không còn lại một chút bóng dáng nào của ngày xưa.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>かつて</b> dùng để so sánh trạng thái hiện tại với một thời điểm hoàng kim hoặc xác định trong quá khứ."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 39,
+    "question": "もろに",
+    "reading": "",
+    "translation": "Trực diện, trực tiếp, hoàn toàn (chịu tác động mạnh)",
+    "options": [
+      {
+        "text": "借金があるから、彼の顔をもろに見られない。",
+        "translation": "Vì đang nợ nần nên tôi không thể nhìn thẳng vào mặt anh ấy.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nhìn thẳng vào mặt dùng <b>まとも（に）</b>."
+      },
+      {
+        "text": "わが社はアジア通貨危機の影響をもろに受けて倒産した。",
+        "translation": "Công ty chúng tôi đã bị phá sản do chịu ảnh hưởng trực tiếp từ cuộc khủng hoảng tài chính Châu Á.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>もろに</b> dùng khi chịu tác động tiêu cực một cách trực tiếp và toàn bộ."
+      },
+      {
+        "text": "熱い鍋の取っ手をもろにつかんでやけどした。",
+        "translation": "Tôi đã nắm trực tiếp vào quai nồi nóng và bị bỏng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nắm trực tiếp bằng tay trần dùng <b>素手（すで）で</b>."
+      },
+      {
+        "text": "ほら、もろに見えるあの高いビルが国際ホテルだよ。",
+        "translation": "Nhìn kìa, cái tòa nhà cao tầng mà bạn có thể thấy rõ mồn một kia chính là khách sạn quốc tế.",
+        "explanation": "<b style='color:red'>[Sai]</b> Thấy rõ ràng dùng <b>はっきり</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 40,
+    "question": "むやみに",
+    "reading": "",
+    "translation": "Một cách bừa bãi, thiếu suy nghĩ, quá mức",
+    "options": [
+      {
+        "text": "むやみにお金を使うことができる人が羨ましいね。",
+        "translation": "Tôi ghen tị với những người có thể tiêu tiền một cách bừa bãi.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tiêu xài hoang phí thường dùng <b>ふんだんに</b> hoặc <b>思い切り</b>."
+      },
+      {
+        "text": "標本を作るからって、むやみに生き物を殺すのはよくない。",
+        "translation": "Dù là để làm tiêu bản thì việc giết chóc sinh vật một cách bừa bãi là không tốt.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>むyみに</b> dùng để chỉ hành động tùy tiện, không có lý do chính đáng hoặc quá mức cần thiết."
+      },
+      {
+        "text": "以前はたまに家内と映画も見たが、子供が生まれてからむやみに見ない。",
+        "translation": "Trước đây thỉnh thoảng tôi có đi xem phim với vợ, nhưng từ khi có con thì không xem bừa bãi nữa.",
+        "explanation": "<b style='color:red'>[Sai]</b> Ở đây nên dùng <b>めったに（～ない）</b> để chỉ tần suất hiếm khi."
+      },
+      {
+        "text": "ちょっとしたことで人を殺すなんて、むやみだねぇ。",
+        "translation": "Giết người chỉ vì một chuyện nhỏ nhặt, thật là mù quáng/coi thường mạng sống nhỉ.",
+        "explanation": "<b style='color:red'>[Sai]</b> Trường hợp này dùng <b>無謀（むぼう）</b> hoặc <b>ひどい</b> sẽ phù hợp hơn."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 41,
+    "question": "突如",
+    "reading": "とつじょ",
+    "translation": "Đột nhiên, bất thình lình",
+    "options": [
+      {
+        "text": "このごろ、お父さんの作った料理は突如おいしくなってきた。",
+        "translation": "Dạo gần đây, món ăn bố nấu đột nhiên trở nên ngon hơn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Sự thay đổi trạng thái theo thời gian nên dùng <b>急に</b> hoặc <b>いつの間にかに</b>."
+      },
+      {
+        "text": "彼が突如大声で叫んだので、周りの人はみなびっくりした。",
+        "translation": "Anh ta đột nhiên hét lớn lên khiến mọi người xung quanh đều giật mình.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>突如</b> dùng cho một sự việc xảy ra bất ngờ, mang tính chất khoảnh khắc và gây ngạc nhiên lớn."
+      },
+      {
+        "text": "写真を見ていたら、突如として彼女に会いたくなった。",
+        "translation": "Đang xem ảnh thì tôi bỗng nhiên muốn gặp cô ấy.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cảm xúc chợt nảy sinh thường dùng <b>ふと</b> hoặc <b>急に</b>."
+      },
+      {
+        "text": "意外なことに、ずっと待ち望んでいた人の来たのは突如だった。",
+        "translation": "Thật bất ngờ, việc người tôi hằng mong đợi đã đến một cách đột ngột.",
+        "explanation": "<b style='color:red'>[Sai]</b> Kết quả bất ngờ nên dùng <b>突然（とつぜん）</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "question": "一挙に",
+    "translation": "Một lần, đồng loạt, một cú (giải quyết dứt điểm)",
+    "options": [
+      {
+        "text": "今の若い人には政治問題に一挙に関心を持っていない人が多いようだ。",
+        "translation": "Có vẻ nhiều người trẻ hiện nay hoàn toàn không quan tâm đến vấn đề chính trị.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hoàn toàn không quan tâm dùng <b>ちっとも</b> hoặc <b>全く</b>."
+      },
+      {
+        "text": "国連とはいえ、数多くある国際問題を一挙に解決するのは無理だろう。",
+        "translation": "Dù là Liên Hợp Quốc thì việc giải quyết đồng loạt nhiều vấn đề quốc tế cùng một lúc có lẽ là không thể.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>一挙に</b> dùng khi thực hiện một hành động để làm thay đổi mọi thứ hoặc hoàn thành nhiều việc trong một lần."
+      },
+      {
+        "text": "小学生が道路を渡るとき、車は一挙に止めなければならない。",
+        "translation": "Khi học sinh tiểu học băng qua đường, xe cộ phải dừng lại đồng loạt.",
+        "explanation": "<b style='color:red'>[Sai]</b> Dừng lại ngay lập tức dùng <b>一斉（いっせい）に</b> hoặc <b>直ちに</b>."
+      },
+      {
+        "text": "息子の部屋をのぞいたら、一挙にゲームをやっていた。",
+        "translation": "Khi tôi nhìn vào phòng con trai, nó đang mải mê chơi game.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đang mải mê làm gì đó dùng <b>ひたすら</b> hoặc <b>熱心に</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 43,
+    "question": "ややもすれば",
+    "translation": "Có xu hướng, hơi một tí là... (thường là hướng không tốt)",
+    "options": [
+      {
+        "text": "我々はややもすれば自分と異なった考え方を排除しがちだ。",
+        "translation": "Chúng ta thường có xu hướng loại bỏ những cách suy nghĩ khác biệt với bản thân.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>ややもすれば</b> thường đi kèm với <b>～がちだ</b> hoặc <b>～やすい</b> để chỉ một khuynh hướng tiêu cực dễ xảy ra."
+      },
+      {
+        "text": "最近になって、ややもすれば暖かくなってきて過ごしやすい。",
+        "translation": "Gần đây trời có xu hướng ấm dần lên nên dễ chịu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Xu hướng tích cực/tự nhiên dùng <b>だんだん</b> hoặc <b>ようやく</b>."
+      },
+      {
+        "text": "ややもすれば汚染された水を飲んだせいで病気になった。",
+        "translation": "Có lẽ là do uống nước bị ô nhiễm nên đã bị bệnh.",
+        "explanation": "<b style='color:red'>[Sai]</b> Chỉ nguyên nhân/phỏng đoán dùng <b>もしかすると</b> hoặc <b>どうやら</b>."
+      },
+      {
+        "text": "チェーン店の規模をややもすればいいじゃないかと思うけど。",
+        "translation": "Tôi nghĩ rằng quy mô của chuỗi cửa hàng nên được mở rộng thêm thì tốt hơn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diễn đạt ý muốn/đề án dùng <b>もう少し</b> hoặc <b>いっそ</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 44,
+    "question": "びくとも",
+    "translation": "Không hề lay chuyển, không hề nao núng, không hề hấn gì",
+    "options": [
+      {
+        "text": "大きな困難にぶつかったにもかかわらず、彼はびくとも驚かない。",
+        "translation": "Mặc dù gặp phải khó khăn lớn nhưng anh ấy vẫn không hề nao núng hay sợ hãi.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>びくとも（～ない）</b> dùng để nhấn mạnh sự vững vàng, không bị tác động bởi ngoại cảnh mạnh mẽ."
+      },
+      {
+        "text": "疲れた時、びくとも動かないまま休んだほうがいい。",
+        "translation": "Khi mệt, nên nghỉ ngơi mà không cử động chút nào.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không cử động dùng <b>じっと</b>."
+      },
+      {
+        "text": "フリーズしたパソコンはびくとも作動しなくなった。",
+        "translation": "Cái máy tính bị đóng băng đã hoàn toàn không hoạt động nữa.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hoàn toàn không hoạt động dùng <b>一切（いっさい）</b>."
+      },
+      {
+        "text": "暴風が収まり、海面がびくともしない静かさに返った。",
+        "translation": "Cơn bão đã ngớt, mặt biển trở lại sự yên lặng không một gợn sóng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Không một gợn sóng dùng <b>鏡（かがみ）のような</b> hoặc <b>ひっそり</b>."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": 45,
+    "question": "あたかも",
+    "reading": "",
+    "translation": "Cứ như thể là, giống hệt như (thường đi với まるで...のようだ)",
+    "options": [
+      {
+        "text": "あの人はあたかも日本人だから、話しかけてみた。",
+        "translation": "Vì người đó có vẻ là người Nhật nên tôi đã thử bắt chuyện.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diễn tả lý do dựa trên vẻ ngoài nên dùng <b>いかにも</b> hoặc <b>どうやら</b>."
+      },
+      {
+        "text": "友達からあたかも5万円貸してもらった。",
+        "translation": "Tôi đã được bạn cho vay đúng 5 vạn yên.",
+        "explanation": "<b style='color:red'>[Sai]</b> Diễn tả số lượng chính xác dùng <b>きっかり</b> hoặc <b>ちょうど</b>."
+      },
+      {
+        "text": "人生はあたかも春の夢のごとく過ぎてゆく。",
+        "translation": "Cuộc đời trôi qua giống hệt như một giấc mộng đêm xuân.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>あたかも</b> dùng để so sánh hai sự việc giống hệt nhau, thường đi kèm với cấu trúc <b>～のごとく</b> hoặc <b>～のようだ</b>."
+      },
+      {
+        "text": "これはあたかも昨日、ぼくが落とした財布だよ。",
+        "translation": "Đây chính xác là cái ví tôi đã đánh rơi ngày hôm qua.",
+        "explanation": "<b style='color:red'>[Sai]</b> Nhấn mạnh sự chính xác của đồ vật dùng <b>まさしく</b>."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 46,
+    "question": "折り返し",
+    "reading": "おりかえし",
+    "translation": "Ngay lập tức, phản hồi lại ngay (thường dùng trong liên lạc, điện thoại)",
+    "options": [
+      {
+        "text": "先生のご説明を聞いて、折り返し分かりました。",
+        "translation": "Sau khi nghe thầy giải thích, tôi đã hiểu ra ngay lập tức.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hiểu ngay lập tức dùng <b>即座（そくざ）に</b> hoặc <b>すぐに</b>."
+      },
+      {
+        "text": "彼は受話器を置くと、折り返し出て行った。",
+        "translation": "Vừa đặt ống nghe xuống, anh ta liền đi ra ngoài ngay.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hành động nối tiếp nhau dùng <b>すぐさま</b> hoặc <b>そのまま</b>."
+      },
+      {
+        "text": "間に合いそうもないから、仕事を折り返ししてください。",
+        "translation": "Vì có vẻ không kịp nên hãy đẩy nhanh tiến độ công việc.",
+        "explanation": "<b style='color:red'>[Sai]</b> Làm gấp rút dùng <b>急いで</b>."
+      },
+      {
+        "text": "課長が戻りましたら、折り返しこちらからご連絡します。",
+        "translation": "Khi trưởng phòng quay lại, phía chúng tôi sẽ liên lạc lại ngay cho quý khách.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>折り返し</b> là thuật ngữ lịch sự trong kinh doanh, dùng khi phản hồi lại một cuộc gọi hoặc liên lạc ngay sau khi có điều kiện."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 47,
+    "question": "当分",
+    "reading": "とうぶん",
+    "translation": "Trong một thời gian nữa, hiện tại vẫn (duy trì một trạng thái)",
+    "options": [
+      {
+        "text": "これらの仕事を当分にしあげねばならない。",
+        "translation": "Phải hoàn thành những công việc này trong thời gian ngắn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hoàn thành sớm dùng <b>早急（さきゅう）に</b>."
+      },
+      {
+        "text": "おれは将来の計画より当分を考えている。",
+        "translation": "Tôi đang suy nghĩ về hiện tại hơn là kế hoạch tương lai.",
+        "explanation": "<b style='color:red'>[Sai]</b> Hiện tại dùng <b>目下（めした）</b> hoặc <b>今現在</b>."
+      },
+      {
+        "text": "それを聞いて、彼は当分黙っていた。",
+        "translation": "Nghe điều đó xong, anh ta đã im lặng một lúc lâu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Im lặng một lúc dùng <b>しばらく</b>."
+      },
+      {
+        "text": "このお天気は当分の間続く見込みです。",
+        "translation": "Tình hình thời tiết này dự kiến sẽ còn tiếp diễn trong một thời gian nữa.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>当分</b> dùng để chỉ một trạng thái sẽ còn kéo dài tiếp tục từ nay về sau."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 48,
+    "question": "取り立てて",
+    "reading": "とりたてて",
+    "translation": "Đặc biệt, đáng giá (thường đi với phủ định: không có gì đặc biệt)",
+    "options": [
+      {
+        "text": "ぼくの取り立てて好きな日本料理というと、納豆かな。",
+        "translation": "Nếu nói về món Nhật tôi đặc biệt thích thì chắc là Natto.",
+        "explanation": "<b style='color:red'>[Sai]</b> Đặc biệt thích dùng <b>特に</b>."
+      },
+      {
+        "text": "みんな優秀な選手だけど、山口君は取り立ててすばらしい。",
+        "translation": "Mọi người đều là tuyển thủ ưu tú, nhưng cậu Yamaguchi đặc biệt xuất sắc.",
+        "explanation": "<b style='color:red'>[Sai]</b> Xuất sắc vượt trội dùng <b>とりわけ</b>."
+      },
+      {
+        "text": "中学生は注意すると取り立てて悪いことをするものだ。",
+        "translation": "Học sinh cấp 2 hễ bị nhắc nhở là lại càng làm việc xấu.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cố tình làm trái dùng <b>あえて</b> hoặc <b>わざと</b>."
+      },
+      {
+        "text": "事故の原因ははっきりしているのだから、取り立てて調べる必要はない。",
+        "translation": "Nguyên nhân vụ tai nạn đã rõ ràng rồi nên không cần thiết phải điều tra thêm một cách đặc biệt làm gì.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>取り立てて</b> thường dùng trong câu phủ định (～ない) để chỉ việc gì đó không cần thiết phải nhấn mạnh hoặc không có gì đặc biệt."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 49,
+    "question": "一目散に",
+    "reading": "いちもくさんに",
+    "translation": "Chạy thục mạng, chạy bán sống bán chết, hết tốc lực",
+    "options": [
+      {
+        "text": "煙突から噴き出した煙が風で一目散に消えた。",
+        "translation": "Khói phả ra từ ống khói đã tan biến ngay lập tức trong gió.",
+        "explanation": "<b style='color:red'>[Sai]</b> Tan biến nhanh chóng dùng <b>一気に</b> hoặc <b>あっという間に</b>."
+      },
+      {
+        "text": "男はサイレンの音を聞くと、一目散に逃げ出した。",
+        "translation": "Người đàn ông vừa nghe tiếng còi báo động đã vắt chân lên cổ chạy trốn.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>一目散に</b> dùng để miêu tả hành động chạy trốn hoặc di chuyển cực nhanh với tất cả sức bình sinh."
+      },
+      {
+        "text": "馬たちは広い草原を楽しくかつ、一目散に駆けている。",
+        "translation": "Đàn ngựa đang chạy hết tốc lực và vui vẻ trên thảo nguyên rộng lớn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Chạy tự do dùng <b>駆け回る</b>."
+      },
+      {
+        "text": "彼はアクセルをいっぱい踏んで車を一目散に走らせた。",
+        "translation": "Anh ta đạp hết ga khiến chiếc xe chạy với tốc độ kinh khủng.",
+        "explanation": "<b style='color:red'>[Sai]</b> Xe chạy tốc độ cao dùng <b>猛スピードで</b>."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50,
+    "question": "一心",
+    "reading": "いっしん",
+    "translation": "Quyết tâm, đồng lòng, tập trung toàn tâm toàn ý",
+    "options": [
+      {
+        "text": "彼は学問研究一心で、ほかのことには一切関心を示さない。",
+        "translation": "Anh ấy dồn hết tâm trí vào nghiên cứu học thuật và không hề quan tâm đến bất cứ điều gì khác.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cách dùng đúng phải là <b>～一心に</b> hoặc danh từ kết hợp như <b>～に一心である</b>. Trong trường hợp này, dùng <b>ひたすら</b> hoặc <b>専念</b> sẽ tự nhiên hơn."
+      },
+      {
+        "text": "私はこれから二度とあいつに会うまいと一心している。",
+        "translation": "Tôi đang quyết tâm từ nay về sau sẽ không bao giờ gặp lại gã đó nữa.",
+        "explanation": "<b style='color:red'>[Sai]</b> Quyết tâm làm gì đó dùng <b>決心（けっしん）</b>."
+      },
+      {
+        "text": "お母さんは戦場の息子の無事を一心に祈った。",
+        "translation": "Người mẹ đã cầu nguyện bằng cả tấm lòng cho sự bình an của đứa con nơi chiến trường.",
+        "explanation": "<b style='color:green'>[Đúng]</b> <b>一心に</b> diễn tả việc tập trung toàn bộ tâm trí và cảm xúc vào một hành động (như cầu nguyện, làm việc)."
+      },
+      {
+        "text": "ぼくは大声で一心に好きなチームに応援した。",
+        "translation": "Tôi đã cổ vũ hết mình cho đội bóng yêu thích bằng tiếng hét lớn.",
+        "explanation": "<b style='color:red'>[Sai]</b> Cổ vũ nhiệt tình thường dùng <b>懸命（けんめい）に</b> hoặc <b>精一杯（せいいっぱい）</b>."
+      }
+    ],
+    "answer": 2
+  }
+]

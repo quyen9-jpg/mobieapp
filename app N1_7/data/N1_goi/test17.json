@@ -1,0 +1,1203 @@
+[
+  {
+    "id": 1,
+    "question": "照明に＿＿＿＿と照らされたステージに歌手が上がった。",
+    "translation": "Ca sĩ bước lên sân khấu đang được chiếu sáng rực rỡ bởi ánh đèn.",
+    "options": ["はらはら", "ぶかぶか", "まるまる", "こうこう"],
+    "answer": 3,
+    "explanation": "【こうこう - 煌々と】: Rực rỡ, sáng choang (thường dùng cho ánh đèn, ánh trăng).\n- はらはら: Lo lắng / Rơi lả tả.\n- ぶかぶか: Rộng thùng thình.\n- まるまる: Tròn trịa."
+  },
+  {
+    "id": 2,
+    "question": "人の世話をすることが、＿＿＿＿自分のためにもなる。",
+    "translation": "Việc chăm sóc người khác rốt cuộc cũng là vì bản thân mình.",
+    "options": ["まして", "ひいては", "しいて", "さては"],
+    "answer": 1,
+    "explanation": "【ひいては - 延いては】: Và cuối cùng là, dẫn đến là (chỉ kết quả lớn hơn từ một hành động nhỏ).\n- まして: Huống chi là.\n- しいて: Miễn cưỡng.\n- さては: Hóa ra là."
+  },
+  {
+    "id": 3,
+    "question": "本の中でも＿＿＿＿歴史小説が好きだ。",
+    "translation": "Trong các loại sách, tôi đặc biệt thích tiểu thuyết lịch sử.",
+    "options": ["のきなみ", "ひたすら", "とりわけ", "まるごと"],
+    "answer": 2,
+    "explanation": "【とりわけ】: Đặc biệt là, nhất là (giữa nhiều lựa chọn).\n- のきなみ: Đồng loạt.\n- ひたすら: Chuyên tâm.\n- まるごと: Toàn bộ."
+  },
+  {
+    "id": 4,
+    "question": "パーティーには伺えないこととて、＿＿＿＿。",
+    "translation": "Vì tôi không thể đến dự tiệc được, mong bạn thông cảm.",
+    "options": ["あくまでも", "あしからず", "あいかわらず", "あらかじめ"],
+    "answer": 1,
+    "explanation": "【あしからず - 悪しからず】: Mong đừng hiểu lầm, mong thứ lỗi (dùng khi từ chối).\n- あくまでも: Đến cùng.\n- あいかわらず: Vẫn như mọi khi.\n- あらかじめ: Sẵn trước."
+  },
+  {
+    "id": 5,
+    "question": "彼女がだれにでも優しいのは＿＿＿＿の性格だ。",
+    "translation": "Việc cô ấy tử tế với tất cả mọi người là do tính cách bẩm sinh.",
+    "options": ["まえもって", "せんだって", "うまれつき", "からだつき"],
+    "answer": 2,
+    "explanation": "【うまれつき - 生まれつき】: Bẩm sinh, trời sinh.\n- まえもって: Chuẩn bị trước.\n- せんだって: Gần đây.\n- からだつき: Vóc dáng."
+  },
+  {
+    "id": 6,
+    "question": "給料の支給が遅れているので、あぶないと思っていたら、＿＿＿＿倒産した。",
+    "translation": "Vì lương bị chậm nên tôi đã thấy có điềm xấu rồi, quả nhiên công ty đã phá sản.",
+    "options": ["あんがいにも", "あんのじょう", "かろうじて", "あやうく"],
+    "answer": 1,
+    "explanation": "【あんのじょう - 案の定】: Quả nhiên (thường dùng cho kết quả xấu đã dự đoán).\n- あんがいにも: Bất ngờ.\n- かろうじて: Vừa đủ, suýt soát.\n- あやうく: Suýt nữa thì."
+  },
+  {
+    "id": 7,
+    "question": "父は、＿＿＿＿の困難を乗り越えて、会社を大きくしてきた。",
+    "translation": "Cha tôi đã vượt qua vô vàn khó khăn để phát triển công ty lớn mạnh.",
+    "options": ["いくら", "いくた", "かねて", "まして"],
+    "answer": 1,
+    "explanation": "【いくた - 幾多】: Nhiều, vô số (từ trang trọng).\n- いくら: Bao nhiêu.\n- かねて: Trước đây.\n- まして: Huống chi là."
+  },
+  {
+    "id": 8,
+    "question": "外回りの仕事は＿＿＿＿私の性質に合っている。",
+    "translation": "Công việc đi thị trường vốn dĩ rất phù hợp với tính cách của tôi.",
+    "options": ["おのずから", "とうてい", "がんらい", "ひとすじ"],
+    "answer": 2,
+    "explanation": "【がんらい - 元来】: Vốn dĩ, từ đầu.\n- おのずから: Tự nhiên.\n- とうてい: Hoàn toàn (không).\n- ひとすじ: Một lòng một dạ."
+  },
+  {
+    "id": 9,
+    "question": "借りたお金を約束の時間どおりに返すのは＿＿＿＿当たり前の原則である。",
+    "translation": "Trả tiền đã mượn đúng hẹn là một nguyên tắc hết sức hiển nhiên.",
+    "options": ["つとめて", "もしかして", "しいて", "いたって"],
+    "answer": 3,
+    "explanation": "【いたって - 至って】: Rất, cực kỳ (thường đi với điều hiển nhiên).\n- つとめて: Cố gắng.\n- もしかして: Có lẽ nào.\n- しいて: Miễn cưỡng."
+  },
+  {
+    "id": 10,
+    "question": "彼は体が＿＿＿＿して、たくましい青年だ。",
+    "translation": "Anh ấy có cơ thể rắn chắc, là một thanh niên lực lưỡng.",
+    "options": ["がっしり", "がっくり", "げっそり", "すんなり"],
+    "answer": 0,
+    "explanation": "【がっしり】: Rắn chắc, vững chãi (cơ thể hoặc công trình).\n- がっくり: Thất vọng / Suy sụp.\n- げっそり: Gầy sọp đi.\n- すんなり: Thon gọn / Trôi chảy."
+  },
+  {
+    "id": 11,
+    "question": "兄にもらったセーターは、大きすぎて＿＿＿＿だった。",
+    "translation": "Cái áo len anh trai tặng quá to, rộng thùng thình.",
+    "options": ["まるまる", "ふわふわ", "ぶかぶか", "つくづく"],
+    "answer": 2,
+    "explanation": "【ぶかぶか】: Rộng thùng thình (quần áo, giày dép).\n- まるまる: Toàn bộ / Tròn trịa.\n- ふわふわ: Mềm mại, bồng bềnh.\n- つくづく: Sâu sắc."
+  },
+  {
+    "id": 12,
+    "question": "もう12月だというのに、私は＿＿＿＿志望校を決めていない。",
+    "translation": "Dù đã là tháng 12 rồi mà đến giờ tôi vẫn chưa quyết định được trường nguyện vọng.",
+    "options": ["いまさら", "いまに", "いまだに", "いまや"],
+    "answer": 2,
+    "explanation": "【いまだに - 未だに】: Cho đến giờ vẫn (thường dùng với thể phủ định, diễn tả sự việc kéo dài hơn mong đợi).\n- いまさら: Đến lúc này mới...\n- いまに: Chẳng mấy chốc.\n- いまや: Bây giờ thì (so với quá khứ)."
+  },
+  {
+    "id": 13,
+    "question": "今、何に興味があるか考えれば、＿＿＿＿、自分の進むべき道が見えてくる。",
+    "translation": "Nếu suy nghĩ bây giờ mình đang hứng thú với điều gì, tự khắc con đường mình nên đi sẽ hiện ra.",
+    "options": ["ずらっと", "おのずから", "きわめて", "いやいや"],
+    "answer": 1,
+    "explanation": "【おのずから - 自ずから】: Tự nhiên, tự khắc, một cách tự nhiên.\n- ずらっと: (Hàng lối) san sát, thẳng tắp.\n- きわめて: Cực kỳ.\n- いやいや: Miễn cưỡng, không tình nguyện."
+  },
+  {
+    "id": 14,
+    "question": "若いうちにいろいろ知識を身につけて、将来のために＿＿＿＿した基礎を築いておく。",
+    "translation": "Khi còn trẻ nên tích lũy nhiều kiến thức để xây dựng một nền tảng vững chắc cho tương lai.",
+    "options": ["がっちり", "すんなり", "かなり", "たっぷり"],
+    "answer": 0,
+    "explanation": "【がっちり】: Vững chắc, chặt chẽ (nền tảng, cấu trúc).\n- すんなり: Trôi chảy, thon gọn.\n- かなり: Khá là.\n- たっぷり: Đầy tràn, nhiều."
+  },
+  {
+    "id": 15,
+    "question": "わずか数秒で水と油は＿＿＿＿と2層に分かれる。",
+    "translation": "Chỉ trong vài giây, nước và dầu phân chia thành 2 lớp rõ rệt.",
+    "options": ["くっきり", "がっしり", "きっぱり", "じっくり"],
+    "answer": 0,
+    "explanation": "【くっきり】: Rõ ràng, rành mạch (hình ảnh, sự phân chia).\n- がっしり: Rắn chắc.\n- きっぱり: Dứt khoát (thái độ).\n- じっくり: Kỹ lưỡng, thong thả."
+  },
+  {
+    "id": 16,
+    "question": "この仕事には＿＿＿＿判断することが要求される。",
+    "translation": "Công việc này yêu cầu phải đưa ra phán đoán ngay tức thì.",
+    "options": ["うっとり", "そくざに", "すくすくと", "かつて"],
+    "answer": 1,
+    "explanation": "【そくざに - 即座に】: Ngay lập tức, tức thì.\n- うっとり: Mải mê, say đắm.\n- すくすくと: (Lớn lên) nhanh chóng, vùn vụt.\n- かつて: Trước đây."
+  },
+  {
+    "id": 17,
+    "question": "＿＿＿＿宝くじに当たったとしたら、何を買いますか。",
+    "translation": "Giả sử nếu trúng số thì bạn sẽ mua cái gì?",
+    "options": ["かりに", "いかに", "たとえて", "たとえ"],
+    "answer": 0,
+    "explanation": "【かりに - 仮に】: Giả sử, giả định là.\n- いかに: Như thế nào.\n- たとえて: Ví dụ như.\n- たとえ: Dẫu cho."
+  },
+  {
+    "id": 18,
+    "question": "あなたには、努力を続けて、学問の道を＿＿＿＿歩んでいってほしい。",
+    "translation": "Tôi muốn bạn tiếp tục nỗ lực và không ngừng bước đi trên con đường học vấn.",
+    "options": ["きわめて", "あえて", "しいて", "もしかして"],
+    "answer": 0,
+    "explanation": "【きわめて - 極めて】: Cực kỳ, hết sức (ở đây dùng để chỉ sự chuyên tâm đi đến cùng cực con đường học vấn).\n- あえて: Mạnh dạn.\n- しいて: Miễn cưỡng.\n- もしかして: Có lẽ nào."
+  },
+  {
+    "id": 19,
+    "question": "＿＿＿＿中国は世界の人々に注目される国となった。",
+    "translation": "Giờ đây Trung Quốc đã trở thành quốc gia được mọi người trên thế giới chú ý.",
+    "options": ["つかのま", "さきほど", "いまや", "いつか"],
+    "answer": 2,
+    "explanation": "【いまや - 今や】: Bây giờ thì, giờ đây (nhấn mạnh sự thay đổi so với trước).\n- つかのま: Trong chốc lát.\n- さきほど: Lúc nãy.\n- いつか: Khi nào đó."
+  },
+  {
+    "id": 20,
+    "question": "駅を出ると電車は＿＿＿＿スピードを上げた。",
+    "translation": "Vừa rời khỏi ga, con tàu đã tăng tốc đáng kể.",
+    "options": ["そっと", "ぐっと", "ほっと", "はっと"],
+    "answer": 1,
+    "explanation": "【ぐっと】: Hơn hẳn, nhiều, đáng kể (thường dùng cho sự thay đổi mức độ).\n- そっと: Nhẹ nhàng, len lén.\n- ほっと: Thở phào nhẹ nhõm.\n- はっと: Giật mình, sửng sốt."
+  },
+  {
+    "id": 21,
+    "question": "彼らは＿＿＿＿けんかしている。",
+    "translation": "Họ suốt ngày cãi nhau.",
+    "options": ["ことに", "まことに", "しょっちゅう", "そうきゅう"],
+    "answer": 2,
+    "explanation": "【しょっちゅう】: Thường xuyên, luôn luôn (ngôn ngữ nói).\n- ことに: Đặc biệt là.\n- まことに: Thực sự.\n- そうきゅう: Cấp bách."
+  },
+  {
+    "id": 22,
+    "question": "僕は株券の取引には＿＿＿＿興味がありません。",
+    "translation": "Tôi hoàn toàn không có hứng thú với việc giao dịch cổ phiếu.",
+    "options": ["はっきり", "うっかり", "げっそり", "まるきり"],
+    "answer": 3,
+    "explanation": "【まるきり - 丸切り】: Hoàn toàn (không)... (thường đi với phủ định).\n- はっきり: Rõ ràng.\n- うっかり: Lơ đễnh.\n- げっそり: Gầy sọp đi."
+  },
+  {
+    "id": 23,
+    "question": "あの人は＿＿＿＿した性質で、諦めるのは早いし、付き合いやすい人です。",
+    "translation": "Người đó tính tình thẳng thắn, từ bỏ cũng nhanh và là người rất dễ gần.",
+    "options": ["うんざり", "ずばりと", "まるまると", "あっさり"],
+    "answer": 3,
+    "explanation": "【あっさり】: Thẳng thắn, đơn giản, không để bụng.\n- うんざり: Chán ngấy.\n- ずばりと: Nói thẳng thừng.\n- まるまると: Tròn trịa."
+  },
+  {
+    "id": 24,
+    "question": "あの店には、新商品が＿＿＿＿並んでいる。",
+    "translation": "Ở cửa hàng kia, các sản phẩm mới đang được bày bán san sát nhau.",
+    "options": ["さっさと", "ぴたりと", "ずらっと", "わざと"],
+    "answer": 2,
+    "explanation": "【ずらっと】: San sát, thành một hàng dài.\n- さっさと: Nhanh chóng.\n- ぴたりと: Khít khao, đột ngột dừng lại.\n- わざと: Cố ý."
+  },
+  {
+    "id": 25,
+    "question": "田中さんは一人っ子なので、＿＿＿＿されて育った。",
+    "translation": "Anh Tanaka là con một nên được nuôi chiều, săn đón từ bé.",
+    "options": ["ちやほや", "あやふや", "はらはら", "おどおど"],
+    "answer": 0,
+    "explanation": "【ちやほや】: Nuông chiều, săn đón.\n- あやふya: Mơ hồ, không rõ ràng.\n- はらはら: Lo lắng, thấp thỏm.\n- おどおど: Ngập ngừng, lúng túng."
+  },
+  {
+    "id": 26,
+    "question": "彼は＿＿＿＿この店に来るので、近いうちに会えると思う。",
+    "translation": "Anh ấy hay ghé cửa hàng này nên tôi nghĩ sớm muộn gì cũng sẽ gặp được thôi.",
+    "options": ["あやふや", "ちゃくちゃく", "ちょいちょい", "やすやす"],
+    "answer": 2,
+    "explanation": "【ちょいちょい】: Thường xuyên, dăm ba bận (ngôn ngữ nói).\n- あやふや: Mơ hồ.\n- ちゃくちゃく: Một cách vững chắc, ổn định.\n- やすやす: Một cách dễ dàng."
+  },
+  {
+    "id": 27,
+    "question": "彼女は、手足が＿＿＿＿として背が高い。",
+    "translation": "Cô ấy có tay chân thon dài và dáng người cao.",
+    "options": ["なんなり", "すんなり", "いきなり", "かなり"],
+    "answer": 1,
+    "explanation": "【すんなり】: Thon dài, mảnh khảnh / Trôi chảy.\n- なんなり: Bất cứ thứ gì.\n- いきなり: Bất ngờ.\n- かなり: Khá là."
+  },
+  {
+    "id": 28,
+    "question": "彼女とは＿＿＿＿の会で知り合った。",
+    "translation": "Tôi đã quen biết cô ấy trong một buổi tiệc (hội) trước đây.",
+    "options": ["めだって", "なりたって", "さきだって", "せんだって"],
+    "answer": 3,
+    "explanation": "【せんだって - 先だって】: Gần đây, vài ngày trước.\n- めだって: Nổi bật.\n- なりたって: Hình thành, bao gồm.\n- さきだって: Trước khi."
+  },
+  {
+    "id": 29,
+    "question": "今、＿＿＿＿の日本の家では乗用車を持っている。",
+    "translation": "Ngày nay, hầu hết các gia đình ở Nhật đều có xe hơi riêng.",
+    "options": ["とうてい", "たいがい", "いっさい", "むろん"],
+    "answer": 1,
+    "explanation": "【たいがい - 大概】: Hầu hết, phần lớn.\n- とうてい: Hoàn toàn (không).\n- いっさい: Toàn bộ / Nhất thiết (không).\n- むろん: Đương nhiên."
+  },
+  {
+    "id": 30,
+    "question": "隣のおじさんは、よその人に会うと、＿＿＿＿ぺこぺこして、お世辞ばかり言っている。",
+    "translation": "Ông chú hàng xóm hễ gặp người lạ là lại khúm núm quá mức và toàn nói lời nịnh hót.",
+    "options": ["もろに", "かりに", "やたらに", "まことに"],
+    "answer": 2,
+    "explanation": "【やたらに】: Quá mức, thiếu suy nghĩ, vô tội vạ.\n- もろに: Trực diện, hoàn toàn.\n- かりに: Giả sử.\n- まことに: Thực sự."
+  },
+  {
+    "id": 31,
+    "question": "隣近所の人となんだかんだ世間話をしていたら、母に頼まれていたことを＿＿＿＿思い出した。",
+    "translation": "Đang mải mê tán gẫu đủ thứ chuyện với hàng xóm thì tôi chợt nhớ ra việc mẹ đã nhờ.",
+    "options": ["ひょっと", "もしかして", "かつて", "ずばりと"],
+    "answer": 0,
+    "explanation": "【ひょっと】: Đột nhiên, tình cờ (nhớ ra).\n- もしかして: Có lẽ nào.\n- かつて: Trước đây.\n- ずばりと: Nói thẳng thừng, đúng trọng tâm."
+  },
+  {
+    "id": 32,
+    "question": "電車の中で＿＿＿＿見ただけなので、よく覚えていない。",
+    "translation": "Vì tôi chỉ mới nhìn thoáng qua trên tàu điện nên không nhớ rõ lắm.",
+    "options": ["なんと", "ぐんと", "ぐっと", "ちらっと"],
+    "answer": 3,
+    "explanation": "【ちらっと】: Nhìn thoáng qua, lướt qua.\n- なんと: Làm sao, biết bao.\n- ぐんと/ぐっと: Đáng kể, hơn hẳn."
+  },
+  {
+    "id": 33,
+    "question": "複雑な話を、＿＿＿＿簡単に伝えようとした。",
+    "translation": "Tôi đã cố gắng truyền đạt câu chuyện phức tạp này một cách đơn giản nhất có thể.",
+    "options": ["あえて", "つとめて", "かろうじて", "まえもって"],
+    "answer": 1,
+    "explanation": "【つとめて - 努めて】: Cố gắng hết sức có thể.\n- あえて: Mạnh dạn, dám.\n- かろうじて: Suýt soát.\n- まえもって: Chuẩn bị trước."
+  },
+  {
+    "id": 34,
+    "question": "目覚めてみると、辺り＿＿＿＿の銀世界だった。",
+    "translation": "Khi thức dậy, xung quanh tôi là một thế giới tuyết trắng xóa bao phủ khắp nơi.",
+    "options": ["一面", "半面", "一目", "半目"],
+    "answer": 0,
+    "explanation": "【一面 - いちめん】: Khắp nơi, toàn bộ bề mặt.\n- 半面 (はんめん): Một mặt khác, nửa mặt.\n- 一目 (いちもく/ひとめ): Cái nhìn, một mắt.\n- 半目 (はんめ): Mắt nhắm mắt mở."
+  },
+  {
+    "id": 35,
+    "question": "＿＿＿＿暑いと思ったら、夏なのに暖房を入れていた。",
+    "translation": "Bảo sao mà thấy nóng thế, hóa ra là đang mùa hè mà lại bật máy sưởi.",
+    "options": ["さきに", "かりに", "やけに", "つねに"],
+    "answer": 2,
+    "explanation": "【やけに】: Hết sức, kinh khủng, lạ thường (nhấn mạnh mức độ không bình thường).\n- さきに: Trước đây.\n- かりに: Giả sử.\n- つねに: Luôn luôn."
+  },
+  {
+    "id": 36,
+    "question": "この料理に使う材料はいくらもかからない。まあ2000円＿＿＿＿だろう。",
+    "translation": "Nguyên liệu dùng cho món này không tốn bao nhiêu đâu. Chắc khoảng tầm 2000 Yên thôi.",
+    "options": ["すくすく", "すらすら", "そこそこ", "そもそも"],
+    "answer": 2,
+    "explanation": "【そこそこ】: Khoảng chừng, xấp xỉ / Tạm được.\n- すくすく: (Lớn lên) nhanh chóng.\n- すらすら: Trôi chảy.\n- そもそも: Ngay từ đầu, vốn dĩ."
+  },
+  {
+    "id": 37,
+    "question": "＿＿＿＿予約しないと、連休には泊まるところがない。",
+    "translation": "Nếu không đặt trước thì vào kỳ nghỉ dài sẽ không có chỗ ở đâu.",
+    "options": ["せんだって", "まえもって", "あえて", "しいて"],
+    "answer": 1,
+    "explanation": "【まえもって - 前もって】: Làm trước, chuẩn bị trước.\n- せんだって: Gần đây.\n- あえて: Mạnh dạn.\n- しいて: Miễn cưỡng."
+  },
+  {
+    "id": 38,
+    "question": "おばあさんは昔のことを話し出したが最後、＿＿＿＿としゃべる。",
+    "translation": "Bà hễ cứ bắt đầu kể chuyện ngày xưa là lại nói huyên thuyên mãi không thôi.",
+    "options": ["なかなか", "ながなが", "ふらふら", "ぶらぶら"],
+    "answer": 1,
+    "explanation": "【ながなが - 長々】: (Nói) dài dòng, lê thê.\n- なかなか: Mãi mà không / Rất.\n- ふらふら: Chóng mặt, đi đứng loạng choạng.\n- ぶらぶら: Đi dạo loanh quanh."
+  },
+  {
+    "id": 39,
+    "question": "意見を発表している間、＿＿＿＿とした態度を崩さないようにした。",
+    "translation": "Trong lúc phát biểu ý kiến, tôi đã cố gắng không làm mất đi thái độ điềm tĩnh.",
+    "options": ["どうどう", "ひろびろ", "つぎつぎ", "つくづく"],
+    "answer": 0,
+    "explanation": "【どうどう - 堂々】: Đường bệ, tự tin, điềm tĩnh.\n- ひろびろ: Rộng thênh thang.\n- つぎつぎ: Liên tiếp.\n- つくづく: Sâu sắc, tỉ mỉ."
+  },
+  {
+    "id": 40,
+    "question": "衛生上のことを考えて、＿＿＿＿露店で食事をしないほうがいいよ。",
+    "translation": "Nghĩ đến vấn đề vệ sinh thì tốt nhất là không nên ăn ở các sạp hàng vỉa hè.",
+    "options": ["ひいては", "ときおり", "なおさら", "なるたけ"],
+    "answer": 3,
+    "explanation": "【なるたけ】: Trong khả năng có thể, tối đa có thể (đồng nghĩa với なるべく).\n- ひいては: Kéo theo đó là.\n- ときおり: Thỉnh thoảng.\n- なおさら: Càng... hơn nữa."
+  },
+  {
+    "id": 41,
+    "question": "駅まで遠いと、通勤には＿＿＿＿、買い物にも不便だ。",
+    "translation": "Nếu xa ga thì đương nhiên là đi làm rồi, ngay cả đi mua sắm cũng bất tiện.",
+    "options": ["むろん", "ひごろ", "むやみに", "ひとまず"],
+    "answer": 0,
+    "explanation": "【むろん - 無論】: Đương nhiên, không cần phải nói.\n- ひごろ: Hàng ngày.\n- むやみに: Khinh suất, vô tội vạ.\n- ひとまず: Tạm thời."
+  },
+  {
+    "id": 42,
+    "question": "＿＿＿＿彼はこの家にやってくる。",
+    "translation": "Thỉnh thoảng anh ấy lại ghé thăm nhà này.",
+    "options": ["ときおり", "なるたけ", "つとめて", "かりに"],
+    "answer": 0,
+    "explanation": "【ときおり - 時折】: Thỉnh thoảng, đôi lúc.\n- なるたけ: Hết sức có thể.\n- つとめて: Cố gắng.\n- かりに: Giả sử."
+  },
+  {
+    "id": 43,
+    "question": "お見合いの席で初めて相手の顔を見たら、写真と＿＿＿＿違っていた。",
+    "translation": "Khi lần đầu nhìn thấy mặt đối phương tại buổi xem mắt, thấy khác hoàn toàn so với trong ảnh.",
+    "options": ["すんなり", "なんなり", "おもいっきり", "まるっきり"],
+    "answer": 3,
+    "explanation": "【まるっきり】: Hoàn toàn (khác biệt).\n- すんなり: Trôi chảy, thon gọn.\n- なんなり: Bất cứ thứ gì.\n- おもいっきり: Hết mình, thỏa thích."
+  },
+  {
+    "id": 44,
+    "question": "その男は何かに怯えているのか、＿＿＿＿した目であたりを見ていた。",
+    "translation": "Người đàn ông đó có vẻ đang sợ hãi điều gì đó, cứ nhìn xung quanh với ánh mắt lấm lét.",
+    "options": ["ずるずる", "おどおど", "うろうろ", "いやいや"],
+    "answer": 1,
+    "explanation": "【おどおど】: Run rẩy, lúng túng, lấm lét (do sợ hãi).\n- ずるずる: Lê thê, kéo dài.\n- うろうろ: Đi loanh quanh.\n- いやいや: Miễn cưỡng."
+  },
+  {
+    "id": 45,
+    "question": "5人で旅行をしますが、＿＿＿＿一人増えるかもしれません。",
+    "translation": "Chúng tôi đi du lịch 5 người nhưng tùy tình hình có thể sẽ thêm 1 người nữa.",
+    "options": ["ことによると", "ことごとく", "ことに", "こうこうと"],
+    "answer": 0,
+    "explanation": "【ことによると - 事によると】: Tùy tình hình, có khả năng là.\n- ことごとく: Hoàn toàn, tất cả.\n- ことに: Đặc biệt là.\n- こうこうと: Sáng rực rỡ."
+  },
+  {
+    "id": 46,
+    "question": "断る時は、あいまいな言い方をせずに＿＿＿＿断ったほうがいい。",
+    "translation": "Khi từ chối, thay vì nói lấp lửng thì nên từ chối một cách dứt khoát.",
+    "options": ["てっきり", "がっちり", "きっぱり", "くっきり"],
+    "answer": 2,
+    "explanation": "【きっぱり】: Dứt khoát.\n- てっきり: Cứ ngỡ là.\n- がっちり: Chặt chẽ, vững chắc.\n- くっきり: Rõ nét."
+  },
+  {
+    "id": 47,
+    "question": "あなたがそこまで決心したのなら＿＿＿＿反対はしないつもりです。",
+    "translation": "Nếu bạn đã quyết tâm đến mức đó thì tôi sẽ không phản đối thêm nữa đâu.",
+    "options": ["あえて", "かえって", "せめて", "まして"],
+    "answer": 0,
+    "explanation": "【あえて】: Mạnh dạn, (không) dám (ở đây mang nghĩa không cố tình phản đối khi người khác đã quyết tâm).\n- かえって: Ngược lại.\n- せめて: Ít nhất là.\n- まして: Huống chi là."
+  },
+  {
+    "id": 48,
+    "question": "この上着は一番上の姉の物で、末っ子の私には＿＿＿＿で、まるで外套のようだ。",
+    "translation": "Cái áo khoác này là của chị cả, đối với đứa út như tôi thì nó rộng thùng thình, cứ như là mặc áo choàng ngoài vậy.",
+    "options": ["ぶらぶら", "だぶだぶ", "ずるずる", "いやいや"],
+    "answer": 1,
+    "explanation": "【だぶだぶ】: Rộng thùng thình (quần áo).\n- ぶらぶら: Đi đu đưa, đi dạo loanh quanh.\n- ずるずる: Lê thê, kéo dài / Trơn tuột.\n- いやいや: Miễn cưỡng."
+  },
+  {
+    "id": 49,
+    "question": "工事計画は以上のとおりです。なお融資の件＿＿＿＿よろしくお願い致します。",
+    "translation": "Kế hoạch thi công là như trên. Ngoài ra, về việc cấp vốn, rất mong nhận được sự giúp đỡ của ông.",
+    "options": ["いまにも", "なにとぞ", "たいへん", "たいがい"],
+    "answer": 1,
+    "explanation": "【なにとぞ - 何卒】: Rất mong, kính mong (cách nói trang trọng trong nhờ vả).\n- いまにも: Sắp sửa đến nơi.\n- たいへん: Rất, vất vả.\n- たいがい: Hầu hết."
+  },
+  {
+    "id": 50,
+    "question": "一人で外国暮らしをしている彼女は＿＿＿＿寂しいでしょう。",
+    "translation": "Cô ấy đang sống một mình ở nước ngoài, chắc hẳn là cô đơn lắm.",
+    "options": ["いかにも", "さほど", "さぞかし", "いざとなれば"],
+    "answer": 2,
+    "explanation": "【さぞかし - 嘸かし】: Chắc hẳn là, có lẽ (dùng để đồng cảm với cảm xúc của người khác).\n- いかにも: Đúng là, quả nhiên.\n- さほど: Không đến mức đó.\n- いざとなれば: Nếu cần thiết, khi có chuyện xảy ra."
+  },
+  {
+    "id": 51,
+    "question": "「不合格」という結果を見て私はしばらく＿＿＿＿としていた。それから一人で密かに教室を出て行った。",
+    "translation": "Nhìn thấy kết quả 'Trượt', tôi đã đứng hình (ngẩn ngơ) một lúc. Sau đó, tôi lẳng lặng rời khỏi lớp học một mình.",
+    "options": ["ばくぜん", "ぼうぜん", "だんぜん", "せいぜん"],
+    "answer": 1,
+    "explanation": "【ぼうぜん - 呆然】: Thẫn thờ, sững sờ, đứng hình.\n- ばくぜん: Mơ hồ.\n- だんぜん: Áp đảo, hoàn toàn.\n- せいぜん: Gọn gàng, ngăn nắp."
+  },
+  {
+    "id": 52,
+    "question": "子供が旅行先で遭難して死んだ知らせを知った親は＿＿＿＿した。",
+    "translation": "Cha mẹ khi biết tin con mình bị tai nạn qua đời trong chuyến du lịch đã hoàn toàn sụp đổ (thất vọng tràn trề).",
+    "options": ["がっちり", "きっちり", "うんざり", "がっくり"],
+    "answer": 3,
+    "explanation": "【がっくり】: Thất vọng tràn trề, suy sụp.\n- がっちり: Vững chắc, chặt chẽ.\n- きっちり: Vừa vặn, chính xác.\n- うんざり: Phát chán, ngán ngẩm."
+  },
+  {
+    "id": 53,
+    "question": "花ちゃんのお父さんは今日＿＿＿＿帰らないと思います。",
+    "translation": "Tôi nghĩ là bố của bé Hana hôm nay phần lớn là sẽ không về đâu.",
+    "options": ["おおはば", "おおげさ", "おおかた", "おおいに"],
+    "answer": 2,
+    "explanation": "【おおかた - 大方】: Có lẽ, phần lớn.\n- おおはば: Phạm vi lớn, mạnh mẽ.\n- おおげさ: Làm quá, phô trương.\n- おおいに: Rất nhiều."
+  },
+  {
+    "id": 54,
+    "question": "応援していたチームが、あんなに＿＿＿＿負けるなんて、情けないね。",
+    "translation": "Đội bóng mình cổ vũ mà lại thua một cách dễ dàng (chóng vánh) như thế thì thật là đáng thất vọng.",
+    "options": ["あっさり", "すっきり", "がっくり", "さっぱり"],
+    "answer": 0,
+    "explanation": "【あっさり】: Dễ dàng, chóng vánh / (Vị) thanh đạm.\n- すっきり: Sảng khoái, gọn gàng.\n- がっくり: Thất vọng.\n- さっぱり: Hoàn toàn (không) / Sảng khoái."
+  },
+  {
+    "id": 55,
+    "question": "このごろ＿＿＿＿交通事故が起こるので、自家用車の代わりに自転車で会社や学校に通う人も出てきたそうだ。",
+    "translation": "Dạo này tai nạn giao thông xảy ra thường xuyên nên nghe nói đã có những người chuyển sang đi làm hoặc đi học bằng xe đạp thay vì ô tô cá nhân.",
+    "options": ["ちょくちょく", "ちゃくちゃく", "ひろびろ", "まちまち"],
+    "answer": 0,
+    "explanation": "【ちょくちょく】: Thường xuyên, hay (xảy ra).\n- ちゃくちゃく: Một cách vững chắc.\n- ひろびろ: Rộng thênh thang.\n- まちまち: Muôn hình muôn vẻ, khác nhau."
+  },
+  {
+    "id": 56,
+    "question": "あの人のうわさは私も＿＿＿＿耳にしたことがあります。でも信じませんよ。",
+    "translation": "Lời đồn về người đó thì tôi cũng đã từng nghe loáng thoáng rồi. Nhưng tôi không tin đâu.",
+    "options": ["しっかり", "うっかり", "ちらりと", "すっと"],
+    "answer": 2,
+    "explanation": "【ちらりと】: Loáng thoáng, thoáng qua (nghe hoặc nhìn).\n- しっかり: Chắc chắn.\n- うっかり: Lơ đễnh.\n- すっと: Nhanh chóng, nhẹ nhàng."
+  },
+  {
+    "id": 57,
+    "question": "＿＿＿＿したら雨が降るかもしれないから、傘を持っていこう。",
+    "translation": "Có lẽ là trời sẽ mưa đấy, nên hãy mang theo ô đi.",
+    "options": ["ひょっと", "さっと", "ちらっと", "そっと"],
+    "answer": 0,
+    "explanation": "【ひょっと (したら)】: Có lẽ, có khả năng là.\n- さっと: Nhanh chóng.\n- ちらっと: Thoáng qua.\n- そっと: Nhẹ nhàng, lén lút."
+  },
+  {
+    "id": 58,
+    "question": "「結婚するかしないか＿＿＿＿しないで、さっさと決心しなさい」と彼女は言った。",
+    "translation": "Cô ấy nói: 'Đừng có do dự mãi về việc có kết hôn hay không nữa, quyết định nhanh đi'.",
+    "options": ["ぼつぼつ", "ふらふら", "まちまち", "つくづく"],
+    "answer": 1,
+    "explanation": "【ふらふら】: Dao động, không quyết đoán, do dự.\n- ぼつぼつ: Dần dần, sắp sửa.\n- まちまち: Muôn hình muôn vẻ, khác nhau.\n- つくづく: Sâu sắc, tỉ mỉ."
+  },
+  {
+    "id": 59,
+    "question": "昨日のカタログにはミスプリントがありました。＿＿＿＿お詫びの意を申し上げます。",
+    "translation": "Trong cuốn danh mục hôm qua có lỗi in ấn. Tôi xin chân thành gửi lời xin lỗi.",
+    "options": ["たのしんで", "よろこんで", "つつしんで", "くやんで"],
+    "answer": 2,
+    "explanation": "【つつしんで - 謹んで】: Hân hạnh, kính cẩn, chân thành (dùng trong bối cảnh trang trọng như xin lỗi hoặc chúc mừng).\n- たのしんで: Thưởng thức.\n- よろこんで: Sẵn lòng, vui vẻ.\n- くやんで: Hối tiếc, buồn phiền."
+  },
+  {
+    "id": 60,
+    "question": "この町はどこからでも日本の象徴と言われている富士山が眺められるが、中央公園から見る富士山の姿は＿＿＿＿美しい。",
+    "translation": "Thành phố này dù ở đâu cũng có thể ngắm được núi Phú Sĩ - biểu tượng của Nhật Bản, nhưng dáng vẻ của nó nhìn từ công viên trung tâm thì đẹp đặc biệt.",
+    "options": ["格差", "本格", "格別", "差別"],
+    "answer": 2,
+    "explanation": "【格別 - かくべつ】: Đặc biệt, khác biệt hoàn toàn.\n- 格差 (かくさ): Khoảng cách, chênh lệch.\n- 本格 (ほんかく): Chính thống, đích thực.\n- 差別 (さべつ): Phân biệt đối xử."
+  },
+  {
+    "id": 61,
+    "question": "友だちのうちに着くと、＿＿＿＿友だちが出かけるところだった。",
+    "translation": "Vừa mới đến nhà bạn xong thì đúng lúc bạn ấy cũng đang chuẩn bị đi ra ngoài.",
+    "options": ["いましも", "いまだに", "いまさら", "いまでは"],
+    "answer": 0,
+    "explanation": "【いましも - 今しも】: Ngay lúc này (thường dùng để nhấn mạnh một thời điểm vừa khớp).\n- いまだに: Cho đến giờ vẫn.\n- いまさら: Đến lúc này mới (đã muộn).\n- いまでは: Đến nay thì."
+  },
+  {
+    "id": 62,
+    "question": "その男は＿＿＿＿紳士風だったが、実は泥棒だった。",
+    "translation": "Người đàn ông đó nhìn thoáng qua thì có vẻ lịch lãm như một quý ông, nhưng thực chất lại là kẻ trộm.",
+    "options": ["一段", "一層", "一旦", "一見"],
+    "answer": 3,
+    "explanation": "【一見 - いっけん】: Thoát nhìn, nhìn qua.\n- 一段 (いちだん): Hơn hẳn, một bậc.\n- 一層 (いっそう): Hơn nhiều, hơn một tầng.\n- 一旦 (いったん): Một khi, tạm thời."
+  },
+  {
+    "id": 63,
+    "question": "隣に座っているお客と＿＿＿＿話し合っている間に列車がもう着いてしまった。",
+    "translation": "Trong khi mải mê nói đủ thứ chuyện với người khách ngồi bên cạnh, đoàn tàu đã cập bến mất rồi.",
+    "options": ["ことによる", "ことごとく", "なんだかんだ", "とかく"],
+    "answer": 2,
+    "explanation": "【なんだかんだ】: Chuyện này chuyện kia, đủ thứ chuyện.\n- ことによる: Tùy vào.\n- ことごとく: Hoàn toàn, toàn bộ.\n- とかく: Có khuynh hướng, dù thế nào đi nữa."
+  },
+  {
+    "id": 64,
+    "question": "これをさしあげます。＿＿＿＿なりとも、お役に立てば幸いです。",
+    "translation": "Tôi xin tặng bạn món quà này. Dù chỉ là một chút thôi, nếu nó giúp ích được cho bạn thì tôi rất vui.",
+    "options": ["かすか", "いささか", "あたかも", "きまって"],
+    "answer": 1,
+    "explanation": "【いささか】: Một chút, một ít (cách nói khiêm nhường).\n- かすか: Thấp thoáng, mờ nhạt.\n- あたかも: Cứ như là.\n- きまって: Luôn luôn, định kỳ."
+  },
+  {
+    "id": 65,
+    "question": "彼は新入社員で、まだ経験も浅いが、＿＿＿＿がんばっている。",
+    "translation": "Anh ấy là nhân viên mới, kinh nghiệm còn ít nhưng vẫn đang nỗ lực hết mình trong khả năng có thể.",
+    "options": ["それなりに", "そればかりか", "さながらも", "さては"],
+    "answer": 0,
+    "explanation": "【それなりに】: Trong chừng mực nào đó, tương xứng với điều đó.\n- そればかりか: Không chỉ vậy.\n- さながら: Cứ như là.\n- さては: Và rồi, hóa ra là."
+  },
+  {
+    "id": 66,
+    "question": "彼女は暴漢に襲われて、そこらの物を＿＿＿＿次第投げつけた。",
+    "translation": "Cô ấy bị kẻ hung ác tấn công nên đã vớ được bất cứ thứ gì xung quanh là ném tới tấp vào hắn.",
+    "options": ["心当たり", "人当たり", "手当たり", "口当たり"],
+    "answer": 2,
+    "explanation": "【手当たり (次第) - てあたりしだい】: Vớ được cái gì là dùng cái đó, bất cứ thứ gì trong tầm tay.\n- 心当たり: Biết chút ít, có manh mối.\n- 人当たり: Cách đối xử với người khác.\n- 口当たり: Cảm giác khi ăn/uống (vị giác)."
+  },
+  {
+    "id": 67,
+    "question": "デパートは1月5日より＿＿＿＿どおりに営業いたします。",
+    "translation": "Trung tâm thương mại sẽ hoạt động bình thường trở lại như mọi khi từ ngày 5 tháng 1.",
+    "options": ["終日", "期日", "平素", "平常"],
+    "answer": 3,
+    "explanation": "【平常 - へいじょう】: Bình thường, như mọi khi.\n- 終日 (しゅうじつ): Cả ngày.\n- 期日 (きじつ): Kỳ hạn, ngày đã định.\n- 平素 (へいそ): Bình thường (dùng trong văn viết/lời chào xã giao)."
+  },
+  {
+    "id": 68,
+    "question": "20年にもなったが、亡くなった友だちの笑顔が＿＿＿＿目に浮かぶ。",
+    "translation": "Đã 20 năm trôi qua rồi nhưng nụ cười của người bạn đã khuất vẫn hiện lên rõ mồn một trước mắt.",
+    "options": ["ひいては", "まして", "いまなお", "さぞや"],
+    "answer": 2,
+    "explanation": "【いまなお - 今なお】: Ngay cả bây giờ vẫn (vẫn còn).\n- ひいては: Kéo theo đó là.\n- まして: Huống chi là.\n- さぞや: Chắc hẳn là."
+  },
+  {
+    "id": 69,
+    "question": "パーティーでは彼女の赤い服だけが＿＿＿＿目だった。",
+    "translation": "Tại bữa tiệc, chỉ có bộ đồ màu đỏ của cô ấy là nổi bần bật (cực kỳ nổi bật).",
+    "options": ["かすかに", "いまに", "いやに", "いっきに"],
+    "answer": 2,
+    "explanation": "【いやに】: Khủng khiếp, lạ thường, nổi bật một cách khác thường.\n- かすかに: Thấp thoáng, mờ nhạt.\n- いまに: Chẳng mấy chốc, sớm muộn gì cũng.\n- いっきに: Một hơi, một mạch."
+  },
+  {
+    "id": 70,
+    "question": "コンピューター処理の速さ、正確さでは＿＿＿＿鈴木さんが一番だ。",
+    "translation": "Về tốc độ và độ chính xác khi xử lý máy tính, anh Suzuki rõ ràng là số một.",
+    "options": ["断然", "到底", "一向", "唖然"],
+    "answer": 0,
+    "explanation": "【断然 - だんぜん】: Rõ ràng, hoàn toàn, áp đảo.\n- 到底 (とうてい): Hoàn toàn (không thể).\n- 一向 (いっこう): Hoàn toàn (không).\n- 唖然 (あぜん): Sững sờ, không thốt nên lời."
+  },
+  {
+    "id": 71,
+    "question": "自分の将来について＿＿＿＿とした不安を感じる。",
+    "translation": "Tôi cảm thấy một sự bất an mơ hồ về tương lai của chính mình.",
+    "options": ["突然", "整然", "漠然", "公然"],
+    "answer": 2,
+    "explanation": "【漠然 - ばくぜん】: Mơ hồ, không rõ ràng.\n- 突然 (とつぜん): Đột nhiên.\n- 整然 (せいぜん): Ngăn nắp, trật tự.\n- 公然 (こうぜん): Công khai."
+  },
+  {
+    "id": 72,
+    "question": "彼の演説は論理が＿＿＿＿として分かりやすい。",
+    "translation": "Bài diễn thuyết của anh ấy có lập luận mạch lạc nên rất dễ hiểu.",
+    "options": ["漠然", "呆然", "突然", "整然"],
+    "answer": 3,
+    "explanation": "【整然 - せいぜん】: Mạch lạc, trật tự, ngăn nắp.\n- 漠然 (ばくぜん): Mơ hồ.\n- 呆然 (ぼうぜん): Ngẩn ngơ, sững sờ.\n- 突然 (とつぜん): Đột nhiên."
+  },
+  {
+    "id": 73,
+    "question": "いくら注意しても＿＿＿＿として、ここに車を止める人がいる。",
+    "translation": "Dù có nhắc nhở bao nhiêu đi chăng nữa thì vẫn có những người thản nhiên đỗ xe ở đây như không có chuyện gì.",
+    "options": ["依然", "断然", "呆然", "漠然"],
+    "answer": 0,
+    "explanation": "【依然 - いぜん】: Vẫn như cũ, vẫn thế (thường đi kèm với cụm 依然として).\n- 断然 (だんぜん): Áp đảo.\n- 呆然 (ぼうぜん): Sững sờ.\n- 漠然 (ばくぜん): Mơ hồ."
+  },
+  {
+    "id": 74,
+    "question": "A国はB国の軍事行動を支持すると、＿＿＿＿と宣言した。",
+    "translation": "Nước A đã tuyên bố công khai rằng họ ủng hộ hành động quân sự của nước B.",
+    "options": ["公然", "公開", "公正", "公平"],
+    "answer": 0,
+    "explanation": "【公然 - こうぜん】: Công khai, trước bàn dân thiên hạ.\n- 公開 (こうかい): Mở cửa cho công chúng xem.\n- 公正 (こうせい): Công bằng, chính trực.\n- 公平 (こうへい): Công bằng (không thiên vị)."
+  },
+  {
+    "id": 75,
+    "question": "スタッフはここ三年間、＿＿＿＿なく研究に励んできた。",
+    "translation": "Các nhân viên đã nỗ lực nghiên cứu không ngừng nghỉ trong suốt ba năm qua.",
+    "options": ["たのみ", "たゆみ", "あゆみ", "ゆがみ"],
+    "answer": 1,
+    "explanation": "【たゆみ (なく) - 弛み】: Không lơ là, không ngừng nghỉ.\n- たのみ: Sự nhờ vả.\n- あゆみ: Bước đi, tiến trình.\n- ゆがみ: Sự bẻ cong, sự biến dạng."
+  },
+  {
+    "id": 76,
+    "question": "気温が急に下がり、道が凍って＿＿＿＿滑る。",
+    "translation": "Nhiệt độ giảm đột ngột, đường bị đóng băng nên trơn tuồn tuột.",
+    "options": ["だらだら", "つるつる", "でこぼこ", "どうどう"],
+    "answer": 1,
+    "explanation": "【つるつる】: Trơn tuồn tuột, bóng loáng.\n- だらだら: Lê thê / (Mồ hôi) chảy ròng ròng.\n- でこぼこ: Lồi lõm.\n- どうどう: Đường bệ, tự tin."
+  },
+  {
+    "id": 77,
+    "question": "当店では、品物を＿＿＿＿取り揃えております。",
+    "translation": "Cửa hàng chúng tôi có sẵn đa dạng nhiều loại mặt hàng.",
+    "options": ["種類", "品種", "種々", "種子"],
+    "answer": 2,
+    "explanation": "【種々 - しゅじゅ】: Đa dạng, nhiều loại khác nhau.\n- 種類 (しゅるい): Loại.\n- 品種 (ひんしゅ): Chủng loại, giống (cây trồng).\n- 種子 (しゅし): Hạt giống."
+  },
+  {
+    "id": 78,
+    "question": "窓を開けたら、雪が＿＿＿＿降っていた。",
+    "translation": "Khi mở cửa sổ ra, tuyết đang rơi lất phất.",
+    "options": ["しとしと", "ざあざあ", "ちらちら", "ごろごろ"],
+    "answer": 2,
+    "explanation": "【ちらちら】: (Tuyết rơi) lất phất, thoáng qua.\n- しとしと: (Mưa) rơi nhẹ nhàng, tí tách.\n- ざあざあ: (Mưa) xối xả.\n- ごろごろ: Tiếng sấm / Lăn lông lốc."
+  },
+  {
+    "id": 79,
+    "question": "頭が＿＿＿＿して、うっかり乗り過ごした。",
+    "translation": "Đầu óc cứ lơ mơ nên tôi đã lỡ tay đi quá ga.",
+    "options": ["そっと", "じっと", "すうっと", "ぼうっと"],
+    "answer": 3,
+    "explanation": "【ぼうっと】: Lơ mơ, thẫn thờ, đầu óc trống rỗng.\n- そっと: Nhẹ nhàng, lén lút.\n- じっと: Chăm chú, bất động.\n- すうっと: Nhanh chóng, nhẹ nhàng."
+  },
+  {
+    "id": 80,
+    "question": "町を歩いていたら、昔の友だちに＿＿＿＿出くわした。",
+    "translation": "Đang đi bộ trên phố thì tôi tình cờ bắt gặp người bạn cũ.",
+    "options": ["ひょいと", "ちらりと", "ざっと", "がらっと"],
+    "answer": 0,
+    "explanation": "【ひょいと】: Tình cờ, đột nhiên.\n- ちらりと: Thoáng qua, loáng thoáng.\n- ざっと: Sơ qua, đại khái.\n- がらっと: Thay đổi hoàn toàn / Tiếng mở cửa xoạch."
+  },
+  {
+    "id": 81,
+    "question": "記者たちは＿＿＿＿かんででも事故の関係者に質問をした。",
+    "translation": "Các phóng viên đã bằng mọi giá (bất chấp phương pháp nào) để đặt câu hỏi cho những người liên quan đến vụ tai nạn.",
+    "options": ["なんにも", "なんでも", "なにとぞ", "なにぶん"],
+    "answer": 1,
+    "explanation": "【なんでもかんで(も)】: Bất cứ thứ gì, bằng mọi giá, bất kể thế nào.\n- なんにも: Không cái gì cả.\n- なにとぞ: Rất mong, kính mong.\n- なにぶん: Suy cho cùng, dù sao thì."
+  },
+  {
+    "id": 82,
+    "question": "就職難のこの時代に、＿＿＿＿就職するべきか、しばらく様子を見るべきかをまとまってしまう。",
+    "translation": "Trong thời đại khó tìm việc này, tôi đang lúng túng không biết nên tìm đại một công việc nào đó hay là nên chờ xem tình hình một thời gian.",
+    "options": ["多かれ少なかれ", "いずれにしても", "手当たりしだい", "知らず知らずのうちに"],
+    "answer": 2,
+    "explanation": "【手当たりしだい - 手当たり次第】: Bất cứ thứ gì trong tầm tay, làm mà không chọn lọc (ở đây là nộp đơn vào bất cứ chỗ nào).\n- 多かれ少なかれ: Ít nhiều gì cũng.\n- いずれにしても: Dù sao đi nữa.\n- 知らず知らずのうちに: Một cách vô thức, không hề hay biết."
+  },
+  {
+    "id": 83,
+    "question": "彼は＿＿＿＿部屋にとじこもって本を読む。",
+    "translation": "Anh ấy suốt cả ngày chỉ nhốt mình trong phòng để đọc sách.",
+    "options": ["終日", "終了", "終止", "終電"],
+    "answer": 0,
+    "explanation": "【終日 - しゅうじつ】: Cả ngày, suốt ngày.\n- 終了 (しゅうりょう): Kết thúc.\n- 終止 (しゅうし): Chấm dứt, dừng lại.\n- 終電 (しゅうでん): Chuyến tàu cuối cùng."
+  },
+  {
+    "id": 84,
+    "question": "彼女に振られた彼は＿＿＿＿独身で通すと決心したそうだ。",
+    "translation": "Nghe nói sau khi bị bạn gái đá, anh ấy đã quyết tâm sẽ sống độc thân suốt đời.",
+    "options": ["生命", "運命", "生涯", "天涯"],
+    "answer": 2,
+    "explanation": "【生涯 - しょうがい】: Suốt đời, cả đời.\n- 生命 (せいめi): Sinh mệnh.\n- 運命 (うんめい): Vận mệnh.\n- 天涯 (てんがい): Chân trời góc bể."
+  },
+  {
+    "id": 85,
+    "question": "仕事がうまくいかないと、＿＿＿＿他人のせいにするものだ。",
+    "translation": "Khi công việc không thuận lợi, người ta thường có xu hướng đổ lỗi cho người khác.",
+    "options": ["ひいては", "まして", "いかに", "ともすると"],
+    "answer": 3,
+    "explanation": "【ともすると】: Có khuynh hướng, hay xảy ra (thường là những việc không tốt).\n- ひいては: Kéo theo đó là.\n- まして: Huống chi là.\n- いかに: Như thế nào, biết bao nhiêu."
+  },
+  {
+    "id": 1,
+    "question": "新年で、子供たちは<span class='underline'>うきうき</span>している。",
+    "translation": "Vào dịp năm mới, lũ trẻ đang cảm thấy hân hoan, háo hức.",
+    "options": ["よろこんで", "つつしんで", "すっきりして", "のんびりして"],
+    "answer": 0,
+    "explanation": "【うきうき】: Hân hoan, vui sướng, háo hức.\n→ よろこんで (喜んで): Vui mừng, vui sướng.\n- つつしんで: Kính cẩn.\n- すっきりして: Sảng khoái.\n- のんびりして: Thong thả."
+  },
+  {
+    "id": 2,
+    "question": "一週間たって、風邪が<span class='underline'>おのずと</span>治った。",
+    "translation": "Sau một tuần, bệnh cảm đã tự khỏi một cách tự nhiên.",
+    "options": ["文字通りに", "本当に", "思う存分に", "自然に"],
+    "answer": 3,
+    "explanation": "【おのずと（自ずと）】: Tự nhiên, tự nó.\n→ 自然に (しぜんに): Một cách tự nhiên.\n- 文字通りに: Theo đúng nghĩa đen.\n- 本当に: Thực sự.\n- 思う存分に: Thỏa thích."
+  },
+  {
+    "id": 3,
+    "question": "取ったばかりの魚は<span class='underline'>ぴんぴん</span>跳ねる。",
+    "translation": "Con cá vừa mới bắt được nhảy tanh tách (rất khỏe mạnh).",
+    "options": ["はらはらと", "いきいきと", "つぎつぎと", "ぞくぞくと"],
+    "answer": 1,
+    "explanation": "【ぴんぴん】: (Nhảy) tanh tách, khỏe mạnh, tràn đầy năng lượng.\n→ いきいきと (活き活きと): Sống động, tràn đầy sức sống.\n- はらはらと: (Lệ) rơi lã chã / Lo lắng.\n- つぎつぎと: Liên tiếp.\n- ぞくぞくと: Run cầm cập / Nườm nượp."
+  },
+  {
+    "id": 4,
+    "question": "夫がなくなってから<span class='underline'>かれこれ</span>十年になる。",
+    "translation": "Kể từ khi chồng mất đến nay đã ngót nghét (khoảng) mười năm.",
+    "options": ["やがて", "かねて", "それぞれ", "まちまち"],
+    "answer": 0,
+    "explanation": "【かれこれ】: Khoảng, xấp xỉ, ngót nghét.\n→ やがて: Chẳng mấy chốc / Xấp xỉ.\n- かねて: Trước đây.\n- それぞれ: Mỗi, từng.\n- まちまち: Muôn hình muôn vẻ."
+  },
+  {
+    "id": 5,
+    "question": "最近夕方になると、<span class='underline'>きまって</span>雨が降る。",
+    "translation": "Dạo gần đây hễ cứ đến chiều tối là nhất định (luôn luôn) trời lại mưa.",
+    "options": ["さぞかし", "さほど", "きっと", "そっと"],
+    "answer": 2,
+    "explanation": "【きまって（決まって）】: Luôn luôn, nhất định.\n→ きっと: Chắc chắn, nhất định.\n- さぞかし: Chắc hẳn là.\n- さほど: Không đến mức đó.\n- そっと: Nhẹ nhàng."
+  },
+  {
+    "id": 6,
+    "question": "<span class='underline'>ぐずぐず</span>していると、学校に間に合わないぞ。",
+    "translation": "Nếu cứ lề mề, chậm chạp thì sẽ không kịp giờ đến trường đâu đấy.",
+    "options": ["ぼちぼち", "うとうと", "のろのろ", "ぎりぎり"],
+    "answer": 2,
+    "explanation": "【ぐずぐず】: Lề mề, chậm chạp.\n→ のろのろ: Chậm chạp như sên.\n- ぼちぼち: Từ từ, dần dần.\n- うとうと: Ngủ gật.\n- ぎりぎり: Sát nút."
+  },
+  {
+    "id": 7,
+    "question": "A組とB組が<span class='underline'>交互に</span>働くことになっている。",
+    "translation": "Tổ A và tổ B được phân công làm việc luân phiên nhau.",
+    "options": ["こつこつ", "つくづく", "一人ひとり", "かわるがわる"],
+    "answer": 3,
+    "explanation": "【交互に（こうごに）】: Luân phiên, xen kẽ.\n→ かわるがわる (代わる代わる): Thay phiên nhau.\n- こつこつ: Cần cù, kiên trì.\n- つくづく: Sâu sắc, tỉ mỉ.\n- 一人ひとり: Từng người một."
+  },
+  {
+    "id": 8,
+    "question": "組合の運動会には組合員が<span class='underline'>こぞって</span>参加した。",
+    "translation": "Các thành viên công đoàn đã đồng lòng tham gia đầy đủ vào ngày hội thể thao của công đoàn.",
+    "options": ["ほとんど", "みんな", "大半", "大部分"],
+    "answer": 1,
+    "explanation": "【こぞって（挙って）】: Đồng loạt, tất cả cùng nhau.\n→ みんな: Mọi người, tất cả.\n- ほとんど: Hầu hết.\n- 大半 (たいはん): Đa số.\n- 大部分 (だいぶぶん): Phần lớn."
+  },
+  {
+    "id": 9,
+    "question": "みんな洋装だったので、和服姿の礼子のしとやかさが<span class='underline'>ことさら</span>目立った。",
+    "translation": "Vì mọi người đều mặc Âu phục nên vẻ trang nhã trong bộ Kimono của Reiko càng nổi bật đặc biệt.",
+    "options": ["ことに", "とっくに", "なにぶん", "いくた"],
+    "answer": 0,
+    "explanation": "【ことさら（殊更）】: Đặc biệt, hơn thế nữa.\n→ ことに (殊に): Đặc biệt là.\n- とっくに: Từ lâu rồi.\n- なにぶん: Dù sao thì / Suy cho cùng.\n- いくた (幾多): Nhiều."
+  },
+  {
+    "id": 10,
+    "question": "<span class='underline'>こまめに</span>家事をするおかあさんの姿を見て感心した。",
+    "translation": "Tôi rất khâm phục khi thấy dáng vẻ mẹ làm việc nhà một cách cần mẫn, chu đáo.",
+    "options": ["こつこつ", "つねづね", "ぶつぶつ", "しみじみ"],
+    "answer": 0,
+    "explanation": "【こまめに】: Cần mẫn, siêng năng, chu đáo.\n→ こつこつ: Cần cù, bền bỉ.\n- つねづね: Thường xuyên.\n- ぶつぶつ: Lầm bầm.\n- しみじみ: Sâu sắc."
+  },
+  {
+    "id": 11,
+    "question": "毎日家事をやっているけど、<span class='underline'>さして</span>疲れていない。",
+    "translation": "Hàng ngày tôi đều làm việc nhà nhưng cũng không mệt đến mức đó (không mệt lắm).",
+    "options": ["はっと", "ほっと", "よほど", "さほど"],
+    "answer": 3,
+    "explanation": "【さして】: (Không) lắm, (không) đến mức đó (đi với phủ định).\n→ さほど: Không đến mức đó.\n- はっと: Giật mình.\n- ほっと: Thở phào.\n- よほど: Nhiều, lắm."
+  },
+  {
+    "id": 12,
+    "question": "長いご旅行、<span class='underline'>さぞや</span>お疲れでございましょう。",
+    "translation": "Chuyến du hành dài như vậy, chắc hẳn là ngài đã mệt lắm rồi.",
+    "options": ["まして", "まさしく", "おそらく", "けっして"],
+    "answer": 2,
+    "explanation": "【さぞや】: Chắc hẳn là, có lẽ là (thường dùng để phỏng đoán sự việc của người khác với sự đồng cảm).\n→ おそらく: Có lẽ, có thể.\n- まして: Huống chi.\n- まさしく: Chính xác là.\n- けっして: Tuyệt đối (không)."
+  },
+  {
+    "id": 13,
+    "question": "調査は<span class='underline'>しゅとして</span>学生を対象に行われた。",
+    "translation": "Cuộc điều tra được thực hiện với đối tượng chủ yếu là sinh viên.",
+    "options": ["さっぱり", "もっぱら", "めったに", "たっぷり"],
+    "answer": 1,
+    "explanation": "【しゅとして（主として）】: Chủ yếu, phần lớn.\n→ もっぱら (専ら): Hầu hết, chủ yếu, chuyên tâm.\n- さっぱり: Hoàn toàn (không) / Sảng khoái.\n- めったに: Hiếm khi.\n- たっぷり: Đầy ắp, nhiều."
+  },
+  {
+    "id": 14,
+    "question": "コンピューターが進歩したと言っても、<span class='underline'>しょせんは</span>機械に過ぎない。",
+    "translation": "Dù nói là máy tính đã tiến bộ, nhưng suy cho cùng nó cũng chẳng qua chỉ là cái máy.",
+    "options": ["結束", "結末", "結果", "結局"],
+    "answer": 3,
+    "explanation": "【しょせん（所詮）】: Suy cho cùng, kết cục là.\n→ 結局 (けっきょく): Kết cục, cuối cùng thì.\n- 結束 (けっそく): Đoàn kết.\n- 結末 (けまつ): Kết thúc (câu chuyện).\n- 結果 (けっか): Kết quả."
+  },
+  {
+    "id": 15,
+    "question": "夕べはよく眠れたので、今日は<span class='underline'>すこぶる</span>調子がいい。",
+    "translation": "Tối qua ngủ ngon nên hôm nay tình trạng cơ thể cực kỳ tốt.",
+    "options": ["なんとも", "なんにも", "はなはだ", "せいぜい"],
+    "answer": 2,
+    "explanation": "【すこぶる（頗る）】: Rất, cực kỳ (thường dùng cho tình trạng tốt).\n→ はなはだ (甚だ): Rất, lắm (thường dùng cho mức độ).\n- なんとも: Không có gì / Không... chút nào.\n- なんにも: Cái gì cũng không.\n- せいぜい: Tối đa, cùng lắm là."
+  },
+  {
+    "id": 16,
+    "question": "あなたには<span class='underline'>ただでさえ</span>お世話になっているのですから、これ以上甘えるわけにはいきません。",
+    "translation": "Bình thường tôi đã nhận được sự giúp đỡ của bạn rồi, nên không thể cứ dựa dẫm thêm nữa.",
+    "options": ["普通でも", "今後も", "現在から", "終日"],
+    "answer": 0,
+    "explanation": "【ただでさえ】: Bình thường đã... (huống chi lúc này).\n→ 普通でも (ふつうでも): Ngay cả lúc bình thường.\n- 今後も: Từ nay về sau cũng.\n- 現在から: Từ hiện tại.\n- 終日: Cả ngày."
+  },
+  {
+    "id": 17,
+    "question": "蛇が嫌いで、蛇を見ると<span class='underline'>ぞくぞく</span>する。",
+    "translation": "Tôi ghét rắn, cứ nhìn thấy rắn là lại thấy rùng mình (run rẩy).",
+    "options": ["つくづく", "こわごわ", "くるくる", "ごろごろ"],
+    "answer": 1,
+    "explanation": "【ぞくぞく】: Rùng mình, run rẩy (do lạnh hoặc sợ).\n→ こわごわ (怖々): Một cách sợ sệt.\n- つくづく: Sâu sắc, tỉ mỉ.\n- くるくる: Quay mòng mòng.\n- ごろごろ: Thong dong / Tiếng sấm."
+  },
+  {
+    "id": 18,
+    "question": "変な男が若い女性を<span class='underline'>じろじろ</span>見ていた。",
+    "translation": "Một gã đàn ông lạ mặt cứ nhìn chằm chằm vào cô gái trẻ.",
+    "options": ["不思議に", "不得手に", "無邪気に", "無遠慮に"],
+    "answer": 3,
+    "explanation": "【じろじろ】: Nhìn chằm chằm (thường mang nghĩa bất lịch sự).\n→ 無遠慮に (ぶえんりょに): Một cách không ngại ngần, thiếu lịch sự.\n- 不思議に: Một cách kỳ lạ.\n- 不得手に: Không giỏi.\n- 無邪気に: Ngây thơ, hồn nhiên."
+  },
+  {
+    "id": 19,
+    "question": "子供がお母さんにしかられて、<span class='underline'>しょんぼり</span>している。",
+    "translation": "Đứa trẻ bị mẹ mắng nên đang thẫn thờ, ủ rũ.",
+    "options": ["がっちり", "がっくり", "じっくり", "びっくり"],
+    "answer": 1,
+    "explanation": "【しょんぼり】: Ủ rũ, thẫn thờ, chán nản.\n→ がっくり: Thất vọng, sụp đổ.\n- がっちり: Chắc chắn, cần kiệm.\n- じっくり: Kỹ lưỡng, thong thả.\n- びっくり: Ngạc nhiên."
+  },
+  {
+    "id": 20,
+    "question": "最近彼はよく遅刻するので、<span class='underline'>それとはなしに</span>注意した。",
+    "translation": "Dạo gần đây anh ấy hay đi muộn nên tôi đã nhắc nhở một cách khéo léo (gián tiếp).",
+    "options": ["直接に", "まっすぐに", "婉曲に", "回転に"],
+    "answer": 2,
+    "explanation": "【それとはなしに】: Một cách gián tiếp, không có ý gì đặc biệt, khéo léo.\n→ 婉曲に (えんきょくに): Một cách quanh co, khéo léo.\n- 直接に: Trực tiếp.\n- まっすぐに: Thẳng tắp.\n- 回転に: Xoay chuyển."
+  },
+  {
+    "id": 21,
+    "question": "この化石は<span class='underline'>たかだか</span>十万年前のものだ。",
+    "translation": "Hóa thạch này cùng lắm cũng chỉ từ mười vạn năm trước thôi.",
+    "options": ["せめて", "少なくとも", "せいぜい", "そもそも"],
+    "answer": 2,
+    "explanation": "【たかだか（高々）】: Cùng lắm là, tối đa là.\n→ せいぜい: Tối đa, cùng lắm.\n- せめて: Ít nhất là (mong muốn).\n- 少なくとも: Ít nhất là (về số lượng).\n- そもそも: Ngay từ đầu."
+  },
+  {
+    "id": 22,
+    "question": "この問題は<span class='underline'>どうかすると</span>大事件に発展しかねない。",
+    "translation": "Vấn đề này nếu không cẩn thận (có khả năng) sẽ phát triển thành một sự cố lớn.",
+    "options": ["ややもすると", "ともすると", "どうしても", "あくまでも"],
+    "answer": 1,
+    "explanation": "【どうかすると】: Có khả năng, có xu hướng (thường là việc xấu).\n→ ともすると: Có khuynh hướng, hay xảy ra.\n- ややもすると: Cũng có nghĩa tương tự (có xu hướng) nhưng 'ともすると' phổ biến hơn trong ngữ cảnh này.\n- どうしても: Bằng mọi giá.\n- あくまでも: Đến cùng."
+  },
+  {
+    "id": 23,
+    "question": "成績は悪かったが、<span class='underline'>どうにかこうにか</span>卒業だけはできた。",
+    "translation": "Thành tích học tập tuy kém nhưng bằng cách này hay cách khác tôi cũng đã tốt nghiệp được.",
+    "options": ["まるっきり", "かろうじて", "みじんも", "とことんまで"],
+    "answer": 1,
+    "explanation": "【どうにかこうにか】: Bằng cách này hay cách khác, cuối cùng cũng.\n→ かろうじて: Vừa vặn, khó khăn lắm mới.\n- まるっきり: Hoàn toàn (không).\n- みじんも: Một chút cũng không.\n- とことんまで: Cho đến tận cùng."
+  },
+  {
+    "id": 24,
+    "question": "彼は大変な仕事を<span class='underline'>てきぱき</span>とこなした。",
+    "translation": "Anh ấy đã giải quyết công việc khó khăn một cách nhanh nhẹn và thạo việc.",
+    "options": ["どうにか", "とっさに", "根気よく", "手際よく"],
+    "answer": 3,
+    "explanation": "【てきぱき】: Nhanh nhẹn, thạo việc.\n→ 手際よく (てぎわよく): Có tay nghề, khéo léo, thạo việc.\n- どうにか: Bằng cách nào đó.\n- とっさに: Ngay lập tức.\n- 根気よく: Kiên nhẫn."
+  },
+  {
+    "id": 25,
+    "question": "いまさら<span class='underline'>どうのこうの</span>と言ってもしようがないじゃない？",
+    "translation": "Đến lúc này rồi mà còn nói này nói nọ thì cũng chẳng ích gì phải không?",
+    "options": ["あちこち", "あれこれ", "なんなり", "なんにも"],
+    "answer": 1,
+    "explanation": "【どうのこうの】: Cái này cái nọ, phàn nàn chuyện này chuyện kia.\n→ あれこれ: Cái này cái kia.\n- あちこち: Đây đó.\n- なんなり: Bất cứ cái gì.\n- なんにも: Không cái gì cả."
+  },
+  {
+    "id": 26,
+    "question": "これは偽物のブランド品か。<span class='underline'>どうりで</span>安いわけだ。",
+    "translation": "Đây là hàng hiệu giả à? Thảo nào mà rẻ thế.",
+    "options": ["なるほど", "とりわけ", "それきり", "うんと"],
+    "answer": 0,
+    "explanation": "【どうりで】: Thảo nào, hèn chi.\n→ なるほど: Quả nhiên, hèn chi.\n- とりわけ: Đặc biệt là.\n- それきり: Kể từ đó.\n- うんと: Rất nhiều."
+  },
+  {
+    "id": 27,
+    "question": "理由は<span class='underline'>ともあれ</span>、会社を無断欠勤するのはよくない。",
+    "translation": "Bất kể lý do là gì đi nữa, việc tự ý nghỉ làm mà không xin phép là không tốt.",
+    "options": ["おろか", "もっとも", "さておき", "いわば"],
+    "answer": 2,
+    "explanation": "【ともあれ】: Bất kể thế nào, tạm gác chuyện đó sang bên.\n→ さておき: Tạm gác sang một bên.\n- おろか: Đừng nói tới... (huống chi).\n- もっとも: Đương nhiên / Tuy nhiên.\n- いわば: Có thể nói là."
+  },
+  {
+    "id": 28,
+    "question": "私は世間に対して<span class='underline'>なんら</span>恥じるところはない。",
+    "translation": "Tôi không có bất cứ điều gì phải xấu hổ với miệng đời cả.",
+    "options": ["そっくり", "しっかり", "いっそう", "まったく"],
+    "answer": 3,
+    "explanation": "【なんら（～ない）】: Hoàn toàn (không) điều gì.\n→ まったく (～ない): Hoàn toàn (không).\n- そっくり: Giống hệt.\n- しっかり: Chắc chắn.\n- いっそう: Hơn nữa."
+  },
+  {
+    "id": 29,
+    "question": "<span class='underline'>早いところ</span>仕事を片付けて飲みに行こうぜ。",
+    "translation": "Hãy dọn dẹp công việc thật nhanh rồi đi uống thôi nào.",
+    "options": ["進んで", "急いで", "謹んで", "喜んで"],
+    "answer": 1,
+    "explanation": "【早いところ】: Nhanh chóng, sớm.\n→ 急いで (いそいで): Khẩn trương, nhanh chóng.\n- 進んで: Chủ động.\n- 謹んで: Kính cẩn.\n- 喜んで: Sẵn lòng."
+  },
+  {
+    "id": 30,
+    "question": "A:「あの二人はどうなったの？」 B:「<span class='underline'>早い話が</span>、彼女に振られたんだって。」",
+    "translation": "A: \"Hai người đó thế nào rồi?\" B: \"Nói ngắn gọn là, nghe bảo anh ta bị cô ấy đá rồi.\"",
+    "options": ["要するに", "いつとなく", "そのうちに", "かるがると"],
+    "answer": 0,
+    "explanation": "【早い話が】: Nói tóm lại, nói ngắn gọn cho nhanh.\n→ 要するに (ようするに): Tóm lại là.\n- いつとなく: Không biết từ lúc nào.\n- そのうちに: Sớm muộn gì cũng.\n- かるがると: Một cách nhẹ nhàng."
+  },
+  {
+    "id": 31,
+    "question": "朝から晩まで家の前の道路は車が<span class='underline'>ひっきりなしに</span>通る。",
+    "translation": "Từ sáng đến tối, xe cộ đi lại không ngớt trên con đường trước nhà.",
+    "options": ["たまたま", "ちょこちょこ", "しきりに", "どことなく"],
+    "answer": 2,
+    "explanation": "【ひっきりなしに】: Liên tục không ngừng, không ngớt.\n→ しきりに: Liên tục, thường xuyên.\n- たまたま: Tình cờ.\n- ちょこちょこ: Chốc chốc, một chút.\n- どことなく: Không hiểu sao, có vẻ gì đó."
+  },
+  {
+    "id": 32,
+    "question": "<span class='underline'>ひっそりとした</span>街を一人でぶらぶらしていた。",
+    "translation": "Tôi một mình đi dạo thong dong trong một khu phố tĩnh lặng.",
+    "options": ["のどかな", "きれいな", "のんきな", "しずかな"],
+    "answer": 3,
+    "explanation": "【ひっそりとした】: Tĩnh lặng, lặng ngắt.\n→ しずかな (静かな): Yên tĩnh.\n- のどかな: Thanh bình.\n- きれいな: Đẹp, sạch sẽ.\n- のんきな: Vô tư, thong dong."
+  },
+  {
+    "id": 33,
+    "question": "君の作品はほかのと比べ、<span class='underline'>ひときわ</span>抜きん出ていたよ。",
+    "translation": "Tác phẩm của cậu so với những cái khác thì nổi bật hơn hẳn đấy.",
+    "options": ["とりわけ", "どっちみち", "とかく", "なにもかも"],
+    "answer": 0,
+    "explanation": "【ひときわ】: Nổi bật hẳn, hơn hẳn.\n→ とりわけ: Đặc biệt là, nổi bật trong số đó.\n- どっちみち: Dù sao đi nữa.\n- とかく: Có xu hướng.\n- なにもかも: Mọi thứ."
+  },
+  {
+    "id": 34,
+    "question": "君は、<span class='underline'>ひょっとして</span>山口さんの弟じゃない？",
+    "translation": "Cậu có lẽ nào là em trai của anh Yamaguchi không?",
+    "options": ["決して", "期せずして", "もしかして", "さして"],
+    "answer": 2,
+    "explanation": "【ひょっとして】: Có lẽ nào, phải chăng là.\n→ もしかして: Có lẽ nào.\n- 決して: Tuyệt đối không.\n- 期せずして: Tình cờ.\n- さして: (Không) lắm."
+  },
+  {
+    "id": 35,
+    "question": "もう時間だ。<span class='underline'>ぼちぼち</span>出かけようか。",
+    "translation": "Đến giờ rồi. Chúng ta thong thả xuất phát thôi nhỉ.",
+    "options": ["ぼつぼつ", "まちまち", "ぼそぼそ", "たちまち"],
+    "answer": 0,
+    "explanation": "【ぼちぼち】: Dần dần, thong thả xuất phát.\n→ ぼつぼつ: Dần dần, chuẩn bị bắt đầu.\n- まちまち: Muôn hình muôn vẻ.\n- ぼそぼそ: Nói lý nhí.\n- たちまち: Ngay lập tức."
+  },
+  {
+    "id": 36,
+    "question": "どうしたのか分からないが、彼は仕事中<span class='underline'>ぼっと</span>している。",
+    "translation": "Không biết có chuyện gì nhưng anh ấy cứ thẫn thờ trong lúc làm việc.",
+    "options": ["依然", "断然", "すんなり", "ぼんやり"],
+    "answer": 3,
+    "explanation": "【ぼっと】: Thẫn thờ, lơ đãng.\n→ ぼんやり: Ngơ ngác, thẫn thờ.\n- 依然: Vẫn như cũ.\n- 断然: Chắc chắn, hoàn toàn.\n- すんなり: Trơn tru, thanh thoát."
+  },
+  {
+    "id": 37,
+    "question": "初対面なのか、桜子は好きな男の子の前で<span class='underline'>もじもじ</span>している。",
+    "translation": "Có lẽ là lần đầu gặp mặt nên Sakurako cứ ngập ngừng, e thẹn trước mặt chàng trai mình thích.",
+    "options": ["かっこよく", "照れくさく", "きざに", "しとやかに"],
+    "answer": 1,
+    "explanation": "【もじもじ】: Ngập ngừng, bối rối, e thẹn.\n→ 照れくさく (てれくさく): Ngượng ngùng, lúng túng.\n- かっこよく: Ngầu, đẹp đẽ.\n- きざに: Phô trương, kiểu cách.\n- しとやかに: Trang nhã."
+  },
+  {
+    "id": 38,
+    "question": "そよ風で木の枝が<span class='underline'>ゆらゆら</span>と揺れている。",
+    "translation": "Cành cây đang rung rinh nhẹ nhàng trước làn gió nhẹ.",
+    "options": ["あわく", "あまく", "かるく", "ひくく"],
+    "answer": 2,
+    "explanation": "【ゆらゆら】: Rung rinh, lay động nhẹ nhàng.\n→ かるく (軽く): Nhẹ nhàng.\n- あわく: Nhạt, mỏng manh.\n- あまく: Ngọt ngào / Khinh suất.\n- ひくく: Thấp."
+  },
+  {
+    "id": 39,
+    "question": "<span class='underline'>わくわくしながら</span>、プレゼントの箱を開けた。",
+    "translation": "Tôi đã mở hộp quà với tâm trạng đầy háo hức, mong đợi.",
+    "options": ["嬉しそうに", "悲しそうに", "懐かしそうに", "寂しそうに"],
+    "answer": 0,
+    "explanation": "【わくわく】: Háo hức, mong chờ một niềm vui.\n→ 嬉しそうに (うれしそうに): Có vẻ vui sướng.\n- 悲しそうに: Có vẻ buồn bã.\n- 懐かしそうに: Có vẻ nhớ nhung.\n- 寂しそうに: Có vẻ cô đơn."
+  },
+  {
+    "id": 40,
+    "question": "君は<span class='underline'>よもや</span>例の約束を忘れちゃいないだろうね。",
+    "translation": "Chẳng lẽ nào cậu lại quên mất cái hẹn đó rồi sao?",
+    "options": ["かすか", "わずか", "おろか", "まさか"],
+    "answer": 3,
+    "explanation": "【よもや（～ないだろう）】: Chẳng lẽ nào, không đời nào (biểu thị sự nghi ngờ).\n→ まさか: Không lẽ nào, không đời nào.\n- かすか: Thấp thoáng, mờ nhạt.\n- わずか: Chỉ một chút.\n- おろか: Ngu ngốc."
+  },
+  {
+    "id": 41,
+    "question": "山田さんはテレビを見て<span class='underline'>げらげら</span>笑っている。",
+    "translation": "Anh Yamada đang cười ha hả khi xem tivi.",
+    "options": ["穏やかに", "静かに", "大声で", "小声で"],
+    "answer": 2,
+    "explanation": "【げらげら】: Cười ha hả, cười lớn tiếng.\n→ 大声で (おおごえで): Bằng giọng lớn.\n- 穏やかに: Một cách điềm đạm.\n- 静かに: Một cách yên tĩnh.\n- 小声で: Nói nhỏ."
+  },
+  {
+    "id": 42,
+    "question": "この季節では、<span class='underline'>ややもすると</span>風邪を引いてしまう。",
+    "translation": "Vào mùa này, con người ta rất dễ bị cảm lạnh.",
+    "options": ["とかく", "つねに", "はたして", "ともかく"],
+    "answer": 0,
+    "explanation": "【ややもすると】: Có khuynh hướng, rất dễ xảy ra (thường là việc không hay).\n→ とかく: Có khuynh hướng, dễ bị.\n- つねに: Luôn luôn.\n- はたして: Quả nhiên / Chẳng biết là.\n- ともかく: Dù sao đi nữa."
+  },
+  {
+    "id": 43,
+    "question": "おれには自殺の気持ちなんか<span class='underline'>みじんも</span>なかった。",
+    "translation": "Tôi chẳng hề có một chút ý định tự sát nào cả.",
+    "options": ["かねて", "てんで", "ひたすら", "ぴんと"],
+    "answer": 1,
+    "explanation": "【みじんも（～ない）】: Một chút cũng không.\n→ てんで (～ない): Hoàn toàn không, một chút cũng không.\n- かねて: Trước đây.\n- ひたすら: Chuyên tâm, khẩn khoản.\n- ぴんと: (Hiểu ra) ngay lập tức."
+  },
+  {
+    "id": 44,
+    "question": "住民はダム建設計画に<span class='underline'>断固として</span>反対した。",
+    "translation": "Người dân đã kiên quyết phản đối kế hoạch xây dựng đập.",
+    "options": ["ひっそり", "ひとすじ", "なんなりと", "とことん"],
+    "answer": 3,
+    "explanation": "【断固として（だんことして）】: Một cách kiên quyết, đến cùng.\n→ とことん: Đến tận cùng, triệt để.\n- ひっそり: Tĩnh lặng.\n- ひとすじ: Một lòng một dạ.\n- なんなりと: Bất cứ thứ gì."
+  },
+  {
+    "id": 45,
+    "question": "<span class='underline'>それはそうと</span>、無くした財布が出てきたよ。",
+    "translation": "À mà này, cái ví bị mất đã tìm thấy rồi đấy.",
+    "options": ["それはさておいて", "それにひきかえ", "そればかりか", "それなりに"],
+    "answer": 0,
+    "explanation": "【それはそうと】: Nhân tiện, à mà này (dùng để chuyển chủ đề).\n→ それはさておいて: Tạm gác chuyện đó sang bên (để nói chuyện khác).\n- それにひきかえ: Trái ngược với điều đó.\n- そればかりか: Không chỉ có vậy.\n- それなりに: Trong chừng mực nào đó."
+  },
+  {
+    "id": 46,
+    "question": "現場で、<span class='underline'>ぞっとする</span>ような事故の光景を見かけた。",
+    "translation": "Tôi đã nhìn thấy cảnh tượng một vụ tai nạn rùng rợn tại hiện trường.",
+    "options": ["あやしい", "おそろしい", "不思議な", "不可解な"],
+    "answer": 1,
+    "explanation": "【ぞっとする】: Rùng mình, khiếp sợ.\n→ おそろしい (恐ろしい): Đáng sợ, kinh khủng.\n- あやしい: Đáng nghi.\n- 不思議な: Kỳ lạ.\n- 不可解な: Khó hiểu."
+  },
+  {
+    "id": 47,
+    "question": "<span class='underline'>しばし</span>、足をとどめて、周りの景色を眺めていた。",
+    "translation": "Tôi đã dừng chân trong chốc lát để ngắm nhìn phong cảnh xung quanh.",
+    "options": ["しばしば", "しばらく", "おそく", "おそらく"],
+    "answer": 1,
+    "explanation": "【しばし】: Một lúc, một lát.\n→ しばらく: Một lúc, một khoảng thời gian ngắn.\n- しばしば: Thường xuyên.\n- おそく: Muộn.\n- おそらく: Có lẽ."
+  },
+  {
+    "id": 48,
+    "question": "事故現場は<span class='underline'>さながら</span>地獄絵のような光景だった。",
+    "translation": "Hiện trường vụ tai nạn là một cảnh tượng hệt như bức tranh địa ngục.",
+    "options": ["ひょっとして", "びくとも", "あたかも", "さぞや"],
+    "answer": 2,
+    "explanation": "【さながら】: Hệt như là, giống như là.\n→ あたかも: Hệt như là.\n- ひょっとして: Có lẽ nào.\n- びくとも（しない）: Không hề (lay chuyển).\n- さぞや: Chắc hẳn là."
+  },
+  {
+    "id": 49,
+    "question": "<span class='underline'>今にして</span>思えば、ぼくの言ったことは失礼だった。",
+    "translation": "Bây giờ nghĩ lại thì những điều tôi đã nói thật là thất lễ.",
+    "options": ["いまになって", "いまだに", "いまなお", "いままだ"],
+    "answer": 0,
+    "explanation": "【今にして思えば】: Bây giờ nghĩ lại mới thấy.\n→ いまになって: Đến tận bây giờ (mới nhận ra/trở nên).\n- いまだに: Cho đến tận bây giờ (vẫn chưa).\n- いまなお: Vẫn còn (tiếp diễn)."
+  },
+  {
+    "id": 50,
+    "question": "人当たりはいいが、<span class='underline'>一面</span>、頑固なところがある。",
+    "translation": "Anh ấy giao thiệp tốt nhưng mặt khác cũng có chỗ bướng bỉnh.",
+    "options": ["一切", "一方", "一斉", "一心"],
+    "answer": 1,
+    "explanation": "【一面】: Một mặt khác, phương diện khác.\n→ 一方 (いっぽう): Mặt khác, đồng thời.\n- 一切: Hoàn toàn (không).\n- 一斉: Cùng một lúc.\n- 一心: Quyết tâm, một lòng."
+  },
+  {
+    "id": 51,
+    "question": "教材と副教材を<span class='underline'>あわせて</span>、35冊の教材を購入した。",
+    "translation": "Tổng cộng cả giáo trình chính và phụ, tôi đã mua 35 cuốn.",
+    "options": ["掛け算で", "割り算で", "勘定で", "合計で"],
+    "answer": 3,
+    "explanation": "【あわせて】: Tổng cộng lại, hợp lại.\n→ 合計で (ごうけいで): Tổng cộng.\n- 掛け算: Phép nhân.\n- 割り算: Phép chia.\n- 勘定: Thanh toán/Tính toán."
+  },
+  {
+    "id": 52,
+    "question": "たいへんな家事だが、毎日<span class='underline'>もくもくと</span>働いている。",
+    "translation": "Dù việc nhà vất vả nhưng hàng ngày cô ấy vẫn lẳng lặng làm việc.",
+    "options": ["専念して", "専攻して", "観念して", "観覧して"],
+    "answer": 0,
+    "explanation": "【もくもくと】: Lẳng lặng, âm thầm (làm việc).\n→ 専念して (せんねんして): Say mê, miệt mài, tập trung hết sức.\n- 専攻して: Chuyên môn về.\n- 観念して: Cam chịu/Định niệm.\n- 観覧して: Tham quan."
+  },
+  {
+    "id": 53,
+    "question": "彼一人で<span class='underline'>ぼそぼそ</span>やいていた。",
+    "translation": "Anh ta cứ lầm bầm một mình.",
+    "options": ["こつこつ", "ごそごそ", "ぶつぶつ", "ぶかぶか"],
+    "answer": 2,
+    "explanation": "【ぼそぼそ】: (Nói) lý nhí, lầm bầm.\n→ ぶつぶつ: Làu bàu, lẩm bẩm.\n- こつこつ: Cần cù/Tiếng gõ cửa.\n- ごそごそ: Tiếng sột soạt.\n- ぶかぶか: Rộng thùng thình."
+  },
+  {
+    "id": 54,
+    "question": "タレントと言っても、<span class='underline'>ピンからキリまで</span>だ。",
+    "translation": "Dù nói là nghệ sĩ thì cũng có đủ loại từ thượng thượng đến hạ đẳng.",
+    "options": ["ながなが", "まるまる", "なかなか", "まちまち"],
+    "answer": 3,
+    "explanation": "【ピンからキリまで】: Đủ mọi loại, từ tốt nhất đến tệ nhất.\n→ まちまち: Muôn hình muôn vẻ, khác nhau.\n- ながなが: Dài dòng.\n- まるまる: Toàn bộ/Tròn trịa.\n- なかなか: Khá là."
+  },
+  {
+    "id": 55,
+    "question": "彼には物事を<span class='underline'>とことんまで</span>やりぬく根気がない。",
+    "translation": "Anh ta không có sự kiên nhẫn để làm việc gì đó đến tận cùng.",
+    "options": ["到底", "あくまで", "根底", "それまで"],
+    "answer": 1,
+    "explanation": "【とことんまで】: Đến tận cùng, triệt để.\n→ あくまで: Đến cùng.\n- 到底 (とうてい): Hoàn toàn (không thể).\n- 根底: Nền tảng, gốc rễ."
+  },
+  {
+    "id": 56,
+    "question": "あいつを煽ってやったら、<span class='underline'>ひょっとすると</span>奢ってくれるかもしれないよ。",
+    "translation": "Nếu kích động hắn ta một chút, biết đâu hắn sẽ khao mình đấy.",
+    "options": ["ことごとく", "ことによると", "たまたま", "ときおり"],
+    "answer": 1,
+    "explanation": "【ひょっとすると】: Có lẽ, có khả năng là.\n→ ことによると: Tùy theo tình hình thì có lẽ.\n- ことごとく: Tất cả.\n- たまたま: Tình cờ.\n- ときおり: Thỉnh thoảng."
+  },
+  {
+    "id": 57,
+    "question": "弘子さんは<span class='underline'>まんざら</span>吉田が嫌いではないらしい。",
+    "translation": "Có vẻ như Hiroko không hẳn là ghét Yoshida đâu.",
+    "options": ["いちがいに", "きまって", "ひとすじに", "いたって"],
+    "answer": 0,
+    "explanation": "【まんざら（～ない）】: Không hẳn là.\n→ いちがいに (～ない): Không thể nhất loạt (cho rằng).\n- きまって: Luôn luôn, định sẵn.\n- ひとすじに: Một lòng một dạ.\n- いたって: Rất, cực kỳ."
+  },
+  {
+    "id": 58,
+    "question": "妹はパーティーに行くので、<span class='underline'>いそいそと</span>支度をしている。",
+    "translation": "Em gái tôi đang hớn hở chuẩn bị để đi dự tiệc.",
+    "options": ["ふらふら", "ぴんぴん", "うきうきと", "もじもじ"],
+    "answer": 2,
+    "explanation": "【いそいそと】: Hớn hở, phấn chấn (chuẩn bị).\n→ うきうきと: Vui sướng, hân hoan.\n- ふらふら: Chệnh choạng.\n- ぴんぴん: Khỏe mạnh, tung tăng.\n- もじもじ: Ngập ngừng, e thẹn."
+  },
+  {
+    "id": 59,
+    "question": "今日の宿題は多いが、三時間で<span class='underline'>あらかた</span>終わった。",
+    "translation": "Bài tập hôm nay nhiều nhưng trong 3 tiếng tôi đã xong đại khái rồi.",
+    "options": ["一部", "一体", "大幅", "大概"],
+    "answer": 3,
+    "explanation": "【あらかた】: Phần lớn, hầu hết, đại khái.\n→ 大概 (たいがい): Đại khái, hầu hết.\n- 一部: Một phần.\n- 一体: Rốt cuộc là/Hợp nhất.\n- 大幅: Khá nhiều, diện rộng."
+  },
+  {
+    "id": 60,
+    "question": "彼は確かに有能だが、この件に関しては<span class='underline'>あながち</span>彼が正しいとは思えない。",
+    "translation": "Anh ấy đúng là có năng lực thật, nhưng về việc này thì không hẳn là anh ấy đúng.",
+    "options": ["もちろん", "てっきり", "いささか", "必ずしも"],
+    "answer": 3,
+    "explanation": "【あながち（～ない）】: Không hẳn là, không nhất thiết là.\n→ 必ずしも (かならずしも): Không nhất thiết, chưa hẳn.\n- もちろん: Đương nhiên.\n- てっきり: Cứ tưởng là (nhưng sự thật lại khác).\n- いささか: Một chút, hơi hơi."
+  },
+  {
+    "id": 61,
+    "question": "微力ながら、この社会に<span class='underline'>なんらか</span>の貢献をしたいです。",
+    "translation": "Dù sức mọn, tôi vẫn muốn đóng góp một điều gì đó cho xã hội này.",
+    "options": ["多少", "いくた", "かなり", "一時"],
+    "answer": 0,
+    "explanation": "【なんらか】: Một số, một điều gì đó, ở mức độ nào đó.\n→ 多少 (たしょう): Một chút, ít nhiều.\n- いくた: Nhiều.\n- かなり: Khá là.\n- 一時: Tạm thời."
+  },
+  {
+    "id": 62,
+    "question": "いくら高級なものといっても、<span class='underline'>たかが</span>30万円ぐらいで、たいしたことはない。",
+    "translation": "Dù nói là đồ cao cấp đến mấy, thì cũng chỉ tầm 30 vạn yên thôi, không có gì to tát cả.",
+    "options": ["ぜんぜん", "せいぜい", "いちだんと", "なんと"],
+    "answer": 1,
+    "explanation": "【たかが】: Chỉ là, tối đa cũng chỉ (biểu thị ý coi nhẹ).\n→ せいぜい: Tối đa, cùng lắm cũng chỉ.\n- ぜんぜん: Hoàn toàn không.\n- いちだんと: Hơn hẳn một bậc.\n- なんと: Làm sao / Cái gì."
+  },
+  {
+    "id": 63,
+    "question": "セールスマンは一日中<span class='underline'>ちょこちょこ</span>あっちこっちを歩き回る。",
+    "translation": "Nhân viên bán hàng đi loanh quanh khắp nơi suốt cả ngày.",
+    "options": ["あつかましく", "ずうずうしく", "せわしく", "いさましく"],
+    "answer": 2,
+    "explanation": "【ちょこちょこ】: Đi lại loanh quanh, đi những bước ngắn nhanh nhẹn hoặc bận rộn.\n→ せわしく: Bận rộn, không yên.\n- あつかましく: Mặt dày, trơ trẽn.\n- ずうずうしく: Vô liêm sỉ.\n- いさましく: Dũng cảm."
+  },
+  {
+    "id": 64,
+    "question": "彼の態度で、うそをついていると<span class='underline'>ぴんと</span>きた。",
+    "translation": "Qua thái độ của anh ta, tôi đã nhận ra ngay là anh ta đang nói dối.",
+    "options": ["直感的に", "論理的に", "精神的に", "肉体的に"],
+    "answer": 0,
+    "explanation": "【ぴんと（くる）】: Hiểu ra ngay, trực giác mách bảo.\n→ 直感的に (ちょっかんてきに): Bằng trực giác.\n- 論理的に: Một cách logic.\n- 精神的に: Về mặt tinh thần.\n- 肉体的に: Về mặt thể xác."
+  },
+  {
+    "id": 65,
+    "question": "久しぶりに海水浴を<span class='underline'>思う存分</span>楽しんだ。",
+    "translation": "Sau một thời gian dài, tôi đã tận hưởng việc tắm biển một cách thỏa thích.",
+    "options": ["そっくり", "がっくり", "まるっきり", "思いっきり"],
+    "answer": 3,
+    "explanation": "【思う存分（おもうぞんぶん）】: Thỏa thích, hết mình.\n→ 思いっきり (おもいっきり): Hết mình, thỏa thích.\n- そっくり: Giống hệt.\n- がっくり: Thất vọng, rã rời.\n- まるっきり: Hoàn toàn (không)."
+  }
+
+]

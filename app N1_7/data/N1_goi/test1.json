@@ -1,0 +1,1010 @@
+[
+  {
+    "id": 1,
+    "question": "表面では平気なふりをしていたが、＿＿＿＿はとても心配だったんだ。",
+    "translation": "Bề ngoài giả vờ như không có gì, nhưng trong lòng thì đã rất lo lắng.",
+    "options": ["内側", "内部", "内心", "内面"],
+    "answer": 2,
+    "explanation": "【内心 - ないしん】: Trong lòng, nội tâm.\n- 内側 (うちがわ): Phía bên trong (vật thể).\n- 内部 (ないぶ): Nội bộ (tổ chức).\n- 内面 (ないめん): Mặt trong/Tâm hồn."
+  },
+  {
+    "id": 2,
+    "question": "説明が十分でないところを＿＿＿＿してください。",
+    "translation": "Hãy bổ sung những chỗ mà phần giải thích còn chưa đầy đủ.",
+    "options": ["補充", "補給", "補助", "補償"],
+    "answer": 0,
+    "explanation": "【補充 - ほじゅう】: Bổ sung (cho đủ số lượng/phần thiếu).\n- 補給 (ほきゅう): Cung cấp thêm (nhiên liệu).\n- 補助 (ほじょ): Hỗ trợ.\n- 補償 (ほしょう): Bồi thường."
+  },
+  {
+    "id": 3,
+    "question": "＿＿＿＿の処置を取らないと、命がなくなる恐れがあるよ。",
+    "translation": "Nếu không thực hiện các biện pháp sơ cứu khẩn cấp, có nguy cơ mất mạng.",
+    "options": ["応急", "応対", "対応", "一応"],
+    "answer": 0,
+    "explanation": "【応急 - おうきゅう】: Sơ cứu, khẩn cấp.\n- 応対 (おうたい): Tiếp đãi.\n- 対応 (たいおう): Đối ứng, xử lý.\n- 一応 (いちおう): Tạm thời."
+  },
+  {
+    "id": 4,
+    "question": "犯人は成田空港から国外に＿＿＿＿した模様である。",
+    "translation": "Có vẻ như tên tội phạm đã tẩu thoát ra nước ngoài từ sân bay Narita.",
+    "options": ["脱線", "移転", "脱出", "外出"],
+    "answer": 2,
+    "explanation": "【脱出 - だっしゅつ】: Thoát khỏi, tẩu thoát.\n- 脱線 (だっせん): Chệch đường ray.\n- 移転 (いてん): Di chuyển địa điểm.\n- 外出 (がいしゅつ): Ra ngoài."
+  },
+  {
+    "id": 5,
+    "question": "今になってはじめてぼくは親のつらさを＿＿＿＿した。",
+    "translation": "Đến tận bây giờ tôi mới lần đầu cảm nhận sâu sắc nỗi khổ của cha mẹ.",
+    "options": ["敏感", "共感", "同感", "痛感"],
+    "answer": 3,
+    "explanation": "【痛感 - つうかん】: Cảm nhận sâu sắc, thấm thía.\n- 敏感 (びんかん): Nhạy cảm.\n- 共感 (きょうかん): Đồng cảm.\n- 同感 (どうかん): Đồng ý kiến."
+  },
+  {
+    "id": 6,
+    "question": "大量の原油を＿＿＿＿するには船が一番いい。",
+    "translation": "Để vận tải một lượng lớn dầu thô thì tàu thủy là tốt nhất.",
+    "options": ["運営", "運輸", "運行", "運送"],
+    "answer": 3,
+    "explanation": "【運輸 - うんゆ】: Vận tải (quy mô lớn).\n- 運営 (うんえい): Quản lý.\n- 運行 (うんこう): Vận hành (theo tuyến).\n- 運送 (うんそう): Vận chuyển (hàng hóa)."
+  },
+  {
+    "id": 7,
+    "question": "長い間、捜していた肉親が見つかり、涙の＿＿＿＿をした。",
+    "translation": "Tìm thấy người thân sau thời gian dài tìm kiếm, chúng tôi đã gặp lại nhau trong nước mắt.",
+    "options": ["対面", "応対", "面接", "面会"],
+    "answer": 0,
+    "explanation": "【対面 - たいめん】: Gặp mặt trực tiếp.\n- 応対 (おうたい): Tiếp đãi, ứng xử.\n- 面接 (めんせつ): Phỏng vấn.\n- 面会 (めんかい): Thăm gặp."
+  },
+  {
+    "id": 8,
+    "question": "共同生活の中では、ときには＿＿＿＿しなければならないこともある。",
+    "translation": "Trong cuộc sống tập thể, đôi khi cũng cần phải thỏa hiệp.",
+    "options": ["同調", "妥結", "妥協", "妥当"],
+    "answer": 2,
+    "explanation": "【妥協 - だきょう】: Thỏa hiệp.\n- 同調 (どうちょう): Phụ họa theo.\n- 妥結 (だけつ): Thỏa ước.\n- 妥当 (だとう): Hợp lý."
+  },
+  {
+    "id": 9,
+    "question": "経済が一時＿＿＿＿の状態に陥った。",
+    "translation": "Nền kinh tế nhất thời rơi vào tình trạng rối loạn.",
+    "options": ["紛失", "失格", "体調", "失調"],
+    "answer": 3,
+    "explanation": "【失調 - しっちょう】: Mất cân bằng, rối loạn.\n- 紛失 (ふんしつ): Làm mất đồ.\n- 失格 (しっかく): Mất tư cách.\n- 体調 (たいちょう): Tình trạng sức khỏe."
+  },
+  {
+    "id": 10,
+    "question": "生産者と消費者のものや金の循環を＿＿＿＿と言う。",
+    "translation": "Sự luân chuyển hàng hóa và tiền tệ giữa người sản xuất và tiêu dùng được gọi là lưu thông.",
+    "options": ["交流", "流通", "交際", "流行"],
+    "answer": 1,
+    "explanation": "【流通 - りゅうつう】: Lưu thông.\n- 交流 (こうりゅう): Giao lưu.\n- 交際 (こうさい): Mối quan hệ.\n- 流行 (りゅうこう): Trào lưu."
+  },
+  {
+    "id": 11,
+    "question": "水害防止の＿＿＿＿を考え、災害を最小限まで抑える。",
+    "translation": "Đề ra các phương sách phòng chống lũ lụt để hạn chế tối đa thiệt hại.",
+    "options": ["見方", "味方", "方策", "方角"],
+    "answer": 2,
+    "explanation": "【方策 - ほうさく】: Phương sách, đối sách.\n- 見方 (みかた): Cách nhìn.\n- 味方 (みかた): Đồng minh.\n- 方角 (ほうがく): Phương hướng."
+  },
+  {
+    "id": 12,
+    "question": "チーム全員が一致＿＿＿＿してがんばれば、きっと勝てる。",
+    "translation": "Nếu toàn đội đoàn kết nhất trí cố gắng, nhất định sẽ thắng.",
+    "options": ["結合", "団結", "合成", "集団"],
+    "answer": 1,
+    "explanation": "【団結 - だんけつ】: Đoàn kết.\n- 一致団結 (いっちだんけつ): Đoàn kết nhất trí."
+  },
+  {
+    "id": 13,
+    "question": "自然の＿＿＿＿変わりを描写した随筆を読む。",
+    "translation": "Đọc những bài tùy bút miêu tả sự thay đổi của tự nhiên.",
+    "options": ["回り", "歩き", "移り", "動き"],
+    "answer": 2,
+    "explanation": "【移り変わり - うつりかわり】: Sự thay đổi, chuyển tiếp.\n- 回り (まわり): Xung quanh.\n- 歩き (あるき): Việc đi bộ.\n- 動き (うごき): Sự chuyển động."
+  },
+  {
+    "id": 14,
+    "question": "「君のことを考えればこそ忠告したのよ」と言われたが、彼には別の＿＿＿＿があるような気がする。",
+    "translation": "Được nói là 'Vì nghĩ cho anh nên mới khuyên bảo', nhưng tôi cảm thấy anh ta có ý đồ khác.",
+    "options": ["意図", "意地", "意欲", "意識"],
+    "answer": 0,
+    "explanation": "【意図 - いと】: Ý đồ, mục đích.\n- 意地 (いじ): Tâm địa.\n- 意欲 (いよく): Ý muốn.\n- 意識 (いしき): Ý thức."
+  },
+  {
+    "id": 15,
+    "question": "オリンピックの聖火は今まさに＿＿＿＿されました。",
+    "translation": "Ngọn đuốc Olympic vừa mới được thắp sáng ngay lúc này.",
+    "options": ["火花", "火気", "点火", "放火"],
+    "answer": 2,
+    "explanation": "【点火 - てんか】: Châm lửa, thắp đuốc.\n- 火花 (ひばな): Tia lửa.\n- 火気 (かき): Lửa / nguồn lửa (dễ gây cháy).\n- 放火 (ほうか): Phóng hỏa (đốt phá)."
+  },
+  {
+    "id": 16,
+    "question": "当病院では病人との＿＿＿＿時間は次のようになっております。",
+    "translation": "Tại bệnh viện này, thời gian thăm bệnh nhân được quy định như sau.",
+    "options": ["面会", "面接", "会見", "会合"],
+    "answer": 0,
+    "explanation": "【面会 - めんかい】: Thăm gặp (bệnh nhân, người bị giam).\n- 面接 (めんせつ): Phỏng vấn.\n- 会見 (かいけん): Họp báo, gặp gỡ báo chí.\n- 会合 (かいごう): Cuộc họp, buổi tụ họp."
+  },
+  {
+    "id": 17,
+    "question": "＿＿＿＿の盗難事件は、同じ犯人によるものだと警察は見ている。",
+    "translation": "Cảnh sát nhận định rằng một loạt vụ trộm vừa qua là do cùng một thủ phạm.",
+    "options": ["一括", "一連", "一同", "一目"],
+    "answer": 1,
+    "explanation": "【一連 - いちれん】: Một loạt, một chuỗi.\n- 一括 (いっかつ): Gộp lại.\n- 一同 (いちどう): Toàn thể.\n- 一目 (ひとめ): Một cái nhìn."
+  },
+  {
+    "id": 18,
+    "question": "たった一人の＿＿＿＿だった姉を亡くして、寂しい限りです。",
+    "translation": "Mất đi người chị là người thân duy nhất, tôi vô cùng cô đơn.",
+    "options": ["肝心", "肉親", "心身", "親類"],
+    "answer": 1,
+    "explanation": "【肉親 - にくしん】: Người thân ruột thịt.\n- 肝心 (かんじん): Quan trọng.\n- 心身 (しんしん): Tâm và thân.\n- 親類 (しんるい): Họ hàng."
+  },
+  {
+    "id": 19,
+    "question": "私のせいで、相手に損害を与えたのだから、＿＿＿＿せずにはすまない。",
+    "translation": "Vì lỗi của tôi đã gây ra thiệt hại nên không thể không bồi thường.",
+    "options": ["返済", "返還", "弁償", "弁護"],
+    "answer": 2,
+    "explanation": "【弁償 - べんしょう】: Bồi thường thiệt hại (tiền/vật).\n- 返済 (へんさい): Trả nợ.\n- 返還 (へんかん): Trả lại (vật đã mượn/nhận).\n- 弁護 (べんご): Bào chữa (luật)."
+  },
+  {
+    "id": 20,
+    "question": "あの人は仕事の能力はあるが、やや＿＿＿＿が足りないのも確かだ。",
+    "translation": "Người đó có năng lực làm việc, nhưng đúng là hơi thiếu sự linh hoạt.",
+    "options": ["威力", "意地", "融通", "貫禄"],
+    "answer": 3,
+    "explanation": "【融通 - ゆうづう】: Sự linh hoạt.\n- 威力 (いりょく): Uy lực.\n- 意地 (いじ): Tính cố chấp.\n- 貫禄 (かんろく): Phong thái uy nghi."
+  },
+  {
+    "id": 21,
+    "question": "政府には、実情に即した＿＿＿＿をしてもらいたい。",
+    "translation": "Tôi mong muốn chính phủ có những đối sách sát với thực tế.",
+    "options": ["接待", "接続", "応急", "対応"],
+    "answer": 3,
+    "explanation": "【対応 - たいおう】: Đối ứng, xử lý.\n- 接待 (せったい): Tiếp đãi.\n- 接続 (せつぞく): Kết nối.\n- 応急 (おうきゅう): Khẩn cấp."
+  },
+  {
+    "id": 22,
+    "question": "厳しい取り調べは、犯人にすべてを＿＿＿＿させないではおかなかった。",
+    "translation": "Cuộc thẩm vấn gắt gao đã ép tên tội phạm phải thú nhận tất cả.",
+    "options": ["発表", "訴訟", "口述", "白状"],
+    "answer": 3,
+    "explanation": "【白状 - はくじょう】: Thú nhận.\n- 発表 (はっぴょう): Công bố.\n- 訴訟 (そしょう): Kiện tụng.\n- 口述 (こうじゅつ): Khai bằng miệng."
+  },
+  {
+    "id": 23,
+    "question": "どんな悪人であろうと、心のどこかに＿＿＿＿は残っているはずだ。",
+    "translation": "Dù là kẻ ác đến đâu, hẳn là ở đâu đó vẫn còn lương tâm.",
+    "options": ["良心", "良好", "最善", "優良"],
+    "answer": 0,
+    "explanation": "【良心 - りょうしん】: Lương tâm.\n- 良好 (りょうこう): Tốt đẹp.\n- 最善 (さいぜん): Tốt nhất.\n- 優良 (ゆうりょう): Ưu tú, chất lượng tốt."
+  },
+  {
+    "id": 24,
+    "question": "兄といい、弟といい、＿＿＿＿つけがたい立派な学者だ。",
+    "translation": "Cả anh lẫn em đều là những học giả giỏi khó phân cao thấp.",
+    "options": ["上下", "甲乙", "高低", "左右"],
+    "answer": 1,
+    "explanation": "【甲乙 - こうおつ】: Thứ bậc, hơn kém.\n- 上下 (じょうげ): Trên dưới.\n- 高低 (こうてい): Cao thấp.\n- 左右 (さゆう): Trái phải.\n- 甲乙つけがたい: Khó phân định hơn kém."
+  },
+  {
+    "id": 25,
+    "question": "騒ぎを起こした＿＿＿＿がわっとばかりに役所へ押し寄せてきた。",
+    "translation": "Đám đông gây ra sự náo loạn đã đồng loạt kéo đến văn phòng chính quyền.",
+    "options": ["大衆", "群衆", "国民", "人民"],
+    "answer": 1,
+    "explanation": "【群衆 - ぐんしゅう】: Đám đông tụ tập tại một chỗ.\n- 大衆 (たいしゅう): Đại chúng, quần chúng nói chung.\n- 国民 (こくみん): Quốc dân (toàn dân một nước).\n- 人民 (じんみん): Nhân dân (mang tính chính trị/xã hội)."
+  },
+  {
+    "id": 26,
+    "question": "＿＿＿＿中の座席の移動は危険ですので、絶対におやめください。",
+    "translation": "Việc di chuyển chỗ ngồi khi xe đang chạy rất nguy hiểm, xin tuyệt đối đừng làm vậy.",
+    "options": ["行進", "行動", "走査", "走行"],
+    "answer": 3,
+    "explanation": "【走行 - そうこう】: (Xe) đang chạy.\n- 行進 (こうしん): Diễu hành.\n- 行動 (こうどう): Hành động.\n- 走査 (そうさ): Quét (scan)."
+  },
+  {
+    "id": 27,
+    "question": "経済＿＿＿＿いかんにかかわらず、次のプロジェクトは実施する。",
+    "translation": "Bất kể tình hình kinh tế như thế nào, dự án tiếp theo vẫn sẽ được thực hiện.",
+    "options": ["情勢", "姿勢", "情報", "報告"],
+    "answer": 0,
+    "explanation": "【情勢 - じょうせい】: Tình hình, tình thế (kinh tế, chính trị).\n- 姿勢 (しせい): Tư thế, thái độ.\n- 情報 (じょうほう): Thông tin.\n- 報告 (ほうこく): Báo cáo."
+  },
+  {
+    "id": 28,
+    "question": "A社は会社の利益の一部を社会に＿＿＿＿するために、2000万円出して寄付をした。",
+    "translation": "Công ty A đã quyên góp để hoàn trả lợi nhuận cho xã hội.",
+    "options": ["返還", "返済", "還元", "還暦"],
+    "answer": 2,
+    "explanation": "【還元 - かんげん】: Hoàn trả (lợi nhuận cho xã hội/khách hàng).\n- 返還 (へんかん): Trả lại.\n- 返済 (へんさい): Trả nợ.\n- 還暦 (かんれき): 60 tuổi."
+  },
+  {
+    "id": 29,
+    "question": "放し飼いの野犬が子供に＿＿＿＿を加える恐れがあるから、退治しなくてはならない。",
+    "translation": "Có nguy cơ chó hoang gây hại cho trẻ em.",
+    "options": ["妨害", "危害", "災害", "利害"],
+    "answer": 1,
+    "explanation": "【危害 - きがい】: Gây hại.\n- 妨害 (ぼうがい): Cản trở.\n- 災害 (さいがい): Thiên tai.\n- 利害 (りがい): Lợi hại."
+  },
+  {
+    "id": 30,
+    "question": "あれだけ多くの人の前で、＿＿＿＿したのだから、間違いははっきりした今、謝罪せずにはすまない。",
+    "translation": "Vì đã khẳng định trước nhiều người nên phải xin lỗi.",
+    "options": ["無言", "物語", "断言", "言語"],
+    "answer": 2,
+    "explanation": "【断言 - だんげん】: Khẳng định chắc chắn.\n- 無言 (むごん): Im lặng.\n- 物語 (ものがたり): Câu chuyện.\n- 言語 (げんご): Ngôn ngữ."
+  },
+  {
+    "id": 31,
+    "question": "人に迷惑をかけないように、ペットの糞を＿＿＿＿すること。",
+    "translation": "Hãy dọn phân thú cưng.",
+    "options": ["前後", "経過", "終始", "始末"],
+    "answer": 3,
+    "explanation": "【始末 - しまつ】: Dọn dẹp, xử lý.\n- 前後 (ぜんご): Trước sau.\n- 経過 (けいか): Quá trình.\n- 終始 (しゅうし): Từ đầu đến cuối."
+  },
+  {
+    "id": 32,
+    "question": "自分自身の＿＿＿＿、娘の結婚、孫の誕生とよいことずくめの一年だった。",
+    "translation": "Một năm đầy chuyện tốt như thăng chức, kết hôn, sinh cháu.",
+    "options": ["行進", "上昇", "進行", "昇進"],
+    "answer": 3,
+    "explanation": "【昇進 - しょうしん】: Thăng chức.\n- 行進 (こうしん): Diễu hành.\n- 上昇 (じょうしょう): Tăng lên.\n- 進行 (しんこう): Tiến hành."
+  },
+  {
+    "id": 33,
+    "question": "裁判官たるもの、いかなる＿＿＿＿も持ってはならない。",
+    "translation": "Thẩm phán không được có định kiến.",
+    "options": ["偏見", "不公平", "斜め", "傾き"],
+    "answer": 0,
+    "explanation": "【偏見 - へんけん】: Định kiến.\n- 不公平 (ふこうへい): Không công bằng.\n- 斜め (ななめ): Nghiêng.\n- 傾き (かたむき): Sự nghiêng."
+  },
+  {
+    "id": 34,
+    "question": "成人したとはいえ、まだ大学一年で＿＿＿＿していない。",
+    "translation": "Dù trưởng thành nhưng chưa tự lập.",
+    "options": ["私立", "孤立", "自立", "単独"],
+    "answer": 2,
+    "explanation": "【自立 - じりつ】: Tự lập.\n- 私立 (しりつ): Tư lập.\n- 孤立 (こりつ): Cô lập.\n- 単独 (たんどく): Đơn độc."
+  },
+  {
+    "id": 35,
+    "question": "上海バンド辺りは異国＿＿＿＿溢れているところである。",
+    "translation": "Khu Bến Thượng Hải đầy không khí ngoại quốc.",
+    "options": ["情緒", "心情", "気持ち", "機嫌"],
+    "answer": 0,
+    "explanation": "【情緒 - じょうちょ】: Bầu không khí, cảm xúc.\n- 心情 (しんじょう): Tâm trạng.\n- 気持ち (きもち): Cảm giác.\n- 機嫌 (きげん): Tâm trạng (vui/buồn)."
+  },
+  {
+    "id": 36,
+    "question": "定年退職後、息子のいるアメリカに＿＿＿＿しようと思っている。",
+    "translation": "Sau khi nghỉ hưu, tôi dự định sẽ sang Mỹ định cư cùng với con trai.",
+    "options": ["移行", "移住", "移動", "移民"],
+    "answer": 1,
+    "explanation": "【移住（いじゅう）】: định cư, di trú\n- 移行（いこう）: chuyển đổi trạng thái\n- 移動（いどう）: di chuyển\n- 移民（いみん）: người di cư"
+  },
+  {
+    "id": 37,
+    "question": "もう少しがんばれば、オリンピックに出られたものを、途中で＿＿＿＿するとは。",
+    "translation": "Giá mà cố gắng thêm chút nữa thì đã có thể tham dự Olympic vậy mà lại bỏ cuộc giữa chừng.",
+    "options": ["放棄", "中退", "廃棄", "後退"],
+    "answer": 0,
+    "explanation": "【放棄（ほうき）】: từ bỏ\n- 中退（ちゅうたい）: bỏ học giữa chừng\n- 廃棄（はいき）: vứt bỏ\n- 後退（こうたい）: lùi lại"
+  },
+  {
+    "id": 38,
+    "question": "市長は最近議会の＿＿＿＿を無視する嫌いがある。一体どうしたことか。",
+    "translation": "Thị trưởng gần đây có xu hướng phớt lờ ý kiến của nghị hội.",
+    "options": ["方向", "意向", "意味", "方角"],
+    "answer": 1,
+    "explanation": "【意向（いこう）】: ý định\n- 方向（ほうこう）: phương hướng\n- 意味（いみ）: ý nghĩa\n- 方角（ほうがく）: phương hướng"
+  },
+  {
+    "id": 39,
+    "question": "「考えてみます」と言われたので、＿＿＿＿されたと思いきや、実はそれは「お断りします」と言う意味だった。",
+    "translation": "Tôi tưởng là đã được chấp nhận nhưng thực ra bị từ chối.",
+    "options": ["明瞭", "明白", "了承", "完了"],
+    "answer": 2,
+    "explanation": "【了承（りょうしょう）】: chấp thuận\n- 明瞭（めいりょう）: rõ ràng\n- 明白（めいはく）: minh bạch\n- 完了（かんりょう）: hoàn thành"
+  },
+  {
+    "id": 40,
+    "question": "あの叔父さんはうちの父親とは＿＿＿＿の間柄で、とても親しく付き合っている。",
+    "translation": "Họ là người quen cũ nên rất thân.",
+    "options": ["連中", "仲間", "承知", "旧知"],
+    "answer": 3,
+    "explanation": "【旧知（きゅうち）】: quen biết lâu\n- 連中（れんちゅう）: bọn\n- 仲間（なかま）: bạn bè\n- 承知（しょうち）: hiểu"
+  },
+  {
+    "id": 41,
+    "question": "この世界記録は、まさに＿＿＿＿の記録だ。",
+    "translation": "Đây là một kỷ lục đáng kinh ngạc.",
+    "options": ["極端", "高尚", "異常", "驚異"],
+    "answer": 3,
+    "explanation": "【驚異（きょうい）】: kỳ diệu\n- 極端（きょくたん）: cực đoan\n- 高尚（こうしょう）: cao quý\n- 異常（いじょう）: bất thường"
+  },
+  {
+    "id": 42,
+    "question": "彼の考え方にすっかり＿＿＿＿し、北京オリンピックのボランティアとして応募することにした。",
+    "translation": "Tôi hoàn toàn đồng cảm với cách nghĩ của anh ấy.",
+    "options": ["共存", "共同", "共通", "共感"],
+    "answer": 3,
+    "explanation": "【共感（きょうかん）】: đồng cảm\n- 共存（きょうぞん）: cùng tồn tại\n- 共同（きょうどう）: hợp tác\n- 共通（きょうつう）: điểm chung"
+  },
+  {
+    "id": 43,
+    "question": "この土地は＿＿＿＿が激しくて、道路建設費用がかなりかかる。",
+    "translation": "Địa hình nhấp nhô.",
+    "options": ["凸凹", "起伏", "上下", "転回"],
+    "answer": 1,
+    "explanation": "【起伏（きふく）】: nhấp nhô\n- 凸凹（でこぼこ）: lồi lõm\n- 上下（じょうげ）: lên xuống\n- 転回（てんかい）: xoay chuyển"
+  },
+  {
+    "id": 44,
+    "question": "努力のかいがあって、この会社もやっと＿＿＿＿に乗ってきた。",
+    "translation": "Công ty đã đi vào quỹ đạo.",
+    "options": ["軌道", "歩道", "車道", "赤道"],
+    "answer": 0,
+    "explanation": "【軌道（きどう）】: quỹ đạo\n- 歩道（ほどう）: vỉa hè\n- 車道（しゃどう）: đường xe\n- 赤道（せきどう）: xích đạo"
+  },
+  {
+    "id": 45,
+    "question": "激しい運動は心臓病にかかっているあなたにはよくない。油断は＿＿＿＿ですよ。",
+    "translation": "Chủ quan là điều cấm kỵ.",
+    "options": ["禁止", "中止", "禁物", "産物"],
+    "answer": 2,
+    "explanation": "【禁物（きんもつ）】: điều cấm\n- 禁止（きんし）: cấm\n- 中止（ちゅうし）: dừng\n- 産物（さんぶつ）: sản phẩm"
+  },
+  {
+    "id": 46,
+    "question": "毎月のお小遣いを＿＿＿＿して、半年してからついにこのゲーム機を手に入れた。",
+    "translation": "Tôi đã tiết kiệm tiền tiêu vặt và sau nửa năm mua được máy game.",
+    "options": ["倹約", "制約", "規約", "制限"],
+    "answer": 0,
+    "explanation": "【倹約（けんやく）】: tiết kiệm\n- 制約（せいやく）: ràng buộc\n- 規約（きやく）: điều lệ\n- 制限（せいげん）: giới hạn"
+  },
+  {
+    "id": 47,
+    "question": "あの人は本職のほかに、保険会社のセールスを＿＿＿＿している。",
+    "translation": "Người đó làm thêm bán bảo hiểm.",
+    "options": ["兼用", "兼業", "使用", "職業"],
+    "answer": 1,
+    "explanation": "【兼業（けんぎょう）】: làm nhiều nghề\n- 兼用（けんよう）: dùng chung\n- 使用（しよう）: sử dụng\n- 職業（しょくぎょう）: nghề"
+  },
+  {
+    "id": 48,
+    "question": "大雪で立ち往生していた電車が今朝＿＿＿＿した。",
+    "translation": "Tàu đã được khôi phục hoạt động.",
+    "options": ["復旧", "復興", "回復", "全快"],
+    "answer": 0,
+    "explanation": "【復旧（ふっきゅう）】: khôi phục\n- 復興（ふっこう）: tái thiết\n- 回復（かいふく）: hồi phục\n- 全快（ぜんかい）: khỏi hẳn"
+  },
+  {
+    "id": 49,
+    "question": "話では、アメリカ人は医者を神様のように＿＿＿＿しているそうだ。",
+    "translation": "Người Mỹ tôn sùng bác sĩ như thần.",
+    "options": ["念願", "拝見", "信仰", "崇拝"],
+    "answer": 3,
+    "explanation": "【崇拝（すうはい）】: sùng bái\n- 念願（ねんがん）: mong ước\n- 拝見（はいけん）: xem\n- 信仰（しんこう）: tín ngưỡng"
+  },
+  {
+    "id": 50,
+    "question": "中国やインドほど、国民の所得の＿＿＿＿が多い国は少ないだろう。",
+    "translation": "Chênh lệch thu nhập lớn.",
+    "options": ["誤差", "差別", "格差", "格別"],
+    "answer": 2,
+    "explanation": "【格差（かくさ）】: chênh lệch\n- 誤差（ごさ）: sai số\n- 差別（さべつ）: phân biệt\n- 格別（かくべつ）: đặc biệt"
+  },
+  {
+    "id": 51,
+    "question": "人間は集団動物で、孤独を恐れるのは＿＿＿＿である。",
+    "translation": "Sợ cô đơn là bản năng.",
+    "options": ["本能", "本音", "本質", "本気"],
+    "answer": 0,
+    "explanation": "【本能（ほんのう）】: bản năng\n- 本音（ほんね）: suy nghĩ thật\n- 本質（ほんしつ）: bản chất\n- 本気（ほんき）: nghiêm túc"
+  },
+  {
+    "id": 52,
+    "question": "人のプライベートまで＿＿＿＿するなんて何のつもりなの？",
+    "translation": "Can thiệp đời tư.",
+    "options": ["交渉", "干渉", "奉仕", "寄与"],
+    "answer": 1,
+    "explanation": "【干渉（かんしょう）】: can thiệp\n- 交渉（こうしょう）: đàm phán\n- 奉仕（ほうし）: phục vụ\n- 寄与（きよ）: đóng góp"
+  },
+  {
+    "id": 53,
+    "question": "観客総数8万人を＿＿＿＿できる巨大な施設が建設された。",
+    "translation": "Có sức chứa 80.000 người.",
+    "options": ["納入", "収容", "収納", "許容"],
+    "answer": 1,
+    "explanation": "【収容（しゅうよう）】: sức chứa\n- 納入（のうにゅう）: nộp\n- 収納（しゅうのう）: cất giữ\n- 許容（きょよう）: chấp nhận"
+  },
+  {
+    "id": 54,
+    "question": "困っている人を見たら、何とかしてあげたいと思うのはそもそも＿＿＿＿だ。",
+    "translation": "Đó là tình người.",
+    "options": ["心情", "人情", "感情", "実情"],
+    "answer": 1,
+    "explanation": "【人情（にんじょう）】: tình người\n- 心情（しんじょう）: tâm trạng\n- 感情（かんじょう）: cảm xúc\n- 実情（じつじょう）: thực tế"
+  },
+  {
+    "id": 55,
+    "question": "つい香りの＿＿＿＿に負けて、財布を開けてしまった。",
+    "translation": "Không cưỡng lại được cám dỗ.",
+    "options": ["誘惑", "迷惑", "勧誘", "推薦"],
+    "answer": 0,
+    "explanation": "【誘惑（ゆうわく）】: cám dỗ\n- 迷惑（めいわく）: phiền\n- 勧誘（かんゆう）: mời\n- 推薦（すいせん）: đề cử"
+  },
+  {
+    "id": 56,
+    "question": "道端に＿＿＿＿された粗大ゴミは通行の妨げとなった。",
+    "translation": "Rác bị bỏ mặc.",
+    "options": ["放棄", "放置", "位置", "破棄"],
+    "answer": 1,
+    "explanation": "【放置（ほうち）】: bỏ mặc\n- 放棄（ほうき）: từ bỏ\n- 位置（いち）: vị trí\n- 破棄（はき）: hủy"
+  },
+  {
+    "id": 57,
+    "question": "写真を＿＿＿＿して夫婦関係を偽って人を騙す事件。",
+    "translation": "Ảnh bị ghép.",
+    "options": ["合併", "統合", "合成", "化合"],
+    "answer": 2,
+    "explanation": "【合成（ごうせい）】: ghép ảnh\n- 合併（がっぺい）: sáp nhập\n- 統合（とうごう）: thống nhất\n- 化合（かごう）: hóa học"
+  },
+  {
+    "id": 58,
+    "question": "次の映画の＿＿＿＿を練っている。",
+    "translation": "Đang lên ý tưởng.",
+    "options": ["構想", "想像", "構造", "空想"],
+    "answer": 0,
+    "explanation": "【構想（こうそう）】: ý tưởng\n- 想像（そうぞう）: tưởng tượng\n- 構造（こうぞう）: cấu trúc\n- 空想（くうそう）: viển vông"
+  },
+  {
+    "id": 59,
+    "question": "彼にもう少し＿＿＿＿があれば、成績が上がる。",
+    "translation": "Cần kiên trì hơn.",
+    "options": ["根本", "根底", "本気", "根気"],
+    "answer": 3,
+    "explanation": "【根気（こんき）】: kiên trì\n- 根本（こんぽん）: căn bản\n- 根底（こんてい）: nền\n- 本気（ほんき）: nghiêm túc"
+  },
+  {
+    "id": 60,
+    "question": "プロに＿＿＿＿する腕前。",
+    "translation": "Ngang trình độ.",
+    "options": ["匹敵", "必死", "同様", "懸命"],
+    "answer": 0,
+    "explanation": "【匹敵（ひってき）】: ngang bằng\n- 必死（ひっし）: liều chết\n- 同様（どうよう）: giống\n- 懸命（けんめい）: hết sức"
+  },
+  {
+    "id": 61,
+    "question": "＿＿＿＿で10名に旅行が当たった。",
+    "translation": "Trúng qua bốc thăm.",
+    "options": ["選考", "選択", "抽選", "当選"],
+    "answer": 2,
+    "explanation": "【抽選（ちゅうせん）】: bốc thăm\n- 選考（せんこう）: tuyển\n- 選択（せんたく）: chọn\n- 当選（とうせん）: trúng"
+  },
+  {
+    "id": 62,
+    "question": "ハイテク産業で＿＿＿＿するアメリカ。",
+    "translation": "Mỹ đi trước.",
+    "options": ["先行", "先頭", "平行", "走行"],
+    "answer": 0,
+    "explanation": "【先行（せんこう）】: đi trước\n- 先頭（せんとう）: đứng đầu\n- 平行（へいこう）: song song\n- 走行（そうこう）: chạy"
+  },
+  {
+    "id": 63,
+    "question": "交通＿＿＿＿が敷かれている。",
+    "translation": "Hạn chế giao thông.",
+    "options": ["規定", "規制", "決定", "政策"],
+    "answer": 1,
+    "explanation": "【規制（きせい）】: hạn chế\n- 規定（きてい）: quy định\n- 決定（けってい）: quyết định\n- 政策（せいさく）: chính sách"
+  },
+  {
+    "id": 64,
+    "question": "甘やかす親も放置する親も＿＿＿＿である。",
+    "translation": "Đều không đủ tư cách.",
+    "options": ["失脚", "失礼", "失格", "失調"],
+    "answer": 2,
+    "explanation": "【失格（しっかく）】: mất tư cách\n- 失脚（しっきゃく）: mất chức\n- 失礼（しつれい）: thất lễ\n- 失調（しっちょう）: rối loạn"
+  },
+  {
+    "id": 65,
+    "question": "アルミニウムは軽くて錆びない＿＿＿＿がある。",
+    "translation": "Có ưu điểm.",
+    "options": ["利点", "利益", "上位", "優位"],
+    "answer": 0,
+    "explanation": "【利点（りてん）】: ưu điểm\n- 利益（りえき）: lợi nhuận\n- 上位（じょうい）: cấp trên\n- 優位（ゆうい）: ưu thế"
+  },
+  {
+    "id": 66,
+    "question": "＿＿＿＿を通そうとしないで謝った方がいい。",
+    "translation": "Đừng cố chấp.",
+    "options": ["意味", "意地", "意志", "意向"],
+    "answer": 1,
+    "explanation": "【意地（いじ）】: bướng bỉnh\n- 意味（いみ）: ý nghĩa\n- 意志（いし）: ý chí\n- 意向（いこう）: ý định"
+  },
+  {
+    "id": 67,
+    "question": "この仕事には多くの＿＿＿＿を費やした。",
+    "translation": "Đã tốn rất nhiều công sức.",
+    "options": ["労力", "労働", "手間", "骨折り"],
+    "answer": 0,
+    "explanation": "【労力（ろうりょく）】: công sức\n- 労働（ろうどう）: lao động\n- 手間（てま）: công việc tốn thời gian\n- 骨折り（ほねおり）: vất vả"
+  },  
+  {
+    "id": 68,
+    "question": "彼は＿＿＿＿が利かないから、そのような接待に応じた対処ができない。",
+    "translation": "Vì anh ấy không có sự linh hoạt, nên không thể đối ứng phù hợp với kiểu tiếp đãi như thế.",
+    "options": ["融通", "流通", "融資", "流動"],
+    "answer": 0,
+    "explanation": "【融通 - ゆうづう】: Sự linh hoạt, ứng biến (融通が利かない: cứng nhắc, không linh hoạt).\n- 流通 (りゅうつう): Lưu thông (hàng hóa/tiền tệ).\n- 融資 (ゆうし): Cấp vốn, cho vay vốn.\n- 流動 (りゅうどう): Lưu động, biến động."
+  },
+  {
+    "id": 69,
+    "question": "極端な民族主義や軍国主義の＿＿＿＿を防止する。",
+    "translation": "Ngăn chặn sự hồi sinh của chủ nghĩa dân tộc cực đoan và chủ nghĩa quân phiệt.",
+    "options": ["回復", "復旧", "復興", "復活"],
+    "answer": 3,
+    "explanation": "【復活 - ふっかつ】: Sự sống lại, sự tái sinh, hồi sinh (thường dùng cho trào lưu, tư tưởng).\n- 回復 (かいふく): Hồi phục (sức khỏe).\n- 復旧 (ふっきゅう): Khôi phục (cơ sở hạ tầng).\n- 復興 (ふっこう): Phục hưng (kinh tế/đất nước sau chiến tranh)."
+  },
+  {
+    "id": 70,
+    "question": "みんなが法案改正の是非を＿＿＿＿している。",
+    "translation": "Mọi người đang tranh luận về tính đúng sai của việc sửa đổi dự luật.",
+    "options": ["開会", "会議", "論議", "理論"],
+    "answer": 2,
+    "explanation": "【論議 - ろんぎ】: Tranh luận, thảo luận (về một vấn đề cụ thể).\n- 開会 (かいかい): Khai mạc cuộc họp.\n- 会議 (かいぎ): Hội nghị, cuộc họp.\n- 理論 (りろん): Lý luận, lý thuyết."
+  },
+  {
+    "id": 71,
+    "question": "あの＿＿＿＿ときたら、まったくひどい事をする。",
+    "translation": "Cái lũ đó/đám đó thật là, toàn làm những chuyện tồi tệ.",
+    "options": ["中間", "合間", "連中", "最中"],
+    "answer": 2,
+    "explanation": "【連中 - れんじゅう】: Đám, lũ, nhóm người (thường mang nghĩa coi thường hoặc thân mật quá mức).\n- 中間 (ちゅうかん): Ở giữa, trung gian.\n- 合間 (あいま): Thời gian rảnh rỗi giữa các việc.\n- 最中 (さいちゅう): Ngay trong lúc đang làm gì đó."
+  },
+  {
+    "id": 72,
+    "question": "彼は＿＿＿＿を並べて、自分のために懸命に弁解をした。",
+    "translation": "Anh ta đưa ra đủ mọi lý lẽ để ra sức biện hộ cho bản thân.",
+    "options": ["理屈", "屈折", "窮屈", "理性"],
+    "answer": 0,
+    "explanation": "【理屈 - りくつ】: Lý lẽ, lý luận (thường dùng với nghĩa tiêu cực là ngụy biện).\n- 屈折 (くっせつ): Khúc xạ, gấp khúc.\n- 窮屈 (きゅうくつ): Gò bó, chật chội.\n- 理性 (りせい): Lý tính, sự tỉnh táo."
+  },
+  {
+    "id": 73,
+    "question": "宴会の最中に、彼は＿＿＿＿に物まねをした。",
+    "translation": "Trong lúc bữa tiệc đang diễn ra, anh ấy đã biểu diễn tiết mục bắt chước để góp vui.",
+    "options": ["余裕", "余興", "趣味", "趣旨"],
+    "answer": 1,
+    "explanation": "【余興 - よきょう】: Tiết mục góp vui, trò giải trí thêm trong bữa tiệc.\n- 余裕 (よゆう): Phần dư, sự thong dong.\n- 趣味 (しゅみ): Sở thích.\n- 趣旨 (しゅし): Ý đồ, mục đích chính."
+  },
+  {
+    "id": 74,
+    "question": "既存の経験がないので、解決の方法を＿＿＿＿するしかない。",
+    "translation": "Vì không có kinh nghiệm sẵn có, nên không còn cách nào khác là phải tự tìm tòi phương pháp giải quyết.",
+    "options": ["検査", "捜査", "模索", "捜索"],
+    "answer": 2,
+    "explanation": "【模索 - もさく】: Tìm tòi, dò dẫm (trong bóng tối/khi chưa có hướng đi rõ ràng).\n- 検査 (けんさ): Kiểm tra, xét nghiệm.\n- 捜査 (そうさ): Điều tra (tội phạm).\n- 捜索 (そうさく): Tìm kiếm (người mất tích/vật thất lạc)."
+  },
+  {
+    "id": 75,
+    "question": "＿＿＿＿を聞き出そうとしたが、彼はなかなか明かそうとしなかった。",
+    "translation": "Tôi đã cố gắng hỏi để biết được ý định thực sự/tiếng lòng của anh ấy, nhưng anh ấy mãi không chịu tiết lộ.",
+    "options": ["内部", "内面", "本当", "本音"],
+    "answer": 3,
+    "explanation": "【本音 - ほんね】: Ý định thực sự, tiếng lòng (đối lập với Tatemae - khách sáo).\n- 内部 (ないぶ): Bên trong (tổ chức/vật thể).\n- 内面 (ないめん): Mặt trong, nội tâm.\n- 本当 (ほんとう): Sự thật."
+  },
+  {
+    "id": 76,
+    "question": "新しい会社の＿＿＿＿に当たって、社長が決意を表明した。",
+    "translation": "Nhân dịp thành lập công ty mới, giám đốc đã bày tỏ quyết tâm của mình.",
+    "options": ["発作", "発達", "発足", "発掘"],
+    "answer": 2,
+    "explanation": "【発足 - ほっそく/はっそく】: Sự thành lập, đi vào hoạt động (tổ chức, đoàn thể).\n- 発作 (ほっさ): Phát bệnh, lên cơn (co giật).\n- 発達 (はったつ): Phát triển.\n- 発掘 (はっくつ): Khai quật."
+  },
+  {
+    "id": 77,
+    "question": "老人の介護に無料＿＿＿＿する人が少しずつ多くなってきたようだ。",
+    "translation": "Có vẻ như số lượng người làm dịch vụ tình nguyện miễn phí cho việc chăm sóc người già đang dần tăng lên.",
+    "options": ["奉仕", "給仕", "勤め", "慰め"],
+    "answer": 0,
+    "explanation": "【奉仕 - ほうし】: Phụng sự, phục vụ, tình nguyện (無料奉仕: phục vụ không công).\n- 給仕 (きゅうじ): Bồi bàn, phục vụ ăn uống.\n- 勤め (つとめ): Công việc, nhiệm vụ.\n- 慰め (なぐさめ): Sự an ủi."
+  },
+  {
+    "id": 78,
+    "question": "日本では留学生が＿＿＿＿業にかかわるアルバイトは留学管理局に禁じられている。",
+    "translation": "Tại Nhật Bản, du học sinh bị Cục quản lý xuất nhập cảnh cấm làm các công việc liên quan đến ngành dịch vụ nhạy cảm (giải trí người lớn).",
+    "options": ["風習", "風俗", "習慣", "慣習"],
+    "answer": 1,
+    "explanation": "【風俗 - ふうぞく】: Phong tục, hoặc trong ngữ cảnh này là ngành dịch vụ giải trí người lớn (風俗業).\n- 風習 (ふうしゅう): Phong tục tập quán.\n- 習慣 (しゅうかん): Thói quen.\n- 慣習 (かんしゅう): Tập quán, hủ tục."
+  },
+  {
+    "id": 79,
+    "question": "脳死の判定基準が公表されるが早いか、＿＿＿＿をかもしている。",
+    "translation": "Ngay sau khi tiêu chuẩn chẩn đoán chết não được công bố, nó đã gây ra nhiều cuộc tranh luận sôi nổi.",
+    "options": ["物流", "物議", "協議", "統合"],
+    "answer": 1,
+    "explanation": "【物議 - ぶつぎ】: Dư luận xã hội (物議をかもす: gây ra nhiều tranh cãi/bàn tán trong dư luận).\n- 物流 (ぶつりゅう): Logistics, lưu thông hàng hóa.\n- 協議 (きょうぎ): Thỏa thuận, thảo luận.\n- 統合 (とうごう): Sáp nhập, thống nhất."
+  },
+  {
+    "id": 80,
+    "question": "街頭でビラを通りがかりの人に＿＿＿＿する留学生の姿がときどき目に入る。",
+    "translation": "Thỉnh thoảng tôi lại bắt gặp hình ảnh những du học sinh phát tờ rơi cho người qua đường trên phố.",
+    "options": ["分配", "分業", "交付", "配布"],
+    "answer": 3,
+    "explanation": "【配布 - はいふ】: Phát, phân phát (tờ rơi, tài liệu...). \n- 分配 (ぶんぱい): Phân chia (lợi nhuận, thức ăn).\n- 分業 (ぶんぎょう): Phân công công việc.\n- 交付 (こうふ): Cấp phát (giấy tờ chính thức từ cơ quan nhà nước)."
+  },
+  {
+    "id": 81,
+    "question": "＿＿＿＿した情報は我が社にとってとても重要なものです。",
+    "translation": "Thông tin đã thu thập được là thứ rất quan trọng đối với công ty chúng tôi.",
+    "options": ["操縦", "経営", "入手", "入会"],
+    "answer": 2,
+    "explanation": "【入手 - にゅうしゅ】: Nhận được, thu thập được (thông tin, vật phẩm).\n- 操縦 (そうじゅう): Điều khiển (máy bay, máy móc).\n- 経営 (けいえい): Kinh doanh.\n- 入会 (にゅうかい): Gia nhập hội."
+  },
+  {
+    "id": 82,
+    "question": "男のロング・ヘアの流行はまだまだ＿＿＿＿となっていないようだ。",
+    "translation": "Có vẻ như trào lưu để tóc dài ở nam giới vẫn chưa có dấu hiệu hạ nhiệt.",
+    "options": ["下取り", "下火", "下調べ", "下心"],
+    "answer": 1,
+    "explanation": "【下火 - したび】: Hạ nhiệt, lắng xuống (trào lưu, hỏa hoạn).\n- 下取り (したどり): Đổi cũ lấy mới (có bù tiền).\n- 下調べ (したしらべ): Điều tra/tìm hiểu trước.\n- 下心 (したごころ): Ý đồ ngầm, dụng ý bất chính."
+  },
+  {
+    "id": 83,
+    "question": "彼はいつもパスポートと外国人登録証を＿＿＿＿している。",
+    "translation": "Anh ấy luôn mang theo hộ chiếu và thẻ đăng ký người nước ngoài bên mình.",
+    "options": ["所持", "維持", "保持", "堅持"],
+    "answer": 0,
+    "explanation": "【所持 - しょじ】: Sở hữu, mang theo bên người (vật dụng cá nhân, giấy tờ).\n- 維持 (いじ): Duy trì (trạng thái).\n- 保持 (ほじ): Nắm giữ, duy trì.\n- 堅持 (けんじ): Kiên định, giữ vững lập trường."
+  },
+  {
+    "id": 84,
+    "question": "＿＿＿＿の刑法によれば、その事件を解釈することができない。",
+    "translation": "Dựa theo luật hình sự hiện hành, không thể diễn giải được vụ án đó.",
+    "options": ["状態", "状況", "現行", "現実"],
+    "answer": 2,
+    "explanation": "【現行 - げんこう】: Hiện hành (luật pháp, chế độ đang áp dụng).\n- 状態 (じょうたい): Trạng thái.\n- 状況 (じょうきょう): Tình hình.\n- 現実 (げんじつ): Thực tế."
+  },
+  {
+    "id": 85,
+    "question": "その施設に手を加えれば、まだ使えるから、廃棄より＿＿＿＿させてほしい。",
+    "translation": "Cơ sở đó nếu sửa sang lại một chút thì vẫn dùng được, nên tôi muốn nó được duy trì tồn tại thay vì dỡ bỏ.",
+    "options": ["継続", "持続", "相続", "存続"],
+    "answer": 3,
+    "explanation": "【存続 - そんぞく】: Tiếp tục tồn tại (thường dùng cho tổ chức, cơ sở vật chất).\n- 継続 (けいぞく): Tiếp tục (hành động).\n- 持続 (じぞく): Duy trì (hiệu quả, trạng thái).\n- 相続 (そうぞく): Thừa kế."
+  },
+  {
+    "id": 86,
+    "question": "＿＿＿＿が明らかになるまで、事件の調査は続いた。",
+    "translation": "Cuộc điều tra vụ án vẫn tiếp tục cho đến khi sự thật được sáng tỏ.",
+    "options": ["真相", "真実", "現実", "現在"],
+    "answer": 0,
+    "explanation": "【真相 - しんそう】: Chân tướng, bản chất thực sự của sự việc.\n- 真実 (しんじつ): Sự thật.\n- 現実 (げんじつ): Thực tại.\n- 現在 (げんざい): Hiện tại."
+  },
+  {
+    "id": 87,
+    "question": "農地の少ないA国では、アルカリ地帯の土壌を＿＿＿＿して利用している。",
+    "translation": "Ở quốc gia A vốn ít đất canh tác, người ta đã cải tạo thổ nhưỡng của các vùng đất kiềm để sử dụng.",
+    "options": ["変革", "改革", "改良", "革新"],
+    "answer": 2,
+    "explanation": "【改良 - かいりょう】: Cải thiện, cải tạo (làm cho tốt hơn, dùng cho giống cây, đất đai, máy móc).\n- 変革 (へんかく): Biến đổi sâu sắc (hệ thống).\n- 改革 (かいかく): Cải cách (chính trị, tổ chức).\n- 革新 (かくしん): Cách tân, đổi mới."
+  },
+  {
+    "id": 88,
+    "question": "時間があったら、世界を旅して＿＿＿＿を広げたい。",
+    "translation": "Nếu có thời gian, tôi muốn đi du lịch thế giới để mở mang tầm mắt.",
+    "options": ["分類", "分野", "視野", "視線"],
+    "answer": 2,
+    "explanation": "【視野 - しや】: Tầm mắt, tầm nhìn (視野を広げる: mở mang kiến thức/tầm nhìn).\n- 分類 (ぶんるい): Phân loại.\n- 分野 (ぶんや): Lĩnh vực.\n- 視線 (しせん): Ánh nhìn."
+  },
+  {
+    "id": 89,
+    "question": "頭脳の回転がのろくて＿＿＿＿に欠ける人は秘書という仕事には向かない。",
+    "translation": "Những người đầu óc chậm chạp và thiếu sự linh hoạt (nhạy bén) thì không phù hợp với công việc thư ký.",
+    "options": ["有能", "適性", "知能", "知性"],
+    "answer": 3,
+    "explanation": "【適性 - てきせい】: Năng lực phù hợp, tố chất phù hợp.\n- 有能 (ゆうのう): Có tài năng.\n- 知能 (ちのう): Trí thông minh.\n- 知性 (ちせい): Trí tuệ, sự thông thái."
+  },
+  {
+    "id": 90,
+    "question": "＿＿＿＿を跨ぐ海底トンネルが開通した。",
+    "translation": "Đường hầm dưới biển băng qua eo biển đã chính thức thông xe.",
+    "options": ["沿岸", "海岸", "海峡", "海洋"],
+    "answer": 2,
+    "explanation": "【海峡 - かいきょう】: Eo biển.\n- 沿岸 (えんがん): Bờ biển, ven biển.\n- 海岸 (かいがん): Bờ biển.\n- 海洋 (かいよう): Đại dương."
+  },
+  {
+    "id": 91,
+    "question": "政府の特別予算で雇用を＿＿＿＿した。",
+    "translation": "Việc làm đã được thúc đẩy nhờ vào ngân sách đặc biệt của chính phủ.",
+    "options": ["先進", "促進", "普及", "普遍"],
+    "answer": 1,
+    "explanation": "【促進 - そくしん】: Thúc đẩy, xúc tiến.\n- 先進 (せんしん): Tiên tiến.\n- 普及 (ふきゅう): Phổ cập, phổ biến.\n- 普遍 (ふへん): Phổ quát."
+  },
+  {
+    "id": 92,
+    "question": "彼は莫大な資金を＿＿＿＿して会社の設立に努めました。",
+    "translation": "Anh ấy đã nỗ lực thành lập công ty bằng cách đầu tư một nguồn vốn khổng lồ.",
+    "options": ["投入", "導入", "加入", "納入"],
+    "answer": 0,
+    "explanation": "【投入 - とうにゅう】: Bỏ vào, đầu tư (vốn, nguồn lực). \n- 導入 (どうにゅう): Đưa vào áp dụng (công nghệ, hệ thống).\n- 加入 (かにゅう): Gia nhập, tham gia (bảo hiểm, hội).\n- 納入 (のうにゅう): Nộp (thuế), giao hàng."
+  },
+  {
+    "id": 93,
+    "question": "大手企業が＿＿＿＿して世界一の企業になった。",
+    "translation": "Các doanh nghiệp lớn đã sáp nhập với nhau để trở thành công ty số một thế giới.",
+    "options": ["合併", "結成", "合成", "接合"],
+    "answer": 0,
+    "explanation": "【合併 - がっぺい】: Sáp nhập (các công ty, đơn vị hành chính).\n- 結成 (けっせい): Thành lập (tổ chức, đội nhóm).\n- 合成 (ごうせい): Hợp thành, tổng hợp (hóa học, âm thanh).\n- 接合 (せつごう): Ghép nối, liên kết cơ học."
+  },
+  {
+    "id": 94,
+    "question": "大型台風で、農作物が凶作になり、農家は大きな＿＿＿＿を受けた。",
+    "translation": "Do cơn bão lớn, mùa màng thất bát, các hộ nông dân đã phải chịu một cú đòn (tổn thất) nặng nề.",
+    "options": ["遭難", "衝突", "打撃", "摩擦"],
+    "answer": 2,
+    "explanation": "【打撃 - だげき】: Cú đòn, sự tổn thất lớn, cú sốc.\n- 遭難 (そうなん): Gặp nạn (nguy hiểm đến tính mạng).\n- 衝突 (しょうとつ): Xung đột, va chạm.\n- 摩擦 (まさつ): Ma sát, mâu thuẫn."
+  },
+  {
+    "id": 95,
+    "question": "危険品倉庫への立ち入りを、門前で＿＿＿＿する。",
+    "translation": "Ngăn chặn việc đi vào kho hàng nguy hiểm ngay tại cổng.",
+    "options": ["邪魔", "障害", "阻止", "破壊"],
+    "answer": 2,
+    "explanation": "【阻止 - そし】: Cản trở, ngăn chặn (không cho hành động nào đó diễn ra).\n- 邪魔 (じゃま): Quấy rầy, làm phiền.\n- 障害 (しょうがい): Trở ngại, khuyết tật.\n- 破壊 (はかい): Phá hoại, phá hủy."
+  },
+  {
+    "id": 96,
+    "question": "大地震で多くの建物が＿＿＿＿した。",
+    "translation": "Do trận động đất lớn, nhiều tòa nhà đã bị sụp đổ.",
+    "options": ["崩壊", "破壊", "消滅", "全滅"],
+    "answer": 0,
+    "explanation": "【崩壊 - ほうかい】: Sụp đổ, tan rã (cấu trúc tòa nhà, hệ thống).\n- 破壊 (はかい): Phá hoại (có tác động ngoại lực làm hỏng).\n- 消滅 (しょうめつ): Biến mất, tiêu diệt hoàn toàn.\n- 全滅 (ぜんめつ): Bị tiêu diệt hoàn toàn, không còn ai sống sót."
+  },
+  {
+    "id": 97,
+    "question": "一般＿＿＿＿の支持を得て、またタレント議員が誕生した。",
+    "translation": "Nhờ nhận được sự ủng hộ của đại chúng (công chúng), lại một nghị sĩ vốn là nghệ sĩ nữa ra đời.",
+    "options": ["大家", "大衆", "民族", "群衆"],
+    "answer": 1,
+    "explanation": "【大衆 - たいしゅう】: Đại chúng, quần chúng (tầng lớp đông đảo trong xã hội).\n- 大家 (おおや/たいか): Chủ nhà / Bậc thầy.\n- 民族 (みんぞく): Dân tộc.\n- 群衆 (ぐんしゅう): Đám đông tụ tập."
+  },
+  {
+    "id": 98,
+    "question": "C国の経済は速いスピードで発展しているが、＿＿＿＿の生活は相変わらず苦しい。",
+    "translation": "Kinh tế nước C đang phát triển với tốc độ nhanh, nhưng cuộc sống của người dân thường vẫn khổ cực như mọi khi.",
+    "options": ["紳士", "給仕", "庶民", "庶務"],
+    "answer": 2,
+    "explanation": "【庶民 - しょみん】: Dân thường, những người dân bình thường trong xã hội.\n- 紳士 (しんし): Quý ông.\n- 給仕 (きゅうじ): Bồi bàn, phục vụ.\n- 庶務 (しょむ): Tổng vụ, công việc hành chính chung."
+  },
+  {
+    "id": 99,
+    "question": "この＿＿＿＿小説は、なかなかのストーリー展開だったが、結末はあっけなかった。",
+    "translation": "Cuốn tiểu thuyết trinh thám này có diễn biến cốt truyện khá tốt, nhưng cái kết thì lại quá hụt hẫng.",
+    "options": ["推測", "推定", "推断", "推理"],
+    "answer": 3,
+    "explanation": "【推理 - すいり】: Suy luận, trinh thám (推理小説: tiểu thuyết trinh thám).\n- 推測 (すいそく): Suy đoán (dựa trên ít căn cứ).\n- 推定 (すいてい): Ước tính, giả định.\n- 推断 (すいだん): Suy luận và phán đoán."
+  },
+  {
+    "id": 100,
+    "question": "定められた組織の＿＿＿＿に背く行為は許されない。",
+    "translation": "Hành vi đi ngược lại quy ước (quy định) của tổ chức đã đề ra là không thể tha thứ.",
+    "options": ["規格", "模様", "規約", "模範"],
+    "answer": 2,
+    "explanation": "【規約 - きやく】: Quy ước, điều lệ (của một tổ chức).\n- 規格 (きかく): Quy cách, tiêu chuẩn (sản phẩm).\n- 模様 (もよう): Hoa văn, tình hình.\n- 模範 (もはん): Mô phạm, gương mẫu."
+  },
+  {
+    "id": 101,
+    "question": "今度の事故の起こった＿＿＿＿として次の点が考えられる。",
+    "translation": "Có thể xem xét các điểm sau đây như là những nhân tố gây ra vụ tai nạn lần này.",
+    "options": ["要因", "要領", "要約", "要旨"],
+    "answer": 0,
+    "explanation": "【要因 - よういん】: Nguyên nhân chính, nhân tố quan trọng.\n- 要領 (ようりょう): Điểm quan trọng, sự khéo léo.\n- 要約 (ようやく): Tóm tắt.\n- 要旨 (ようし): Ý chính, nội dung cốt lõi."
+  },
+  {
+    "id": 102,
+    "question": "合意の上で、両国の首脳は＿＿＿＿の改定について同意しました。",
+    "translation": "Trên cơ sở đồng thuận, lãnh đạo hai nước đã đồng ý về việc sửa đổi hiệp ước.",
+    "options": ["原則", "法則", "条約", "条件"],
+    "answer": 2,
+    "explanation": "【条約 - じょうやく】: Điều ước, hiệp ước (ký kết giữa các quốc gia).\n- 原則 (げんそく): Nguyên tắc.\n- 法則 (ほうそく): Quy luật, định luật.\n- 条件 (じょうけん): Điều kiện."
+  },
+  {
+    "id": 353,
+    "question": "試合の________に足が痛み出して、がまんできずに途中退場せざるをえなかった。",
+    "translation": "Đến giữa trận đấu thì chân tôi bắt đầu đau, không thể chịu đựng nổi nên đành phải rời sân giữa chừng.",
+    "options": ["さきほど", "なかほど", "なるほど", "のちほど"],
+    "answer": 1,
+    "explanation": "【中程 - なかほど】: Ở giữa, khoảng giữa.\n- 先ほど (さきほど): Lúc nãy.\n- なるほど: Quả nhiên là vậy.\n- 後ほど (のちほど): Sau này, lát nữa."
+  },
+  {
+    "id": 354,
+    "question": "研究の________を育成することを急がなければならない。",
+    "translation": "Chúng ta phải khẩn trương đào tạo người kế nghiệp cho công trình nghiên cứu.",
+    "options": ["家継ぎ", "後継ぎ", "ありさま", "ありのまま"],
+    "answer": 1,
+    "explanation": "【後継ぎ - あとつぎ】: Người kế nghiệp, người thừa kế.\n- 家継ぎ (いえつぎ): Thừa kế gia đình.\n- 有り様 (ありさま): Trạng thái, tình cảnh.\n- 有りのまま (ありのまま): Sự thật, như nó vốn có."
+  },
+  {
+    "id": 355,
+    "question": "________どおりなら、彼はもう到着しているごろだ。",
+    "translation": "Nếu đúng như dự tính thì có lẽ giờ này anh ấy đã đến nơi rồi.",
+    "options": ["手いれ", "手かず", "手ぎわ", "手はず"],
+    "answer": 3,
+    "explanation": "【手はず - てはず】: Kế hoạch, dự định, các bước chuẩn bị.\n- 手入れ (ていれ): Chăm sóc, bảo dưỡng.\n- 手数 (てかず): Công sức, phiền hà.\n- 手際 (てぎわ): Kỹ năng, sự khéo léo."
+  },
+  {
+    "id": 356,
+    "question": "彼女はひと________の涙も流さず、父の死を見送った。",
+    "translation": "Cô ấy không rơi lấy một giọt nước mắt nào mà tiễn biệt người cha quá cố.",
+    "options": ["滴", "潮", "霰", "渦"],
+    "answer": 0,
+    "explanation": "【滴 - しずく】: Giọt (nước, lệ...).\n- 潮 (しお): Thủy triều.\n- 霰 (あられ): Mưa đá.\n- 渦 (うず): Vòng xoáy."
+  },
+  {
+    "id": 357,
+    "question": "西洋料理の特色を活かし、日本料理の粋と________して和洋折衷の料理を作り出す。",
+    "translation": "Phát huy đặc trưng của món Tây, kết hợp với tinh túy của món Nhật để tạo ra những món ăn giao thoa giữa hai nền văn hóa.",
+    "options": ["複合", "結合", "合成", "作成"],
+    "answer": 1,
+    "explanation": "【結合 - けつごう】: Kết hợp, liên kết.\n- 複合 (ふくごう): Phức hợp.\n- 合成 (ごうせい): Tổng hợp (hợp chất).\n- 作成 (さくせい): Tạo ra, soạn thảo."
+  },
+  {
+    "id": 358,
+    "question": "田中さんには、________の娘さんが一人いますよ。見合いの機会を作ってあげましょうか。",
+    "translation": "Ông Tanaka có một cô con gái đang tuổi cập kê đấy. Để tôi sắp xếp một buổi xem mắt cho nhé.",
+    "options": ["としあけ", "としごろ", "としそば", "としごと"],
+    "answer": 1,
+    "explanation": "【年頃 - としごろ】: Tuổi cập kê, độ tuổi thích hợp (để kết hôn).\n- 年明け (としあけ): Đầu năm mới.\n- 年越しそば (としこしそば): Mì Soba ăn vào đêm giao thừa.\n- 年事 (としごと): Việc hàng năm."
+  },
+  {
+    "id": 359,
+    "question": "食事が出きていると思ったら________が外れた。家に誰もいなかったんだ。",
+    "translation": "Cứ tưởng là cơm đã dọn sẵn rồi, ai dè đoán sai bét. Chẳng có ai ở nhà cả.",
+    "options": ["持ち", "目つき", "よそ見", "当て"],
+    "answer": 3,
+    "explanation": "【当てが外れる - あてがはずれる】: Đoán sai, ngoài dự tính.\n- 持ち (もち): Sự duy trì, chịu đựng.\n- 目つき (めつき): Ánh mắt, cái nhìn.\n- よそ見 (よそみ): Nhìn đi chỗ khác."
+  },
+  {
+    "id": 360,
+    "question": "石油の価格が上がったため、ガス料金を________した。",
+    "translation": "Do giá dầu tăng nên chúng tôi đã điều chỉnh lại giá gas.",
+    "options": ["改革", "改良", "改定", "改訂"],
+    "answer": 2,
+    "explanation": "【改定 - かいてい】: Điều chỉnh (giá cả, thuế...).\n- 改革 (かいかく): Cải cách.\n- 改良 (かいりょう): Cải tiến (chất lượng).\n- 改訂 (かいてい): Hiệu đính, sửa đổi (sách, văn bản)."
+  },
+  {
+    "id": 361,
+    "question": "頼まれた人はぼくの恩人なので、________を欠くわけにはいかない。",
+    "translation": "Người nhờ vả là ân nhân của tôi, nên tôi không thể làm trái đạo nghĩa được.",
+    "options": ["道理", "無理", "義理", "論理"],
+    "answer": 2,
+    "explanation": "【義理 - ぎり】: Đạo nghĩa, bổn phận.\n- 道理 (どうり): Đạo lý, lẽ phải.\n- 無理 (むり): Vô lý, quá sức.\n- 論理 (ろんり): Logic."
+  },
+  {
+    "id": 362,
+    "question": "育った環境は人間の性格________に大きな影響を及ぼす。",
+    "translation": "Môi trường lớn lên gây ảnh hưởng lớn đến việc hình thành tính cách con người.",
+    "options": ["整形", "形成", "整備", "結成"],
+    "answer": 1,
+    "explanation": "【形成 - けいせい】: Hình thành.\n- 整形 (せいけい): Phẫu thuật thẩm mỹ, chỉnh hình.\n- 整備 (せいび): Bảo trì, hoàn thiện cơ sở hạ tầng.\n- 結成 (けっせい): Lập nhóm, thành lập tổ chức."
+  },
+  {
+    "id": 363,
+    "question": "今回のバーゲンセールは儲かるどころではなく、かえって________が出た。",
+    "translation": "Đợt giảm giá lần này chẳng những không lời lãi gì mà ngược lại còn bị lỗ nữa.",
+    "options": ["欠点", "欠損", "欠如", "欠乏"],
+    "answer": 1,
+    "explanation": "【欠損 - けっそん】: Lỗ, thâm hụt tài chính.\n- 欠点 (けってん): Khuyết điểm.\n- 欠如 (けつじょ): Sự thiếu sót (về ý thức, trách nhiệm).\n- 欠乏 (けつぼう): Sự khan hiếm (tài nguyên, thực phẩm)."
+  },
+  {
+    "id": 364,
+    "question": "私の仕事は洋裁の________を作ることです。",
+    "translation": "Công việc của tôi là tạo ra các mẫu rập (mẫu gốc) cho may mặc.",
+    "options": ["原型", "原形", "形状", "形式"],
+    "answer": 0,
+    "explanation": "【原型 - げんけい】: Mẫu gốc, mẫu rập (trong may mặc).\n- 原形 (げんけい): Hình dạng ban đầu.\n- 形状 (けいじょう): Hình thù, hình dáng.\n- 形式 (けいしき): Hình thức."
+  },
+  {
+    "id": 365,
+    "question": "この法律は公布後、満20日を経て________される。",
+    "translation": "Đạo luật này sẽ có hiệu lực sau tròn 20 ngày kể từ ngày công bố.",
+    "options": ["施行", "徐行", "進行", "移行"],
+    "answer": 0,
+    "explanation": "【施行 - しこう/せぎょう】: Thi hành, có hiệu lực (luật).\n- 徐行 (じょこう): Đi chậm.\n- 進行 (しんこう): Tiến hành.\n- 移行 (いこう): Chuyển đổi."
+  },
+  {
+    "id": 366,
+    "question": "数ヶ月の交渉のすえ、ようやく________を見た。",
+    "translation": "Sau nhiều tháng thương lượng, cuối cùng đã đạt được thỏa thuận.",
+    "options": ["拘束", "約束", "倹約", "成約"],
+    "answer": 3,
+    "explanation": "【成約 - せいやく】: Việc ký kết hợp đồng, đạt được thỏa thuận mua bán.\n- 拘束 (こうそく): Ràng buộc, bắt giữ.\n- 約束 (やくそく): Lời hứa.\n- 倹約 (けんやく): Tiết kiệm."
+  },
+  {
+    "id": 367,
+    "question": "今度のテロ事件は物騒な________が反映されている。",
+    "translation": "Vụ khủng bố lần này phản ánh tình hình xã hội bất ổn.",
+    "options": ["様式", "様態", "世相", "世論"],
+    "answer": 2,
+    "explanation": "【世相 - せそう】: Tình hình xã hội, mặt trái của xã hội.\n- 様式 (ようしき): Kiểu cách.\n- 様態 (ようたい): Trạng thái.\n- 世論 (よろん/せろん): Dư luận."
+  },
+  {
+    "id": 368,
+    "question": "聴覚に続いて視覚まで失い、まったく________した。",
+    "translation": "Mất đi thính giác rồi đến cả thị giác, tôi hoàn toàn rơi vào tuyệt vọng.",
+    "options": ["切望", "絶望", "痛感", "鈍感"],
+    "answer": 1,
+    "explanation": "【絶望 - ぜつぼう】: Tuyệt vọng.\n- 切望 (せつぼう): Khao khát.\n- 痛感 (つうかん): Cảm nhận sâu sắc.\n- 鈍感 (どんかん): Chậm chạp, không nhạy bén."
+  },
+  {
+    "id": 369,
+    "question": "人を訪問するとき、「________は無用」を忘れないでね。",
+    "translation": "Khi đi thăm ai đó, đừng quên rằng 'không nên ở lại quá lâu'.",
+    "options": ["立ち居", "長居", "居所", "居間"],
+    "answer": 1,
+    "explanation": "【長居 - ながい】: Ở lại lâu (長居は無用: không nên ở lại lâu).\n- 立ち居 (たちい): Đứng ngồi.\n- 居所 (いどころ/きょしょ): Chỗ ở.\n- 居間 (いま): Phòng khách."
+  },
+  {
+    "id": 370,
+    "question": "試合中、________を3回すると失格になる。",
+    "translation": "Trong trận đấu, nếu phạm lỗi 3 lần sẽ bị truất quyền thi đấu.",
+    "options": ["反則", "反発", "相違", "勘違い"],
+    "answer": 0,
+    "explanation": "【反則 - はんそく】: Phạm quy, phạm luật (trong thể thao).\n- 反発 (はんぱつ): Đẩy lui, phản kháng.\n- 相違 (そうい): Khác biệt.\n- 勘違い (かんちがい): Hiểu nhầm."
+  },
+  {
+    "id": 371,
+    "question": "誤った情報が氾濫（はんらん）し、使用者を________させるのが問題だ。",
+    "translation": "Vấn đề là thông tin sai lệch tràn lan gây hoang mang cho người dùng.",
+    "options": ["遭遇", "境遇", "疑惑", "困惑"],
+    "answer": 3,
+    "explanation": "【困惑 - こんわく】: Bối rối, hoang mang.\n- 遭遇 (そうぐう): Bắt gặp.\n- 境遇 (きょうぐう): Cảnh ngộ.\n- 疑惑 (ぎわく): Nghi ngờ."
+  },
+  {
+    "id": 372,
+    "question": "政府は殖産________5年計画を立てた。",
+    "translation": "Chính phủ đã lập kế hoạch 5 năm về khuyến khích công nghiệp.",
+    "options": ["興行", "興業", "振興", "同業"],
+    "answer": 1,
+    "explanation": "【興業 - こうぎょう】: Khuyến khích công nghiệp (殖産興業: Thực sản hưng nghiệp).\n- 興行 (こうぎょう): Biểu diễn, giải trí.\n- 振興 (しんこう): Thúc đẩy, phát triển.\n- 同業 (どうぎょう): Cùng ngành."
+  },
+  {
+    "id": 373,
+    "question": "規制が________され、これまでの措置も撤回された。",
+    "translation": "Các quy định đã được nới lỏng và các biện pháp trước đây cũng đã bị bãi bỏ.",
+    "options": ["緩和", "柔軟", "温和", "軟水"],
+    "answer": 0,
+    "explanation": "【緩和 - かんわ】: Nới lỏng, giảm bớt (quy định, căng thẳng).\n- 柔軟 (じゅうなん): Mềm dẻo.\n- 温和 (おんわ): Ôn hòa.\n- 軟水 (なんすい): Nước mềm."
+  },
+  {
+    "id": 374,
+    "question": "山の________に立って町の風景を見下ろす。",
+    "translation": "Đứng trên đỉnh núi nhìn xuống phong cảnh thị trấn.",
+    "options": ["いただき", "ふもと", "たにま", "ほとり"],
+    "answer": 0,
+    "explanation": "【頂き - いただき】: Đỉnh (núi).\n- 麓 (ふもと): Chân núi.\n- 谷間 (たにま): Thung lũng.\n- 辺り (ほとり): Ven, cạnh (sông, hồ)."
+  },
+  {
+    "id": 375,
+    "question": "この町のバス________は一律200円だ。",
+    "translation": "Giá vé xe buýt ở thị trấn này đồng giá 200 yên.",
+    "options": ["賃貸し", "手間賃", "運賃", "賃金"],
+    "answer": 2,
+    "explanation": "【運賃 - うんちん】: Cước phí vận chuyển, giá vé xe.\n- 賃貸し (ちんがし): Cho thuê.\n- 手間賃 (てまちん): Tiền công.\n- 賃金 (ちんぎん): Tiền lương."
+  },
+  {
+    "id": 376,
+    "question": "このレストランの料理は、材料もよく________されていてすばらしい。",
+    "translation": "Món ăn của nhà hàng này thật tuyệt vời, nguyên liệu cũng được lựa chọn rất kỹ lưỡng.",
+    "options": ["賞味", "吟味", "品位", "気品"],
+    "answer": 1,
+    "explanation": "【吟味 - ぎんみ】: Xem xét kỹ lưỡng, tuyển chọn kỹ.\n- 賞味 (しょうみ): Thưởng thức.\n- 品位 (ひんい): Phẩm giá.\n- 気品 (きひん): Sự sang trọng, quý phái."
+  }
+]
