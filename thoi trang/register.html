@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Đăng Ký — ÉLUME</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,600;1,700&family=Jost:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="index.html" class="logo">ÉLUME</a>
+    <nav class="main-nav">
+      <a href="index.html#collections">Bộ sưu tập</a>
+      <a href="shop.html">Sản phẩm</a>
+      <a href="index.html#about">Về chúng tôi</a>
+      <a href="index.html#contact">Liên hệ</a>
+      <a href="orders.html">Lịch sử đặt hàng</a>
+      <a href="admin.html">Quản lý ảnh</a>
+    </nav>
+    <div class="header-actions">
+      <button class="icon-link search-toggle" title="Tìm kiếm" aria-label="Tìm kiếm">🔍</button>
+      <a href="login.html" class="icon-link" title="Tài khoản">👤</a>
+      <a href="cart.html" class="icon-link" title="Giỏ hàng">🛍<span class="cart-badge">0</span></a>
+      <button class="nav-toggle" aria-label="Menu">☰</button>
+    </div>
+  </div>
+  <div class="search-panel" id="search-panel">
+    <div class="search-panel-inner">
+      <input type="text" class="search-input" id="search-input" placeholder="Tìm kiếm sản phẩm...">
+      <img class="search-img-preview" id="search-img-preview" alt="Ảnh tìm kiếm">
+      <label class="search-img-label" title="Tìm kiếm bằng hình ảnh">
+        📷 <span>Tìm bằng ảnh</span>
+        <input type="file" id="search-img-file" accept="image/*" style="display:none">
+      </label>
+      <button class="search-submit" id="search-submit">Tìm kiếm</button>
+    </div>
+  </div>
+</header>
+
+<div class="auth-wrap">
+  <h1>Tạo Tài Khoản</h1>
+  <p class="auth-subtitle">Tham gia ÉLUME để nhận ưu đãi độc quyền</p>
+
+  <form class="auth-form" id="register-form">
+    <div class="form-field">
+      <label>Họ và tên</label>
+      <input type="text" name="name" placeholder="Nguyễn Văn A" required>
+    </div>
+    <div class="form-field">
+      <label>Email</label>
+      <input type="email" name="email" placeholder="email@example.com" required>
+    </div>
+    <div class="form-field">
+      <label>Mật khẩu</label>
+      <input type="password" name="password" placeholder="Tối thiểu 6 ký tự" required>
+    </div>
+    <div class="form-field">
+      <label>Nhập lại mật khẩu</label>
+      <input type="password" name="confirm" placeholder="Nhập lại mật khẩu" required>
+    </div>
+    <div class="auth-error" id="register-error"></div>
+    <button type="submit" class="btn btn-block">Tạo tài khoản</button>
+  </form>
+
+  <p class="auth-switch">Đã có tài khoản? <a href="login.html">Đăng nhập</a></p>
+</div>
+
+<script src="js/data.js"></script>
+<script src="js/images.js"></script>
+<script src="js/local-images.js"></script>
+<script src="js/cart.js"></script>
+<script src="js/main.js"></script>
+<script src="js/auth.js"></script>
+<script src="js/chatbot.js"></script>
+</body>
+</html>

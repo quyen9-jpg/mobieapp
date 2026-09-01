@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Giỏ Hàng — ÉLUME KIDS</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,600;1,700&family=Jost:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="top-bar">Miễn phí vận chuyển cho đơn hàng từ 500.000đ — Đổi trả trong 7 ngày</div>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="index.html" class="logo">ÉLUME</a>
+    <nav class="main-nav">
+      <a href="index.html#collections">Bộ sưu tập</a>
+      <a href="shop.html">Sản phẩm</a>
+      <a href="index.html#about">Về chúng tôi</a>
+      <a href="index.html#contact">Liên hệ</a>
+      <a href="orders.html">Lịch sử đặt hàng</a>
+      <a href="admin.html">Quản lý ảnh</a>
+    </nav>
+    <div class="header-actions">
+      <button class="icon-link search-toggle" title="Tìm kiếm" aria-label="Tìm kiếm">🔍</button>
+      <a href="login.html" class="icon-link" title="Tài khoản">👤</a>
+      <a href="cart.html" class="icon-link" title="Giỏ hàng">🛍<span class="cart-badge">0</span></a>
+      <button class="nav-toggle" aria-label="Menu">☰</button>
+    </div>
+  </div>
+  <div class="search-panel" id="search-panel">
+    <div class="search-panel-inner">
+      <input type="text" class="search-input" id="search-input" placeholder="Tìm kiếm sản phẩm...">
+      <img class="search-img-preview" id="search-img-preview" alt="Ảnh tìm kiếm">
+      <label class="search-img-label" title="Tìm kiếm bằng hình ảnh">
+        📷 <span>Tìm bằng ảnh</span>
+        <input type="file" id="search-img-file" accept="image/*" style="display:none">
+      </label>
+      <button class="search-submit" id="search-submit">Tìm kiếm</button>
+    </div>
+  </div>
+</header>
+
+<div class="page-banner">
+  <div class="container">
+    <h1>Giỏ Hàng</h1>
+    <div class="breadcrumb"><a href="index.html">Trang chủ</a> / Giỏ hàng</div>
+  </div>
+</div>
+
+<section class="section">
+  <div class="container">
+    <div id="cart-page-wrap"></div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <h5>ÉLUME</h5>
+        <p>Thời trang trẻ em an toàn, đáng yêu — đồng hành cùng bé trai và bé gái mỗi ngày.</p>
+      </div>
+      <div>
+        <h5>Mua sắm</h5>
+        <ul>
+          <li><a href="shop.html?cat=vay">Đầm & Váy Bé Gái</a></li>
+          <li><a href="shop.html?cat=ao">Áo</a></li>
+          <li><a href="shop.html?cat=quan">Quần</a></li>
+          <li><a href="shop.html?cat=bo-do">Bộ Đồ</a></li>
+          <li><a href="shop.html?cat=phu-kien">Phụ kiện</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Hỗ trợ</h5>
+        <ul>
+          <li><a href="cart.html">Giỏ hàng</a></li>
+          <li><a href="orders.html">Lịch sử đặt hàng</a></li>
+          <li><a href="login.html">Đăng nhập</a></li>
+          <li><a href="register.html">Đăng ký</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Liên hệ</h5>
+        <p>Hotline: 1900 6868</p>
+        <p>Email: hello@elume.vn</p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      © <span id="footer-year"></span> ÉLUME. Bảo lưu mọi quyền.
+    </div>
+  </div>
+</footer>
+
+<script src="js/data.js"></script>
+<script src="js/images.js"></script>
+<script src="js/local-images.js"></script>
+<script src="js/cart.js"></script>
+<script src="js/main.js"></script>
+<script src="js/cart-page.js"></script>
+<script src="js/chatbot.js"></script>
+</body>
+</html>
